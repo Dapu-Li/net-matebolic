@@ -1,0 +1,11 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+Pyruvate,"1.060 [1.046,1.074]",5.844e-13,***,Pyruvate
+LA%,"1.054 [1.039,1.070]",5.107e-07,***,Linoleic Acid to Total-Fatty Acids percentage
+PUFA%,"1.047 [1.031,1.063]",0.002,**,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+Omega-6%,"1.044 [1.028,1.060]",0.009,**,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+Omega-3%,"1.004 [0.990,1.018]",1.000,,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+S-HDL-C,"0.966 [0.953,0.978]",0.040,*,Cholesterol in Small HDL
+S-HDL-PL,"0.965 [0.952,0.977]",0.023,*,Phospholipids in Small HDL
+S-HDL-L,"0.964 [0.952,0.977]",0.015,*,Total-Lipids in Small HDL
+S-HDL-FC,"0.963 [0.951,0.977]",0.013,*,Free Cholesterol in Small HDL
+SFA%,"0.943 [0.930,0.957]",2.327e-10,***,Saturated Fatty Acids to Total-Fatty Acids percentage

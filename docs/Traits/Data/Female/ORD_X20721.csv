@@ -1,0 +1,30 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+DHA%,"0.398 [0.333,0.464]",2.051e-27,***,Docosahexaenoic Acid to Total-Fatty Acids percentage
+Omega-3%,"0.385 [0.324,0.446]",7.105e-30,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+DHA,"0.370 [0.309,0.432]",5.318e-27,***,Docosahexaenoic Acid
+Omega-3,"0.329 [0.269,0.388]",6.952e-22,***,Omega-3 Fatty Acids
+Unsaturation,"0.271 [0.207,0.335]",3.366e-11,***,Degree of Unsaturation
+M-HDL-FC%,"0.208 [0.138,0.277]",0.001,**,Free Cholesterol to Total-Lipids in Medium HDL percentage
+HDL-C,"0.190 [0.128,0.251]",2.908e-04,***,HDL Cholesterol
+HDL-FC,"0.187 [0.128,0.245]",8.991e-05,***,Free Cholesterol in HDL
+HDL-CE,"0.186 [0.125,0.247]",5.005e-04,***,Cholesteryl Esters in HDL
+HDL-L,"0.186 [0.124,0.248]",7.603e-04,***,Total-Lipids in HDL
+M-HDL-FC,"0.180 [0.122,0.238]",2.901e-04,***,Free Cholesterol in Medium HDL
+HDL-PL,"0.179 [0.118,0.240]",0.002,**,Phospholipids in HDL
+ApoA1,"0.175 [0.115,0.235]",0.002,**,Apolipoprotein A1
+L-HDL-PL,"0.174 [0.115,0.233]",0.002,**,Phospholipids in Large HDL
+M-HDL-C,"0.174 [0.115,0.233]",0.002,**,Cholesterol in Medium HDL
+L-HDL-L,"0.173 [0.112,0.233]",0.005,**,Total-Lipids in Large HDL
+M-HDL-CE,"0.170 [0.111,0.229]",0.004,**,Cholesteryl Esters in Medium HDL
+M-HDL-P,"0.167 [0.110,0.225]",0.003,**,Concentration of Medium HDL Particles
+M-HDL-L,"0.165 [0.105,0.225]",0.016,*,Total-Lipids in Medium HDL
+L-HDL-P,"0.163 [0.107,0.219]",0.003,**,Concentration of Large HDL Particles
+L-HDL-C,"0.163 [0.104,0.222]",0.013,*,Cholesterol in Large HDL
+L-HDL-CE,"0.161 [0.103,0.219]",0.015,*,Cholesteryl Esters in Large HDL
+L-HDL-FC,"0.160 [0.103,0.216]",0.006,**,Free Cholesterol in Large HDL
+HDL-P,"0.157 [0.099,0.214]",0.020,*,Concentration of HDL Particles
+M-LDL-PL%,"-0.049 [-0.102,0.004]",1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+L-VLDL-PL%,"-0.122 [-0.172,-0.072]",0.448,,Phospholipids to Total-Lipids in Large VLDL percentage
+Gly,"-0.158 [-0.207,-0.109]",7.750e-05,***,Glycine
+MUFA%,"-0.177 [-0.244,-0.111]",0.037,*,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+Omega-6/Omega-3,"-0.384 [-0.446,-0.323]",3.990e-29,***,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio

@@ -1,0 +1,11 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+DHA%,"0.165 [0.117,0.212]",2.259e-06,***,Docosahexaenoic Acid to Total-Fatty Acids percentage
+Unsaturation,"0.159 [0.111,0.208]",3.324e-05,***,Degree of Unsaturation
+Omega-3%,"0.149 [0.102,0.195]",8.879e-05,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+PUFA/MUFA,"0.147 [0.098,0.197]",0.001,**,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+PUFA%,"0.141 [0.093,0.189]",0.002,**,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+Remnant-C,"-0.047 [-0.092,-0.001]",1.000,,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
+VLDL-C,"-0.052 [-0.097,-0.008]",1.000,,VLDL Cholesterol
+Total-C,"-0.055 [-0.101,-0.008]",1.000,,Total-Cholesterol
+Omega-6/Omega-3,"-0.115 [-0.161,-0.069]",0.236,,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+MUFA%,"-0.135 [-0.185,-0.086]",0.020,*,Monounsaturated Fatty Acids to Total-Fatty Acids percentage

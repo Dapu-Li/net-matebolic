@@ -1,0 +1,38 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+L-LDL-TG%,1.18 [1.06-1.32],1.000,,Triglycerides to Total-Lipids in Large LDL percentage
+M-LDL-TG%,1.15 [1.04-1.28],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+L-LDL-PL%,1.13 [1.02-1.25],1.000,,Phospholipids to Total-Lipids in Large LDL percentage
+L-VLDL-TG%,1.06 [0.96-1.17],1.000,,Triglycerides to Total-Lipids in Large VLDL percentage
+L-VLDL-PL%,1.01 [0.91-1.12],1.000,,Phospholipids to Total-Lipids in Large VLDL percentage
+M-LDL-FC,0.75 [0.68-0.84],0.047,*,Free Cholesterol in Medium LDL
+Clinical LDL-C,0.75 [0.68-0.83],0.010,**,Clinical LDL Cholesterol
+S-LDL-PL,0.75 [0.67-0.83],0.031,*,Phospholipids in Small LDL
+Non-HDL-C,0.75 [0.67-0.83],0.009,**,Total-Cholesterol Minus HDL-C
+LDL-PL,0.75 [0.67-0.83],0.013,*,Phospholipids in LDL
+L-LDL-PL,0.75 [0.67-0.83],0.015,*,Phospholipids in Large LDL
+LDL-FC,0.74 [0.67-0.83],0.013,*,Free Cholesterol in LDL
+LDL-L,0.74 [0.67-0.83],0.006,**,Total-Lipids in LDL
+LDL-CE,0.74 [0.67-0.83],0.008,**,Cholesteryl Esters in LDL
+LDL-C,0.74 [0.67-0.83],0.006,**,LDL Cholesterol
+SM,0.74 [0.66-0.83],0.032,*,Sphingomyelins
+L-LDL-FC,0.74 [0.66-0.82],0.010,*,Free Cholesterol in Large LDL
+IDL-PL,0.74 [0.66-0.82],0.011,*,Phospholipids in IDL
+L-LDL-P,0.74 [0.66-0.82],0.016,*,Concentration of Large LDL Particles
+L-LDL-L,0.73 [0.66-0.82],0.002,**,Total-Lipids in Large LDL
+IDL-C,0.73 [0.66-0.82],0.003,**,Cholesterol in IDL
+Total-L,0.73 [0.66-0.82],0.003,**,Total-Lipids in Lipoprotein Particles
+L-LDL-C,0.73 [0.66-0.81],0.002,**,Cholesterol in Large LDL
+IDL-L,0.73 [0.66-0.81],0.002,**,Total-Lipids in IDL
+L-LDL-CE,0.73 [0.66-0.81],0.002,**,Cholesteryl Esters in Large LDL
+IDL-CE,0.73 [0.65-0.81],0.001,**,Cholesteryl Esters in IDL
+Phosphoglyc,0.73 [0.65-0.81],0.005,**,Phosphoglycerides
+Total-FC,0.73 [0.65-0.81],0.001,**,Total-Free Cholesterol
+PC,0.72 [0.65-0.81],0.003,**,Phosphatidylcholines
+LA,0.72 [0.65-0.81],7.252e-04,***,Linoleic Acid
+Omega-6,0.72 [0.64-0.80],5.371e-04,***,Omega-6 Fatty Acids
+Cholines,0.72 [0.64-0.80],9.873e-04,***,Total-Cholines
+Total-PL,0.72 [0.64-0.80],6.449e-04,***,Total-Phospholipids in Lipoprotein Particles
+Total-C,0.72 [0.64-0.80],1.539e-04,***,Total-Cholesterol
+Total-CE,0.71 [0.64-0.79],1.212e-04,***,Total-Esterified Cholesterol
+DHA,0.71 [0.63-0.80],0.005,**,Docosahexaenoic Acid
+PUFA,0.70 [0.62-0.78],1.747e-05,***,Polyunsaturated Fatty Acids

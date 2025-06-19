@@ -1,0 +1,35 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+M-HDL-P,"0.236 [0.180,0.293]",5.923e-11,***,Concentration of Medium HDL Particles
+M-HDL-PL,"0.235 [0.182,0.289]",2.341e-12,***,Phospholipids in Medium HDL
+M-HDL-FC,"0.234 [0.176,0.291]",2.974e-10,***,Free Cholesterol in Medium HDL
+M-HDL-L,"0.229 [0.175,0.283]",1.668e-11,***,Total-Lipids in Medium HDL
+S-HDL-PL,"0.227 [0.175,0.278]",8.589e-13,***,Phospholipids in Small HDL
+ApoA1,"0.226 [0.171,0.282]",2.049e-10,***,Apolipoprotein A1
+HDL-PL,"0.224 [0.168,0.280]",7.623e-10,***,Phospholipids in HDL
+HDL-P,"0.223 [0.169,0.278]",1.731e-10,***,Concentration of HDL Particles
+M-HDL-C,"0.216 [0.160,0.271]",5.304e-09,***,Cholesterol in Medium HDL
+HDL-L,"0.215 [0.159,0.271]",1.223e-08,***,Total-Lipids in HDL
+S-HDL-L,"0.215 [0.164,0.266]",2.561e-11,***,Total-Lipids in Small HDL
+M-HDL-CE,"0.211 [0.156,0.267]",1.529e-08,***,Cholesteryl Esters in Medium HDL
+Total-P,"0.211 [0.158,0.265]",2.999e-09,***,Total-Concentration of Lipoprotein Particles
+HDL-FC,"0.205 [0.145,0.266]",5.199e-06,***,Free Cholesterol in HDL
+S-HDL-FC,"0.200 [0.149,0.251]",2.949e-09,***,Free Cholesterol in Small HDL
+HDL-C,"0.188 [0.130,0.246]",4.691e-05,***,HDL Cholesterol
+S-HDL-P,"0.186 [0.136,0.237]",1.556e-07,***,Concentration of Small HDL Particles
+S-HDL-C,"0.185 [0.134,0.235]",1.821e-07,***,Cholesterol in Small HDL
+HDL-CE,"0.181 [0.124,0.239]",1.831e-04,***,Cholesteryl Esters in HDL
+Phosphoglyc,"0.179 [0.128,0.231]",1.772e-06,***,Phosphoglycerides
+PC,"0.178 [0.126,0.230]",6.416e-06,***,Phosphatidylcholines
+S-HDL-CE,"0.172 [0.121,0.223]",6.510e-06,***,Cholesteryl Esters in Small HDL
+Cholines,"0.172 [0.120,0.223]",2.001e-05,***,Total-Cholines
+Tyr,"0.161 [0.109,0.213]",3.436e-04,***,Tyrosine
+Total-PL,"0.152 [0.102,0.203]",8.650e-04,***,Total-Phospholipids in Lipoprotein Particles
+M-HDL-TG,"0.140 [0.089,0.191]",0.018,*,Triglycerides in Medium HDL
+M-HDL-FC%,"0.139 [0.087,0.192]",0.041,*,Free Cholesterol to Total-Lipids in Medium HDL percentage
+SFA,"0.136 [0.089,0.184]",0.004,**,Saturated Fatty Acids
+Total-FA,"0.129 [0.081,0.177]",0.030,*,Total-Fatty Acids
+M-LDL-FC%,"-0.053 [-0.102,-0.005]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+IDL-FC%,"-0.104 [-0.151,-0.057]",1.000,,Free Cholesterol to Total-Lipids in IDL percentage
+XS-VLDL-FC%,"-0.120 [-0.166,-0.075]",0.057,,Free Cholesterol to Total-Lipids in Very Small VLDL percentage
+IDL-PL%,"-0.124 [-0.173,-0.074]",0.233,,Phospholipids to Total-Lipids in IDL percentage
+XL-VLDL-FC%,"-0.131 [-0.187,-0.076]",0.760,,Free Cholesterol to Total-Lipids in Very Large VLDL percentage

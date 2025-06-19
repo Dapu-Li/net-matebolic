@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Ala,85,1.072 [0.989-1.162],1.000,,Alanine
+S-LDL-FC%,578,1.023 [0.992-1.055],1.000,,Free Cholesterol to Total-Lipids in Small LDL percentage
+L-HDL-CE%,562,1.013 [0.984-1.043],1.000,,Cholesteryl Esters to Total-Lipids in Large HDL percentage
+L-HDL-P,633,1.009 [0.984-1.035],1.000,,Concentration of Large HDL Particles
+L-LDL-FC%,687,1.003 [0.970-1.037],1.000,,Free Cholesterol to Total-Lipids in Large LDL percentage
+L-LDL-CE%,344,0.958 [0.912-1.005],1.000,,Cholesteryl Esters to Total-Lipids in Large LDL percentage
+M-VLDL-FC%,574,0.953 [0.925-0.982],1.000,,Free Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-CE,487,0.921 [0.893-0.950],0.047,*,Cholesteryl Esters in Medium VLDL
+XL-VLDL-PL%,398,0.909 [0.883-0.936],3.211e-05,***,Phospholipids to Total-Lipids in Very Large VLDL percentage
+S-LDL-C%,261,0.902 [0.866-0.940],0.213,,Cholesterol to Total-Lipids in Small LDL percentage

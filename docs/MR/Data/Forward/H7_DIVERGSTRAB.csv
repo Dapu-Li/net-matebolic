@@ -1,0 +1,16 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+LA,635,1.196 [1.132-1.263],4.695e-05,***,Linoleic Acid
+Omega-6,651,1.189 [1.126-1.256],1.410e-04,***,Omega-6 Fatty Acids
+Total-PL,628,1.161 [1.099-1.227],0.025,*,Total-Phospholipids in Lipoprotein Particles
+Total-FA,654,1.156 [1.095-1.221],0.049,*,Total-Fatty Acids
+Total-C,563,1.150 [1.095-1.208],0.007,**,Total-Cholesterol
+PUFA,699,1.148 [1.093-1.205],0.007,**,Polyunsaturated Fatty Acids
+IDL-C,568,1.147 [1.092-1.205],0.010,*,Cholesterol in IDL
+Total-CE,575,1.146 [1.090-1.205],0.023,*,Total-Esterified Cholesterol
+IDL-CE,553,1.144 [1.090-1.202],0.017,*,Cholesteryl Esters in IDL
+IDL-FC,587,1.139 [1.085-1.195],0.033,*,Free Cholesterol in IDL
+XL-HDL-TG%,642,0.995 [0.948-1.043],1.000,,Triglycerides to Total-Lipids in Very Large HDL percentage
+L-VLDL-TG%,369,0.955 [0.910-1.003],1.000,,Triglycerides to Total-Lipids in Large VLDL percentage
+IDL-TG%,635,0.943 [0.902-0.986],1.000,,Triglycerides to Total-Lipids in IDL percentage
+S-LDL-PL%,510,0.933 [0.879-0.989],1.000,,Phospholipids to Total-Lipids in Small LDL percentage
+XL-VLDL-TG%,444,0.880 [0.827-0.936],1.000,,Triglycerides to Total-Lipids in Very Large VLDL percentage

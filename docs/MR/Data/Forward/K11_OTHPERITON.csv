@@ -1,0 +1,22 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+S-LDL-CE,543,1.268 [1.176-1.368],1.968e-04,***,Cholesteryl Esters in Small LDL
+M-LDL-CE,550,1.256 [1.162-1.356],0.002,**,Cholesteryl Esters in Medium LDL
+M-LDL-L,531,1.253 [1.163-1.351],7.641e-04,***,Total-Lipids in Medium LDL
+M-LDL-C,525,1.252 [1.161-1.351],0.002,**,Cholesterol in Medium LDL
+M-VLDL-C,535,1.240 [1.154-1.333],0.001,**,Cholesterol in Medium VLDL
+LDL-CE,506,1.236 [1.146-1.332],0.008,**,Cholesteryl Esters in LDL
+M-VLDL-FC,594,1.231 [1.146-1.323],0.004,**,Free Cholesterol in Medium VLDL
+M-LDL-PL,492,1.230 [1.141-1.326],0.016,*,Phospholipids in Medium LDL
+M-LDL-P,508,1.228 [1.136-1.326],0.047,*,Concentration of Medium LDL Particles
+S-LDL-C,489,1.224 [1.136-1.318],0.023,*,Cholesterol in Small LDL
+Non-HDL-C,563,1.224 [1.140-1.314],0.007,**,Total-Cholesterol Minus HDL-C
+LDL-L,502,1.222 [1.133-1.318],0.044,*,Total-Lipids in LDL
+Remnant-C,577,1.217 [1.138-1.303],0.003,**,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
+L-LDL-P,541,1.206 [1.125-1.293],0.029,*,Concentration of Large LDL Particles
+LDL-P,552,1.204 [1.123-1.291],0.041,*,Concentration of LDL Particles
+ApoB,565,1.202 [1.123-1.287],0.031,*,Apolipoprotein B
+M-HDL-CE%,557,0.966 [0.905-1.030],1.000,,Cholesteryl Esters to Total-Lipids in Medium HDL percentage
+HDL-CE,611,0.955 [0.892-1.022],1.000,,Cholesteryl Esters in HDL
+HDL-C,621,0.942 [0.881-1.008],1.000,,HDL Cholesterol
+M-LDL-TG%,456,0.935 [0.879-0.996],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+M-HDL-L,576,0.927 [0.849-1.013],1.000,,Total-Lipids in Medium HDL

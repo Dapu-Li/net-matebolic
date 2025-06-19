@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+His,43,1.241 [0.776-1.985],1.000,,Histidine
+XL-HDL-FC,590,1.063 [0.980-1.154],1.000,,Free Cholesterol in Very Large HDL
+S-VLDL-TG%,564,1.055 [0.957-1.163],1.000,,Triglycerides to Total-Lipids in Small VLDL percentage
+IDL-CE%,420,1.043 [0.950-1.145],1.000,,Cholesteryl Esters to Total-Lipids in IDL percentage
+L-VLDL-C,622,1.001 [0.908-1.105],1.000,,Cholesterol in Large VLDL
+LDL-TG,630,0.861 [0.775-0.955],1.000,,Triglycerides in LDL
+S-HDL-FC,483,0.646 [0.547-0.762],0.056,,Free Cholesterol in Small HDL
+S-HDL-PL,489,0.644 [0.544-0.762],0.071,,Phospholipids in Small HDL
+S-HDL-L,442,0.623 [0.522-0.743],0.032,*,Total-Lipids in Small HDL
+GlycA,385,0.570 [0.459-0.707],0.086,,Glycoprotein Acetyls

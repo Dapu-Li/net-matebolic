@@ -1,0 +1,14 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Total-P,531,1.175 [1.112-1.242],0.003,**,Total-Concentration of Lipoprotein Particles
+HDL-P,547,1.155 [1.094-1.219],0.045,*,Concentration of HDL Particles
+M-HDL-C,607,1.149 [1.093-1.207],0.012,*,Cholesterol in Medium HDL
+M-HDL-CE,607,1.145 [1.089-1.204],0.034,*,Cholesteryl Esters in Medium HDL
+HDL-CE,611,1.143 [1.091-1.197],0.003,**,Cholesteryl Esters in HDL
+M-HDL-FC,597,1.142 [1.090-1.197],0.008,**,Free Cholesterol in Medium HDL
+M-HDL-P,598,1.139 [1.084-1.196],0.047,*,Concentration of Medium HDL Particles
+HDL-C,621,1.138 [1.088-1.191],0.006,**,HDL Cholesterol
+L-VLDL-PL,637,0.884 [0.842-0.927],0.101,,Phospholipids in Large VLDL
+XXL-VLDL-CE,621,0.883 [0.843-0.925],0.047,*,Cholesteryl Esters in Chylomicrons and Extremely Large VLDL
+L-VLDL-FC,648,0.882 [0.841-0.926],0.080,,Free Cholesterol in Large VLDL
+L-VLDL-L,609,0.882 [0.839-0.926],0.118,,Total-Lipids in Large VLDL
+XL-HDL-TG%,642,0.876 [0.836-0.917],0.003,**,Triglycerides to Total-Lipids in Very Large HDL percentage

@@ -1,0 +1,11 @@
+Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
+GlycA,1.16 [1.11-1.21],1.389e-04,***,Glycoprotein Acetyls
+L-HDL-PL%,1.09 [1.04-1.14],1.000,,Phospholipids to Total-Lipids in Large HDL percentage
+IDL-TG%,1.08 [1.03-1.13],1.000,,Triglycerides to Total-Lipids in IDL percentage
+L-HDL-TG%,1.03 [0.99-1.08],1.000,,Triglycerides to Total-Lipids in Large HDL percentage
+M-LDL-PL%,1.00 [0.96-1.05],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+Remnant-C,0.95 [0.91-0.99],1.000,,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
+Non-HDL-C,0.94 [0.90-0.98],1.000,,Total-Cholesterol Minus HDL-C
+LDL-C,0.93 [0.89-0.97],1.000,,LDL Cholesterol
+L-LDL-C%,0.89 [0.85-0.93],0.026,*,Cholesterol to Total-Lipids in Large LDL percentage
+Albumin,0.88 [0.84-0.92],0.003,**,Albumin

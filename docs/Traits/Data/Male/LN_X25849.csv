@@ -1,0 +1,24 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+XL-HDL-FC,"36.898 [26.053,47.743]",6.150e-06,***,Free Cholesterol in Very Large HDL
+XL-HDL-C,"36.533 [25.106,47.961]",8.731e-05,***,Cholesterol in Very Large HDL
+XL-HDL-CE,"35.239 [23.711,46.767]",4.878e-04,***,Cholesteryl Esters in Very Large HDL
+XL-HDL-L,"33.503 [22.223,44.784]",0.001,**,Total-Lipids in Very Large HDL
+XL-HDL-P,"33.229 [21.716,44.743]",0.004,**,Concentration of Very Large HDL Particles
+XL-HDL-PL,"32.103 [20.791,43.415]",0.006,**,Phospholipids in Very Large HDL
+L-HDL-C%,"29.718 [21.336,38.099]",8.795e-07,***,Cholesterol to Total-Lipids in Large HDL percentage
+LA%,"28.593 [19.825,37.360]",3.874e-05,***,Linoleic Acid to Total-Fatty Acids percentage
+L-HDL-CE%,"28.182 [19.935,36.429]",5.031e-06,***,Cholesteryl Esters to Total-Lipids in Large HDL percentage
+L-LDL-FC%,"26.253 [17.461,35.044]",0.001,**,Free Cholesterol to Total-Lipids in Large LDL percentage
+XS-VLDL-C%,"25.234 [16.726,33.743]",0.001,**,Cholesterol to Total-Lipids in Very Small VLDL percentage
+XS-VLDL-CE%,"24.884 [16.311,33.456]",0.003,**,Cholesteryl Esters to Total-Lipids in Very Small VLDL percentage
+PUFA/MUFA,"24.508 [15.823,33.192]",0.007,**,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+Omega-6%,"23.715 [15.323,32.106]",0.007,**,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+PUFA%,"23.267 [14.827,31.706]",0.015,*,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+M-VLDL-CE%,"22.785 [14.191,31.379]",0.047,*,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
+MUFA%,"-23.399 [-32.154,-14.644]",0.038,*,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+XL-HDL-TG%,"-23.558 [-32.334,-14.782]",0.033,*,Triglycerides to Total-Lipids in Very Large HDL percentage
+XS-VLDL-TG%,"-25.544 [-34.242,-16.846]",0.002,**,Triglycerides to Total-Lipids in Very Small VLDL percentage
+GlycA,"-27.212 [-36.160,-18.264]",5.885e-04,***,Glycoprotein Acetyls
+S-HDL-L,"-27.547 [-36.303,-18.790]",1.649e-04,***,Total-Lipids in Small HDL
+S-HDL-PL,"-28.624 [-37.431,-19.816]",4.471e-05,***,Phospholipids in Small HDL
+L-HDL-PL%,"-39.672 [-48.192,-31.152]",1.880e-14,***,Phospholipids to Total-Lipids in Large HDL percentage

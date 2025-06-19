@@ -1,0 +1,54 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+LA%,226,1.087 [1.049-1.126],0.990,,Linoleic Acid to Total-Fatty Acids percentage
+Omega-6/Omega-3,257,1.062 [1.045-1.080],2.709e-07,***,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+Phe,17,1.056 [0.913-1.221],1.000,,Phenylalanine
+Omega-6%,366,1.038 [1.001-1.076],1.000,,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+S-LDL-TG%,594,1.014 [0.987-1.042],1.000,,Triglycerides to Total-Lipids in Small LDL percentage
+XS-VLDL-FC,612,0.945 [0.927-0.965],0.012,*,Free Cholesterol in Very Small VLDL
+XS-VLDL-P,622,0.945 [0.926-0.964],0.011,*,Concentration of Very Small VLDL Particles
+XS-VLDL-L,632,0.945 [0.925-0.965],0.031,*,Total-Lipids in Very Small VLDL
+XS-VLDL-C,604,0.944 [0.925-0.963],0.005,**,Cholesterol in Very Small VLDL
+Omega-3%,215,0.943 [0.929-0.957],2.252e-09,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+S-VLDL-CE,626,0.941 [0.920-0.963],0.050,*,Cholesteryl Esters in Small VLDL
+Unsaturation,310,0.941 [0.924-0.959],4.694e-05,***,Degree of Unsaturation
+ApoB/ApoA1,542,0.940 [0.920-0.962],0.016,*,Apolipoprotein B to Apolipoprotein A1 ratio
+VLDL-C,644,0.939 [0.917-0.962],0.046,*,VLDL Cholesterol
+IDL-PL,591,0.936 [0.916-0.956],6.251e-04,***,Phospholipids in IDL
+XS-VLDL-CE,620,0.936 [0.916-0.955],9.373e-05,***,Cholesteryl Esters in Very Small VLDL
+S-VLDL-C,618,0.936 [0.914-0.958],0.011,*,Cholesterol in Small VLDL
+IDL-L,573,0.934 [0.912-0.956],0.003,**,Total-Lipids in IDL
+M-VLDL-PL,632,0.934 [0.910-0.958],0.025,*,Phospholipids in Medium VLDL
+Omega-3,420,0.933 [0.914-0.952],6.299e-06,***,Omega-3 Fatty Acids
+VLDL-CE,621,0.933 [0.910-0.955],0.004,**,Cholesteryl Esters in VLDL
+S-VLDL-PL,664,0.932 [0.909-0.956],0.011,*,Phospholipids in Small VLDL
+Total-FC,546,0.932 [0.909-0.956],0.010,*,Total-Free Cholesterol
+L-LDL-CE,502,0.932 [0.907-0.957],0.044,*,Cholesteryl Esters in Large LDL
+S-LDL-PL,409,0.931 [0.908-0.955],0.011,*,Phospholipids in Small LDL
+L-LDL-L,508,0.931 [0.907-0.956],0.019,*,Total-Lipids in Large LDL
+L-LDL-FC,474,0.931 [0.906-0.956],0.045,*,Free Cholesterol in Large LDL
+M-VLDL-PL%,523,0.931 [0.907-0.955],0.014,*,Phospholipids to Total-Lipids in Medium VLDL percentage
+LDL-L,502,0.930 [0.906-0.956],0.029,*,Total-Lipids in LDL
+DHA%,240,0.930 [0.907-0.953],0.002,**,Docosahexaenoic Acid to Total-Fatty Acids percentage
+LDL-C,476,0.929 [0.904-0.955],0.041,*,LDL Cholesterol
+L-LDL-C,488,0.929 [0.905-0.954],0.015,*,Cholesterol in Large LDL
+IDL-CE,553,0.929 [0.906-0.953],0.003,**,Cholesteryl Esters in IDL
+M-VLDL-FC%,574,0.929 [0.904-0.954],0.019,*,Free Cholesterol to Total-Lipids in Medium VLDL percentage
+PUFA,699,0.929 [0.905-0.953],0.003,**,Polyunsaturated Fatty Acids
+DHA,289,0.928 [0.909-0.948],1.759e-06,***,Docosahexaenoic Acid
+S-VLDL-FC,593,0.928 [0.904-0.952],0.003,**,Free Cholesterol in Small VLDL
+IDL-C,568,0.926 [0.903-0.950],5.077e-04,***,Cholesterol in IDL
+LDL-PL,473,0.925 [0.901-0.951],0.004,**,Phospholipids in LDL
+M-VLDL-FC,594,0.925 [0.901-0.950],0.001,**,Free Cholesterol in Medium VLDL
+L-LDL-P,541,0.925 [0.902-0.948],1.694e-04,***,Concentration of Large LDL Particles
+Non-HDL-C,563,0.925 [0.902-0.949],3.644e-04,***,Total-Cholesterol Minus HDL-C
+L-LDL-PL,492,0.924 [0.899-0.949],0.002,**,Phospholipids in Large LDL
+S-LDL-P,566,0.922 [0.899-0.946],1.478e-04,***,Concentration of Small LDL Particles
+ApoB,565,0.921 [0.899-0.944],1.422e-05,***,Apolipoprotein B
+IDL-FC,587,0.921 [0.899-0.944],1.491e-05,***,Free Cholesterol in IDL
+Clinical LDL-C,463,0.921 [0.897-0.946],6.543e-04,***,Clinical LDL Cholesterol
+Remnant-C,577,0.920 [0.898-0.943],4.057e-06,***,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
+LDL-P,552,0.920 [0.897-0.943],2.070e-05,***,Concentration of LDL Particles
+M-VLDL-C,535,0.920 [0.896-0.944],6.347e-05,***,Cholesterol in Medium VLDL
+IDL-P,505,0.918 [0.896-0.941],1.522e-06,***,Concentration of IDL Particles
+M-VLDL-CE,487,0.918 [0.894-0.942],4.687e-05,***,Cholesteryl Esters in Medium VLDL
+M-LDL-P,508,0.916 [0.890-0.943],3.707e-04,***,Concentration of Medium LDL Particles

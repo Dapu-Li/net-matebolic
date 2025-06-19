@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+PUFA%,371,1.095 [1.052-1.140],1.000,,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+DHA%,240,1.072 [1.043-1.103],0.263,,Docosahexaenoic Acid to Total-Fatty Acids percentage
+Unsaturation,310,1.058 [1.036-1.081],0.046,*,Degree of Unsaturation
+M-VLDL-FC%,574,1.007 [0.969-1.046],1.000,,Free Cholesterol to Total-Lipids in Medium VLDL percentage
+L-HDL-TG,449,1.003 [0.966-1.041],1.000,,Triglycerides in Large HDL
+L-VLDL-TG%,369,0.999 [0.963-1.036],1.000,,Triglycerides to Total-Lipids in Large VLDL percentage
+Gln,113,0.993 [0.942-1.048],1.000,,Glutamine
+Ala,85,0.970 [0.899-1.047],1.000,,Alanine
+M-VLDL-C,535,0.961 [0.889-1.040],1.000,,Cholesterol in Medium VLDL
+XL-VLDL-C,639,0.926 [0.862-0.995],1.000,,Cholesterol in Very Large VLDL

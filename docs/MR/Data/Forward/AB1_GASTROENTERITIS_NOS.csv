@@ -1,0 +1,12 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Omega-6/Omega-3,257,1.029 [1.020-1.038],6.840e-05,***,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+XS-VLDL-CE,620,1.006 [0.990-1.023],1.000,,Cholesteryl Esters in Very Small VLDL
+XL-VLDL-C,639,1.003 [0.984-1.024],1.000,,Cholesterol in Very Large VLDL
+S-VLDL-PL%,600,1.002 [0.986-1.017],1.000,,Phospholipids to Total-Lipids in Small VLDL percentage
+M-LDL-TG%,456,1.000 [0.986-1.015],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+Omega-3%,215,0.972 [0.964-0.981],3.405e-05,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+Unsaturation,310,0.969 [0.959-0.978],6.457e-05,***,Degree of Unsaturation
+PUFA,699,0.934 [0.912-0.956],0.004,**,Polyunsaturated Fatty Acids
+S-HDL-PL,489,0.911 [0.882-0.942],0.007,**,Phospholipids in Small HDL
+S-HDL-L,442,0.910 [0.879-0.942],0.024,*,Total-Lipids in Small HDL
+S-HDL-FC,483,0.905 [0.875-0.936],0.001,**,Free Cholesterol in Small HDL

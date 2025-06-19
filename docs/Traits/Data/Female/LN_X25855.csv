@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+PUFA/MUFA,"12.363 [7.765,16.960]",0.032,*,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+XL-HDL-L,"9.714 [5.900,13.528]",0.138,,Total-Lipids in Very Large HDL
+XL-HDL-FC,"9.557 [5.901,13.212]",0.069,,Free Cholesterol in Very Large HDL
+XL-HDL-PL,"9.548 [5.772,13.325]",0.166,,Phospholipids in Very Large HDL
+XL-VLDL-FC%,"9.191 [5.568,12.813]",0.152,,Free Cholesterol to Total-Lipids in Very Large VLDL percentage
+S-HDL-L,"-9.714 [-13.564,-5.864]",0.175,,Total-Lipids in Small HDL
+MUFA%,"-11.750 [-16.244,-7.257]",0.069,,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+VLDL-size,"-12.119 [-16.372,-7.867]",0.005,**,Average Diameter for VLDL Particles
+GlycA,"-13.377 [-17.612,-9.143]",1.399e-04,***,Glycoprotein Acetyls
+L-HDL-PL%,"-14.911 [-19.901,-9.921]",0.001,**,Phospholipids to Total-Lipids in Large HDL percentage

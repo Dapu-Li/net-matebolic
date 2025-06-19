@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+IDL-FC%,332,1.094 [0.980-1.221],1.000,,Free Cholesterol to Total-Lipids in IDL percentage
+Acetoacetate,15,1.086 [0.575-2.053],1.000,,Acetoacetate
+L-LDL-FC%,687,1.015 [0.933-1.105],1.000,,Free Cholesterol to Total-Lipids in Large LDL percentage
+S-HDL-CE%,367,1.007 [0.937-1.083],1.000,,Cholesteryl Esters to Total-Lipids in Small HDL percentage
+XXL-VLDL-CE%,176,1.003 [0.872-1.153],1.000,,Cholesteryl Esters to Total-Lipids in Chylomicrons and Extremely Large VLDL percentage
+L-HDL-C,671,0.989 [0.919-1.064],1.000,,Cholesterol in Large HDL
+PC,606,0.898 [0.829-0.973],1.000,,Phosphatidylcholines
+Total-L,626,0.811 [0.745-0.884],0.398,,Total-Lipids in Lipoprotein Particles
+Omega-6,651,0.794 [0.730-0.863],0.013,*,Omega-6 Fatty Acids
+LA,635,0.762 [0.701-0.829],5.865e-05,***,Linoleic Acid

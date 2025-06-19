@@ -1,0 +1,20 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+Lactate,"0.604 [0.506,0.702]",3.087e-28,***,Lactate
+Pyruvate,"0.496 [0.401,0.590]",2.503e-19,***,Pyruvate
+XS-VLDL-PL%,"0.246 [0.150,0.342]",0.117,,Phospholipids to Total-Lipids in Very Small VLDL percentage
+M-LDL-PL%,"0.127 [0.029,0.225]",1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+L-HDL-CE%,"0.013 [-0.077,0.103]",1.000,,Cholesteryl Esters to Total-Lipids in Large HDL percentage
+Total-C,"-0.253 [-0.348,-0.158]",0.040,*,Total-Cholesterol
+Total-CE,"-0.258 [-0.354,-0.163]",0.026,*,Total-Esterified Cholesterol
+IDL-C,"-0.265 [-0.362,-0.167]",0.025,*,Cholesterol in IDL
+M-HDL-FC%,"-0.269 [-0.370,-0.167]",0.048,*,Free Cholesterol to Total-Lipids in Medium HDL percentage
+IDL-CE,"-0.269 [-0.367,-0.171]",0.019,*,Cholesteryl Esters in IDL
+IDL-L,"-0.272 [-0.369,-0.174]",0.010,*,Total-Lipids in IDL
+S-HDL-FC,"-0.273 [-0.370,-0.176]",0.009,**,Free Cholesterol in Small HDL
+Total-PL,"-0.277 [-0.374,-0.180]",0.005,**,Total-Phospholipids in Lipoprotein Particles
+Cholines,"-0.283 [-0.382,-0.184]",0.005,**,Total-Cholines
+Phosphoglyc,"-0.284 [-0.382,-0.185]",0.004,**,Phosphoglycerides
+SM,"-0.286 [-0.387,-0.185]",0.007,**,Sphingomyelins
+PC,"-0.307 [-0.407,-0.206]",4.790e-04,***,Phosphatidylcholines
+HDL-FC,"-0.311 [-0.429,-0.194]",0.049,*,Free Cholesterol in HDL
+Glu,"-0.392 [-0.485,-0.298]",5.008e-11,***,Glucose

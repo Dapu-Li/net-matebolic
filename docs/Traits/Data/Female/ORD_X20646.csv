@@ -1,0 +1,27 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+MUFA%,"0.198 [0.135,0.261]",1.829e-04,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+M-HDL-PL%,"0.195 [0.130,0.260]",9.372e-04,***,Phospholipids to Total-Lipids in Medium HDL percentage
+XL-HDL-FC%,"0.179 [0.110,0.248]",0.084,,Free Cholesterol to Total-Lipids in Very Large HDL percentage
+TG/PG,"0.172 [0.108,0.235]",0.034,*,Triglycerides to Phosphoglycerides ratio
+GlycA,"0.154 [0.093,0.215]",0.160,,Glycoprotein Acetyls
+XL-HDL-PL,"-0.140 [-0.192,-0.088]",0.032,*,Phospholipids in Very Large HDL
+XL-HDL-P,"-0.144 [-0.195,-0.092]",0.009,**,Concentration of Very Large HDL Particles
+XL-HDL-L,"-0.147 [-0.199,-0.094]",0.011,*,Total-Lipids in Very Large HDL
+XL-HDL-C,"-0.154 [-0.206,-0.102]",0.002,**,Cholesterol in Very Large HDL
+HDL-FC,"-0.159 [-0.216,-0.102]",0.013,*,Free Cholesterol in HDL
+XL-HDL-CE,"-0.160 [-0.213,-0.107]",6.429e-04,***,Cholesteryl Esters in Very Large HDL
+L-HDL-PL,"-0.161 [-0.219,-0.104]",0.007,**,Phospholipids in Large HDL
+L-HDL-P,"-0.163 [-0.218,-0.108]",0.001,**,Concentration of Large HDL Particles
+L-HDL-FC,"-0.163 [-0.218,-0.108]",0.001,**,Free Cholesterol in Large HDL
+HDL-CE,"-0.170 [-0.230,-0.110]",0.006,**,Cholesteryl Esters in HDL
+HDL-C,"-0.171 [-0.231,-0.111]",0.005,**,HDL Cholesterol
+L-HDL-L,"-0.172 [-0.230,-0.113]",0.002,**,Total-Lipids in Large HDL
+Omega-3%,"-0.174 [-0.230,-0.118]",2.985e-04,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+L-HDL-CE,"-0.174 [-0.231,-0.117]",4.300e-04,***,Cholesteryl Esters in Large HDL
+L-HDL-C,"-0.175 [-0.232,-0.117]",4.912e-04,***,Cholesterol in Large HDL
+PUFA%,"-0.200 [-0.267,-0.134]",8.351e-04,***,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+DHA,"-0.205 [-0.261,-0.149]",2.163e-07,***,Docosahexaenoic Acid
+Unsaturation,"-0.207 [-0.268,-0.147]",3.367e-06,***,Degree of Unsaturation
+M-HDL-FC%,"-0.208 [-0.275,-0.142]",1.782e-04,***,Free Cholesterol to Total-Lipids in Medium HDL percentage
+PUFA/MUFA,"-0.211 [-0.276,-0.147]",2.676e-05,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+DHA%,"-0.233 [-0.294,-0.173]",7.445e-09,***,Docosahexaenoic Acid to Total-Fatty Acids percentage

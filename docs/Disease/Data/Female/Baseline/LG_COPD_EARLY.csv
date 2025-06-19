@@ -1,0 +1,25 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+MUFA%,1.52 [1.34-1.71],2.480e-06,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+L-LDL-TG%,1.49 [1.34-1.66],1.175e-07,***,Triglycerides to Total-Lipids in Large LDL percentage
+GlycA,1.46 [1.31-1.64],1.089e-05,***,Glycoprotein Acetyls
+M-LDL-TG%,1.43 [1.29-1.59],2.706e-06,***,Triglycerides to Total-Lipids in Medium LDL percentage
+IDL-TG%,1.43 [1.28-1.60],3.138e-05,***,Triglycerides to Total-Lipids in IDL percentage
+SFA%,1.39 [1.24-1.56],0.004,**,Saturated Fatty Acids to Total-Fatty Acids percentage
+XS-VLDL-TG%,1.38 [1.23-1.55],0.009,**,Triglycerides to Total-Lipids in Very Small VLDL percentage
+S-LDL-TG%,1.35 [1.21-1.50],0.012,*,Triglycerides to Total-Lipids in Small LDL percentage
+IDL-C%,0.75 [0.68-0.84],0.010,**,Cholesterol to Total-Lipids in IDL percentage
+S-VLDL-FC%,0.74 [0.67-0.83],0.014,*,Free Cholesterol to Total-Lipids in Small VLDL percentage
+XS-VLDL-CE%,0.74 [0.67-0.82],0.008,**,Cholesteryl Esters to Total-Lipids in Very Small VLDL percentage
+XS-VLDL-C%,0.74 [0.67-0.82],0.008,**,Cholesterol to Total-Lipids in Very Small VLDL percentage
+S-VLDL-PL%,0.74 [0.66-0.82],0.016,*,Phospholipids to Total-Lipids in Small VLDL percentage
+M-LDL-C%,0.74 [0.67-0.81],1.541e-04,***,Cholesterol to Total-Lipids in Medium LDL percentage
+Omega-6%,0.73 [0.66-0.82],0.006,**,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+S-LDL-C%,0.73 [0.66-0.81],3.111e-04,***,Cholesterol to Total-Lipids in Small LDL percentage
+Omega-3%,0.71 [0.63-0.80],0.002,**,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+L-LDL-C%,0.70 [0.63-0.77],2.451e-06,***,Cholesterol to Total-Lipids in Large LDL percentage
+LA%,0.69 [0.62-0.77],3.075e-05,***,Linoleic Acid to Total-Fatty Acids percentage
+DHA%,0.68 [0.60-0.77],8.524e-05,***,Docosahexaenoic Acid to Total-Fatty Acids percentage
+DHA,0.67 [0.58-0.76],3.615e-04,***,Docosahexaenoic Acid
+PUFA%,0.65 [0.59-0.73],1.280e-09,***,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+PUFA/MUFA,0.63 [0.56-0.71],5.865e-09,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+Unsaturation,0.60 [0.54-0.68],3.970e-12,***,Degree of Unsaturation

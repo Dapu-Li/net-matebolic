@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Acetoacetate,15,2.573 [1.694-3.910],1.000,,Acetoacetate
+Tyr,120,1.508 [1.267-1.795],0.947,,Tyrosine
+LA%,226,1.266 [1.184-1.355],1.522e-06,***,Linoleic Acid to Total-Fatty Acids percentage
+Omega-6/Omega-3,257,1.164 [1.120-1.209],1.164e-09,***,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+XL-HDL-FC%,547,1.027 [0.970-1.087],1.000,,Free Cholesterol to Total-Lipids in Very Large HDL percentage
+Omega-3%,215,0.856 [0.825-0.888],1.371e-11,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+Unsaturation,310,0.841 [0.807-0.876],3.087e-11,***,Degree of Unsaturation
+DHA,289,0.841 [0.798-0.887],3.617e-05,***,Docosahexaenoic Acid
+IDL-FC%,332,0.818 [0.763-0.878],0.006,**,Free Cholesterol to Total-Lipids in IDL percentage
+DHA%,240,0.801 [0.760-0.845],5.707e-11,***,Docosahexaenoic Acid to Total-Fatty Acids percentage

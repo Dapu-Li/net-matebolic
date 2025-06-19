@@ -1,0 +1,25 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+DHA%,"0.168 [0.125,0.211]",3.524e-09,***,Docosahexaenoic Acid to Total-Fatty Acids percentage
+Unsaturation,"0.155 [0.111,0.200]",1.975e-06,***,Degree of Unsaturation
+DHA,"0.148 [0.106,0.190]",1.257e-06,***,Docosahexaenoic Acid
+PUFA/MUFA,"0.143 [0.097,0.188]",2.196e-04,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+L-HDL-C,"0.142 [0.095,0.189]",7.038e-04,***,Cholesterol in Large HDL
+L-HDL-L,"0.142 [0.094,0.189]",9.806e-04,***,Total-Lipids in Large HDL
+L-HDL-CE,"0.141 [0.094,0.188]",7.878e-04,***,Cholesteryl Esters in Large HDL
+HDL-size,"0.137 [0.091,0.184]",0.002,**,Average Diameter for HDL Particles
+L-HDL-FC,"0.137 [0.091,0.183]",0.001,**,Free Cholesterol in Large HDL
+L-HDL-PL,"0.137 [0.090,0.184]",0.002,**,Phospholipids in Large HDL
+L-HDL-P,"0.136 [0.090,0.183]",0.002,**,Concentration of Large HDL Particles
+PUFA%,"0.134 [0.088,0.180]",0.002,**,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+XL-HDL-CE,"0.132 [0.087,0.177]",0.002,**,Cholesteryl Esters in Very Large HDL
+Omega-3%,"0.130 [0.088,0.172]",2.253e-04,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+XL-HDL-L,"0.129 [0.084,0.174]",0.004,**,Total-Lipids in Very Large HDL
+XL-HDL-C,"0.129 [0.084,0.173]",0.004,**,Cholesterol in Very Large HDL
+XL-HDL-PL,"0.128 [0.083,0.173]",0.004,**,Phospholipids in Very Large HDL
+XL-HDL-P,"0.120 [0.076,0.165]",0.020,*,Concentration of Very Large HDL Particles
+Acetone,"0.109 [0.068,0.149]",0.035,*,Acetone
+M-LDL-TG%,"-0.010 [-0.053,0.032]",1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+M-HDL-TG%,"-0.080 [-0.123,-0.037]",1.000,,Triglycerides to Total-Lipids in Medium HDL percentage
+Omega-6/Omega-3,"-0.102 [-0.144,-0.060]",0.388,,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+XL-HDL-FC%,"-0.130 [-0.179,-0.081]",0.038,*,Free Cholesterol to Total-Lipids in Very Large HDL percentage
+MUFA%,"-0.136 [-0.182,-0.091]",9.576e-04,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage

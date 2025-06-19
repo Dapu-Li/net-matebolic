@@ -1,0 +1,19 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+M-HDL-C%,632,1.709 [1.416-2.064],0.006,**,Cholesterol to Total-Lipids in Medium HDL percentage
+PUFA/MUFA,484,1.641 [1.340-2.010],0.405,,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+M-HDL-CE%,557,1.619 [1.343-1.951],0.104,,Cholesteryl Esters to Total-Lipids in Medium HDL percentage
+M-LDL-FC%,651,1.593 [1.315-1.930],0.492,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+Unsaturation,310,1.456 [1.258-1.685],0.111,,Degree of Unsaturation
+L-HDL-TG%,637,0.620 [0.519-0.740],0.031,*,Triglycerides to Total-Lipids in Large HDL percentage
+M-HDL-TG%,657,0.616 [0.519-0.731],0.007,**,Triglycerides to Total-Lipids in Medium HDL percentage
+VLDL-PL,674,0.601 [0.497-0.728],0.042,*,Phospholipids in VLDL
+S-VLDL-CE,626,0.597 [0.497-0.718],0.010,*,Cholesteryl Esters in Small VLDL
+L-VLDL-CE,614,0.589 [0.485-0.716],0.024,*,Cholesteryl Esters in Large VLDL
+L-VLDL-C,622,0.584 [0.480-0.710],0.016,*,Cholesterol in Large VLDL
+VLDL-FC,630,0.583 [0.480-0.709],0.014,*,Free Cholesterol in VLDL
+VLDL-C,644,0.578 [0.477-0.700],0.005,**,VLDL Cholesterol
+XL-VLDL-FC,610,0.577 [0.473-0.705],0.018,*,Free Cholesterol in Very Large VLDL
+XL-VLDL-PL,607,0.577 [0.471-0.706],0.023,*,Phospholipids in Very Large VLDL
+XL-VLDL-CE,617,0.572 [0.471-0.696],0.005,**,Cholesteryl Esters in Very Large VLDL
+XXL-VLDL-CE,621,0.564 [0.464-0.686],0.002,**,Cholesteryl Esters in Chylomicrons and Extremely Large VLDL
+XL-VLDL-C,639,0.537 [0.442-0.653],1.120e-04,***,Cholesterol in Very Large VLDL

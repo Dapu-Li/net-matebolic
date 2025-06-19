@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+M-LDL-FC%,"0.240 [-0.259,0.738]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+Remnant-C,"0.075 [-0.435,0.584]",1.000,,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
+Clinical LDL-C,"0.064 [-0.437,0.565]",1.000,,Clinical LDL Cholesterol
+LDL-C,"0.063 [-0.440,0.566]",1.000,,LDL Cholesterol
+Non-HDL-C,"0.053 [-0.449,0.555]",1.000,,Total-Cholesterol Minus HDL-C
+M-LDL-PL%,"-0.219 [-0.748,0.309]",1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+MUFA,"-0.438 [-0.936,0.059]",1.000,,Monounsaturated Fatty Acids
+MUFA%,"-0.932 [-1.456,-0.407]",1.000,,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+SFA%,"-0.972 [-1.465,-0.479]",1.000,,Saturated Fatty Acids to Total-Fatty Acids percentage
+Acetate,"-1.393 [-1.902,-0.884]",0.019,*,Acetate

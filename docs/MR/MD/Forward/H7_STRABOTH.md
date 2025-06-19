@@ -1,0 +1,19 @@
+# 🧪 Other strabismus
+
+> **Root:** Mendelian Randomization
+
+> **Chapter:** 7  
+
+> **Chapter name:** Eye and adnexa
+
+> **Phenotype:** Other strabismus  
+
+> **Code:** `H7_STRABOTH`
+
+## 🧬 Mendelian Randomization  
+
+<img src="/MR/Figures/Forward/H7_STRABOTH.png"/>
+
+## 📊 Data Table
+
+<CsvTableMRF src="/MR/Data/Forward/H7_STRABOTH.csv"/>

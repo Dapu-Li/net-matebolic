@@ -1,0 +1,14 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+PUFA/MUFA,"0.064 [0.048,0.080]",7.368e-10,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+Unsaturation,"0.058 [0.042,0.074]",3.395e-07,***,Degree of Unsaturation
+PUFA%,"0.057 [0.042,0.072]",8.274e-08,***,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+Creatinine,"0.049 [0.033,0.066]",0.002,**,Creatinine
+DHA%,"0.047 [0.031,0.062]",7.183e-04,***,Docosahexaenoic Acid to Total-Fatty Acids percentage
+LA%,"0.045 [0.029,0.061]",0.007,**,Linoleic Acid to Total-Fatty Acids percentage
+Omega-3%,"0.043 [0.027,0.059]",0.019,*,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+Omega-6%,"0.043 [0.028,0.058]",0.008,**,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+Pyruvate,"-0.037 [-0.050,-0.024]",0.004,**,Pyruvate
+SFA%,"-0.037 [-0.052,-0.023]",0.192,,Saturated Fatty Acids to Total-Fatty Acids percentage
+MUFA,"-0.038 [-0.053,-0.023]",0.209,,Monounsaturated Fatty Acids
+MUFA%,"-0.060 [-0.076,-0.044]",3.548e-08,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+GlycA,"-0.075 [-0.091,-0.059]",6.223e-15,***,Glycoprotein Acetyls

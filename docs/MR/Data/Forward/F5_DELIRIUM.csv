@@ -1,0 +1,35 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+M-LDL-FC,407,1.263 [1.167-1.367],0.002,**,Free Cholesterol in Medium LDL
+LDL-FC,411,1.261 [1.166-1.363],0.001,**,Free Cholesterol in LDL
+LDL-C,476,1.251 [1.166-1.342],9.864e-05,***,LDL Cholesterol
+S-LDL-FC,410,1.250 [1.162-1.346],6.718e-04,***,Free Cholesterol in Small LDL
+S-LDL-PL,409,1.248 [1.161-1.342],5.507e-04,***,Phospholipids in Small LDL
+L-LDL-FC,474,1.245 [1.156-1.339],0.001,**,Free Cholesterol in Large LDL
+LDL-CE,506,1.244 [1.161-1.332],1.107e-04,***,Cholesteryl Esters in LDL
+LDL-L,502,1.241 [1.159-1.329],1.313e-04,***,Total-Lipids in LDL
+L-LDL-CE,502,1.239 [1.158-1.326],1.509e-04,***,Cholesteryl Esters in Large LDL
+LDL-PL,473,1.238 [1.154-1.329],7.290e-04,***,Phospholipids in LDL
+M-LDL-PL,492,1.237 [1.151-1.330],0.002,**,Phospholipids in Medium LDL
+L-LDL-C,488,1.237 [1.155-1.325],3.145e-04,***,Cholesterol in Large LDL
+L-LDL-L,508,1.237 [1.158-1.322],7.926e-05,***,Total-Lipids in Large LDL
+Clinical LDL-C,463,1.236 [1.149-1.329],0.003,**,Clinical LDL Cholesterol
+S-LDL-C,489,1.233 [1.149-1.323],0.001,**,Cholesterol in Small LDL
+L-LDL-PL,492,1.231 [1.146-1.322],0.003,**,Phospholipids in Large LDL
+L-LDL-C%,403,1.229 [1.141-1.324],0.014,*,Cholesterol to Total-Lipids in Large LDL percentage
+S-LDL-L,511,1.228 [1.148-1.313],5.698e-04,***,Total-Lipids in Small LDL
+M-LDL-C,525,1.213 [1.131-1.301],0.018,*,Cholesterol in Medium LDL
+M-LDL-L,531,1.210 [1.129-1.296],0.014,*,Total-Lipids in Medium LDL
+Total-CE,575,1.204 [1.126-1.286],0.011,*,Total-Esterified Cholesterol
+IDL-CE,553,1.202 [1.127-1.283],0.006,**,Cholesteryl Esters in IDL
+S-LDL-CE,543,1.201 [1.123-1.285],0.024,*,Cholesteryl Esters in Small LDL
+Total-C,563,1.201 [1.124-1.284],0.018,*,Total-Cholesterol
+Non-HDL-C,563,1.199 [1.123-1.280],0.012,*,Total-Cholesterol Minus HDL-C
+Total-FC,546,1.196 [1.122-1.276],0.012,*,Total-Free Cholesterol
+IDL-C,568,1.196 [1.123-1.275],0.008,**,Cholesterol in IDL
+L-LDL-P,541,1.191 [1.116-1.272],0.033,*,Concentration of Large LDL Particles
+IDL-L,573,1.179 [1.110-1.253],0.023,*,Total-Lipids in IDL
+L-VLDL-PL,637,0.989 [0.931-1.051],1.000,,Phospholipids in Large VLDL
+XL-VLDL-TG,570,0.988 [0.923-1.057],1.000,,Triglycerides in Very Large VLDL
+Albumin,72,0.962 [0.813-1.137],1.000,,Albumin
+S-HDL-PL%,367,0.842 [0.776-0.915],1.000,,Phospholipids to Total-Lipids in Small HDL percentage
+M-HDL-PL%,489,0.836 [0.780-0.896],0.110,,Phospholipids to Total-Lipids in Medium HDL percentage

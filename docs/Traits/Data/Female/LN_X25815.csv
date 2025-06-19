@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+PUFA%,"56.371 [23.451,89.290]",1.000,,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+Omega-6%,"49.850 [17.487,82.214]",1.000,,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+LA%,"47.150 [16.405,77.894]",1.000,,Linoleic Acid to Total-Fatty Acids percentage
+M-LDL-FC%,"44.747 [13.300,76.194]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+Omega-3%,"8.225 [-18.903,35.352]",1.000,,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+Val,"-10.339 [-37.667,16.989]",1.000,,Valine
+Total-BCAA,"-13.681 [-40.746,13.383]",1.000,,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+Leu,"-18.090 [-45.237,9.056]",1.000,,Leucine
+GlycA,"-85.153 [-114.209,-56.098]",0.002,**,Glycoprotein Acetyls
+L-HDL-PL%,"-93.292 [-127.531,-59.053]",0.022,*,Phospholipids to Total-Lipids in Large HDL percentage

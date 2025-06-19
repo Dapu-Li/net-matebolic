@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+L-HDL-CE%,"50.484 [34.202,66.766]",2.873e-04,***,Cholesteryl Esters to Total-Lipids in Large HDL percentage
+L-HDL-C%,"49.058 [32.625,65.492]",0.001,**,Cholesterol to Total-Lipids in Large HDL percentage
+LA%,"46.981 [33.528,60.435]",1.833e-06,***,Linoleic Acid to Total-Fatty Acids percentage
+Omega-6%,"41.145 [26.974,55.316]",0.003,**,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+M-HDL-C%,"35.566 [22.049,49.083]",0.058,,Cholesterol to Total-Lipids in Medium HDL percentage
+Total-BCAA,"-17.069 [-28.928,-5.209]",1.000,,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+XL-HDL-FC%,"-35.002 [-49.779,-20.224]",0.793,,Free Cholesterol to Total-Lipids in Very Large HDL percentage
+GlycA,"-37.601 [-50.336,-24.865]",0.002,**,Glycoprotein Acetyls
+M-HDL-PL%,"-44.045 [-57.843,-30.248]",9.260e-05,***,Phospholipids to Total-Lipids in Medium HDL percentage
+L-HDL-PL%,"-49.489 [-64.488,-34.490]",2.369e-05,***,Phospholipids to Total-Lipids in Large HDL percentage

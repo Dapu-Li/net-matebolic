@@ -1,0 +1,21 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Tyr,120,1.259 [1.024-1.549],1.000,,Tyrosine
+LA%,226,1.221 [1.124-1.327],0.634,,Linoleic Acid to Total-Fatty Acids percentage
+XS-VLDL-TG%,661,1.171 [1.101-1.245],0.115,,Triglycerides to Total-Lipids in Very Small VLDL percentage
+Omega-6/Omega-3,257,1.167 [1.117-1.219],9.971e-07,***,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+MUFA%,525,1.153 [1.090-1.220],0.172,,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+Omega-3,420,0.867 [0.832-0.903],1.911e-06,***,Omega-3 Fatty Acids
+Omega-3%,215,0.859 [0.822-0.897],1.982e-06,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+Non-HDL-C,563,0.842 [0.789-0.898],0.038,*,Total-Cholesterol Minus HDL-C
+Unsaturation,310,0.841 [0.804-0.879],7.269e-09,***,Degree of Unsaturation
+DHA,289,0.840 [0.798-0.885],1.338e-05,***,Docosahexaenoic Acid
+M-VLDL-C,535,0.837 [0.784-0.895],0.036,*,Cholesterol in Medium VLDL
+M-VLDL-FC%,574,0.833 [0.780-0.890],0.015,*,Free Cholesterol to Total-Lipids in Medium VLDL percentage
+Clinical LDL-C,463,0.832 [0.777-0.892],0.045,*,Clinical LDL Cholesterol
+L-LDL-FC,474,0.831 [0.777-0.889],0.016,*,Free Cholesterol in Large LDL
+IDL-CE,553,0.829 [0.777-0.886],0.006,**,Cholesteryl Esters in IDL
+DHA%,240,0.827 [0.781-0.875],1.274e-05,***,Docosahexaenoic Acid to Total-Fatty Acids percentage
+IDL-C,568,0.826 [0.773-0.882],0.002,**,Cholesterol in IDL
+IDL-FC,587,0.822 [0.770-0.876],5.316e-04,***,Free Cholesterol in IDL
+XS-VLDL-FC%,460,0.782 [0.725-0.843],3.680e-05,***,Free Cholesterol to Total-Lipids in Very Small VLDL percentage
+M-LDL-C%,225,0.740 [0.674-0.813],6.794e-05,***,Cholesterol to Total-Lipids in Medium LDL percentage

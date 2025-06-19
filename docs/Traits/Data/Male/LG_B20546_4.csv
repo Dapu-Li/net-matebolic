@@ -1,0 +1,38 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+M-HDL-PL,"1.279 [1.223,1.337]",3.774e-22,***,Phospholipids in Medium HDL
+M-HDL-FC,"1.276 [1.217,1.338]",1.002e-18,***,Free Cholesterol in Medium HDL
+M-HDL-P,"1.276 [1.219,1.337]",9.533e-20,***,Concentration of Medium HDL Particles
+M-HDL-L,"1.276 [1.220,1.335]",7.151e-21,***,Total-Lipids in Medium HDL
+HDL-PL,"1.273 [1.214,1.334]",1.580e-18,***,Phospholipids in HDL
+ApoA1,"1.268 [1.210,1.328]",3.855e-18,***,Apolipoprotein A1
+M-HDL-C,"1.267 [1.209,1.327]",3.026e-18,***,Cholesterol in Medium HDL
+HDL-L,"1.266 [1.207,1.327]",7.635e-17,***,Total-Lipids in HDL
+M-HDL-CE,"1.263 [1.206,1.323]",7.325e-18,***,Cholesteryl Esters in Medium HDL
+HDL-P,"1.254 [1.199,1.312]",1.723e-17,***,Concentration of HDL Particles
+S-HDL-PL,"1.248 [1.196,1.303]",4.915e-19,***,Phospholipids in Small HDL
+HDL-FC,"1.247 [1.186,1.312]",2.470e-12,***,Free Cholesterol in HDL
+HDL-C,"1.241 [1.182,1.304]",1.917e-12,***,HDL Cholesterol
+Total-P,"1.238 [1.183,1.295]",3.770e-15,***,Total-Concentration of Lipoprotein Particles
+S-HDL-L,"1.235 [1.183,1.289]",1.616e-16,***,Total-Lipids in Small HDL
+HDL-CE,"1.235 [1.176,1.297]",8.754e-12,***,Cholesteryl Esters in HDL
+S-HDL-FC,"1.210 [1.160,1.263]",4.545e-13,***,Free Cholesterol in Small HDL
+PC,"1.208 [1.155,1.264]",5.350e-11,***,Phosphatidylcholines
+S-HDL-C,"1.205 [1.154,1.258]",4.234e-12,***,Cholesterol in Small HDL
+S-HDL-P,"1.200 [1.150,1.253]",1.568e-11,***,Concentration of Small HDL Particles
+L-HDL-PL,"1.200 [1.138,1.265]",2.918e-06,***,Phospholipids in Large HDL
+Phosphoglyc,"1.197 [1.145,1.251]",4.440e-10,***,Phosphoglycerides
+S-HDL-CE,"1.194 [1.144,1.247]",1.612e-10,***,Cholesteryl Esters in Small HDL
+Cholines,"1.185 [1.133,1.239]",2.783e-08,***,Total-Cholines
+L-HDL-L,"1.179 [1.118,1.243]",2.446e-04,***,Total-Lipids in Large HDL
+M-HDL-FC%,"1.163 [1.109,1.219]",9.740e-05,***,Free Cholesterol to Total-Lipids in Medium HDL percentage
+Total-PL,"1.160 [1.110,1.212]",7.359e-06,***,Total-Phospholipids in Lipoprotein Particles
+DHA,"1.130 [1.083,1.180]",0.006,**,Docosahexaenoic Acid
+S-HDL-PL%,"1.128 [1.080,1.178]",0.013,*,Phospholipids to Total-Lipids in Small HDL percentage
+M-HDL-TG,"1.125 [1.079,1.174]",0.009,**,Triglycerides in Medium HDL
+SFA,"1.123 [1.078,1.169]",0.004,**,Saturated Fatty Acids
+SFA%,"1.116 [1.073,1.162]",0.012,*,Saturated Fatty Acids to Total-Fatty Acids percentage
+Omega-6%,"0.886 [0.852,0.922]",4.231e-04,***,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+ApoB/ApoA1,"0.885 [0.847,0.924]",0.009,**,Apolipoprotein B to Apolipoprotein A1 ratio
+LA%,"0.877 [0.841,0.915]",2.073e-04,***,Linoleic Acid to Total-Fatty Acids percentage
+XL-HDL-FC%,"0.871 [0.831,0.913]",0.002,**,Free Cholesterol to Total-Lipids in Very Large HDL percentage
+Citrate,"0.851 [0.813,0.891]",1.445e-06,***,Citrate

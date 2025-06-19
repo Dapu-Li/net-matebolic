@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+M-VLDL-CE,487,1.171 [1.016-1.351],1.000,,Cholesteryl Esters in Medium VLDL
+LDL-L,502,1.116 [0.977-1.274],1.000,,Total-Lipids in LDL
+L-VLDL-P,622,1.107 [0.979-1.251],1.000,,Concentration of Large VLDL Particles
+S-VLDL-PL,664,1.097 [0.967-1.244],1.000,,Phospholipids in Small VLDL
+S-VLDL-TG,687,1.018 [0.910-1.138],1.000,,Triglycerides in Small VLDL
+M-HDL-L,576,0.732 [0.643-0.834],0.640,,Total-Lipids in Medium HDL
+S-HDL-PL%,367,0.719 [0.626-0.826],0.706,,Phospholipids to Total-Lipids in Small HDL percentage
+HDL-P,547,0.701 [0.609-0.806],0.157,,Concentration of HDL Particles
+Total-P,531,0.692 [0.600-0.799],0.115,,Total-Concentration of Lipoprotein Particles
+M-HDL-PL,545,0.687 [0.603-0.783],0.004,**,Phospholipids in Medium HDL

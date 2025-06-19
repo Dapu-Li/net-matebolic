@@ -1,0 +1,14 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+Albumin,"0.184 [0.130,0.238]",6.063e-06,***,Albumin
+3-Hydroxybutyrate,"0.184 [0.132,0.235]",5.147e-07,***,3-Hydroxybutyrate
+M-LDL-C%,"0.164 [0.108,0.221]",0.002,**,Cholesterol to Total-Lipids in Medium LDL percentage
+Glu-lactate,"0.161 [0.104,0.218]",0.008,**,Glucose-lactate
+IDL-FC%,"0.155 [0.097,0.212]",0.038,*,Free Cholesterol to Total-Lipids in IDL percentage
+SM,"0.153 [0.096,0.210]",0.037,*,Sphingomyelins
+S-HDL-C,"0.145 [0.092,0.199]",0.020,*,Cholesterol in Small HDL
+S-HDL-CE,"0.145 [0.092,0.198]",0.016,*,Cholesteryl Esters in Small HDL
+Total-BCAA,"-0.153 [-0.211,-0.095]",0.062,,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+Gln,"-0.183 [-0.239,-0.128]",2.065e-05,***,Glutamine
+Leu,"-0.184 [-0.244,-0.124]",5.079e-04,***,Leucine
+Ile,"-0.226 [-0.284,-0.168]",7.254e-09,***,Isoleucine
+Phe,"-0.258 [-0.314,-0.202]",4.690e-14,***,Phenylalanine

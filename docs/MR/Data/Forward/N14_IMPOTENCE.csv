@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Acetate,13,1.291 [0.699-2.384],1.000,,Acetate
+LA%,226,1.160 [1.080-1.246],1.000,,Linoleic Acid to Total-Fatty Acids percentage
+S-HDL-CE%,367,1.038 [0.988-1.092],1.000,,Cholesteryl Esters to Total-Lipids in Small HDL percentage
+Gly,134,1.033 [0.956-1.117],1.000,,Glycine
+M-HDL-C,607,1.019 [0.958-1.085],1.000,,Cholesterol in Medium HDL
+S-VLDL-PL,664,0.851 [0.799-0.905],0.085,,Phospholipids in Small VLDL
+M-VLDL-PL,632,0.847 [0.794-0.903],0.102,,Phospholipids in Medium VLDL
+VLDL-CE,621,0.847 [0.796-0.901],0.035,*,Cholesteryl Esters in VLDL
+VLDL-C,644,0.845 [0.795-0.899],0.026,*,VLDL Cholesterol
+SFA%,94,0.627 [0.527-0.745],0.027,*,Saturated Fatty Acids to Total-Fatty Acids percentage

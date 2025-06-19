@@ -1,0 +1,29 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+Omega-3%,"0.118 [0.109,0.126]",4.593e-165,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+DHA%,"0.110 [0.102,0.118]",4.313e-141,***,Docosahexaenoic Acid to Total-Fatty Acids percentage
+Unsaturation,"0.109 [0.101,0.118]",5.988e-140,***,Degree of Unsaturation
+DHA,"0.101 [0.093,0.109]",6.574e-121,***,Docosahexaenoic Acid
+Omega-3,"0.094 [0.086,0.103]",3.205e-106,***,Omega-3 Fatty Acids
+PUFA%,"0.068 [0.059,0.076]",8.926e-49,***,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+PUFA/MUFA,"0.063 [0.055,0.072]",1.108e-41,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+Albumin,"0.049 [0.041,0.058]",2.014e-26,***,Albumin
+Acetate,"0.048 [0.040,0.056]",7.034e-26,***,Acetate
+XXL-VLDL-FC%,"0.040 [0.031,0.048]",1.106e-15,***,Free Cholesterol to Total-Lipids in Chylomicrons and Extremely Large VLDL percentage
+Acetone,"0.039 [0.031,0.047]",1.698e-15,***,Acetone
+Val,"0.031 [0.022,0.039]",1.283e-07,***,Valine
+XXL-VLDL-PL%,"0.030 [0.021,0.038]",1.524e-07,***,Phospholipids to Total-Lipids in Chylomicrons and Extremely Large VLDL percentage
+LDL-size,"0.029 [0.021,0.037]",7.449e-07,***,Average Diameter for LDL Particles
+PUFA,"0.028 [0.020,0.036]",1.324e-06,***,Polyunsaturated Fatty Acids
+IDL-PL%,"0.027 [0.019,0.035]",5.423e-06,***,Phospholipids to Total-Lipids in IDL percentage
+XL-VLDL-FC%,"0.026 [0.018,0.035]",7.766e-05,***,Free Cholesterol to Total-Lipids in Very Large VLDL percentage
+Acetoacetate,"0.023 [0.014,0.031]",0.012,*,Acetoacetate
+Sc-ala,"-0.022 [-0.031,-0.014]",0.014,*,Spectrometer-corrected alanine
+XXL-VLDL-TG%,"-0.023 [-0.032,-0.015]",0.003,**,Triglycerides to Total-Lipids in Chylomicrons and Extremely Large VLDL percentage
+GlycA,"-0.024 [-0.032,-0.015]",0.015,*,Glycoprotein Acetyls
+L-HDL-TG%,"-0.024 [-0.032,-0.015]",0.007,**,Triglycerides to Total-Lipids in Large HDL percentage
+Citrate,"-0.024 [-0.032,-0.016]",0.002,**,Citrate
+XL-HDL-FC%,"-0.028 [-0.036,-0.019]",2.494e-05,***,Free Cholesterol to Total-Lipids in Very Large HDL percentage
+Creatinine,"-0.045 [-0.053,-0.037]",3.448e-22,***,Creatinine
+MUFA%,"-0.052 [-0.061,-0.043]",4.563e-27,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+SFA%,"-0.062 [-0.070,-0.054]",5.778e-44,***,Saturated Fatty Acids to Total-Fatty Acids percentage
+Omega-6/Omega-3,"-0.103 [-0.111,-0.095]",1.168e-125,***,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio

@@ -1,0 +1,28 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+S-LDL-PL%,510,15.522 [6.191-38.916],0.001,**,Phospholipids to Total-Lipids in Small LDL percentage
+L-LDL-PL%,382,14.021 [5.603-35.084],0.004,**,Phospholipids to Total-Lipids in Large LDL percentage
+L-LDL-FC%,687,6.686 [3.410-13.110],0.008,**,Free Cholesterol to Total-Lipids in Large LDL percentage
+S-LDL-FC%,578,5.506 [2.850-10.638],0.093,,Free Cholesterol to Total-Lipids in Small LDL percentage
+M-LDL-CE,550,1.012 [0.671-1.526],1.000,,Cholesteryl Esters in Medium LDL
+XS-VLDL-TG,678,0.195 [0.107-0.357],0.027,*,Triglycerides in Very Small VLDL
+S-LDL-TG,690,0.181 [0.095-0.344],0.050,*,Triglycerides in Small LDL
+M-LDL-TG,658,0.160 [0.082-0.313],0.022,*,Triglycerides in Medium LDL
+M-HDL-TG,617,0.157 [0.079-0.314],0.039,*,Triglycerides in Medium HDL
+M-HDL-L,576,0.098 [0.042-0.227],0.014,*,Total-Lipids in Medium HDL
+Total-PL,628,0.097 [0.044-0.216],0.002,**,Total-Phospholipids in Lipoprotein Particles
+PC,606,0.097 [0.044-0.213],0.001,**,Phosphatidylcholines
+Cholines,620,0.085 [0.038-0.190],3.753e-04,***,Total-Cholines
+M-HDL-PL,545,0.083 [0.035-0.199],0.006,**,Phospholipids in Medium HDL
+HDL-P,547,0.081 [0.032-0.204],0.023,*,Concentration of HDL Particles
+Phosphoglyc,609,0.077 [0.035-0.171],6.162e-05,***,Phosphoglycerides
+S-LDL-CE%,545,0.069 [0.029-0.164],3.106e-04,***,Cholesteryl Esters to Total-Lipids in Small LDL percentage
+PUFA,699,0.068 [0.034-0.137],9.640e-09,***,Polyunsaturated Fatty Acids
+Total-FA,654,0.057 [0.026-0.122],5.387e-08,***,Total-Fatty Acids
+Total-P,531,0.057 [0.021-0.152],0.003,**,Total-Concentration of Lipoprotein Particles
+Omega-6,651,0.049 [0.022-0.106],9.546e-09,***,Omega-6 Fatty Acids
+MUFA,654,0.046 [0.021-0.101],3.456e-09,***,Monounsaturated Fatty Acids
+LA,635,0.046 [0.021-0.102],9.547e-09,***,Linoleic Acid
+S-HDL-FC,483,0.024 [0.008-0.070],1.217e-06,***,Free Cholesterol in Small HDL
+S-HDL-L,442,0.024 [0.008-0.074],2.264e-05,***,Total-Lipids in Small HDL
+S-HDL-PL,489,0.022 [0.007-0.063],4.558e-07,***,Phospholipids in Small HDL
+GlycA,385,0.005 [0.001-0.019],7.539e-09,***,Glycoprotein Acetyls

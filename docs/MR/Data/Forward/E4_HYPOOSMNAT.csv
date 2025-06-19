@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+TG/PG,632,1.104 [1.064-1.146],0.055,,Triglycerides to Phosphoglycerides ratio
+XL-VLDL-PL,607,1.096 [1.055-1.138],0.632,,Phospholipids in Very Large VLDL
+ApoB/ApoA1,542,1.090 [1.051-1.131],0.925,,Apolipoprotein B to Apolipoprotein A1 ratio
+S-HDL-TG%,677,1.080 [1.045-1.115],0.800,,Triglycerides to Total-Lipids in Small HDL percentage
+S-HDL-TG,681,1.032 [0.991-1.074],1.000,,Triglycerides in Small HDL
+PUFA%,371,0.882 [0.841-0.926],0.098,,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+M-HDL-C,607,0.880 [0.836-0.927],0.400,,Cholesterol in Medium HDL
+M-HDL-CE,607,0.878 [0.834-0.924],0.137,,Cholesteryl Esters in Medium HDL
+M-HDL-L,576,0.871 [0.824-0.922],0.359,,Total-Lipids in Medium HDL
+GlycA,385,0.776 [0.711-0.845],0.002,**,Glycoprotein Acetyls

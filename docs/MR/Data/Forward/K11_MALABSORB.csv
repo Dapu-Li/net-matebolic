@@ -1,0 +1,15 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+XXL-VLDL-C%,176,1.099 [0.995-1.214],1.000,,Cholesterol to Total-Lipids in Chylomicrons and Extremely Large VLDL percentage
+Pyruvate,37,1.076 [0.815-1.420],1.000,,Pyruvate
+IDL-CE%,420,1.050 [0.919-1.200],1.000,,Cholesteryl Esters to Total-Lipids in IDL percentage
+S-VLDL-PL%,600,1.043 [0.979-1.111],1.000,,Phospholipids to Total-Lipids in Small VLDL percentage
+XL-HDL-C%,306,1.004 [0.940-1.072],1.000,,Cholesterol to Total-Lipids in Very Large HDL percentage
+PUFA,699,0.492 [0.391-0.620],4.200e-04,***,Polyunsaturated Fatty Acids
+Total-FA,654,0.468 [0.363-0.603],0.001,**,Total-Fatty Acids
+Omega-6,651,0.447 [0.345-0.580],3.298e-04,***,Omega-6 Fatty Acids
+MUFA,654,0.443 [0.341-0.575],2.209e-04,***,Monounsaturated Fatty Acids
+LA,635,0.438 [0.336-0.571],2.906e-04,***,Linoleic Acid
+S-HDL-FC,483,0.366 [0.258-0.521],0.005,**,Free Cholesterol in Small HDL
+S-HDL-L,442,0.350 [0.240-0.510],0.011,*,Total-Lipids in Small HDL
+S-HDL-PL,489,0.340 [0.238-0.485],6.705e-04,***,Phospholipids in Small HDL
+GlycA,385,0.220 [0.138-0.352],6.565e-05,***,Glycoprotein Acetyls

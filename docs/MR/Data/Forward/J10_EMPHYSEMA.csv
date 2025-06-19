@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+XL-VLDL-TG%,444,1.197 [1.116-1.284],0.120,,Triglycerides to Total-Lipids in Very Large VLDL percentage
+M-VLDL-TG%,609,1.164 [1.101-1.232],0.026,*,Triglycerides to Total-Lipids in Medium VLDL percentage
+S-VLDL-TG%,564,1.156 [1.094-1.221],0.050,,Triglycerides to Total-Lipids in Small VLDL percentage
+XS-VLDL-TG%,661,1.150 [1.095-1.207],0.005,**,Triglycerides to Total-Lipids in Very Small VLDL percentage
+IDL-TG%,635,1.115 [1.067-1.167],0.435,,Triglycerides to Total-Lipids in IDL percentage
+XS-VLDL-CE%,644,0.874 [0.832-0.919],0.029,*,Cholesteryl Esters to Total-Lipids in Very Small VLDL percentage
+XS-VLDL-C%,642,0.870 [0.829-0.914],0.008,**,Cholesterol to Total-Lipids in Very Small VLDL percentage
+S-VLDL-FC%,609,0.866 [0.821-0.914],0.033,*,Free Cholesterol to Total-Lipids in Small VLDL percentage
+M-VLDL-CE%,597,0.865 [0.819-0.913],0.049,*,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
+M-VLDL-FC%,574,0.855 [0.808-0.905],0.017,*,Free Cholesterol to Total-Lipids in Medium VLDL percentage

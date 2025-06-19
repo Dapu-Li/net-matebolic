@@ -1,0 +1,28 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+MUFA%,"0.160 [0.111,0.209]",3.253e-05,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+M-HDL-PL%,"0.148 [0.099,0.198]",7.692e-04,***,Phospholipids to Total-Lipids in Medium HDL percentage
+XL-HDL-FC%,"0.145 [0.092,0.198]",0.020,*,Free Cholesterol to Total-Lipids in Very Large HDL percentage
+XS-VLDL-PL%,"0.143 [0.097,0.189]",3.028e-04,***,Phospholipids to Total-Lipids in Very Small VLDL percentage
+IDL-TG%,"0.124 [0.077,0.172]",0.068,,Triglycerides to Total-Lipids in IDL percentage
+IDL-C%,"-0.128 [-0.175,-0.080]",0.034,*,Cholesterol to Total-Lipids in IDL percentage
+ApoA1,"-0.129 [-0.178,-0.080]",0.049,*,Apolipoprotein A1
+M-HDL-FC,"-0.131 [-0.180,-0.082]",0.035,*,Free Cholesterol in Medium HDL
+XS-VLDL-C%,"-0.132 [-0.181,-0.083]",0.025,*,Cholesterol to Total-Lipids in Very Small VLDL percentage
+XL-HDL-L,"-0.136 [-0.185,-0.087]",0.014,*,Total-Lipids in Very Large HDL
+XL-HDL-P,"-0.137 [-0.186,-0.089]",0.006,**,Concentration of Very Large HDL Particles
+XS-VLDL-CE%,"-0.138 [-0.188,-0.089]",0.009,**,Cholesteryl Esters to Total-Lipids in Very Small VLDL percentage
+PUFA/MUFA,"-0.139 [-0.188,-0.090]",0.007,**,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+HDL-L,"-0.143 [-0.192,-0.093]",0.005,**,Total-Lipids in HDL
+XL-HDL-C,"-0.143 [-0.192,-0.094]",0.002,**,Cholesterol in Very Large HDL
+HDL-size,"-0.146 [-0.196,-0.095]",0.004,**,Average Diameter for HDL Particles
+XL-HDL-CE,"-0.149 [-0.198,-0.100]",7.466e-04,***,Cholesteryl Esters in Very Large HDL
+L-HDL-PL,"-0.153 [-0.204,-0.103]",6.931e-04,***,Phospholipids in Large HDL
+L-HDL-FC,"-0.157 [-0.207,-0.107]",1.997e-04,***,Free Cholesterol in Large HDL
+HDL-FC,"-0.157 [-0.207,-0.107]",1.500e-04,***,Free Cholesterol in HDL
+L-HDL-P,"-0.159 [-0.209,-0.109]",1.261e-04,***,Concentration of Large HDL Particles
+HDL-CE,"-0.161 [-0.212,-0.111]",8.079e-05,***,Cholesteryl Esters in HDL
+L-HDL-L,"-0.164 [-0.215,-0.112]",9.362e-05,***,Total-Lipids in Large HDL
+HDL-C,"-0.164 [-0.214,-0.113]",4.909e-05,***,HDL Cholesterol
+L-HDL-CE,"-0.165 [-0.216,-0.114]",4.670e-05,***,Cholesteryl Esters in Large HDL
+L-HDL-C,"-0.166 [-0.217,-0.115]",4.152e-05,***,Cholesterol in Large HDL
+M-HDL-FC%,"-0.189 [-0.239,-0.138]",8.249e-08,***,Free Cholesterol to Total-Lipids in Medium HDL percentage

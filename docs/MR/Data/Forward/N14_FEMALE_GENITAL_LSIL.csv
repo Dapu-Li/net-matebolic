@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Acetoacetate,15,1.065 [0.775-1.463],1.000,,Acetoacetate
+IDL-PL%,289,1.060 [1.020-1.103],1.000,,Phospholipids to Total-Lipids in IDL percentage
+M-VLDL-C%,604,1.022 [0.985-1.061],1.000,,Cholesterol to Total-Lipids in Medium VLDL percentage
+Gly,134,1.009 [0.968-1.051],1.000,,Glycine
+S-VLDL-FC%,609,1.006 [0.970-1.043],1.000,,Free Cholesterol to Total-Lipids in Small VLDL percentage
+PUFA,699,0.833 [0.782-0.887],0.002,**,Polyunsaturated Fatty Acids
+LA,635,0.824 [0.766-0.885],0.032,*,Linoleic Acid
+Total-FA,654,0.822 [0.768-0.880],0.004,**,Total-Fatty Acids
+Omega-6,651,0.817 [0.761-0.877],0.004,**,Omega-6 Fatty Acids
+MUFA,654,0.813 [0.758-0.872],0.002,**,Monounsaturated Fatty Acids

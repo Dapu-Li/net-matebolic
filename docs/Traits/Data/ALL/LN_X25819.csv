@@ -1,0 +1,30 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+XL-HDL-FC%,"21.824 [13.249,30.399]",0.140,,Free Cholesterol to Total-Lipids in Very Large HDL percentage
+Creatinine,"20.404 [11.893,28.916]",0.600,,Creatinine
+Total-BCAA,"8.189 [-0.202,16.579]",1.000,,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+Val,"7.281 [-1.238,15.799]",1.000,,Valine
+M-LDL-FC%,"3.977 [-4.747,12.701]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+S-HDL-FC,"-23.296 [-31.672,-14.919]",0.012,*,Free Cholesterol in Small HDL
+L-HDL-PL,"-23.979 [-32.370,-15.588]",0.005,**,Phospholipids in Large HDL
+S-HDL-L,"-24.247 [-32.639,-15.855]",0.003,**,Total-Lipids in Small HDL
+S-HDL-PL%,"-24.476 [-32.613,-16.338]",8.646e-04,***,Phospholipids to Total-Lipids in Small HDL percentage
+Total-PL,"-24.749 [-33.233,-16.264]",0.002,**,Total-Phospholipids in Lipoprotein Particles
+HDL-CE,"-25.757 [-34.278,-17.236]",7.238e-04,***,Cholesteryl Esters in HDL
+HDL-C,"-26.378 [-34.884,-17.872]",2.819e-04,***,HDL Cholesterol
+Cholines,"-27.035 [-35.511,-18.560]",9.399e-05,***,Total-Cholines
+HDL-FC,"-27.177 [-35.586,-18.768]",5.529e-05,***,Free Cholesterol in HDL
+Total-P,"-27.436 [-35.849,-19.022]",3.820e-05,***,Total-Concentration of Lipoprotein Particles
+S-HDL-PL,"-27.839 [-36.266,-19.413]",2.204e-05,***,Phospholipids in Small HDL
+PC,"-27.893 [-36.368,-19.417]",2.600e-05,***,Phosphatidylcholines
+HDL-P,"-28.197 [-36.601,-19.792]",1.127e-05,***,Concentration of HDL Particles
+Phosphoglyc,"-28.359 [-36.816,-19.903]",1.149e-05,***,Phosphoglycerides
+M-HDL-CE,"-28.918 [-37.350,-20.486]",4.195e-06,***,Cholesteryl Esters in Medium HDL
+M-HDL-C,"-29.352 [-37.780,-20.924]",2.041e-06,***,Cholesterol in Medium HDL
+ApoA1,"-29.729 [-38.150,-21.309]",1.056e-06,***,Apolipoprotein A1
+HDL-L,"-29.833 [-38.254,-21.411]",8.980e-07,***,Total-Lipids in HDL
+M-HDL-FC,"-30.294 [-38.680,-21.908]",3.374e-07,***,Free Cholesterol in Medium HDL
+M-HDL-P,"-30.519 [-38.913,-22.125]",2.421e-07,***,Concentration of Medium HDL Particles
+HDL-PL,"-31.453 [-39.823,-23.082]",4.174e-08,***,Phospholipids in HDL
+M-HDL-L,"-31.672 [-40.068,-23.277]",3.363e-08,***,Total-Lipids in Medium HDL
+M-HDL-PL,"-32.861 [-41.237,-24.485]",3.508e-09,***,Phospholipids in Medium HDL
+GlycA,"-33.413 [-42.318,-24.509]",4.513e-08,***,Glycoprotein Acetyls

@@ -1,0 +1,19 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+HDL-P,547,1.386 [1.261-1.524],3.652e-06,***,Concentration of HDL Particles
+M-HDL-CE,607,1.372 [1.255-1.501],9.244e-07,***,Cholesteryl Esters in Medium HDL
+M-HDL-C,607,1.368 [1.254-1.493],4.833e-07,***,Cholesterol in Medium HDL
+Total-P,531,1.354 [1.229-1.492],2.242e-04,***,Total-Concentration of Lipoprotein Particles
+HDL-CE,611,1.352 [1.245-1.468],1.867e-07,***,Cholesteryl Esters in HDL
+S-HDL-C,410,1.329 [1.197-1.477],0.027,*,Cholesterol in Small HDL
+HDL-C,621,1.326 [1.220-1.441],8.861e-06,***,HDL Cholesterol
+M-HDL-P,598,1.317 [1.209-1.435],7.141e-05,***,Concentration of Medium HDL Particles
+M-HDL-FC,597,1.302 [1.199-1.414],9.253e-05,***,Free Cholesterol in Medium HDL
+M-HDL-L,576,1.297 [1.188-1.415],0.001,**,Total-Lipids in Medium HDL
+HDL-L,598,1.292 [1.193-1.399],7.095e-05,***,Total-Lipids in HDL
+ApoA1,587,1.290 [1.186-1.404],7.779e-04,***,Apolipoprotein A1
+HDL-PL,590,1.258 [1.160-1.365],0.007,**,Phospholipids in HDL
+XL-VLDL-P,599,0.843 [0.762-0.933],1.000,,Concentration of Very Large VLDL Particles
+S-HDL-TG%,677,0.815 [0.748-0.889],0.932,,Triglycerides to Total-Lipids in Small HDL percentage
+XS-VLDL-PL%,375,0.758 [0.675-0.850],0.567,,Phospholipids to Total-Lipids in Very Small VLDL percentage
+M-HDL-PL%,489,0.742 [0.662-0.833],0.087,,Phospholipids to Total-Lipids in Medium HDL percentage
+Lactate,22,0.435 [0.243-0.780],1.000,,Lactate

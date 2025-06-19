@@ -1,0 +1,11 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+LA%,"0.232 [0.179,0.284]",1.115e-12,***,Linoleic Acid to Total-Fatty Acids percentage
+PUFA%,"0.207 [0.154,0.260]",3.315e-09,***,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+Omega-6%,"0.176 [0.124,0.228]",6.212e-06,***,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+Unsaturation,"0.161 [0.110,0.212]",1.558e-04,***,Degree of Unsaturation
+PUFA/MUFA,"0.149 [0.097,0.202]",0.006,**,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+VLDL-C,"-0.014 [-0.062,0.035]",1.000,,VLDL Cholesterol
+M-LDL-TG%,"-0.017 [-0.067,0.033]",1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+Remnant-C,"-0.023 [-0.072,0.026]",1.000,,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
+Total-C,"-0.025 [-0.075,0.025]",1.000,,Total-Cholesterol
+SFA%,"-0.249 [-0.298,-0.200]",3.638e-18,***,Saturated Fatty Acids to Total-Fatty Acids percentage

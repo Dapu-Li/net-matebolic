@@ -1,0 +1,23 @@
+Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
+HDL-CE,1.02 [0.99-1.06],1.000,,Cholesteryl Esters in HDL
+DHA%,1.02 [0.99-1.05],1.000,,Docosahexaenoic Acid to Total-Fatty Acids percentage
+M-LDL-FC%,1.01 [0.98-1.05],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+PUFA/MUFA,1.01 [0.98-1.04],1.000,,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+Omega-6/Omega-3,1.00 [0.97-1.04],1.000,,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+XL-VLDL-PL%,0.92 [0.90-0.95],0.021,*,Phospholipids to Total-Lipids in Very Large VLDL percentage
+M-VLDL-CE,0.92 [0.90-0.95],0.039,*,Cholesteryl Esters in Medium VLDL
+M-VLDL-FC,0.92 [0.90-0.95],0.045,*,Free Cholesterol in Medium VLDL
+S-VLDL-C,0.92 [0.90-0.95],0.042,*,Cholesterol in Small VLDL
+L-LDL-P,0.92 [0.89-0.95],0.037,*,Concentration of Large LDL Particles
+IDL-PL,0.92 [0.89-0.95],0.040,*,Phospholipids in IDL
+S-LDL-CE,0.92 [0.89-0.95],0.039,*,Cholesteryl Esters in Small LDL
+LDL-P,0.92 [0.89-0.95],0.027,*,Concentration of LDL Particles
+XS-VLDL-C,0.92 [0.89-0.95],0.030,*,Cholesterol in Very Small VLDL
+XS-VLDL-CE,0.92 [0.89-0.95],0.031,*,Cholesteryl Esters in Very Small VLDL
+M-VLDL-C,0.92 [0.89-0.95],0.015,*,Cholesterol in Medium VLDL
+S-LDL-P,0.92 [0.89-0.95],0.017,*,Concentration of Small LDL Particles
+Non-HDL-C,0.92 [0.89-0.95],0.009,**,Total-Cholesterol Minus HDL-C
+ApoB,0.92 [0.89-0.95],0.006,**,Apolipoprotein B
+VLDL-C,0.92 [0.89-0.95],0.005,**,VLDL Cholesterol
+Remnant-C,0.92 [0.89-0.94],0.003,**,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
+VLDL-CE,0.92 [0.89-0.94],0.003,**,Cholesteryl Esters in VLDL

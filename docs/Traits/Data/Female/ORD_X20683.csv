@@ -1,0 +1,11 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+Omega-3%,"0.156 [0.097,0.215]",0.043,*,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+DHA%,"0.153 [0.091,0.216]",0.336,,Docosahexaenoic Acid to Total-Fatty Acids percentage
+Val,"0.073 [0.016,0.130]",1.000,,Valine
+Total-BCAA,"0.073 [0.016,0.129]",1.000,,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+M-LDL-FC%,"0.019 [-0.045,0.083]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+M-HDL-FC%,"-0.006 [-0.072,0.059]",1.000,,Free Cholesterol to Total-Lipids in Medium HDL percentage
+M-HDL-TG%,"-0.024 [-0.082,0.034]",1.000,,Triglycerides to Total-Lipids in Medium HDL percentage
+LA,"-0.142 [-0.200,-0.083]",0.418,,Linoleic Acid
+Omega-6/Omega-3,"-0.169 [-0.229,-0.110]",0.005,**,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+LA%,"-0.193 [-0.257,-0.128]",0.001,**,Linoleic Acid to Total-Fatty Acids percentage

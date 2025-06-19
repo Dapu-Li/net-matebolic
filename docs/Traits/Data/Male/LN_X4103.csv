@@ -1,0 +1,24 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+PUFA/MUFA,"2.576 [2.113,3.039]",2.582e-22,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+Unsaturation,"2.227 [1.760,2.693]",1.944e-15,***,Degree of Unsaturation
+PUFA%,"2.224 [1.776,2.672]",5.429e-17,***,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+DHA%,"1.966 [1.513,2.419]",4.153e-12,***,Docosahexaenoic Acid to Total-Fatty Acids percentage
+Omega-6%,"1.714 [1.268,2.160]",1.150e-08,***,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+LA%,"1.544 [1.080,2.007]",1.527e-05,***,Linoleic Acid to Total-Fatty Acids percentage
+Omega-3%,"1.508 [1.047,1.968]",3.324e-05,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+S-LDL-FC%,"1.284 [0.848,1.721]",0.002,**,Free Cholesterol to Total-Lipids in Small LDL percentage
+DHA,"1.267 [0.790,1.745]",0.046,*,Docosahexaenoic Acid
+S-HDL-C%,"1.222 [0.768,1.677]",0.031,*,Cholesterol to Total-Lipids in Small HDL percentage
+M-LDL-FC%,"1.186 [0.743,1.629]",0.036,*,Free Cholesterol to Total-Lipids in Medium LDL percentage
+SFA,"-1.220 [-1.657,-0.783]",0.010,*,Saturated Fatty Acids
+XXL-VLDL-P,"-1.310 [-1.761,-0.858]",0.003,**,Concentration of Chylomicrons and Extremely Large VLDL Particles
+Pyruvate,"-1.334 [-1.714,-0.954]",1.440e-06,***,Pyruvate
+XXL-VLDL-TG,"-1.350 [-1.803,-0.897]",0.001,**,Triglycerides in Chylomicrons and Extremely Large VLDL
+XXL-VLDL-FC,"-1.374 [-1.829,-0.919]",7.477e-04,***,Free Cholesterol in Chylomicrons and Extremely Large VLDL
+XXL-VLDL-PL,"-1.377 [-1.832,-0.922]",6.918e-04,***,Phospholipids in Chylomicrons and Extremely Large VLDL
+XXL-VLDL-CE,"-1.399 [-1.858,-0.940]",5.415e-04,***,Cholesteryl Esters in Chylomicrons and Extremely Large VLDL
+XXL-VLDL-C,"-1.407 [-1.865,-0.949]",4.089e-04,***,Cholesterol in Chylomicrons and Extremely Large VLDL
+XXL-VLDL-L,"-1.411 [-1.868,-0.953]",3.528e-04,***,Total-Lipids in Chylomicrons and Extremely Large VLDL
+MUFA,"-1.671 [-2.111,-1.231]",2.408e-08,***,Monounsaturated Fatty Acids
+GlycA,"-2.472 [-2.938,-2.007]",5.594e-20,***,Glycoprotein Acetyls
+MUFA%,"-2.548 [-3.012,-2.083]",1.537e-21,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage

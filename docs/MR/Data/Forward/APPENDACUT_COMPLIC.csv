@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Leu,36,1.153 [0.977-1.362],1.000,,Leucine
+XS-VLDL-PL%,375,1.068 [1.029-1.107],1.000,,Phospholipids to Total-Lipids in Very Small VLDL percentage
+L-LDL-PL%,382,1.046 [1.015-1.077],1.000,,Phospholipids to Total-Lipids in Large LDL percentage
+Omega-6/Omega-3,257,1.034 [1.016-1.053],1.000,,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+S-LDL-PL%,510,1.023 [0.991-1.057],1.000,,Phospholipids to Total-Lipids in Small LDL percentage
+S-VLDL-FC,593,0.947 [0.921-0.973],1.000,,Free Cholesterol in Small VLDL
+Remnant-C,577,0.937 [0.912-0.963],0.854,,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
+Total-C,563,0.929 [0.901-0.958],0.466,,Total-Cholesterol
+PUFA,699,0.921 [0.897-0.946],5.346e-04,***,Polyunsaturated Fatty Acids
+Omega-6,651,0.920 [0.892-0.948],0.014,*,Omega-6 Fatty Acids

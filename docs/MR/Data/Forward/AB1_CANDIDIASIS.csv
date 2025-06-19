@@ -1,0 +1,13 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+XS-VLDL-PL%,375,1.139 [1.083-1.198],0.113,,Phospholipids to Total-Lipids in Very Small VLDL percentage
+M-LDL-CE%,368,1.139 [1.088-1.191],0.004,**,Cholesteryl Esters to Total-Lipids in Medium LDL percentage
+IDL-PL%,289,1.138 [1.091-1.186],4.973e-04,***,Phospholipids to Total-Lipids in IDL percentage
+M-HDL-PL%,489,1.109 [1.065-1.156],0.192,,Phospholipids to Total-Lipids in Medium HDL percentage
+XS-VLDL-TG%,661,1.095 [1.058-1.134],0.068,,Triglycerides to Total-Lipids in Very Small VLDL percentage
+IDL-C%,558,0.915 [0.886-0.946],0.027,*,Cholesterol to Total-Lipids in IDL percentage
+XS-VLDL-C%,642,0.899 [0.868-0.931],5.921e-04,***,Cholesterol to Total-Lipids in Very Small VLDL percentage
+M-VLDL-C%,604,0.899 [0.865-0.934],0.009,**,Cholesterol to Total-Lipids in Medium VLDL percentage
+XS-VLDL-CE%,644,0.898 [0.867-0.931],6.643e-04,***,Cholesteryl Esters to Total-Lipids in Very Small VLDL percentage
+IDL-CE%,420,0.893 [0.862-0.924],3.966e-05,***,Cholesteryl Esters to Total-Lipids in IDL percentage
+M-VLDL-CE%,597,0.892 [0.859-0.927],0.001,**,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
+XL-VLDL-CE%,485,0.887 [0.849-0.928],0.037,*,Cholesteryl Esters to Total-Lipids in Very Large VLDL percentage

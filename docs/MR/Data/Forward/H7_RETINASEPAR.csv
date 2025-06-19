@@ -1,0 +1,66 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+IDL-FC%,332,1.425 [1.307-1.554],2.339e-10,***,Free Cholesterol to Total-Lipids in IDL percentage
+PUFA%,371,1.410 [1.282-1.550],3.831e-07,***,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+L-HDL-CE%,562,1.322 [1.232-1.418],1.706e-09,***,Cholesteryl Esters to Total-Lipids in Large HDL percentage
+PUFA/MUFA,484,1.303 [1.210-1.403],6.840e-07,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+L-HDL-C%,622,1.300 [1.216-1.389],3.173e-09,***,Cholesterol to Total-Lipids in Large HDL percentage
+M-HDL-C%,632,1.289 [1.207-1.376],7.122e-09,***,Cholesterol to Total-Lipids in Medium HDL percentage
+L-LDL-C%,403,1.287 [1.190-1.391],5.590e-05,***,Cholesterol to Total-Lipids in Large LDL percentage
+XL-VLDL-CE%,485,1.270 [1.164-1.385],0.017,*,Cholesteryl Esters to Total-Lipids in Very Large VLDL percentage
+M-VLDL-CE%,597,1.268 [1.178-1.365],6.458e-05,***,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
+M-LDL-FC%,651,1.260 [1.181-1.344],7.238e-07,***,Free Cholesterol to Total-Lipids in Medium LDL percentage
+XL-VLDL-C%,486,1.258 [1.153-1.371],0.050,*,Cholesterol to Total-Lipids in Very Large VLDL percentage
+M-HDL-CE%,557,1.254 [1.173-1.341],8.451e-06,***,Cholesteryl Esters to Total-Lipids in Medium HDL percentage
+XS-VLDL-CE%,644,1.247 [1.160-1.340],4.172e-04,***,Cholesteryl Esters to Total-Lipids in Very Small VLDL percentage
+M-VLDL-C%,604,1.246 [1.158-1.342],0.001,**,Cholesterol to Total-Lipids in Medium VLDL percentage
+S-VLDL-PL%,600,1.240 [1.159-1.327],1.301e-04,***,Phospholipids to Total-Lipids in Small VLDL percentage
+S-LDL-PL%,510,1.235 [1.144-1.333],0.016,*,Phospholipids to Total-Lipids in Small LDL percentage
+S-VLDL-FC%,609,1.235 [1.153-1.322],4.132e-04,***,Free Cholesterol to Total-Lipids in Small VLDL percentage
+XS-VLDL-C%,642,1.232 [1.152-1.318],3.270e-04,***,Cholesterol to Total-Lipids in Very Small VLDL percentage
+L-LDL-FC%,687,1.225 [1.144-1.311],0.001,**,Free Cholesterol to Total-Lipids in Large LDL percentage
+DHA%,240,1.214 [1.135-1.299],0.004,**,Docosahexaenoic Acid to Total-Fatty Acids percentage
+HDL-CE,611,1.211 [1.130-1.298],0.014,*,Cholesteryl Esters in HDL
+HDL-C,621,1.209 [1.132-1.292],0.004,**,HDL Cholesterol
+Unsaturation,310,1.200 [1.142-1.261],1.375e-07,***,Degree of Unsaturation
+S-HDL-C%,436,1.198 [1.122-1.279],0.016,*,Cholesterol to Total-Lipids in Small HDL percentage
+S-LDL-FC%,578,1.185 [1.113-1.263],0.033,*,Free Cholesterol to Total-Lipids in Small LDL percentage
+XL-HDL-FC,590,1.182 [1.114-1.253],0.008,**,Free Cholesterol in Very Large HDL
+L-HDL-CE,698,1.179 [1.109-1.254],0.031,*,Cholesteryl Esters in Large HDL
+S-VLDL-P,669,0.830 [0.774-0.890],0.043,*,Concentration of Small VLDL Particles
+S-VLDL-TG,687,0.827 [0.773-0.884],0.006,**,Triglycerides in Small VLDL
+XS-VLDL-TG%,661,0.824 [0.772-0.881],0.002,**,Triglycerides to Total-Lipids in Very Small VLDL percentage
+XL-VLDL-CE,617,0.824 [0.766-0.886],0.038,*,Cholesteryl Esters in Very Large VLDL
+S-LDL-TG,690,0.823 [0.769-0.881],0.006,**,Triglycerides in Small LDL
+L-VLDL-PL%,580,0.819 [0.766-0.876],0.001,**,Phospholipids to Total-Lipids in Large VLDL percentage
+M-VLDL-TG,613,0.816 [0.759-0.878],0.011,*,Triglycerides in Medium VLDL
+M-VLDL-TG%,609,0.816 [0.758-0.879],0.018,*,Triglycerides to Total-Lipids in Medium VLDL percentage
+S-HDL-TG,681,0.814 [0.766-0.866],1.527e-05,***,Triglycerides in Small HDL
+L-VLDL-C,622,0.812 [0.754-0.875],0.011,*,Cholesterol in Large VLDL
+XXL-VLDL-FC,557,0.809 [0.753-0.870],0.002,**,Free Cholesterol in Chylomicrons and Extremely Large VLDL
+S-LDL-CE%,545,0.808 [0.750-0.871],0.006,**,Cholesteryl Esters to Total-Lipids in Small LDL percentage
+L-VLDL-TG,567,0.808 [0.750-0.871],0.006,**,Triglycerides in Large VLDL
+M-HDL-TG%,657,0.804 [0.756-0.855],7.043e-07,***,Triglycerides to Total-Lipids in Medium HDL percentage
+S-HDL-TG%,677,0.801 [0.753-0.853],1.121e-06,***,Triglycerides to Total-Lipids in Small HDL percentage
+XXL-VLDL-C,589,0.801 [0.746-0.859],1.578e-04,***,Cholesterol in Chylomicrons and Extremely Large VLDL
+XXL-VLDL-PL,556,0.799 [0.744-0.859],2.146e-04,***,Phospholipids in Chylomicrons and Extremely Large VLDL
+XXL-VLDL-P,529,0.798 [0.740-0.860],7.901e-04,***,Concentration of Chylomicrons and Extremely Large VLDL Particles
+XXL-VLDL-L,514,0.797 [0.737-0.861],0.002,**,Total-Lipids in Chylomicrons and Extremely Large VLDL
+VLDL-TG,582,0.795 [0.738-0.857],3.931e-04,***,Triglycerides in VLDL
+MUFA%,525,0.795 [0.744-0.849],2.685e-06,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+XL-VLDL-C,639,0.795 [0.736-0.858],0.001,**,Cholesterol in Very Large VLDL
+Total-TG,641,0.793 [0.735-0.854],3.167e-04,***,Total-Triglycerides
+L-VLDL-L,609,0.791 [0.734-0.854],3.263e-04,***,Total-Lipids in Large VLDL
+TG/PG,632,0.789 [0.732-0.850],1.374e-04,***,Triglycerides to Phosphoglycerides ratio
+L-VLDL-FC,648,0.786 [0.729-0.849],1.493e-04,***,Free Cholesterol in Large VLDL
+XL-VLDL-TG,570,0.786 [0.730-0.847],5.711e-05,***,Triglycerides in Very Large VLDL
+XL-HDL-TG%,642,0.785 [0.736-0.838],1.061e-07,***,Triglycerides to Total-Lipids in Very Large HDL percentage
+XXL-VLDL-CE,621,0.784 [0.730-0.843],6.811e-06,***,Cholesteryl Esters in Chylomicrons and Extremely Large VLDL
+L-VLDL-P,622,0.783 [0.725-0.845],9.349e-05,***,Concentration of Large VLDL Particles
+XL-VLDL-FC,610,0.783 [0.724-0.845],1.126e-04,***,Free Cholesterol in Very Large VLDL
+L-HDL-TG%,637,0.779 [0.731-0.830],3.647e-09,***,Triglycerides to Total-Lipids in Large HDL percentage
+L-VLDL-PL,637,0.779 [0.723-0.839],9.228e-06,***,Phospholipids in Large VLDL
+XL-VLDL-L,578,0.775 [0.718-0.836],9.665e-06,***,Total-Lipids in Very Large VLDL
+XL-VLDL-P,599,0.772 [0.714-0.834],1.368e-05,***,Concentration of Very Large VLDL Particles
+XL-VLDL-PL,607,0.771 [0.714-0.833],8.593e-06,***,Phospholipids in Very Large VLDL
+M-HDL-PL%,489,0.770 [0.711-0.835],5.114e-05,***,Phospholipids to Total-Lipids in Medium HDL percentage
+XXL-VLDL-PL%,261,0.749 [0.680-0.825],0.001,**,Phospholipids to Total-Lipids in Chylomicrons and Extremely Large VLDL percentage

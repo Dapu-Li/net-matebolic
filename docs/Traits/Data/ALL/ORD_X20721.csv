@@ -1,0 +1,33 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+DHA%,"0.314 [0.271,0.358]",6.083e-40,***,Docosahexaenoic Acid to Total-Fatty Acids percentage
+Omega-3%,"0.314 [0.271,0.356]",2.246e-42,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+DHA,"0.307 [0.265,0.350]",8.248e-40,***,Docosahexaenoic Acid
+Omega-3,"0.263 [0.221,0.304]",1.980e-29,***,Omega-3 Fatty Acids
+Unsaturation,"0.202 [0.158,0.246]",4.059e-14,***,Degree of Unsaturation
+HDL-C,"0.163 [0.117,0.210]",9.314e-07,***,HDL Cholesterol
+HDL-CE,"0.162 [0.116,0.208]",1.167e-06,***,Cholesteryl Esters in HDL
+M-HDL-FC,"0.161 [0.116,0.205]",2.967e-07,***,Free Cholesterol in Medium HDL
+HDL-FC,"0.160 [0.114,0.205]",1.375e-06,***,Free Cholesterol in HDL
+M-HDL-C,"0.159 [0.115,0.204]",5.390e-07,***,Cholesterol in Medium HDL
+M-HDL-CE,"0.158 [0.114,0.203]",6.506e-07,***,Cholesteryl Esters in Medium HDL
+HDL-L,"0.157 [0.111,0.202]",3.889e-06,***,Total-Lipids in HDL
+M-HDL-P,"0.155 [0.110,0.199]",1.390e-06,***,Concentration of Medium HDL Particles
+HDL-PL,"0.152 [0.107,0.197]",8.894e-06,***,Phospholipids in HDL
+ApoA1,"0.152 [0.107,0.196]",5.538e-06,***,Apolipoprotein A1
+L-HDL-PL,"0.148 [0.101,0.194]",9.441e-05,***,Phospholipids in Large HDL
+M-HDL-L,"0.148 [0.104,0.192]",1.197e-05,***,Total-Lipids in Medium HDL
+HDL-P,"0.144 [0.101,0.187]",1.060e-05,***,Concentration of HDL Particles
+L-HDL-L,"0.143 [0.096,0.190]",5.002e-04,***,Total-Lipids in Large HDL
+M-HDL-PL,"0.141 [0.098,0.185]",5.482e-05,***,Phospholipids in Medium HDL
+M-HDL-FC%,"0.141 [0.094,0.188]",8.739e-04,***,Free Cholesterol to Total-Lipids in Medium HDL percentage
+Total-P,"0.137 [0.094,0.179]",8.976e-05,***,Total-Concentration of Lipoprotein Particles
+L-HDL-P,"0.136 [0.090,0.182]",0.001,**,Concentration of Large HDL Particles
+L-HDL-C,"0.134 [0.087,0.181]",0.004,**,Cholesterol in Large HDL
+L-HDL-CE,"0.133 [0.086,0.179]",0.005,**,Cholesteryl Esters in Large HDL
+L-HDL-FC,"0.133 [0.087,0.178]",0.003,**,Free Cholesterol in Large HDL
+SM,"0.121 [0.078,0.164]",0.009,**,Sphingomyelins
+Citrate,"-0.114 [-0.156,-0.073]",0.014,*,Citrate
+Gly,"-0.127 [-0.169,-0.084]",0.001,**,Glycine
+MUFA%,"-0.130 [-0.175,-0.085]",0.003,**,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+LA%,"-0.152 [-0.197,-0.106]",1.222e-05,***,Linoleic Acid to Total-Fatty Acids percentage
+Omega-6/Omega-3,"-0.317 [-0.359,-0.274]",8.605e-43,***,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio

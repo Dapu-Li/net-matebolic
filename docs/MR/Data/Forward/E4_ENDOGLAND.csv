@@ -1,0 +1,22 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Omega-6%,366,1.061 [1.028-1.095],1.000,,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+L-HDL-CE%,562,1.032 [1.007-1.057],1.000,,Cholesteryl Esters to Total-Lipids in Large HDL percentage
+S-LDL-FC%,578,1.024 [1.002-1.047],1.000,,Free Cholesterol to Total-Lipids in Small LDL percentage
+M-VLDL-TG%,609,1.019 [0.996-1.042],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
+XXL-VLDL-CE%,176,1.018 [0.986-1.051],1.000,,Cholesteryl Esters to Total-Lipids in Chylomicrons and Extremely Large VLDL percentage
+S-VLDL-L,665,0.944 [0.924-0.965],0.033,*,Total-Lipids in Small VLDL
+S-VLDL-C,618,0.944 [0.924-0.964],0.024,*,Cholesterol in Small VLDL
+Remnant-C,577,0.944 [0.924-0.964],0.019,*,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
+L-VLDL-CE,614,0.941 [0.920-0.962],0.014,*,Cholesteryl Esters in Large VLDL
+VLDL-C,644,0.940 [0.919-0.961],0.012,*,VLDL Cholesterol
+VLDL-FC,630,0.940 [0.919-0.961],0.019,*,Free Cholesterol in VLDL
+Cholines,620,0.938 [0.917-0.960],0.013,*,Total-Cholines
+LA,635,0.937 [0.915-0.959],0.019,*,Linoleic Acid
+S-LDL-CE%,545,0.934 [0.911-0.957],0.014,*,Cholesteryl Esters to Total-Lipids in Small LDL percentage
+Total-PL,628,0.933 [0.912-0.955],0.001,**,Total-Phospholipids in Lipoprotein Particles
+MUFA,654,0.932 [0.910-0.954],0.001,**,Monounsaturated Fatty Acids
+Total-L,626,0.931 [0.909-0.953],5.652e-04,***,Total-Lipids in Lipoprotein Particles
+PUFA,699,0.928 [0.909-0.948],7.788e-07,***,Polyunsaturated Fatty Acids
+SFA,553,0.928 [0.904-0.952],0.002,**,Saturated Fatty Acids
+Total-FA,654,0.926 [0.907-0.946],5.903e-07,***,Total-Fatty Acids
+Omega-6,651,0.922 [0.901-0.944],2.548e-06,***,Omega-6 Fatty Acids

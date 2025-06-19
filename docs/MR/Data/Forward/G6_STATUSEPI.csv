@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+LA,635,1.257 [1.173-1.346],1.554e-05,***,Linoleic Acid
+Omega-6,651,1.240 [1.159-1.328],1.296e-04,***,Omega-6 Fatty Acids
+S-HDL-FC,483,1.223 [1.127-1.328],0.334,,Free Cholesterol in Small HDL
+Total-L,626,1.188 [1.108-1.274],0.306,,Total-Lipids in Lipoprotein Particles
+PUFA,699,1.178 [1.108-1.253],0.039,*,Polyunsaturated Fatty Acids
+S-VLDL-TG%,564,0.990 [0.921-1.065],1.000,,Triglycerides to Total-Lipids in Small VLDL percentage
+L-HDL-CE,698,0.975 [0.919-1.036],1.000,,Cholesteryl Esters in Large HDL
+Unsaturation,310,0.962 [0.914-1.012],1.000,,Degree of Unsaturation
+Val,50,0.960 [0.712-1.295],1.000,,Valine
+L-LDL-TG%,474,0.945 [0.886-1.007],1.000,,Triglycerides to Total-Lipids in Large LDL percentage

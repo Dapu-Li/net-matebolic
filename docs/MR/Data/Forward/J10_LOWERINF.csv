@@ -1,0 +1,33 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Gln,113,1.047 [1.008-1.087],1.000,,Glutamine
+Omega-6%,366,1.030 [1.008-1.053],1.000,,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+HDL-size,600,1.013 [0.999-1.028],1.000,,Average Diameter for HDL Particles
+XL-VLDL-CE%,485,1.008 [0.986-1.030],1.000,,Cholesteryl Esters to Total-Lipids in Very Large VLDL percentage
+L-HDL-C%,622,1.006 [0.988-1.024],1.000,,Cholesterol to Total-Lipids in Large HDL percentage
+S-VLDL-PL,664,0.947 [0.927-0.966],0.035,*,Phospholipids in Small VLDL
+S-LDL-P,566,0.944 [0.926-0.963],0.005,**,Concentration of Small LDL Particles
+M-VLDL-PL,632,0.944 [0.925-0.964],0.010,*,Phospholipids in Medium VLDL
+M-LDL-FC,407,0.943 [0.923-0.964],0.041,*,Free Cholesterol in Medium LDL
+L-LDL-C,488,0.943 [0.923-0.963],0.015,*,Cholesterol in Large LDL
+Clinical LDL-C,463,0.943 [0.923-0.964],0.035,*,Clinical LDL Cholesterol
+LDL-L,502,0.942 [0.923-0.963],0.013,*,Total-Lipids in LDL
+LDL-PL,473,0.941 [0.922-0.962],0.007,**,Phospholipids in LDL
+M-LDL-P,508,0.941 [0.921-0.962],0.011,*,Concentration of Medium LDL Particles
+S-LDL-C,489,0.941 [0.922-0.961],0.005,**,Cholesterol in Small LDL
+LDL-C,476,0.940 [0.920-0.961],0.006,**,LDL Cholesterol
+LDL-CE,506,0.940 [0.920-0.961],0.007,**,Cholesteryl Esters in LDL
+S-LDL-CE,543,0.940 [0.920-0.960],0.005,**,Cholesteryl Esters in Small LDL
+M-LDL-PL,492,0.939 [0.919-0.960],0.003,**,Phospholipids in Medium LDL
+S-LDL-L,511,0.939 [0.920-0.959],5.013e-04,***,Total-Lipids in Small LDL
+M-LDL-CE,550,0.938 [0.918-0.958],6.019e-04,***,Cholesteryl Esters in Medium LDL
+M-LDL-L,531,0.937 [0.918-0.957],4.976e-04,***,Total-Lipids in Medium LDL
+M-LDL-C,525,0.937 [0.917-0.957],7.352e-04,***,Cholesterol in Medium LDL
+Total-L,626,0.936 [0.914-0.958],0.014,*,Total-Lipids in Lipoprotein Particles
+PUFA,699,0.931 [0.910-0.953],2.660e-04,***,Polyunsaturated Fatty Acids
+Total-FA,654,0.929 [0.907-0.953],0.002,**,Total-Fatty Acids
+MUFA,654,0.924 [0.901-0.948],1.861e-04,***,Monounsaturated Fatty Acids
+Omega-6,651,0.916 [0.893-0.940],4.662e-06,***,Omega-6 Fatty Acids
+S-HDL-FC,483,0.915 [0.887-0.945],0.010,**,Free Cholesterol in Small HDL
+S-HDL-L,442,0.910 [0.881-0.939],0.002,**,Total-Lipids in Small HDL
+LA,635,0.907 [0.884-0.931],2.908e-08,***,Linoleic Acid
+GlycA,385,0.880 [0.845-0.917],2.922e-04,***,Glycoprotein Acetyls

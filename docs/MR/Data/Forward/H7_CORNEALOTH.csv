@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+HDL-size,600,1.071 [1.030-1.113],1.000,,Average Diameter for HDL Particles
+L-HDL-CE%,562,1.066 [1.011-1.124],1.000,,Cholesteryl Esters to Total-Lipids in Large HDL percentage
+DHA%,240,1.026 [0.987-1.067],1.000,,Docosahexaenoic Acid to Total-Fatty Acids percentage
+XS-VLDL-TG%,661,1.022 [0.974-1.073],1.000,,Triglycerides to Total-Lipids in Very Small VLDL percentage
+SM,547,1.002 [0.960-1.045],1.000,,Sphingomyelins
+M-VLDL-C,535,0.896 [0.856-0.938],0.583,,Cholesterol in Medium VLDL
+S-VLDL-CE,626,0.893 [0.853-0.935],0.281,,Cholesteryl Esters in Small VLDL
+S-VLDL-C,618,0.891 [0.850-0.933],0.221,,Cholesterol in Small VLDL
+S-VLDL-CE%,509,0.887 [0.849-0.928],0.040,*,Cholesteryl Esters to Total-Lipids in Small VLDL percentage
+ApoB/ApoA1,542,0.860 [0.818-0.904],8.798e-04,***,Apolipoprotein B to Apolipoprotein A1 ratio

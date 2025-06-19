@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+XS-VLDL-PL%,375,1.073 [1.048-1.098],9.778e-04,***,Phospholipids to Total-Lipids in Very Small VLDL percentage
+IDL-PL%,289,1.058 [1.037-1.080],0.008,**,Phospholipids to Total-Lipids in IDL percentage
+XL-HDL-TG%,642,1.011 [0.992-1.030],1.000,,Triglycerides to Total-Lipids in Very Large HDL percentage
+S-HDL-TG,681,1.002 [0.985-1.020],1.000,,Triglycerides in Small HDL
+XXL-VLDL-C,589,1.002 [0.981-1.022],1.000,,Cholesterol in Chylomicrons and Extremely Large VLDL
+Total-L,626,0.946 [0.926-0.967],0.092,,Total-Lipids in Lipoprotein Particles
+L-LDL-FC,474,0.945 [0.925-0.966],0.099,,Free Cholesterol in Large LDL
+Total-FA,654,0.943 [0.923-0.963],0.012,*,Total-Fatty Acids
+PUFA,699,0.938 [0.920-0.956],2.672e-05,***,Polyunsaturated Fatty Acids
+Omega-6,651,0.933 [0.913-0.953],7.651e-05,***,Omega-6 Fatty Acids

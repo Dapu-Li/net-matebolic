@@ -1,0 +1,27 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+M-HDL-CE,"0.274 [0.205,0.343]",1.752e-09,***,Cholesteryl Esters in Medium HDL
+M-HDL-C,"0.274 [0.204,0.343]",2.381e-09,***,Cholesterol in Medium HDL
+M-HDL-FC,"0.268 [0.195,0.340]",9.455e-08,***,Free Cholesterol in Medium HDL
+HDL-CE,"0.267 [0.194,0.340]",1.553e-07,***,Cholesteryl Esters in HDL
+M-HDL-P,"0.265 [0.194,0.336]",6.630e-08,***,Concentration of Medium HDL Particles
+HDL-C,"0.264 [0.191,0.337]",3.611e-07,***,HDL Cholesterol
+M-HDL-L,"0.255 [0.187,0.322]",3.193e-08,***,Total-Lipids in Medium HDL
+HDL-P,"0.255 [0.187,0.323]",5.246e-08,***,Concentration of HDL Particles
+ApoA1,"0.253 [0.184,0.323]",2.431e-07,***,Apolipoprotein A1
+HDL-L,"0.250 [0.179,0.321]",1.026e-06,***,Total-Lipids in HDL
+HDL-PL,"0.249 [0.178,0.320]",1.051e-06,***,Phospholipids in HDL
+M-HDL-PL,"0.249 [0.181,0.316]",1.165e-07,***,Phospholipids in Medium HDL
+HDL-FC,"0.240 [0.163,0.317]",1.986e-04,***,Free Cholesterol in HDL
+Total-P,"0.237 [0.169,0.304]",1.219e-06,***,Total-Concentration of Lipoprotein Particles
+S-HDL-CE,"0.221 [0.158,0.284]",1.720e-06,***,Cholesteryl Esters in Small HDL
+S-HDL-C,"0.216 [0.153,0.279]",4.152e-06,***,Cholesterol in Small HDL
+S-HDL-PL,"0.214 [0.150,0.278]",1.169e-05,***,Phospholipids in Small HDL
+S-HDL-L,"0.206 [0.143,0.270]",4.145e-05,***,Total-Lipids in Small HDL
+S-HDL-P,"0.205 [0.142,0.269]",4.820e-05,***,Concentration of Small HDL Particles
+M-HDL-FC%,"0.179 [0.114,0.244]",0.016,*,Free Cholesterol to Total-Lipids in Medium HDL percentage
+S-HDL-FC,"0.179 [0.115,0.242]",0.007,**,Free Cholesterol in Small HDL
+Val,"-0.010 [-0.073,0.053]",1.000,,Valine
+M-LDL-TG%,"-0.068 [-0.129,-0.008]",1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+M-HDL-TG%,"-0.151 [-0.215,-0.088]",0.626,,Triglycerides to Total-Lipids in Medium HDL percentage
+L-HDL-TG%,"-0.154 [-0.215,-0.093]",0.169,,Triglycerides to Total-Lipids in Large HDL percentage
+S-HDL-TG%,"-0.165 [-0.230,-0.099]",0.192,,Triglycerides to Total-Lipids in Small HDL percentage

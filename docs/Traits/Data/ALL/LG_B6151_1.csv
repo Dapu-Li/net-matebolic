@@ -1,0 +1,26 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+Phosphoglyc,1.13 [1.08-1.17],2.682e-04,***,Phosphoglycerides
+PC,1.12 [1.08-1.17],8.863e-04,***,Phosphatidylcholines
+Cholines,1.12 [1.08-1.17],9.536e-04,***,Total-Cholines
+Total-PL,1.12 [1.08-1.16],0.001,**,Total-Phospholipids in Lipoprotein Particles
+Total-P,1.12 [1.08-1.16],0.001,**,Total-Concentration of Lipoprotein Particles
+S-HDL-PL,1.12 [1.08-1.16],3.582e-04,***,Phospholipids in Small HDL
+S-HDL-L,1.12 [1.08-1.16],8.835e-04,***,Total-Lipids in Small HDL
+S-HDL-FC,1.11 [1.08-1.16],9.608e-04,***,Free Cholesterol in Small HDL
+M-HDL-PL,1.11 [1.07-1.16],0.005,**,Phospholipids in Medium HDL
+HDL-P,1.11 [1.07-1.16],0.005,**,Concentration of HDL Particles
+M-HDL-L,1.11 [1.07-1.16],0.017,*,Total-Lipids in Medium HDL
+ApoA1,1.11 [1.07-1.16],0.027,*,Apolipoprotein A1
+SFA,1.11 [1.07-1.15],0.003,**,Saturated Fatty Acids
+SM,1.11 [1.07-1.15],0.025,*,Sphingomyelins
+M-HDL-FC,1.11 [1.07-1.15],0.048,*,Free Cholesterol in Medium HDL
+M-HDL-P,1.11 [1.07-1.15],0.043,*,Concentration of Medium HDL Particles
+Total-FA,1.11 [1.07-1.15],0.023,*,Total-Fatty Acids
+MUFA,1.10 [1.06-1.15],0.033,*,Monounsaturated Fatty Acids
+S-HDL-P,1.10 [1.06-1.14],0.027,*,Concentration of Small HDL Particles
+S-HDL-C,1.10 [1.06-1.14],0.045,*,Cholesterol in Small HDL
+L-VLDL-CE%,0.99 [0.96-1.03],1.000,,Cholesteryl Esters to Total-Lipids in Large VLDL percentage
+L-LDL-PL%,0.98 [0.94-1.01],1.000,,Phospholipids to Total-Lipids in Large LDL percentage
+M-LDL-FC%,0.96 [0.92-0.99],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+PUFA%,0.91 [0.88-0.95],0.769,,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+Omega-6%,0.91 [0.88-0.94],0.173,,Omega-6 Fatty Acids to Total-Fatty Acids percentage

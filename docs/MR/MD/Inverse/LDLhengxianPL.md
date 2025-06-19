@@ -1,0 +1,21 @@
+# 🧪 LDL-PL
+
+> **Root:** Mendelian Randomization
+
+> **Group:** Concentration  
+
+> **Subgroup:** LDL
+
+> **Phenotype:** Phospholipids in LDL  
+
+> **Abbreviations:** `LDL-PL`
+
+## 🧬 Mendelian Randomization  
+
+<img src="/MR/Figures/Inverse/LDL-PL.png"/>
+
+
+## 📊 Data Table
+
+
+<CsvTableMRI src="/MR/Data/Inverse/LDL-PL.csv"/>

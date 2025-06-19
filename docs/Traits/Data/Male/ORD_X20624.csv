@@ -1,0 +1,11 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+LA%,"0.182 [0.117,0.247]",0.009,**,Linoleic Acid to Total-Fatty Acids percentage
+PUFA%,"0.171 [0.110,0.233]",0.010,*,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+Omega-6%,"0.156 [0.095,0.217]",0.129,,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+PUFA/MUFA,"0.149 [0.086,0.211]",0.783,,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+M-LDL-FC%,"0.092 [0.032,0.151]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+LDL-CE,"-0.005 [-0.067,0.057]",1.000,,Cholesteryl Esters in LDL
+Remnant-C,"-0.014 [-0.076,0.049]",1.000,,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
+VLDL-CE,"-0.017 [-0.080,0.047]",1.000,,Cholesteryl Esters in VLDL
+VLDL-C,"-0.030 [-0.093,0.033]",1.000,,VLDL Cholesterol
+SFA%,"-0.160 [-0.218,-0.102]",0.015,*,Saturated Fatty Acids to Total-Fatty Acids percentage

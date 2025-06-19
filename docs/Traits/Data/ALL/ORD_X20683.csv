@@ -1,0 +1,11 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+SFA%,"0.136 [0.094,0.178]",4.106e-05,***,Saturated Fatty Acids to Total-Fatty Acids percentage
+Omega-3%,"0.126 [0.083,0.168]",0.001,**,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+Omega-3,"0.114 [0.072,0.156]",0.023,*,Omega-3 Fatty Acids
+Total-BCAA,"0.104 [0.061,0.148]",0.614,,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+VLDL-C,"0.029 [-0.013,0.070]",1.000,,VLDL Cholesterol
+Citrate,"-0.103 [-0.145,-0.061]",0.370,,Citrate
+Omega-6%,"-0.138 [-0.183,-0.093]",3.024e-04,***,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+Omega-6/Omega-3,"-0.159 [-0.201,-0.116]",5.409e-08,***,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+Gly,"-0.168 [-0.211,-0.125]",5.370e-09,***,Glycine
+LA%,"-0.196 [-0.241,-0.152]",1.749e-12,***,Linoleic Acid to Total-Fatty Acids percentage

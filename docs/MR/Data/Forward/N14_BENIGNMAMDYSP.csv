@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+DHA%,240,1.098 [1.059-1.139],0.130,,Docosahexaenoic Acid to Total-Fatty Acids percentage
+DHA,289,1.081 [1.051-1.112],0.020,*,Docosahexaenoic Acid
+Omega-3,420,1.078 [1.053-1.104],5.066e-05,***,Omega-3 Fatty Acids
+Omega-3%,215,1.074 [1.049-1.100],8.908e-04,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+Unsaturation,310,1.073 [1.044-1.103],0.129,,Degree of Unsaturation
+S-LDL-FC%,578,0.994 [0.961-1.028],1.000,,Free Cholesterol to Total-Lipids in Small LDL percentage
+L-HDL-L,623,0.985 [0.955-1.016],1.000,,Total-Lipids in Large HDL
+S-HDL-PL%,367,0.966 [0.931-1.003],1.000,,Phospholipids to Total-Lipids in Small HDL percentage
+Omega-6/Omega-3,257,0.930 [0.908-0.952],2.586e-04,***,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+LA%,226,0.879 [0.840-0.921],0.010,**,Linoleic Acid to Total-Fatty Acids percentage

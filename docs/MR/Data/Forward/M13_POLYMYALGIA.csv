@@ -1,0 +1,13 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+S-LDL-PL%,510,1.223 [1.135-1.317],0.027,*,Phospholipids to Total-Lipids in Small LDL percentage
+IDL-FC%,332,1.201 [1.131-1.275],5.929e-04,***,Free Cholesterol to Total-Lipids in IDL percentage
+PUFA%,371,1.182 [1.112-1.256],0.019,*,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+PUFA/MUFA,484,1.157 [1.099-1.219],0.009,**,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+DHA%,240,1.138 [1.092-1.186],2.169e-04,***,Docosahexaenoic Acid to Total-Fatty Acids percentage
+Unsaturation,310,1.106 [1.070-1.144],6.629e-04,***,Degree of Unsaturation
+Omega-3%,215,1.089 [1.055-1.124],0.028,*,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+XL-HDL-TG%,642,0.894 [0.854-0.936],0.492,,Triglycerides to Total-Lipids in Very Large HDL percentage
+XXL-VLDL-PL,556,0.875 [0.828-0.924],0.446,,Phospholipids in Chylomicrons and Extremely Large VLDL
+MUFA%,525,0.861 [0.818-0.905],0.001,**,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+S-HDL-PL,489,0.795 [0.726-0.870],0.157,,Phospholipids in Small HDL
+S-HDL-L,442,0.792 [0.721-0.870],0.280,,Total-Lipids in Small HDL

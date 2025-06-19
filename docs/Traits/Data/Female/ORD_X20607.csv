@@ -1,0 +1,11 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+Creatinine,"0.207 [0.134,0.280]",0.007,**,Creatinine
+Total-C,"0.093 [0.034,0.153]",1.000,,Total-Cholesterol
+Non-HDL-C,"0.087 [0.030,0.144]",1.000,,Total-Cholesterol Minus HDL-C
+Remnant-C,"0.086 [0.029,0.142]",1.000,,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
+VLDL-C,"0.069 [0.013,0.124]",1.000,,VLDL Cholesterol
+L-VLDL-CE%,"-0.004 [-0.063,0.054]",1.000,,Cholesteryl Esters to Total-Lipids in Large VLDL percentage
+L-HDL-FC%,"-0.008 [-0.084,0.068]",1.000,,Free Cholesterol to Total-Lipids in Large HDL percentage
+M-LDL-FC%,"-0.021 [-0.087,0.044]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+L-LDL-TG%,"-0.035 [-0.096,0.027]",1.000,,Triglycerides to Total-Lipids in Large LDL percentage
+L-HDL-CE%,"-0.041 [-0.120,0.037]",1.000,,Cholesteryl Esters to Total-Lipids in Large HDL percentage

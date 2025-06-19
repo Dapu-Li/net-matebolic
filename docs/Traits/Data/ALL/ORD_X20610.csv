@@ -1,0 +1,11 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+Leu,"0.119 [0.077,0.161]",0.005,**,Leucine
+Total-BCAA,"0.119 [0.076,0.161]",0.008,**,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+Val,"0.115 [0.072,0.157]",0.029,*,Valine
+Ile,"0.104 [0.063,0.145]",0.147,,Isoleucine
+SFA%,"0.102 [0.060,0.143]",0.381,,Saturated Fatty Acids to Total-Fatty Acids percentage
+L-HDL-FC%,"-0.018 [-0.063,0.027]",1.000,,Free Cholesterol to Total-Lipids in Large HDL percentage
+L-LDL-C%,"-0.019 [-0.063,0.025]",1.000,,Cholesterol to Total-Lipids in Large LDL percentage
+M-LDL-FC%,"-0.026 [-0.070,0.018]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+Omega-6/Omega-3,"-0.105 [-0.147,-0.063]",0.234,,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+LA%,"-0.123 [-0.167,-0.078]",0.017,*,Linoleic Acid to Total-Fatty Acids percentage

@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Phe,17,1.125 [0.859-1.472],1.000,,Phenylalanine
+HDL-C,621,1.052 [1.010-1.095],1.000,,HDL Cholesterol
+L-HDL-P,633,1.046 [1.009-1.084],1.000,,Concentration of Large HDL Particles
+HDL-L,598,1.039 [0.995-1.086],1.000,,Total-Lipids in HDL
+L-VLDL-TG%,369,1.020 [0.979-1.062],1.000,,Triglycerides to Total-Lipids in Large VLDL percentage
+S-VLDL-L,665,0.907 [0.871-0.944],0.485,,Total-Lipids in Small VLDL
+XL-VLDL-FC,610,0.903 [0.865-0.943],0.866,,Free Cholesterol in Very Large VLDL
+S-HDL-PL,489,0.872 [0.825-0.923],0.456,,Phospholipids in Small HDL
+S-HDL-L,442,0.864 [0.815-0.917],0.294,,Total-Lipids in Small HDL
+GlycA,385,0.798 [0.744-0.855],4.206e-05,***,Glycoprotein Acetyls

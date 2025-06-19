@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+M-LDL-C%,"1.625 [1.025,2.224]",0.025,*,Cholesterol to Total-Lipids in Medium LDL percentage
+S-LDL-C%,"1.569 [0.979,2.160]",0.044,*,Cholesterol to Total-Lipids in Small LDL percentage
+IDL-FC,"1.477 [0.892,2.062]",0.170,,Free Cholesterol in IDL
+Total-CE,"1.450 [0.861,2.039]",0.319,,Total-Esterified Cholesterol
+IDL-C,"1.446 [0.859,2.034]",0.318,,Cholesterol in IDL
+L-HDL-TG%,"-0.113 [-0.701,0.475]",1.000,,Triglycerides to Total-Lipids in Large HDL percentage
+M-LDL-PL%,"-0.665 [-1.223,-0.106]",1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+L-HDL-PL%,"-1.079 [-1.709,-0.450]",1.000,,Phospholipids to Total-Lipids in Large HDL percentage
+IDL-TG%,"-1.282 [-1.884,-0.681]",1.000,,Triglycerides to Total-Lipids in IDL percentage
+Creatinine,"-2.407 [-2.993,-1.821]",1.971e-10,***,Creatinine

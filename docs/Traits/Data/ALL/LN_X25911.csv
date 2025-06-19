@@ -1,0 +1,16 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+LA%,"34.568 [24.406,44.731]",6.085e-06,***,Linoleic Acid to Total-Fatty Acids percentage
+ApoB/ApoA1,"29.677 [20.206,39.148]",1.894e-04,***,Apolipoprotein B to Apolipoprotein A1 ratio
+S-LDL-C%,"28.344 [18.671,38.018]",0.002,**,Cholesterol to Total-Lipids in Small LDL percentage
+L-LDL-C%,"26.694 [16.658,36.730]",0.043,*,Cholesterol to Total-Lipids in Large LDL percentage
+XL-HDL-C%,"24.533 [15.207,33.860]",0.058,,Cholesterol to Total-Lipids in Very Large HDL percentage
+M-HDL-FC,"-25.478 [-34.949,-16.007]",0.031,*,Free Cholesterol in Medium HDL
+M-LDL-TG%,"-25.801 [-35.514,-16.088]",0.044,*,Triglycerides to Total-Lipids in Medium LDL percentage
+L-HDL-PL,"-25.888 [-35.361,-16.416]",0.020,*,Phospholipids in Large HDL
+L-LDL-TG%,"-26.824 [-36.657,-16.992]",0.021,*,Triglycerides to Total-Lipids in Large LDL percentage
+M-HDL-L,"-27.002 [-36.484,-17.520]",0.006,**,Total-Lipids in Medium HDL
+GlycA,"-27.304 [-37.362,-17.247]",0.024,*,Glycoprotein Acetyls
+HDL-PL,"-27.979 [-37.432,-18.526]",0.002,**,Phospholipids in HDL
+L-HDL-PL%,"-28.542 [-38.849,-18.234]",0.013,*,Phospholipids to Total-Lipids in Large HDL percentage
+M-HDL-PL,"-29.184 [-38.644,-19.724]",3.427e-04,***,Phospholipids in Medium HDL
+S-HDL-PL%,"-35.409 [-44.590,-26.228]",9.584e-09,***,Phospholipids to Total-Lipids in Small HDL percentage

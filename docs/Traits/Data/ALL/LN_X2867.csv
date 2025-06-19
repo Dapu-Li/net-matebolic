@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+PUFA/MUFA,"0.100 [0.067,0.134]",0.001,**,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+PUFA%,"0.094 [0.062,0.127]",0.002,**,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+LA%,"0.093 [0.061,0.125]",0.004,**,Linoleic Acid to Total-Fatty Acids percentage
+Unsaturation,"0.086 [0.053,0.119]",0.077,,Degree of Unsaturation
+L-LDL-C%,"0.078 [0.046,0.110]",0.333,,Cholesterol to Total-Lipids in Large LDL percentage
+VLDL-C,"-0.007 [-0.038,0.024]",1.000,,VLDL Cholesterol
+Tyr,"-0.011 [-0.043,0.021]",1.000,,Tyrosine
+Phe,"-0.039 [-0.070,-0.007]",1.000,,Phenylalanine
+GlycA,"-0.085 [-0.118,-0.052]",0.119,,Glycoprotein Acetyls
+MUFA%,"-0.092 [-0.125,-0.058]",0.022,*,Monounsaturated Fatty Acids to Total-Fatty Acids percentage

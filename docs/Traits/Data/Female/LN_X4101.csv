@@ -1,0 +1,13 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+Creatinine,"0.652 [0.419,0.885]",0.010,*,Creatinine
+DHA%,"0.511 [0.309,0.713]",0.167,,Docosahexaenoic Acid to Total-Fatty Acids percentage
+L-VLDL-TG%,"0.317 [0.148,0.486]",1.000,,Triglycerides to Total-Lipids in Large VLDL percentage
+M-HDL-PL%,"0.126 [-0.087,0.339]",1.000,,Phospholipids to Total-Lipids in Medium HDL percentage
+M-HDL-CE%,"0.029 [-0.177,0.235]",1.000,,Cholesteryl Esters to Total-Lipids in Medium HDL percentage
+XL-VLDL-PL%,"-0.446 [-0.611,-0.281]",0.028,*,Phospholipids to Total-Lipids in Very Large VLDL percentage
+M-VLDL-C,"-0.487 [-0.667,-0.307]",0.025,*,Cholesterol in Medium VLDL
+Gly,"-0.496 [-0.662,-0.330]",0.001,**,Glycine
+LA,"-0.504 [-0.691,-0.317]",0.029,*,Linoleic Acid
+Omega-6,"-0.504 [-0.693,-0.315]",0.037,*,Omega-6 Fatty Acids
+M-VLDL-CE,"-0.510 [-0.692,-0.329]",0.008,**,Cholesteryl Esters in Medium VLDL
+GlycA,"-0.663 [-0.859,-0.468]",7.415e-06,***,Glycoprotein Acetyls

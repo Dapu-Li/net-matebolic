@@ -1,0 +1,21 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+PUFA%,371,1.226 [1.156-1.302],4.527e-06,***,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+DHA%,240,1.224 [1.174-1.277],1.309e-15,***,Docosahexaenoic Acid to Total-Fatty Acids percentage
+L-LDL-C%,403,1.208 [1.135-1.287],8.773e-04,***,Cholesterol to Total-Lipids in Large LDL percentage
+HDL-P,547,1.200 [1.128-1.276],0.002,**,Concentration of HDL Particles
+Total-P,531,1.196 [1.120-1.277],0.022,*,Total-Concentration of Lipoprotein Particles
+Unsaturation,310,1.190 [1.150-1.231],3.775e-18,***,Degree of Unsaturation
+DHA,289,1.188 [1.146-1.232],2.612e-15,***,Docosahexaenoic Acid
+PUFA/MUFA,484,1.182 [1.128-1.239],5.835e-07,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+Omega-3%,215,1.157 [1.123-1.192],5.361e-16,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+HDL-CE,611,1.151 [1.092-1.212],0.037,*,Cholesteryl Esters in HDL
+M-HDL-P,598,1.145 [1.090-1.204],0.022,*,Concentration of Medium HDL Particles
+ApoA1,587,1.143 [1.089-1.201],0.021,*,Apolipoprotein A1
+M-HDL-FC,597,1.141 [1.086-1.199],0.044,*,Free Cholesterol in Medium HDL
+Omega-3,420,1.138 [1.105-1.173],5.521e-12,***,Omega-3 Fatty Acids
+M-HDL-FC%,609,1.128 [1.080-1.179],0.017,*,Free Cholesterol to Total-Lipids in Medium HDL percentage
+S-HDL-TG%,677,0.889 [0.849-0.930],0.082,,Triglycerides to Total-Lipids in Small HDL percentage
+Omega-6/Omega-3,257,0.867 [0.840-0.895],1.802e-13,***,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+M-HDL-PL%,489,0.851 [0.797-0.908],0.240,,Phospholipids to Total-Lipids in Medium HDL percentage
+MUFA%,525,0.846 [0.811-0.883],3.836e-09,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+XS-VLDL-PL%,375,0.795 [0.741-0.853],4.745e-05,***,Phospholipids to Total-Lipids in Very Small VLDL percentage

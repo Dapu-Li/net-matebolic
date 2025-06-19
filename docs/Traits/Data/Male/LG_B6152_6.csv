@@ -1,0 +1,54 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+GlycA,"1.333 [1.271,1.398]",1.204e-26,***,Glycoprotein Acetyls
+Omega-6/Omega-3,"1.189 [1.135,1.247]",9.144e-08,***,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+MUFA%,"1.160 [1.105,1.218]",6.536e-04,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+L-LDL-TG%,"1.154 [1.102,1.208]",2.137e-04,***,Triglycerides to Total-Lipids in Large LDL percentage
+M-LDL-TG%,"1.147 [1.095,1.201]",0.001,**,Triglycerides to Total-Lipids in Medium LDL percentage
+Remnant-C,"0.884 [0.843,0.926]",0.050,*,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
+LA%,"0.883 [0.843,0.924]",0.024,*,Linoleic Acid to Total-Fatty Acids percentage
+L-LDL-PL,"0.880 [0.839,0.924]",0.049,*,Phospholipids in Large LDL
+S-LDL-L,"0.880 [0.838,0.923]",0.042,*,Total-Lipids in Small LDL
+LDL-PL,"0.880 [0.839,0.923]",0.032,*,Phospholipids in LDL
+L-LDL-L,"0.880 [0.839,0.922]",0.016,*,Total-Lipids in Large LDL
+LDL-L,"0.878 [0.839,0.920]",0.009,**,Total-Lipids in LDL
+Clinical LDL-C,"0.878 [0.839,0.919]",0.006,**,Clinical LDL Cholesterol
+PUFA%,"0.878 [0.840,0.918]",0.002,**,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+Non-HDL-C,"0.877 [0.838,0.918]",0.005,**,Total-Cholesterol Minus HDL-C
+S-LDL-P,"0.877 [0.834,0.921]",0.044,*,Concentration of Small LDL Particles
+M-VLDL-L,"0.876 [0.835,0.920]",0.023,*,Total-Lipids in Medium VLDL
+M-LDL-PL,"0.876 [0.834,0.920]",0.023,*,Phospholipids in Medium LDL
+M-LDL-L,"0.875 [0.835,0.918]",0.010,**,Total-Lipids in Medium LDL
+ApoB,"0.875 [0.834,0.918]",0.011,*,Apolipoprotein B
+M-LDL-P,"0.875 [0.833,0.919]",0.027,*,Concentration of Medium LDL Particles
+S-LDL-FC,"0.875 [0.833,0.918]",0.017,*,Free Cholesterol in Small LDL
+L-LDL-FC,"0.874 [0.833,0.918]",0.015,*,Free Cholesterol in Large LDL
+S-VLDL-FC,"0.874 [0.831,0.919]",0.032,*,Free Cholesterol in Small VLDL
+LDL-FC,"0.874 [0.833,0.917]",0.008,**,Free Cholesterol in LDL
+L-LDL-C,"0.873 [0.833,0.915]",0.004,**,Cholesterol in Large LDL
+S-LDL-CE,"0.873 [0.831,0.916]",0.009,**,Cholesteryl Esters in Small LDL
+LDL-C,"0.872 [0.833,0.914]",0.002,**,LDL Cholesterol
+L-LDL-CE,"0.872 [0.832,0.915]",0.004,**,Cholesteryl Esters in Large LDL
+M-LDL-CE,"0.872 [0.831,0.915]",0.006,**,Cholesteryl Esters in Medium LDL
+M-LDL-C%,"0.872 [0.835,0.910]",8.114e-05,***,Cholesterol to Total-Lipids in Medium LDL percentage
+LDL-CE,"0.872 [0.832,0.914]",0.002,**,Cholesteryl Esters in LDL
+PUFA,"0.872 [0.831,0.914]",0.004,**,Polyunsaturated Fatty Acids
+M-VLDL-CE,"0.872 [0.829,0.916]",0.014,*,Cholesteryl Esters in Medium VLDL
+M-VLDL-PL,"0.871 [0.829,0.916]",0.012,*,Phospholipids in Medium VLDL
+M-LDL-FC,"0.871 [0.829,0.914]",0.006,**,Free Cholesterol in Medium LDL
+M-LDL-C,"0.870 [0.830,0.913]",0.003,**,Cholesterol in Medium LDL
+S-LDL-C,"0.870 [0.829,0.913]",0.004,**,Cholesterol in Small LDL
+M-VLDL-P,"0.870 [0.827,0.915]",0.012,*,Concentration of Medium VLDL Particles
+L-LDL-P,"0.870 [0.827,0.914]",0.009,**,Concentration of Large LDL Particles
+LDL-P,"0.869 [0.827,0.913]",0.007,**,Concentration of LDL Particles
+M-VLDL-FC,"0.868 [0.826,0.913]",0.007,**,Free Cholesterol in Medium VLDL
+M-VLDL-C,"0.867 [0.825,0.911]",0.003,**,Cholesterol in Medium VLDL
+PUFA/MUFA,"0.859 [0.819,0.901]",1.347e-04,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+S-LDL-C%,"0.857 [0.820,0.895]",1.225e-06,***,Cholesterol to Total-Lipids in Small LDL percentage
+L-LDL-C%,"0.855 [0.819,0.893]",2.943e-07,***,Cholesterol to Total-Lipids in Large LDL percentage
+L-LDL-CE%,"0.853 [0.815,0.893]",1.642e-06,***,Cholesteryl Esters to Total-Lipids in Large LDL percentage
+Albumin,"0.839 [0.801,0.878]",8.002e-09,***,Albumin
+DHA%,"0.838 [0.799,0.878]",4.182e-08,***,Docosahexaenoic Acid to Total-Fatty Acids percentage
+Unsaturation,"0.832 [0.793,0.873]",1.264e-08,***,Degree of Unsaturation
+Omega-3%,"0.808 [0.769,0.848]",1.622e-12,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+Omega-3,"0.806 [0.765,0.850]",2.984e-10,***,Omega-3 Fatty Acids
+DHA,"0.795 [0.753,0.839]",2.025e-11,***,Docosahexaenoic Acid

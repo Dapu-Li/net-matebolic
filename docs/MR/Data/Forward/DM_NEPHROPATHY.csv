@@ -1,0 +1,13 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Total-BCAA,38,1.144 [0.943-1.388],1.000,,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+Omega-6/Omega-3,257,1.066 [1.039-1.094],0.238,,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+L-LDL-FC%,687,1.038 [0.956-1.127],1.000,,Free Cholesterol to Total-Lipids in Large LDL percentage
+XXL-VLDL-TG%,153,1.036 [0.972-1.103],1.000,,Triglycerides to Total-Lipids in Chylomicrons and Extremely Large VLDL percentage
+XXL-VLDL-PL,556,1.002 [0.943-1.063],1.000,,Phospholipids in Chylomicrons and Extremely Large VLDL
+S-VLDL-CE%,509,0.892 [0.856-0.929],0.007,**,Cholesteryl Esters to Total-Lipids in Small VLDL percentage
+ApoB/ApoA1,542,0.872 [0.829-0.917],0.023,*,Apolipoprotein B to Apolipoprotein A1 ratio
+MUFA,654,0.767 [0.695-0.845],0.026,*,Monounsaturated Fatty Acids
+PUFA,699,0.755 [0.692-0.824],7.585e-05,***,Polyunsaturated Fatty Acids
+Total-FA,654,0.752 [0.683-0.827],0.001,**,Total-Fatty Acids
+Omega-6,651,0.741 [0.671-0.819],8.783e-04,***,Omega-6 Fatty Acids
+GlycA,385,0.614 [0.516-0.730],0.009,**,Glycoprotein Acetyls

@@ -1,0 +1,28 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+XL-HDL-FC%,"0.133 [0.084,0.182]",0.023,*,Free Cholesterol to Total-Lipids in Very Large HDL percentage
+L-LDL-TG%,"0.076 [0.032,0.120]",1.000,,Triglycerides to Total-Lipids in Large LDL percentage
+L-LDL-PL%,"0.059 [0.017,0.101]",1.000,,Phospholipids to Total-Lipids in Large LDL percentage
+L-HDL-TG%,"0.052 [0.006,0.098]",1.000,,Triglycerides to Total-Lipids in Large HDL percentage
+L-VLDL-FC%,"0.009 [-0.033,0.051]",1.000,,Free Cholesterol to Total-Lipids in Large VLDL percentage
+L-LDL-CE,"-0.114 [-0.156,-0.071]",0.043,*,Cholesteryl Esters in Large LDL
+L-LDL-C,"-0.115 [-0.157,-0.072]",0.037,*,Cholesterol in Large LDL
+Total-L,"-0.117 [-0.160,-0.073]",0.035,*,Total-Lipids in Lipoprotein Particles
+IDL-PL,"-0.119 [-0.163,-0.074]",0.032,*,Phospholipids in IDL
+IDL-L,"-0.120 [-0.163,-0.076]",0.022,*,Total-Lipids in IDL
+S-HDL-FC%,"-0.120 [-0.164,-0.076]",0.022,*,Free Cholesterol to Total-Lipids in Small HDL percentage
+IDL-C,"-0.121 [-0.165,-0.077]",0.018,*,Cholesterol in IDL
+IDL-CE,"-0.121 [-0.165,-0.077]",0.016,*,Cholesteryl Esters in IDL
+PUFA,"-0.124 [-0.168,-0.080]",0.007,**,Polyunsaturated Fatty Acids
+Total-FC,"-0.126 [-0.169,-0.082]",0.004,**,Total-Free Cholesterol
+XL-HDL-P,"-0.127 [-0.174,-0.080]",0.025,*,Concentration of Very Large HDL Particles
+Cholines,"-0.128 [-0.173,-0.083]",0.007,**,Total-Cholines
+SM,"-0.128 [-0.173,-0.083]",0.004,**,Sphingomyelins
+XL-HDL-CE,"-0.128 [-0.176,-0.080]",0.035,*,Cholesteryl Esters in Very Large HDL
+HDL-C,"-0.129 [-0.177,-0.081]",0.030,*,HDL Cholesterol
+Total-PL,"-0.129 [-0.174,-0.085]",0.003,**,Total-Phospholipids in Lipoprotein Particles
+PC,"-0.130 [-0.175,-0.084]",0.005,**,Phosphatidylcholines
+LA,"-0.131 [-0.174,-0.088]",7.013e-04,***,Linoleic Acid
+Total-C,"-0.132 [-0.176,-0.088]",8.722e-04,***,Total-Cholesterol
+HDL-FC,"-0.133 [-0.180,-0.085]",0.009,**,Free Cholesterol in HDL
+Total-CE,"-0.134 [-0.178,-0.090]",6.258e-04,***,Total-Esterified Cholesterol
+M-HDL-FC%,"-0.163 [-0.211,-0.115]",7.676e-06,***,Free Cholesterol to Total-Lipids in Medium HDL percentage

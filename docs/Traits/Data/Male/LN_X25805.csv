@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+XL-VLDL-FC%,"49.783 [31.515,68.051]",0.021,*,Free Cholesterol to Total-Lipids in Very Large VLDL percentage
+L-VLDL-CE%,"45.065 [27.673,62.458]",0.088,,Cholesteryl Esters to Total-Lipids in Large VLDL percentage
+M-VLDL-C%,"42.543 [25.929,59.157]",0.120,,Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-CE%,"41.781 [25.435,58.128]",0.126,,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
+L-HDL-C%,"40.294 [24.336,56.251]",0.172,,Cholesterol to Total-Lipids in Large HDL percentage
+S-HDL-P,"-42.319 [-58.879,-25.760]",0.126,,Concentration of Small HDL Particles
+GlycA,"-45.146 [-62.171,-28.122]",0.047,*,Glycoprotein Acetyls
+S-HDL-L,"-50.064 [-66.721,-33.408]",8.973e-04,***,Total-Lipids in Small HDL
+S-HDL-PL,"-51.812 [-68.565,-35.058]",3.169e-04,***,Phospholipids in Small HDL
+L-HDL-PL%,"-62.383 [-78.606,-46.160]",1.180e-08,***,Phospholipids to Total-Lipids in Large HDL percentage

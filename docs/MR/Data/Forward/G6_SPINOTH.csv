@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+XXL-VLDL-PL,556,1.236 [1.139-1.340],0.077,,Phospholipids in Chylomicrons and Extremely Large VLDL
+XL-VLDL-TG,570,1.233 [1.136-1.339],0.151,,Triglycerides in Very Large VLDL
+XL-HDL-TG%,642,1.223 [1.135-1.319],0.035,*,Triglycerides to Total-Lipids in Very Large HDL percentage
+TG/PG,632,1.223 [1.129-1.324],0.181,,Triglycerides to Phosphoglycerides ratio
+S-HDL-TG,681,1.197 [1.115-1.284],0.150,,Triglycerides in Small HDL
+Phosphoglyc,609,0.998 [0.927-1.075],1.000,,Phosphoglycerides
+IDL-P,505,0.957 [0.883-1.036],1.000,,Concentration of IDL Particles
+L-LDL-CE,502,0.940 [0.867-1.020],1.000,,Cholesteryl Esters in Large LDL
+M-LDL-FC%,651,0.832 [0.771-0.898],0.551,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+L-LDL-FC%,687,0.827 [0.766-0.893],0.349,,Free Cholesterol to Total-Lipids in Large LDL percentage

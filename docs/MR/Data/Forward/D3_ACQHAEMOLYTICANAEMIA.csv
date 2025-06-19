@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+LA%,226,1.312 [1.176-1.464],0.273,,Linoleic Acid to Total-Fatty Acids percentage
+Omega-6/Omega-3,257,1.188 [1.119-1.262],0.005,**,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+L-LDL-TG%,474,1.063 [0.978-1.155],1.000,,Triglycerides to Total-Lipids in Large LDL percentage
+M-HDL-CE%,557,1.041 [0.955-1.133],1.000,,Cholesteryl Esters to Total-Lipids in Medium HDL percentage
+M-LDL-PL%,271,1.026 [0.911-1.155],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+Omega-3%,215,0.844 [0.796-0.895],0.003,**,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+Omega-3,420,0.839 [0.789-0.891],0.003,**,Omega-3 Fatty Acids
+Unsaturation,310,0.833 [0.779-0.890],0.017,*,Degree of Unsaturation
+DHA%,240,0.824 [0.759-0.894],0.900,,Docosahexaenoic Acid to Total-Fatty Acids percentage
+DHA,289,0.816 [0.760-0.877],0.008,**,Docosahexaenoic Acid

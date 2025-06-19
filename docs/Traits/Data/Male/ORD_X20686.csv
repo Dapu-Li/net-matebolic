@@ -1,0 +1,11 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+Omega-3,"0.158 [0.095,0.222]",0.191,,Omega-3 Fatty Acids
+DHA,"0.156 [0.094,0.219]",0.211,,Docosahexaenoic Acid
+Omega-3%,"0.156 [0.093,0.218]",0.234,,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+Clinical LDL-C,"0.043 [-0.016,0.103]",1.000,,Clinical LDL Cholesterol
+M-LDL-TG%,"0.002 [-0.059,0.063]",1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+M-LDL-FC%,"-0.002 [-0.063,0.060]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+L-VLDL-FC%,"-0.013 [-0.079,0.054]",1.000,,Free Cholesterol to Total-Lipids in Large VLDL percentage
+L-VLDL-CE%,"-0.026 [-0.091,0.040]",1.000,,Cholesteryl Esters to Total-Lipids in Large VLDL percentage
+LA%,"-0.157 [-0.220,-0.094]",0.275,,Linoleic Acid to Total-Fatty Acids percentage
+Omega-6/Omega-3,"-0.179 [-0.242,-0.117]",0.005,**,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio

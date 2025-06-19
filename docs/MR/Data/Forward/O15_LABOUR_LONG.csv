@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+LA%,226,1.147 [1.101-1.194],9.957e-06,***,Linoleic Acid to Total-Fatty Acids percentage
+Omega-6/Omega-3,257,1.064 [1.043-1.085],1.588e-04,***,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+IDL-CE%,420,1.024 [0.992-1.056],1.000,,Cholesteryl Esters to Total-Lipids in IDL percentage
+Total-BCAA,38,1.016 [0.905-1.140],1.000,,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+XL-HDL-C%,306,1.004 [0.980-1.029],1.000,,Cholesterol to Total-Lipids in Very Large HDL percentage
+Omega-3,420,0.948 [0.929-0.967],0.022,*,Omega-3 Fatty Acids
+Unsaturation,310,0.941 [0.919-0.963],0.089,,Degree of Unsaturation
+Omega-3%,215,0.940 [0.921-0.959],4.738e-04,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+DHA,289,0.937 [0.916-0.959],0.015,*,Docosahexaenoic Acid
+DHA%,240,0.916 [0.893-0.940],8.950e-06,***,Docosahexaenoic Acid to Total-Fatty Acids percentage

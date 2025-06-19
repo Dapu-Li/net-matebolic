@@ -1,0 +1,13 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+S-LDL-PL%,510,1.554 [1.315-1.836],0.054,,Phospholipids to Total-Lipids in Small LDL percentage
+S-LDL-FC%,578,1.358 [1.204-1.533],0.170,,Free Cholesterol to Total-Lipids in Small LDL percentage
+M-HDL-C%,632,1.108 [1.029-1.193],1.000,,Cholesterol to Total-Lipids in Medium HDL percentage
+IDL-CE%,420,1.061 [0.967-1.164],1.000,,Cholesteryl Esters to Total-Lipids in IDL percentage
+XL-HDL-FC,590,1.002 [0.936-1.072],1.000,,Free Cholesterol in Very Large HDL
+PUFA,699,0.646 [0.567-0.737],1.628e-05,***,Polyunsaturated Fatty Acids
+S-LDL-CE%,545,0.635 [0.542-0.743],0.004,**,Cholesteryl Esters to Total-Lipids in Small LDL percentage
+Total-FA,654,0.609 [0.529-0.701],1.444e-06,***,Total-Fatty Acids
+Omega-6,651,0.599 [0.518-0.694],1.523e-06,***,Omega-6 Fatty Acids
+LA,635,0.588 [0.507-0.682],6.141e-07,***,Linoleic Acid
+MUFA,654,0.588 [0.508-0.680],1.992e-07,***,Monounsaturated Fatty Acids
+GlycA,385,0.481 [0.373-0.619],0.004,**,Glycoprotein Acetyls

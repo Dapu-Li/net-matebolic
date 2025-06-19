@@ -1,0 +1,17 @@
+Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
+M-HDL-PL%,1.20 [1.11-1.29],0.743,,Phospholipids to Total-Lipids in Medium HDL percentage
+L-HDL-TG%,1.09 [1.01-1.18],1.000,,Triglycerides to Total-Lipids in Large HDL percentage
+M-LDL-PL%,1.06 [0.98-1.14],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+L-HDL-FC%,1.04 [0.96-1.12],1.000,,Free Cholesterol to Total-Lipids in Large HDL percentage
+L-HDL-PL%,1.03 [0.96-1.12],1.000,,Phospholipids to Total-Lipids in Large HDL percentage
+S-HDL-PL,0.81 [0.75-0.88],0.028,*,Phospholipids in Small HDL
+S-HDL-FC,0.81 [0.75-0.88],0.029,*,Free Cholesterol in Small HDL
+M-HDL-C,0.80 [0.74-0.87],0.050,*,Cholesterol in Medium HDL
+ApoA1,0.80 [0.74-0.87],0.049,*,Apolipoprotein A1
+M-HDL-CE,0.80 [0.74-0.87],0.043,*,Cholesteryl Esters in Medium HDL
+S-HDL-L,0.80 [0.75-0.87],0.002,**,Total-Lipids in Small HDL
+S-HDL-P,0.79 [0.73-0.85],8.452e-05,***,Concentration of Small HDL Particles
+S-HDL-C,0.78 [0.73-0.84],2.269e-05,***,Cholesterol in Small HDL
+S-HDL-CE,0.78 [0.73-0.84],1.459e-05,***,Cholesteryl Esters in Small HDL
+HDL-P,0.78 [0.72-0.84],3.588e-04,***,Concentration of HDL Particles
+Total-P,0.78 [0.72-0.84],1.964e-04,***,Total-Concentration of Lipoprotein Particles

@@ -1,0 +1,12 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+MUFA%,525,1.054 [1.033-1.076],0.132,,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+XS-VLDL-TG%,661,1.051 [1.030-1.072],0.285,,Triglycerides to Total-Lipids in Very Small VLDL percentage
+L-VLDL-P,622,1.030 [1.007-1.055],1.000,,Concentration of Large VLDL Particles
+Omega-6/Omega-3,257,1.030 [1.018-1.042],0.190,,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+Total-L,626,1.004 [0.979-1.029],1.000,,Total-Lipids in Lipoprotein Particles
+Omega-3%,215,0.968 [0.957-0.979],0.005,**,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+DHA,289,0.963 [0.949-0.976],0.030,*,Docosahexaenoic Acid
+Unsaturation,310,0.956 [0.942-0.971],6.591e-04,***,Degree of Unsaturation
+DHA%,240,0.951 [0.934-0.968],0.006,**,Docosahexaenoic Acid to Total-Fatty Acids percentage
+PUFA/MUFA,484,0.941 [0.921-0.962],0.010,**,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+PUFA%,371,0.923 [0.898-0.949],0.003,**,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage

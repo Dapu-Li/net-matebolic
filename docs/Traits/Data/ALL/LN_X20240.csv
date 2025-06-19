@@ -1,0 +1,13 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+Creatinine,"0.051 [0.038,0.065]",7.828e-08,***,Creatinine
+XL-HDL-FC%,"0.036 [0.022,0.050]",0.174,,Free Cholesterol to Total-Lipids in Very Large HDL percentage
+XL-HDL-C%,"0.035 [0.021,0.049]",0.249,,Cholesterol to Total-Lipids in Very Large HDL percentage
+Val,"0.035 [0.021,0.048]",0.227,,Valine
+Leu,"0.032 [0.018,0.045]",0.756,,Leucine
+M-HDL-P,"-0.036 [-0.050,-0.023]",0.046,*,Concentration of Medium HDL Particles
+HDL-L,"-0.037 [-0.051,-0.023]",0.026,*,Total-Lipids in HDL
+M-HDL-L,"-0.039 [-0.052,-0.025]",0.008,**,Total-Lipids in Medium HDL
+HDL-PL,"-0.040 [-0.053,-0.026]",0.003,**,Phospholipids in HDL
+M-HDL-PL,"-0.040 [-0.054,-0.026]",0.002,**,Phospholipids in Medium HDL
+GlycA,"-0.046 [-0.060,-0.031]",1.618e-04,***,Glycoprotein Acetyls
+S-HDL-PL%,"-0.048 [-0.062,-0.035]",4.182e-07,***,Phospholipids to Total-Lipids in Small HDL percentage

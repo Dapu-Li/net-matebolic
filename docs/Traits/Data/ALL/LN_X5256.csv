@@ -1,0 +1,12 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+MUFA%,"0.072 [0.048,0.096]",5.090e-04,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+MUFA,"0.038 [0.016,0.061]",1.000,,Monounsaturated Fatty Acids
+SFA,"0.027 [0.005,0.049]",1.000,,Saturated Fatty Acids
+Total-FA,"0.018 [-0.004,0.040]",1.000,,Total-Fatty Acids
+M-LDL-PL%,"0.014 [-0.008,0.036]",1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+IDL-FC%,"-0.063 [-0.085,-0.041]",0.003,**,Free Cholesterol to Total-Lipids in IDL percentage
+Omega-6%,"-0.068 [-0.091,-0.044]",0.003,**,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+Unsaturation,"-0.069 [-0.092,-0.045]",0.001,**,Degree of Unsaturation
+LA%,"-0.070 [-0.094,-0.046]",0.001,**,Linoleic Acid to Total-Fatty Acids percentage
+PUFA%,"-0.076 [-0.100,-0.053]",6.414e-05,***,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+PUFA/MUFA,"-0.077 [-0.101,-0.054]",3.943e-05,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio

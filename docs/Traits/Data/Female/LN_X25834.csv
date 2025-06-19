@@ -1,0 +1,14 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+HDL-size,"17.393 [9.994,24.791]",0.938,,Average Diameter for HDL Particles
+XL-HDL-PL,"16.260 [9.420,23.099]",0.731,,Phospholipids in Very Large HDL
+XL-HDL-L,"16.224 [9.316,23.132]",0.959,,Total-Lipids in Very Large HDL
+XL-HDL-FC,"15.843 [9.222,22.464]",0.630,,Free Cholesterol in Very Large HDL
+Omega-6/Omega-3,"1.451 [-5.773,8.674]",1.000,,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+S-HDL-C,"-20.303 [-27.166,-13.441]",0.002,**,Cholesterol in Small HDL
+S-HDL-CE,"-20.410 [-27.179,-13.642]",7.972e-04,***,Cholesteryl Esters in Small HDL
+MUFA,"-21.015 [-28.803,-13.227]",0.029,*,Monounsaturated Fatty Acids
+S-HDL-P,"-21.024 [-27.866,-14.181]",4.032e-04,***,Concentration of Small HDL Particles
+S-HDL-PL,"-22.040 [-29.081,-15.000]",1.988e-04,***,Phospholipids in Small HDL
+S-HDL-L,"-22.227 [-29.194,-15.260]",9.499e-05,***,Total-Lipids in Small HDL
+GlycA,"-25.919 [-33.585,-18.252]",8.202e-06,***,Glycoprotein Acetyls
+L-HDL-PL%,"-26.142 [-35.180,-17.105]",0.003,**,Phospholipids to Total-Lipids in Large HDL percentage

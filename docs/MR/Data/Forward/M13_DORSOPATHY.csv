@@ -1,0 +1,22 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Acetoacetate,15,1.052 [0.945-1.170],1.000,,Acetoacetate
+Omega-6/Omega-3,257,1.017 [1.010-1.024],0.219,,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+S-VLDL-TG%,564,1.016 [1.001-1.030],1.000,,Triglycerides to Total-Lipids in Small VLDL percentage
+S-LDL-PL%,510,1.014 [0.993-1.035],1.000,,Phospholipids to Total-Lipids in Small LDL percentage
+IDL-TG%,635,1.008 [0.994-1.022],1.000,,Triglycerides to Total-Lipids in IDL percentage
+IDL-C,568,0.966 [0.954-0.979],0.046,*,Cholesterol in IDL
+S-LDL-PL,409,0.966 [0.954-0.977],0.003,**,Phospholipids in Small LDL
+S-LDL-FC,410,0.964 [0.953-0.976],2.703e-04,***,Free Cholesterol in Small LDL
+LDL-FC,411,0.963 [0.950-0.975],0.002,**,Free Cholesterol in LDL
+L-LDL-FC,474,0.962 [0.949-0.975],0.004,**,Free Cholesterol in Large LDL
+L-LDL-PL,492,0.961 [0.947-0.976],0.049,*,Phospholipids in Large LDL
+L-LDL-C,488,0.961 [0.947-0.975],0.013,*,Cholesterol in Large LDL
+M-LDL-FC,407,0.961 [0.948-0.974],0.001,**,Free Cholesterol in Medium LDL
+LDL-PL,473,0.960 [0.946-0.974],0.012,*,Phospholipids in LDL
+Clinical LDL-C,463,0.960 [0.946-0.974],0.006,**,Clinical LDL Cholesterol
+PUFA,699,0.959 [0.944-0.974],0.021,*,Polyunsaturated Fatty Acids
+L-LDL-P,541,0.959 [0.945-0.973],0.006,**,Concentration of Large LDL Particles
+S-VLDL-PL,664,0.957 [0.942-0.973],0.025,*,Phospholipids in Small VLDL
+M-VLDL-PL,632,0.957 [0.941-0.973],0.048,*,Phospholipids in Medium VLDL
+M-VLDL-CE,487,0.957 [0.943-0.971],5.352e-04,***,Cholesteryl Esters in Medium VLDL
+M-VLDL-C,535,0.956 [0.942-0.971],0.002,**,Cholesterol in Medium VLDL

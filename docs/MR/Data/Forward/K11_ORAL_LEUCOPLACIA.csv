@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Acetate,13,1.297 [0.477-3.532],1.000,,Acetate
+S-LDL-FC%,578,1.184 [1.051-1.334],1.000,,Free Cholesterol to Total-Lipids in Small LDL percentage
+S-LDL-PL,409,1.025 [0.917-1.144],1.000,,Phospholipids in Small LDL
+LDL-L,502,1.022 [0.904-1.156],1.000,,Total-Lipids in LDL
+XS-VLDL-P,622,1.011 [0.918-1.113],1.000,,Concentration of Very Small VLDL Particles
+XL-HDL-TG,489,0.862 [0.779-0.953],1.000,,Triglycerides in Very Large HDL
+S-HDL-PL,489,0.641 [0.537-0.764],0.182,,Phospholipids in Small HDL
+S-HDL-L,442,0.618 [0.518-0.738],0.025,*,Total-Lipids in Small HDL
+S-HDL-FC,483,0.604 [0.511-0.713],6.673e-04,***,Free Cholesterol in Small HDL
+GlycA,385,0.482 [0.391-0.594],1.683e-06,***,Glycoprotein Acetyls

@@ -1,0 +1,25 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+XL-HDL-FC,"14.506 [9.582,19.430]",0.002,**,Free Cholesterol in Very Large HDL
+XL-VLDL-FC%,"13.251 [8.893,17.608]",5.918e-04,***,Free Cholesterol to Total-Lipids in Very Large VLDL percentage
+L-VLDL-CE%,"12.865 [8.717,17.013]",2.840e-04,***,Cholesteryl Esters to Total-Lipids in Large VLDL percentage
+M-VLDL-C%,"12.451 [8.489,16.413]",1.720e-04,***,Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-CE%,"12.290 [8.392,16.188]",1.515e-04,***,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
+M-VLDL-FC%,"12.267 [8.270,16.264]",4.216e-04,***,Free Cholesterol to Total-Lipids in Medium VLDL percentage
+XS-VLDL-C%,"11.955 [8.094,15.816]",3.018e-04,***,Cholesterol to Total-Lipids in Very Small VLDL percentage
+L-LDL-FC%,"11.890 [7.901,15.880]",0.001,**,Free Cholesterol to Total-Lipids in Large LDL percentage
+S-VLDL-CE%,"11.746 [7.871,15.622]",6.661e-04,***,Cholesteryl Esters to Total-Lipids in Small VLDL percentage
+S-VLDL-C%,"11.739 [7.838,15.639]",8.577e-04,***,Cholesterol to Total-Lipids in Small VLDL percentage
+XS-VLDL-CE%,"11.689 [7.799,15.579]",9.054e-04,***,Cholesteryl Esters to Total-Lipids in Very Small VLDL percentage
+L-VLDL-C%,"11.678 [7.566,15.789]",0.006,**,Cholesterol to Total-Lipids in Large VLDL percentage
+M-VLDL-PL%,"11.437 [7.418,15.456]",0.006,**,Phospholipids to Total-Lipids in Medium VLDL percentage
+S-VLDL-FC%,"10.739 [6.760,14.719]",0.029,*,Free Cholesterol to Total-Lipids in Small VLDL percentage
+L-HDL-C%,"10.728 [6.921,14.535]",0.008,**,Cholesterol to Total-Lipids in Large HDL percentage
+XS-VLDL-FC%,"10.398 [6.781,14.015]",0.004,**,Free Cholesterol to Total-Lipids in Very Small VLDL percentage
+IDL-FC%,"9.956 [6.253,13.659]",0.032,*,Free Cholesterol to Total-Lipids in IDL percentage
+IDL-TG%,"-10.316 [-14.202,-6.429]",0.046,*,Triglycerides to Total-Lipids in IDL percentage
+S-HDL-L,"-10.920 [-14.896,-6.945]",0.017,*,Total-Lipids in Small HDL
+S-VLDL-TG%,"-11.058 [-15.087,-7.029]",0.017,*,Triglycerides to Total-Lipids in Small VLDL percentage
+S-HDL-PL,"-11.518 [-15.517,-7.520]",0.004,**,Phospholipids in Small HDL
+M-VLDL-TG%,"-12.349 [-16.541,-8.157]",0.002,**,Triglycerides to Total-Lipids in Medium VLDL percentage
+L-HDL-PL%,"-12.843 [-16.717,-8.969]",1.928e-05,***,Phospholipids to Total-Lipids in Large HDL percentage
+XS-VLDL-TG%,"-12.889 [-16.835,-8.943]",3.632e-05,***,Triglycerides to Total-Lipids in Very Small VLDL percentage

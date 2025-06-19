@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Lactate,22,1.724 [0.851-3.495],1.000,,Lactate
+XL-VLDL-CE%,485,1.117 [1.016-1.229],1.000,,Cholesteryl Esters to Total-Lipids in Very Large VLDL percentage
+XL-VLDL-FC%,397,1.069 [0.968-1.179],1.000,,Free Cholesterol to Total-Lipids in Very Large VLDL percentage
+S-LDL-FC,410,1.015 [0.936-1.102],1.000,,Free Cholesterol in Small LDL
+M-LDL-FC,407,1.008 [0.925-1.098],1.000,,Free Cholesterol in Medium LDL
+LDL-C,476,0.992 [0.904-1.089],1.000,,LDL Cholesterol
+S-HDL-PL,489,0.801 [0.731-0.879],0.679,,Phospholipids in Small HDL
+HDL-P,547,0.788 [0.721-0.862],0.043,*,Concentration of HDL Particles
+Total-P,531,0.787 [0.718-0.863],0.088,,Total-Concentration of Lipoprotein Particles
+S-HDL-FC,483,0.785 [0.714-0.863],0.124,,Free Cholesterol in Small HDL

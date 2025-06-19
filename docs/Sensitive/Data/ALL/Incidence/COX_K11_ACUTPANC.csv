@@ -1,0 +1,24 @@
+Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
+MUFA%,1.23 [1.16-1.30],3.369e-06,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+L-HDL-PL%,1.17 [1.10-1.23],0.021,*,Phospholipids to Total-Lipids in Large HDL percentage
+M-HDL-PL%,1.16 [1.10-1.23],0.060,,Phospholipids to Total-Lipids in Medium HDL percentage
+M-VLDL-TG%,1.16 [1.09-1.23],0.295,,Triglycerides to Total-Lipids in Medium VLDL percentage
+IDL-TG%,1.15 [1.09-1.21],0.299,,Triglycerides to Total-Lipids in IDL percentage
+L-HDL-CE%,0.87 [0.82-0.91],0.013,*,Cholesteryl Esters to Total-Lipids in Large HDL percentage
+L-HDL-C%,0.86 [0.81-0.90],0.001,**,Cholesterol to Total-Lipids in Large HDL percentage
+DHA%,0.85 [0.80-0.90],0.010,*,Docosahexaenoic Acid to Total-Fatty Acids percentage
+Unsaturation,0.85 [0.80-0.90],0.011,*,Degree of Unsaturation
+PUFA/MUFA,0.83 [0.79-0.89],5.739e-04,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+XL-HDL-FC,0.83 [0.78-0.89],0.017,*,Free Cholesterol in Very Large HDL
+M-HDL-FC%,0.83 [0.78-0.88],5.201e-04,***,Free Cholesterol to Total-Lipids in Medium HDL percentage
+L-HDL-L,0.82 [0.77-0.88],0.011,*,Total-Lipids in Large HDL
+HDL-size,0.82 [0.77-0.88],0.012,*,Average Diameter for HDL Particles
+XL-HDL-PL,0.81 [0.76-0.87],0.005,**,Phospholipids in Very Large HDL
+L-HDL-P,0.81 [0.75-0.87],0.006,**,Concentration of Large HDL Particles
+XL-HDL-P,0.81 [0.75-0.87],0.002,**,Concentration of Very Large HDL Particles
+L-HDL-FC,0.81 [0.75-0.87],0.003,**,Free Cholesterol in Large HDL
+XL-HDL-L,0.81 [0.75-0.87],0.001,**,Total-Lipids in Very Large HDL
+L-HDL-C,0.80 [0.75-0.86],5.581e-04,***,Cholesterol in Large HDL
+L-HDL-CE,0.80 [0.75-0.86],4.517e-04,***,Cholesteryl Esters in Large HDL
+XL-HDL-C,0.80 [0.74-0.86],9.875e-05,***,Cholesterol in Very Large HDL
+XL-HDL-CE,0.79 [0.74-0.85],4.467e-05,***,Cholesteryl Esters in Very Large HDL

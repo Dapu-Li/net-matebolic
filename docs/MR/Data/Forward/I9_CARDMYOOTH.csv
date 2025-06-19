@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Lactate,22,1.248 [0.901-1.728],1.000,,Lactate
+Omega-6/Omega-3,257,1.098 [1.061-1.137],0.027,*,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+MUFA%,525,1.082 [1.029-1.137],1.000,,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+XXL-VLDL-L,514,1.016 [0.957-1.078],1.000,,Total-Lipids in Chylomicrons and Extremely Large VLDL
+S-LDL-TG,690,1.001 [0.954-1.050],1.000,,Triglycerides in Small LDL
+Omega-3%,215,0.912 [0.883-0.942],0.008,**,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+PUFA,699,0.903 [0.866-0.942],0.463,,Polyunsaturated Fatty Acids
+Omega-3,420,0.902 [0.872-0.933],3.466e-04,***,Omega-3 Fatty Acids
+Unsaturation,310,0.900 [0.865-0.937],0.061,,Degree of Unsaturation
+DHA,289,0.897 [0.860-0.936],0.103,,Docosahexaenoic Acid

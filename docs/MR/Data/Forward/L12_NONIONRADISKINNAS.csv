@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+L-LDL-FC%,687,1.383 [1.204-1.587],0.996,,Free Cholesterol to Total-Lipids in Large LDL percentage
+PUFA%,371,1.307 [1.095-1.560],1.000,,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+XXL-VLDL-TG%,153,1.155 [0.968-1.379],1.000,,Triglycerides to Total-Lipids in Chylomicrons and Extremely Large VLDL percentage
+L-HDL-P,633,1.124 [1.009-1.251],1.000,,Concentration of Large HDL Particles
+L-HDL-C,671,1.114 [1.002-1.239],1.000,,Cholesterol in Large HDL
+ApoB,565,0.999 [0.884-1.130],1.000,,Apolipoprotein B
+M-VLDL-FC,594,0.974 [0.855-1.109],1.000,,Free Cholesterol in Medium VLDL
+Total-L,626,0.900 [0.780-1.038],1.000,,Total-Lipids in Lipoprotein Particles
+XL-VLDL-PL,607,0.833 [0.727-0.955],1.000,,Phospholipids in Very Large VLDL
+GlycA,385,0.505 [0.401-0.636],0.002,**,Glycoprotein Acetyls

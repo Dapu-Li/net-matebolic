@@ -1,0 +1,12 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+SFA%,"0.062 [0.045,0.079]",3.080e-07,***,Saturated Fatty Acids to Total-Fatty Acids percentage
+Sc-ala,"0.060 [0.044,0.077]",3.391e-07,***,Spectrometer-corrected alanine
+Creatinine,"0.056 [0.039,0.073]",4.667e-05,***,Creatinine
+Val,"0.050 [0.033,0.067]",0.002,**,Valine
+Total-BCAA,"0.048 [0.031,0.065]",0.008,**,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+Leu,"0.046 [0.029,0.063]",0.014,*,Leucine
+DHA,"-0.043 [-0.060,-0.026]",0.161,,Docosahexaenoic Acid
+DHA%,"-0.046 [-0.063,-0.029]",0.047,*,Docosahexaenoic Acid to Total-Fatty Acids percentage
+Omega-3%,"-0.051 [-0.068,-0.034]",0.001,**,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+PUFA%,"-0.053 [-0.071,-0.035]",0.003,**,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+Unsaturation,"-0.080 [-0.097,-0.062]",1.290e-13,***,Degree of Unsaturation

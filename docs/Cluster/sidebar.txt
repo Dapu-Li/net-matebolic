@@ -1,0 +1,52 @@
+      '/Cluster/': [
+        {
+          text: 'Baseline Clusters', link: '/Cluster/Baseline_Overview',
+          collapsed: true,
+          items: [
+            { text: 'Cluster 1', link: '/Cluster/MD/Baseline/Cluster_1' },
+            { text: 'Cluster 2', link: '/Cluster/MD/Baseline/Cluster_2' },
+            { text: 'Cluster 3', link: '/Cluster/MD/Baseline/Cluster_3' },
+            { text: 'Cluster 4', link: '/Cluster/MD/Baseline/Cluster_4' },
+            { text: 'Cluster 5', link: '/Cluster/MD/Baseline/Cluster_5' },
+            { text: 'Cluster 6', link: '/Cluster/MD/Baseline/Cluster_6' },
+            { text: 'Cluster 7', link: '/Cluster/MD/Baseline/Cluster_7' },
+            { text: 'Cluster 8', link: '/Cluster/MD/Baseline/Cluster_8' },
+            { text: 'Cluster 9', link: '/Cluster/MD/Baseline/Cluster_9' },
+            { text: 'Cluster 10', link: '/Cluster/MD/Baseline/Cluster_10' },
+            { text: 'Cluster 11', link: '/Cluster/MD/Baseline/Cluster_11' },
+          ]
+        },
+        {
+          text: 'Incidence Clusters', 
+          collapsed: true,
+          items: [
+            { text: 'Cluster 1', link: '/Cluster/MD/Incidence/Cluster_1' },
+            { text: 'Cluster 2', link: '/Cluster/MD/Incidence/Cluster_2' },
+            { text: 'Cluster 3', link: '/Cluster/MD/Incidence/Cluster_3' },
+            { text: 'Cluster 4', link: '/Cluster/MD/Incidence/Cluster_4' },
+            { text: 'Cluster 5', link: '/Cluster/MD/Incidence/Cluster_5' },
+            { text: 'Cluster 6', link: '/Cluster/MD/Incidence/Cluster_6' },
+            { text: 'Cluster 7', link: '/Cluster/MD/Incidence/Cluster_7' },
+            { text: 'Cluster 8', link: '/Cluster/MD/Incidence/Cluster_8' },
+            { text: 'Cluster 9', link: '/Cluster/MD/Incidence/Cluster_9' },
+            { text: 'Cluster 10', link: '/Cluster/MD/Incidence/Cluster_10' },
+            { text: 'Cluster 11', link: '/Cluster/MD/Incidence/Cluster_11' },
+            { text: 'Cluster 12', link: '/Cluster/MD/Incidence/Cluster_12' },
+            { text: 'Cluster 13', link: '/Cluster/MD/Incidence/Cluster_13' },
+            { text: 'Cluster 14', link: '/Cluster/MD/Incidence/Cluster_14' },
+            { text: 'Cluster 15', link: '/Cluster/MD/Incidence/Cluster_15' },
+            { text: 'Cluster 16', link: '/Cluster/MD/Incidence/Cluster_16' },
+            { text: 'Cluster 17', link: '/Cluster/MD/Incidence/Cluster_17' },
+            { text: 'Cluster 18', link: '/Cluster/MD/Incidence/Cluster_18' },
+            { text: 'Cluster 19', link: '/Cluster/MD/Incidence/Cluster_19' },
+            { text: 'Cluster 20', link: '/Cluster/MD/Incidence/Cluster_20' },
+            { text: 'Cluster 21', link: '/Cluster/MD/Incidence/Cluster_21' },
+            { text: 'Cluster 22', link: '/Cluster/MD/Incidence/Cluster_22' },
+            { text: 'Cluster 23', link: '/Cluster/MD/Incidence/Cluster_23' },
+            { text: 'Cluster 24', link: '/Cluster/MD/Incidence/Cluster_24' },
+            { text: 'Cluster 25', link: '/Cluster/MD/Incidence/Cluster_25' },
+            { text: 'Cluster 26', link: '/Cluster/MD/Incidence/Cluster_26' },
+            { text: 'Cluster 27', link: '/Cluster/MD/Incidence/Cluster_27' },
+          ]
+        }
+      ]

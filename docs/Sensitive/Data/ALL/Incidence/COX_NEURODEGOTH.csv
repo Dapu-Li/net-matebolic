@@ -1,0 +1,15 @@
+Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
+S-LDL-PL%,1.09 [1.05-1.13],0.629,,Phospholipids to Total-Lipids in Small LDL percentage
+L-LDL-TG%,1.08 [1.05-1.12],1.000,,Triglycerides to Total-Lipids in Large LDL percentage
+M-LDL-PL%,1.07 [1.03-1.10],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+L-LDL-PL%,1.03 [0.99-1.06],1.000,,Phospholipids to Total-Lipids in Large LDL percentage
+L-VLDL-C%,1.01 [0.97-1.05],1.000,,Cholesterol to Total-Lipids in Large VLDL percentage
+M-LDL-C%,0.91 [0.89-0.94],0.018,*,Cholesterol to Total-Lipids in Medium LDL percentage
+L-LDL-C%,0.91 [0.88-0.94],0.012,*,Cholesterol to Total-Lipids in Large LDL percentage
+L-LDL-CE%,0.91 [0.88-0.94],0.003,**,Cholesteryl Esters to Total-Lipids in Large LDL percentage
+LA,0.91 [0.87-0.94],0.005,**,Linoleic Acid
+Omega-6,0.90 [0.87-0.94],0.004,**,Omega-6 Fatty Acids
+Leu,0.90 [0.87-0.93],0.007,**,Leucine
+PUFA,0.90 [0.86-0.93],3.592e-04,***,Polyunsaturated Fatty Acids
+Total-BCAA,0.89 [0.86-0.93],0.002,**,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+Val,0.89 [0.85-0.92],1.121e-04,***,Valine

@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+L-VLDL-FC%,331,1.097 [1.048-1.147],1.000,,Free Cholesterol to Total-Lipids in Large VLDL percentage
+SFA%,94,1.072 [0.960-1.198],1.000,,Saturated Fatty Acids to Total-Fatty Acids percentage
+M-VLDL-PL,632,1.069 [1.026-1.113],1.000,,Phospholipids in Medium VLDL
+Total-FA,654,1.011 [0.974-1.050],1.000,,Total-Fatty Acids
+XS-VLDL-TG%,661,1.010 [0.969-1.053],1.000,,Triglycerides to Total-Lipids in Very Small VLDL percentage
+L-HDL-P,633,0.965 [0.933-0.998],1.000,,Concentration of Large HDL Particles
+IDL-CE%,420,0.961 [0.925-0.999],1.000,,Cholesteryl Esters to Total-Lipids in IDL percentage
+XL-HDL-CE%,259,0.909 [0.867-0.953],1.000,,Cholesteryl Esters to Total-Lipids in Very Large HDL percentage
+Glu,32,0.846 [0.677-1.057],1.000,,Glucose
+3-Hydroxybutyrate,68,0.640 [0.547-0.748],0.005,**,3-Hydroxybutyrate

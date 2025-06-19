@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Ala,85,1.138 [1.040-1.244],1.000,,Alanine
+Pyruvate,37,1.107 [0.986-1.243],1.000,,Pyruvate
+Tyr,120,1.095 [1.009-1.189],1.000,,Tyrosine
+L-HDL-PL%,508,1.058 [1.022-1.095],1.000,,Phospholipids to Total-Lipids in Large HDL percentage
+Omega-6/Omega-3,257,1.050 [1.031-1.069],0.030,*,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+Omega-3%,215,0.952 [0.936-0.968],0.003,**,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+IDL-FC,587,0.924 [0.898-0.951],0.014,*,Free Cholesterol in IDL
+Total-FA,654,0.884 [0.844-0.925],0.029,*,Total-Fatty Acids
+Omega-6,651,0.877 [0.836-0.921],0.023,*,Omega-6 Fatty Acids
+PUFA,699,0.876 [0.839-0.914],2.904e-04,***,Polyunsaturated Fatty Acids

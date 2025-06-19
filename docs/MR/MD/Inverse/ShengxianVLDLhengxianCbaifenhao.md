@@ -1,0 +1,21 @@
+# 🧪 S-VLDL-C%
+
+> **Root:** Mendelian Randomization
+
+> **Group:** Ratio  
+
+> **Subgroup:** VLDL ratios
+
+> **Phenotype:** Cholesterol to Total-Lipids in Small VLDL percentage  
+
+> **Abbreviations:** `S-VLDL-C%`
+
+## 🧬 Mendelian Randomization  
+
+<img src="/MR/Figures/Inverse/S-VLDL-C%.png"/>
+
+
+## 📊 Data Table
+
+
+<CsvTableMRI src="/MR/Data/Inverse/S-VLDL-C%.csv"/>

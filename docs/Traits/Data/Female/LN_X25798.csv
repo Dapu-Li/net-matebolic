@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+M-LDL-FC%,"11.589 [5.313,17.864]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+HDL-C,"2.978 [-2.853,8.810]",1.000,,HDL Cholesterol
+HDL-CE,"2.927 [-2.888,8.743]",1.000,,Cholesteryl Esters in HDL
+His,"2.445 [-2.652,7.542]",1.000,,Histidine
+Phe,"0.784 [-4.368,5.936]",1.000,,Phenylalanine
+Total-C,"-1.765 [-7.602,4.071]",1.000,,Total-Cholesterol
+Non-HDL-C,"-2.776 [-8.364,2.813]",1.000,,Total-Cholesterol Minus HDL-C
+Remnant-C,"-2.876 [-8.433,2.680]",1.000,,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
+M-LDL-TG%,"-4.867 [-10.515,0.781]",1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+GlycA,"-15.850 [-21.651,-10.050]",0.020,*,Glycoprotein Acetyls

@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+IDL-PL%,"220.689 [87.929,353.448]",1.000,,Phospholipids to Total-Lipids in IDL percentage
+IDL-TG%,"159.697 [28.465,290.928]",1.000,,Triglycerides to Total-Lipids in IDL percentage
+TG/PG,"82.886 [-55.785,221.556]",1.000,,Triglycerides to Phosphoglycerides ratio
+L-HDL-PL%,"41.453 [-87.918,170.823]",1.000,,Phospholipids to Total-Lipids in Large HDL percentage
+M-LDL-PL%,"21.352 [-114.408,157.111]",1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+M-LDL-FC%,"-73.663 [-202.314,54.987]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+LDL-C,"-164.048 [-294.797,-33.300]",1.000,,LDL Cholesterol
+Non-HDL-C,"-171.982 [-302.741,-41.223]",1.000,,Total-Cholesterol Minus HDL-C
+Remnant-C,"-178.624 [-310.899,-46.349]",1.000,,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
+Total-C,"-196.723 [-328.482,-64.963]",1.000,,Total-Cholesterol

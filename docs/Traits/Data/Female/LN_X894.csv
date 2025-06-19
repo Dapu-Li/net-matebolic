@@ -1,0 +1,20 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+Omega-6/Omega-3,"1.617 [1.107,2.127]",1.191e-04,***,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+ApoA1,"1.503 [0.981,2.025]",0.004,**,Apolipoprotein A1
+HDL-L,"1.502 [0.965,2.039]",0.010,**,Total-Lipids in HDL
+HDL-PL,"1.468 [0.939,1.997]",0.012,*,Phospholipids in HDL
+HDL-C,"1.457 [0.922,1.992]",0.022,*,HDL Cholesterol
+HDL-CE,"1.451 [0.918,1.983]",0.022,*,Cholesteryl Esters in HDL
+M-HDL-P,"1.431 [0.926,1.936]",0.006,**,Concentration of Medium HDL Particles
+M-HDL-C,"1.430 [0.912,1.948]",0.014,*,Cholesterol in Medium HDL
+M-HDL-L,"1.428 [0.908,1.948]",0.017,*,Total-Lipids in Medium HDL
+M-HDL-CE,"1.416 [0.901,1.932]",0.017,*,Cholesteryl Esters in Medium HDL
+M-HDL-FC,"1.403 [0.893,1.913]",0.016,*,Free Cholesterol in Medium HDL
+M-HDL-PL,"1.366 [0.854,1.878]",0.039,*,Phospholipids in Medium HDL
+HDL-P,"1.347 [0.845,1.850]",0.034,*,Concentration of HDL Particles
+Citrate,"1.289 [0.802,1.776]",0.049,*,Citrate
+Total-BCAA,"-1.197 [-1.701,-0.693]",0.731,,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+Sc-ala,"-1.361 [-1.848,-0.874]",0.010,*,Spectrometer-corrected alanine
+DHA%,"-1.498 [-2.038,-0.959]",0.012,*,Docosahexaenoic Acid to Total-Fatty Acids percentage
+Omega-3%,"-1.597 [-2.104,-1.090]",1.485e-04,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+Val,"-1.637 [-2.145,-1.130]",5.979e-05,***,Valine

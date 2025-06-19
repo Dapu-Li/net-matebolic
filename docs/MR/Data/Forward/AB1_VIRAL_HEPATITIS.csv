@@ -1,0 +1,26 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Omega-6%,366,1.190 [1.105-1.281],0.978,,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+M-HDL-C%,632,1.163 [1.106-1.223],0.001,**,Cholesterol to Total-Lipids in Medium HDL percentage
+M-HDL-CE,607,1.156 [1.091-1.225],0.203,,Cholesteryl Esters in Medium HDL
+M-HDL-CE%,557,1.154 [1.096-1.214],0.011,*,Cholesteryl Esters to Total-Lipids in Medium HDL percentage
+L-VLDL-TG%,369,1.051 [0.995-1.111],1.000,,Triglycerides to Total-Lipids in Large VLDL percentage
+M-HDL-TG%,657,0.878 [0.838-0.919],0.009,**,Triglycerides to Total-Lipids in Medium HDL percentage
+S-VLDL-L,665,0.873 [0.829-0.919],0.048,*,Total-Lipids in Small VLDL
+S-VLDL-P,669,0.872 [0.828-0.918],0.042,*,Concentration of Small VLDL Particles
+S-HDL-TG%,677,0.871 [0.830-0.913],0.004,**,Triglycerides to Total-Lipids in Small HDL percentage
+XL-VLDL-CE,617,0.865 [0.820-0.914],0.040,*,Cholesteryl Esters in Very Large VLDL
+XXL-VLDL-C,589,0.865 [0.820-0.913],0.025,*,Cholesterol in Chylomicrons and Extremely Large VLDL
+XL-VLDL-C,639,0.865 [0.819-0.913],0.047,*,Cholesterol in Very Large VLDL
+XXL-VLDL-CE,621,0.864 [0.820-0.910],0.007,**,Cholesteryl Esters in Chylomicrons and Extremely Large VLDL
+L-VLDL-CE,614,0.863 [0.818-0.912],0.029,*,Cholesteryl Esters in Large VLDL
+VLDL-FC,630,0.863 [0.816-0.912],0.039,*,Free Cholesterol in VLDL
+Total-TG,641,0.862 [0.815-0.911],0.043,*,Total-Triglycerides
+L-VLDL-C,622,0.862 [0.816-0.911],0.031,*,Cholesterol in Large VLDL
+XXL-VLDL-FC,557,0.860 [0.813-0.909],0.029,*,Free Cholesterol in Chylomicrons and Extremely Large VLDL
+VLDL-C,644,0.859 [0.814-0.906],0.005,**,VLDL Cholesterol
+VLDL-PL,674,0.859 [0.814-0.906],0.006,**,Phospholipids in VLDL
+XL-VLDL-FC,610,0.857 [0.810-0.907],0.021,*,Free Cholesterol in Very Large VLDL
+XXL-VLDL-P,529,0.854 [0.807-0.904],0.016,*,Concentration of Chylomicrons and Extremely Large VLDL Particles
+XXL-VLDL-L,514,0.850 [0.802-0.901],0.013,*,Total-Lipids in Chylomicrons and Extremely Large VLDL
+M-LDL-CE%,368,0.830 [0.773-0.890],0.042,*,Cholesteryl Esters to Total-Lipids in Medium LDL percentage
+XS-VLDL-PL%,375,0.823 [0.768-0.883],0.010,*,Phospholipids to Total-Lipids in Very Small VLDL percentage

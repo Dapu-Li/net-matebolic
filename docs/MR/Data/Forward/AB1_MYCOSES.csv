@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Acetate,13,1.189 [0.891-1.587],1.000,,Acetate
+M-VLDL-TG%,609,1.069 [1.041-1.097],0.156,,Triglycerides to Total-Lipids in Medium VLDL percentage
+XL-VLDL-FC,610,1.018 [0.988-1.048],1.000,,Free Cholesterol in Very Large VLDL
+XL-VLDL-PL,607,1.017 [0.988-1.047],1.000,,Phospholipids in Very Large VLDL
+XS-VLDL-FC%,460,1.002 [0.965-1.040],1.000,,Free Cholesterol to Total-Lipids in Very Small VLDL percentage
+M-VLDL-CE%,597,0.929 [0.905-0.955],0.018,*,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
+M-VLDL-C%,604,0.929 [0.905-0.954],0.014,*,Cholesterol to Total-Lipids in Medium VLDL percentage
+XL-VLDL-CE%,485,0.919 [0.891-0.948],0.020,*,Cholesteryl Esters to Total-Lipids in Very Large VLDL percentage
+XL-VLDL-C%,486,0.916 [0.888-0.945],0.005,**,Cholesterol to Total-Lipids in Very Large VLDL percentage
+LDL-size,178,0.868 [0.822-0.916],0.063,,Average Diameter for LDL Particles

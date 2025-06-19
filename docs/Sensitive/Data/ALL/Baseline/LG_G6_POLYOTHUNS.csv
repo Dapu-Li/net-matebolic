@@ -1,0 +1,17 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+L-VLDL-TG%,1.23 [1.04-1.46],1.000,,Triglycerides to Total-Lipids in Large VLDL percentage
+M-LDL-PL%,1.09 [0.92-1.28],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+M-HDL-PL%,1.06 [0.90-1.25],1.000,,Phospholipids to Total-Lipids in Medium HDL percentage
+Ala,1.05 [0.90-1.23],1.000,,Alanine
+M-HDL-CE%,1.03 [0.87-1.20],1.000,,Cholesteryl Esters to Total-Lipids in Medium HDL percentage
+Total-C,0.67 [0.57-0.78],0.043,*,Total-Cholesterol
+L-LDL-L,0.66 [0.57-0.77],0.048,*,Total-Lipids in Large LDL
+Non-HDL-C,0.66 [0.57-0.77],0.015,*,Total-Cholesterol Minus HDL-C
+Clinical LDL-C,0.66 [0.57-0.76],0.008,**,Clinical LDL Cholesterol
+Remnant-C,0.66 [0.56-0.77],0.026,*,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
+L-LDL-PL,0.65 [0.55-0.76],0.034,*,Phospholipids in Large LDL
+L-LDL-FC,0.64 [0.55-0.76],0.037,*,Free Cholesterol in Large LDL
+IDL-L,0.64 [0.55-0.75],0.010,*,Total-Lipids in IDL
+IDL-C,0.63 [0.54-0.75],0.006,**,Cholesterol in IDL
+IDL-P,0.63 [0.53-0.75],0.043,*,Concentration of IDL Particles
+IDL-CE,0.63 [0.54-0.74],0.005,**,Cholesteryl Esters in IDL

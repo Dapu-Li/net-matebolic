@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+L-HDL-TG%,637,1.861 [1.474-2.348],0.042,*,Triglycerides to Total-Lipids in Large HDL percentage
+S-LDL-CE%,545,1.848 [1.423-2.400],1.000,,Cholesteryl Esters to Total-Lipids in Small LDL percentage
+XL-HDL-TG%,642,1.788 [1.403-2.280],0.659,,Triglycerides to Total-Lipids in Very Large HDL percentage
+M-HDL-TG%,657,1.737 [1.391-2.169],0.266,,Triglycerides to Total-Lipids in Medium HDL percentage
+S-HDL-TG%,677,1.701 [1.357-2.131],0.965,,Triglycerides to Total-Lipids in Small HDL percentage
+M-LDL-FC%,651,0.562 [0.441-0.717],0.878,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+M-HDL-CE%,557,0.545 [0.428-0.694],0.204,,Cholesteryl Esters to Total-Lipids in Medium HDL percentage
+M-HDL-C%,632,0.507 [0.399-0.643],0.006,**,Cholesterol to Total-Lipids in Medium HDL percentage
+L-HDL-C%,622,0.477 [0.372-0.613],0.002,**,Cholesterol to Total-Lipids in Large HDL percentage
+L-HDL-CE%,562,0.446 [0.342-0.581],5.926e-04,***,Cholesteryl Esters to Total-Lipids in Large HDL percentage

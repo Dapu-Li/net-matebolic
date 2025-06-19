@@ -1,0 +1,12 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+M-HDL-CE%,557,1.037 [0.988-1.089],1.000,,Cholesteryl Esters to Total-Lipids in Medium HDL percentage
+Tyr,120,1.036 [0.946-1.135],1.000,,Tyrosine
+XXL-VLDL-CE%,176,1.029 [0.976-1.085],1.000,,Cholesteryl Esters to Total-Lipids in Chylomicrons and Extremely Large VLDL percentage
+L-VLDL-TG%,369,1.028 [0.982-1.076],1.000,,Triglycerides to Total-Lipids in Large VLDL percentage
+XL-VLDL-TG%,444,1.019 [0.979-1.062],1.000,,Triglycerides to Total-Lipids in Very Large VLDL percentage
+PUFA,699,0.701 [0.618-0.794],0.006,**,Polyunsaturated Fatty Acids
+Total-FA,654,0.682 [0.595-0.783],0.011,*,Total-Fatty Acids
+Omega-6,651,0.671 [0.583-0.773],0.007,**,Omega-6 Fatty Acids
+LA,635,0.665 [0.576-0.768],0.006,**,Linoleic Acid
+MUFA,654,0.656 [0.569-0.755],0.001,**,Monounsaturated Fatty Acids
+GlycA,385,0.503 [0.389-0.649],0.032,*,Glycoprotein Acetyls

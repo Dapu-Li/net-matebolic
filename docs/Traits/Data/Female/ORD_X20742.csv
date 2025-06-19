@@ -1,0 +1,19 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+HDL-L,"0.197 [0.130,0.263]",0.001,**,Total-Lipids in HDL
+M-HDL-C,"0.195 [0.130,0.260]",8.682e-04,***,Cholesterol in Medium HDL
+HDL-PL,"0.194 [0.129,0.260]",0.001,**,Phospholipids in HDL
+M-HDL-L,"0.194 [0.129,0.259]",0.001,**,Total-Lipids in Medium HDL
+M-HDL-CE,"0.193 [0.128,0.257]",0.001,**,Cholesteryl Esters in Medium HDL
+M-HDL-FC,"0.193 [0.129,0.256]",6.047e-04,***,Free Cholesterol in Medium HDL
+ApoA1,"0.192 [0.127,0.258]",0.002,**,Apolipoprotein A1
+HDL-C,"0.190 [0.124,0.256]",0.004,**,HDL Cholesterol
+M-HDL-P,"0.189 [0.125,0.252]",0.001,**,Concentration of Medium HDL Particles
+M-HDL-PL,"0.188 [0.124,0.252]",0.002,**,Phospholipids in Medium HDL
+HDL-CE,"0.188 [0.122,0.254]",0.005,**,Cholesteryl Esters in HDL
+HDL-FC,"0.180 [0.117,0.243]",0.005,**,Free Cholesterol in HDL
+HDL-P,"0.175 [0.112,0.239]",0.013,*,Concentration of HDL Particles
+M-LDL-PL%,"-0.002 [-0.061,0.056]",1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+Gln,"-0.003 [-0.064,0.057]",1.000,,Glutamine
+M-LDL-C%,"-0.025 [-0.088,0.038]",1.000,,Cholesterol to Total-Lipids in Medium LDL percentage
+M-LDL-CE%,"-0.048 [-0.107,0.012]",1.000,,Cholesteryl Esters to Total-Lipids in Medium LDL percentage
+M-HDL-TG%,"-0.069 [-0.131,-0.007]",1.000,,Triglycerides to Total-Lipids in Medium HDL percentage

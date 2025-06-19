@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+PUFA/MUFA,"44.282 [25.701,62.863]",0.690,,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+Omega-6%,"43.189 [24.136,62.241]",1.000,,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+LA%,"40.977 [22.878,59.077]",1.000,,Linoleic Acid to Total-Fatty Acids percentage
+M-LDL-FC%,"38.726 [20.211,57.240]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+DHA%,"12.670 [-4.518,29.858]",1.000,,Docosahexaenoic Acid to Total-Fatty Acids percentage
+Total-BCAA,"-9.973 [-25.914,5.968]",1.000,,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+M-LDL-TG%,"-25.836 [-42.496,-9.176]",1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+MUFA%,"-43.700 [-61.861,-25.540]",0.553,,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+GlycA,"-47.642 [-64.758,-30.526]",0.011,*,Glycoprotein Acetyls
+L-HDL-PL%,"-48.284 [-68.457,-28.111]",0.626,,Phospholipids to Total-Lipids in Large HDL percentage

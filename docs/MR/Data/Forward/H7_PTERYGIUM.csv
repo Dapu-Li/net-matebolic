@@ -1,0 +1,16 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+IDL-CE,553,1.367 [1.233-1.515],6.349e-04,***,Cholesteryl Esters in IDL
+IDL-C,568,1.365 [1.231-1.514],9.179e-04,***,Cholesterol in IDL
+LDL-FC,411,1.352 [1.214-1.505],0.009,**,Free Cholesterol in LDL
+L-LDL-FC,474,1.340 [1.202-1.494],0.030,*,Free Cholesterol in Large LDL
+IDL-P,505,1.339 [1.212-1.478],0.002,**,Concentration of IDL Particles
+M-VLDL-FC%,574,1.331 [1.199-1.479],0.021,*,Free Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-C%,604,1.331 [1.195-1.482],0.044,*,Cholesterol to Total-Lipids in Medium VLDL percentage
+IDL-FC,587,1.331 [1.201-1.474],0.011,*,Free Cholesterol in IDL
+IDL-L,573,1.329 [1.205-1.466],0.003,**,Total-Lipids in IDL
+S-VLDL-C%,527,1.318 [1.196-1.454],0.007,**,Cholesterol to Total-Lipids in Small VLDL percentage
+Gln,113,0.940 [0.746-1.185],1.000,,Glutamine
+TG/PG,632,0.874 [0.790-0.968],1.000,,Triglycerides to Phosphoglycerides ratio
+Acetoacetate,15,0.770 [0.415-1.428],1.000,,Acetoacetate
+S-VLDL-TG%,564,0.756 [0.684-0.835],0.009,**,Triglycerides to Total-Lipids in Small VLDL percentage
+M-VLDL-TG%,609,0.753 [0.677-0.838],0.052,,Triglycerides to Total-Lipids in Medium VLDL percentage

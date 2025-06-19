@@ -1,0 +1,29 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+DHA,"0.178 [0.136,0.221]",4.057e-11,***,Docosahexaenoic Acid
+Omega-3,"0.155 [0.114,0.197]",8.615e-08,***,Omega-3 Fatty Acids
+Omega-3%,"0.144 [0.103,0.186]",2.378e-06,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+DHA%,"0.140 [0.097,0.182]",3.271e-05,***,Docosahexaenoic Acid to Total-Fatty Acids percentage
+S-HDL-FC,"0.137 [0.095,0.179]",4.751e-05,***,Free Cholesterol in Small HDL
+Total-P,"0.136 [0.093,0.180]",1.969e-04,***,Total-Concentration of Lipoprotein Particles
+PC,"0.135 [0.091,0.179]",3.872e-04,***,Phosphatidylcholines
+HDL-P,"0.135 [0.091,0.179]",3.501e-04,***,Concentration of HDL Particles
+S-HDL-C,"0.130 [0.089,0.171]",1.251e-04,***,Cholesterol in Small HDL
+S-HDL-L,"0.130 [0.088,0.172]",2.074e-04,***,Total-Lipids in Small HDL
+Phosphoglyc,"0.130 [0.086,0.173]",0.001,**,Phosphoglycerides
+S-HDL-PL,"0.129 [0.087,0.171]",4.493e-04,***,Phospholipids in Small HDL
+Cholines,"0.128 [0.084,0.171]",0.002,**,Total-Cholines
+S-HDL-P,"0.126 [0.085,0.167]",4.299e-04,***,Concentration of Small HDL Particles
+ApoA1,"0.125 [0.080,0.170]",0.011,*,Apolipoprotein A1
+M-HDL-L,"0.125 [0.080,0.169]",0.009,**,Total-Lipids in Medium HDL
+M-HDL-FC,"0.123 [0.078,0.169]",0.018,*,Free Cholesterol in Medium HDL
+M-HDL-C,"0.123 [0.079,0.168]",0.016,*,Cholesterol in Medium HDL
+S-HDL-CE,"0.122 [0.081,0.163]",0.001,**,Cholesteryl Esters in Small HDL
+M-HDL-CE,"0.122 [0.077,0.166]",0.023,*,Cholesteryl Esters in Medium HDL
+M-HDL-PL,"0.121 [0.077,0.165]",0.017,*,Phospholipids in Medium HDL
+M-HDL-P,"0.119 [0.075,0.164]",0.036,*,Concentration of Medium HDL Particles
+PUFA,"0.119 [0.077,0.161]",0.005,**,Polyunsaturated Fatty Acids
+M-LDL-TG%,"-0.013 [-0.056,0.029]",1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+L-LDL-FC%,"-0.016 [-0.061,0.029]",1.000,,Free Cholesterol to Total-Lipids in Large LDL percentage
+L-HDL-TG%,"-0.022 [-0.066,0.022]",1.000,,Triglycerides to Total-Lipids in Large HDL percentage
+L-LDL-PL%,"-0.079 [-0.120,-0.037]",1.000,,Phospholipids to Total-Lipids in Large LDL percentage
+Omega-6/Omega-3,"-0.142 [-0.183,-0.100]",4.643e-06,***,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio

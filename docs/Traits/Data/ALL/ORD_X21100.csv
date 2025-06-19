@@ -1,0 +1,11 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+Lactate,"0.166 [0.140,0.192]",2.315e-31,***,Lactate
+Pyruvate,"0.086 [0.060,0.112]",1.619e-05,***,Pyruvate
+PUFA%,"0.075 [0.048,0.102]",0.014,*,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+Acetone,"0.073 [0.048,0.098]",0.003,**,Acetone
+LA%,"0.070 [0.043,0.097]",0.066,,Linoleic Acid to Total-Fatty Acids percentage
+M-LDL-TG%,"-0.010 [-0.036,0.016]",1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+Total-BCAA,"-0.014 [-0.040,0.012]",1.000,,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+Leu,"-0.018 [-0.045,0.008]",1.000,,Leucine
+Gln,"-0.079 [-0.104,-0.053]",2.848e-04,***,Glutamine
+Glu,"-0.140 [-0.166,-0.114]",1.600e-20,***,Glucose

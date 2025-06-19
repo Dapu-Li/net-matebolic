@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+MUFA%,"0.035 [0.020,0.051]",0.927,,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+Omega-6/Omega-3,"0.035 [0.021,0.048]",0.126,,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+M-LDL-PL%,"0.019 [0.007,0.032]",1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+Val,"0.000 [-0.013,0.014]",1.000,,Valine
+ApoB/ApoA1,"0.000 [-0.013,0.014]",1.000,,Apolipoprotein B to Apolipoprotein A1 ratio
+Remnant-C,"-0.005 [-0.018,0.008]",1.000,,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
+Total-C,"-0.007 [-0.020,0.007]",1.000,,Total-Cholesterol
+M-LDL-FC%,"-0.012 [-0.027,0.003]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+DHA%,"-0.039 [-0.054,-0.025]",0.020,*,Docosahexaenoic Acid to Total-Fatty Acids percentage
+Omega-3%,"-0.039 [-0.053,-0.026]",0.003,**,Omega-3 Fatty Acids to Total-Fatty Acids percentage

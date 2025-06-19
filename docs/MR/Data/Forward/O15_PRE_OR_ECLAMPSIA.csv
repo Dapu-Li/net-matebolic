@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+LA%,226,1.128 [1.079-1.178],0.016,*,Linoleic Acid to Total-Fatty Acids percentage
+XL-VLDL-CE%,485,1.119 [1.068-1.172],0.474,,Cholesteryl Esters to Total-Lipids in Very Large VLDL percentage
+L-LDL-FC%,687,1.104 [1.061-1.148],0.235,,Free Cholesterol to Total-Lipids in Large LDL percentage
+S-VLDL-CE%,509,1.080 [1.047-1.114],0.273,,Cholesteryl Esters to Total-Lipids in Small VLDL percentage
+Omega-6/Omega-3,257,1.055 [1.033-1.076],0.077,,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+Omega-3,420,0.934 [0.912-0.955],0.002,**,Omega-3 Fatty Acids
+M-HDL-PL,545,0.906 [0.873-0.940],0.041,*,Phospholipids in Medium HDL
+S-HDL-L,442,0.880 [0.840-0.922],0.016,*,Total-Lipids in Small HDL
+S-HDL-PL,489,0.874 [0.836-0.914],7.114e-04,***,Phospholipids in Small HDL
+GlycA,385,0.803 [0.758-0.850],1.498e-08,***,Glycoprotein Acetyls

@@ -1,0 +1,11 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+S-HDL-P,"0.112 [0.072,0.152]",0.009,**,Concentration of Small HDL Particles
+S-HDL-C,"0.111 [0.071,0.151]",0.013,*,Cholesterol in Small HDL
+S-HDL-L,"0.110 [0.070,0.151]",0.021,*,Total-Lipids in Small HDL
+S-HDL-CE,"0.107 [0.068,0.147]",0.027,*,Cholesteryl Esters in Small HDL
+S-HDL-FC,"0.107 [0.066,0.148]",0.072,,Free Cholesterol in Small HDL
+M-LDL-FC%,"-0.002 [-0.045,0.042]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+IDL-TG%,"-0.020 [-0.063,0.023]",1.000,,Triglycerides to Total-Lipids in IDL percentage
+L-HDL-CE%,"-0.025 [-0.070,0.021]",1.000,,Cholesteryl Esters to Total-Lipids in Large HDL percentage
+L-HDL-C%,"-0.028 [-0.074,0.017]",1.000,,Cholesterol to Total-Lipids in Large HDL percentage
+IDL-PL%,"-0.065 [-0.105,-0.025]",1.000,,Phospholipids to Total-Lipids in IDL percentage

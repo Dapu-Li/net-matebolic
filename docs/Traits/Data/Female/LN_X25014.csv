@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+M-LDL-FC%,"18.736 [9.434,28.038]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+PUFA%,"18.303 [8.564,28.043]",1.000,,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+Omega-6%,"16.978 [7.403,26.553]",1.000,,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+LA%,"13.403 [4.305,22.501]",1.000,,Linoleic Acid to Total-Fatty Acids percentage
+Omega-3%,"1.682 [-6.345,9.710]",1.000,,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+XL-VLDL-FC,"-20.336 [-28.962,-11.711]",0.880,,Free Cholesterol in Very Large VLDL
+XL-VLDL-L,"-20.679 [-29.410,-11.948]",0.793,,Total-Lipids in Very Large VLDL
+XL-VLDL-PL,"-20.826 [-29.554,-12.098]",0.672,,Phospholipids in Very Large VLDL
+XL-VLDL-P,"-21.081 [-29.920,-12.242]",0.679,,Concentration of Very Large VLDL Particles
+GlycA,"-23.728 [-32.327,-15.130]",0.015,*,Glycoprotein Acetyls

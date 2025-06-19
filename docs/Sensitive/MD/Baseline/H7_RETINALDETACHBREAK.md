@@ -1,0 +1,19 @@
+# Retinal detachment with retinal break
+
+> **Root:** Baseline Disease  
+
+> **Chapter:** Chapter VII- Eye and adnexa  
+
+> **Phenotype:** Retinal detachment with retinal break  
+
+> **Code:** `H7_RETINALDETACHBREAK`
+
+## 🧪 All Participants  
+> Sample size: **203522**  
+> Cases: **302**  
+> Controls: **203220**
+<img src="/Sensitive/Figures/ALL/Baseline/H7_RETINALDETACHBREAK.png"/>
+
+## 📊 Data Table
+<CsvTableMRF src="/Sensitive/Data/ALL/Baseline/LG_H7_RETINALDETACHBREAK.csv"/>
+

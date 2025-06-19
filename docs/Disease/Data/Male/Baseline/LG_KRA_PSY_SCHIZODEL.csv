@@ -1,0 +1,12 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+M-HDL-PL%,1.43 [1.24-1.64],0.072,,Phospholipids to Total-Lipids in Medium HDL percentage
+L-LDL-TG%,1.39 [1.22-1.58],0.181,,Triglycerides to Total-Lipids in Large LDL percentage
+M-LDL-TG%,1.38 [1.21-1.58],0.312,,Triglycerides to Total-Lipids in Medium LDL percentage
+IDL-PL%,1.27 [1.10-1.47],1.000,,Phospholipids to Total-Lipids in IDL percentage
+M-LDL-PL%,1.05 [0.90-1.22],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+L-LDL-C%,0.71 [0.63-0.80],0.005,**,Cholesterol to Total-Lipids in Large LDL percentage
+Clinical LDL-C,0.70 [0.61-0.80],0.046,*,Clinical LDL Cholesterol
+S-LDL-C%,0.68 [0.60-0.77],4.187e-04,***,Cholesterol to Total-Lipids in Small LDL percentage
+LDL-FC,0.67 [0.58-0.78],0.023,*,Free Cholesterol in LDL
+L-LDL-FC,0.67 [0.57-0.77],0.034,*,Free Cholesterol in Large LDL
+M-LDL-FC,0.66 [0.57-0.77],0.024,*,Free Cholesterol in Medium LDL

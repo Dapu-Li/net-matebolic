@@ -1,0 +1,32 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+L-HDL-CE,"0.161 [0.114,0.208]",5.315e-06,***,Cholesteryl Esters in Large HDL
+L-HDL-C,"0.161 [0.113,0.208]",5.954e-06,***,Cholesterol in Large HDL
+XL-HDL-CE,"0.158 [0.112,0.204]",3.041e-06,***,Cholesteryl Esters in Very Large HDL
+XL-HDL-C,"0.154 [0.108,0.199]",8.317e-06,***,Cholesterol in Very Large HDL
+L-HDL-FC,"0.153 [0.107,0.200]",2.589e-05,***,Free Cholesterol in Large HDL
+L-HDL-P,"0.153 [0.106,0.200]",2.849e-05,***,Concentration of Large HDL Particles
+L-HDL-L,"0.152 [0.104,0.199]",7.451e-05,***,Total-Lipids in Large HDL
+XL-HDL-L,"0.149 [0.104,0.195]",3.197e-05,***,Total-Lipids in Very Large HDL
+XL-HDL-PL,"0.145 [0.100,0.190]",8.042e-05,***,Phospholipids in Very Large HDL
+HDL-size,"0.143 [0.097,0.190]",3.938e-04,***,Average Diameter for HDL Particles
+XL-HDL-P,"0.142 [0.097,0.187]",1.189e-04,***,Concentration of Very Large HDL Particles
+L-HDL-PL,"0.141 [0.094,0.188]",7.458e-04,***,Phospholipids in Large HDL
+PUFA/MUFA,"0.137 [0.091,0.182]",8.593e-04,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+M-HDL-FC%,"0.134 [0.087,0.181]",0.005,**,Free Cholesterol to Total-Lipids in Medium HDL percentage
+M-VLDL-FC%,"0.132 [0.089,0.176]",7.476e-04,***,Free Cholesterol to Total-Lipids in Medium VLDL percentage
+HDL-C,"0.132 [0.086,0.178]",0.005,**,HDL Cholesterol
+HDL-FC,"0.131 [0.085,0.177]",0.005,**,Free Cholesterol in HDL
+HDL-CE,"0.130 [0.084,0.176]",0.006,**,Cholesteryl Esters in HDL
+L-VLDL-CE%,"0.130 [0.086,0.174]",0.001,**,Cholesteryl Esters to Total-Lipids in Large VLDL percentage
+L-HDL-C%,"0.129 [0.084,0.175]",0.007,**,Cholesterol to Total-Lipids in Large HDL percentage
+M-VLDL-C%,"0.127 [0.082,0.172]",0.006,**,Cholesterol to Total-Lipids in Medium VLDL percentage
+XL-HDL-FC,"0.125 [0.082,0.168]",0.003,**,Free Cholesterol in Very Large HDL
+M-VLDL-PL%,"0.123 [0.079,0.166]",0.007,**,Phospholipids to Total-Lipids in Medium VLDL percentage
+L-HDL-CE%,"0.120 [0.075,0.165]",0.039,*,Cholesteryl Esters to Total-Lipids in Large HDL percentage
+Unsaturation,"0.120 [0.076,0.164]",0.023,*,Degree of Unsaturation
+XL-VLDL-FC%,"0.117 [0.075,0.160]",0.012,*,Free Cholesterol to Total-Lipids in Very Large VLDL percentage
+VLDL-size,"-0.117 [-0.162,-0.073]",0.065,,Average Diameter for VLDL Particles
+M-VLDL-TG%,"-0.131 [-0.174,-0.087]",8.515e-04,***,Triglycerides to Total-Lipids in Medium VLDL percentage
+Creatinine,"-0.133 [-0.182,-0.084]",0.020,*,Creatinine
+XL-HDL-FC%,"-0.140 [-0.188,-0.091]",0.003,**,Free Cholesterol to Total-Lipids in Very Large HDL percentage
+MUFA%,"-0.143 [-0.189,-0.098]",1.139e-04,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage

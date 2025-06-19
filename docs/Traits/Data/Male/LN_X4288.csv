@@ -1,0 +1,21 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+Glu,"10.894 [9.635,12.152]",6.208e-59,***,Glucose
+LA%,"5.554 [4.261,6.848]",9.017e-12,***,Linoleic Acid to Total-Fatty Acids percentage
+Unsaturation,"5.351 [4.046,6.657]",2.225e-10,***,Degree of Unsaturation
+PUFA/MUFA,"4.879 [3.585,6.173]",3.389e-08,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+PUFA%,"4.800 [3.549,6.052]",1.306e-08,***,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+Omega-6%,"4.213 [2.968,5.457]",7.557e-06,***,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+L-LDL-C%,"3.835 [2.598,5.072]",2.851e-04,***,Cholesterol to Total-Lipids in Large LDL percentage
+Albumin,"3.631 [2.387,4.876]",0.002,**,Albumin
+S-LDL-FC,"3.500 [2.220,4.779]",0.019,*,Free Cholesterol in Small LDL
+S-LDL-FC%,"3.388 [2.171,4.606]",0.011,*,Free Cholesterol to Total-Lipids in Small LDL percentage
+L-LDL-TG%,"-3.390 [-4.644,-2.136]",0.027,*,Triglycerides to Total-Lipids in Large LDL percentage
+SFA%,"-3.522 [-4.739,-2.306]",0.003,**,Saturated Fatty Acids to Total-Fatty Acids percentage
+S-HDL-PL%,"-3.529 [-4.852,-2.206]",0.039,*,Phospholipids to Total-Lipids in Small HDL percentage
+3-Hydroxybutyrate,"-4.161 [-5.489,-2.832]",1.929e-04,***,3-Hydroxybutyrate
+MUFA%,"-4.391 [-5.690,-3.092]",8.022e-06,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+Ala,"-4.393 [-5.673,-3.113]",4.062e-06,***,Alanine
+Sc-ala,"-4.590 [-5.877,-3.303]",6.380e-07,***,Spectrometer-corrected alanine
+Pyruvate,"-5.817 [-6.876,-4.757]",1.355e-21,***,Pyruvate
+Acetate,"-8.655 [-9.924,-7.387]",2.577e-35,***,Acetate
+Lactate,"-16.912 [-18.110,-15.713]",4.848e-161,***,Lactate

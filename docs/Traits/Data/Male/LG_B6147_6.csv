@@ -1,0 +1,11 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+Lactate,"1.362 [1.267,1.463]",8.448e-12,***,Lactate
+Pyruvate,"1.252 [1.175,1.334]",8.854e-07,***,Pyruvate
+Citrate,"1.101 [1.022,1.187]",1.000,,Citrate
+HDL-FC,"1.035 [0.948,1.129]",1.000,,Free Cholesterol in HDL
+M-LDL-TG%,"1.030 [0.960,1.104]",1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+Total-C,"0.995 [0.927,1.068]",1.000,,Total-Cholesterol
+VLDL-C,"0.986 [0.917,1.060]",1.000,,VLDL Cholesterol
+Non-HDL-C,"0.981 [0.915,1.052]",1.000,,Total-Cholesterol Minus HDL-C
+M-LDL-FC%,"0.981 [0.915,1.051]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+Remnant-C,"0.970 [0.904,1.042]",1.000,,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"

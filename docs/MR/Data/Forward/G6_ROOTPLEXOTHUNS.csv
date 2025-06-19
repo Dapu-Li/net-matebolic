@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Albumin,72,1.062 [0.948-1.190],1.000,,Albumin
+M-HDL-C,607,1.034 [0.996-1.074],1.000,,Cholesterol in Medium HDL
+M-HDL-L,576,1.025 [0.985-1.067],1.000,,Total-Lipids in Medium HDL
+L-HDL-CE%,562,1.023 [0.990-1.057],1.000,,Cholesteryl Esters to Total-Lipids in Large HDL percentage
+HDL-size,600,1.003 [0.977-1.029],1.000,,Average Diameter for HDL Particles
+Cholines,620,0.976 [0.939-1.015],1.000,,Total-Cholines
+VLDL-C,644,0.917 [0.884-0.950],0.548,,VLDL Cholesterol
+L-LDL-P,541,0.916 [0.883-0.950],0.642,,Concentration of Large LDL Particles
+S-VLDL-PL,664,0.912 [0.880-0.946],0.127,,Phospholipids in Small VLDL
+M-VLDL-CE,487,0.902 [0.868-0.937],0.023,*,Cholesteryl Esters in Medium VLDL

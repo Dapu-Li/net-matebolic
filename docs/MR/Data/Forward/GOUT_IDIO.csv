@@ -1,0 +1,12 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+S-HDL-PL%,367,1.133 [1.076-1.194],0.615,,Phospholipids to Total-Lipids in Small HDL percentage
+Omega-6/Omega-3,257,1.080 [1.040-1.122],1.000,,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+S-LDL-TG%,594,1.029 [0.976-1.085],1.000,,Triglycerides to Total-Lipids in Small LDL percentage
+L-HDL-FC,638,1.013 [0.968-1.060],1.000,,Free Cholesterol in Large HDL
+M-HDL-C,607,1.009 [0.947-1.074],1.000,,Cholesterol in Medium HDL
+S-LDL-FC,410,0.873 [0.831-0.918],0.027,*,Free Cholesterol in Small LDL
+S-LDL-PL,409,0.862 [0.817-0.909],0.014,*,Phospholipids in Small LDL
+LDL-PL,473,0.861 [0.814-0.909],0.024,*,Phospholipids in LDL
+LDL-L,502,0.859 [0.813-0.908],0.022,*,Total-Lipids in LDL
+Clinical LDL-C,463,0.855 [0.808-0.906],0.028,*,Clinical LDL Cholesterol
+M-LDL-FC,407,0.855 [0.807-0.905],0.021,*,Free Cholesterol in Medium LDL

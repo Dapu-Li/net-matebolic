@@ -1,0 +1,18 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+Lactate,"0.142 [0.110,0.173]",2.619e-13,***,Lactate
+3-Hydroxybutyrate,"0.108 [0.073,0.142]",1.725e-04,***,3-Hydroxybutyrate
+S-HDL-PL,"0.102 [0.069,0.135]",4.342e-04,***,Phospholipids in Small HDL
+S-HDL-L,"0.101 [0.068,0.134]",5.169e-04,***,Total-Lipids in Small HDL
+MUFA%,"0.094 [0.060,0.128]",0.011,*,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+S-HDL-P,"0.094 [0.061,0.127]",0.006,**,Concentration of Small HDL Particles
+Glu-lactate,"0.090 [0.058,0.123]",0.012,*,Glucose-lactate
+S-HDL-C,"0.090 [0.057,0.123]",0.020,*,Cholesterol in Small HDL
+S-HDL-CE,"0.088 [0.055,0.121]",0.043,*,Cholesteryl Esters in Small HDL
+Omega-6%,"-0.086 [-0.119,-0.054]",0.049,*,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+Ile,"-0.097 [-0.132,-0.061]",0.028,*,Isoleucine
+PUFA%,"-0.097 [-0.130,-0.064]",0.001,**,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+Total-BCAA,"-0.098 [-0.134,-0.061]",0.045,*,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+Leu,"-0.099 [-0.136,-0.062]",0.032,*,Leucine
+Creatinine,"-0.100 [-0.136,-0.064]",0.010,**,Creatinine
+PUFA/MUFA,"-0.102 [-0.136,-0.069]",5.851e-04,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+Gln,"-0.107 [-0.140,-0.075]",2.329e-05,***,Glutamine

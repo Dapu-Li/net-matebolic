@@ -1,0 +1,15 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+DHA,"0.216 [0.173,0.259]",2.846e-17,***,Docosahexaenoic Acid
+DHA%,"0.212 [0.169,0.256]",2.485e-16,***,Docosahexaenoic Acid to Total-Fatty Acids percentage
+Omega-3%,"0.190 [0.147,0.233]",1.425e-12,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+Omega-3,"0.167 [0.124,0.210]",5.404e-09,***,Omega-3 Fatty Acids
+Unsaturation,"0.139 [0.095,0.184]",1.823e-04,***,Degree of Unsaturation
+HDL-C,"0.132 [0.085,0.179]",0.008,**,HDL Cholesterol
+HDL-CE,"0.131 [0.084,0.178]",0.010,**,Cholesteryl Esters in HDL
+HDL-FC,"0.130 [0.083,0.177]",0.011,*,Free Cholesterol in HDL
+M-HDL-FC%,"0.127 [0.080,0.174]",0.023,*,Free Cholesterol to Total-Lipids in Medium HDL percentage
+Total-BCAA,"-0.008 [-0.051,0.035]",1.000,,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+Leu,"-0.021 [-0.064,0.022]",1.000,,Leucine
+MUFA%,"-0.112 [-0.158,-0.066]",0.456,,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+XL-HDL-FC%,"-0.130 [-0.179,-0.081]",0.042,*,Free Cholesterol to Total-Lipids in Very Large HDL percentage
+Omega-6/Omega-3,"-0.175 [-0.219,-0.132]",3.625e-10,***,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio

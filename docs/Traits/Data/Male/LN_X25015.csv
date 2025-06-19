@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+PUFA/MUFA,"27.459 [16.398,38.520]",0.263,,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+PUFA%,"25.213 [14.464,35.963]",0.986,,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+LA%,"20.812 [9.632,31.993]",1.000,,Linoleic Acid to Total-Fatty Acids percentage
+DHA%,"20.030 [9.367,30.694]",1.000,,Docosahexaenoic Acid to Total-Fatty Acids percentage
+HDL-CE,"1.711 [-11.099,14.520]",1.000,,Cholesteryl Esters in HDL
+Remnant-C,"-0.141 [-11.180,10.898]",1.000,,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
+Non-HDL-C,"-0.474 [-11.426,10.478]",1.000,,Total-Cholesterol Minus HDL-C
+LDL-C,"-1.071 [-11.957,9.816]",1.000,,LDL Cholesterol
+M-LDL-TG%,"-18.904 [-29.869,-7.940]",1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+MUFA%,"-26.802 [-37.952,-15.651]",0.568,,Monounsaturated Fatty Acids to Total-Fatty Acids percentage

@@ -1,0 +1,29 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+PUFA%,371,1.269 [1.180-1.365],3.084e-05,***,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+PUFA/MUFA,484,1.223 [1.159-1.291],5.835e-08,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+IDL-FC%,332,1.204 [1.129-1.284],0.004,**,Free Cholesterol to Total-Lipids in IDL percentage
+DHA%,240,1.197 [1.142-1.255],1.665e-08,***,Docosahexaenoic Acid to Total-Fatty Acids percentage
+Unsaturation,310,1.151 [1.110-1.194],5.847e-09,***,Degree of Unsaturation
+Omega-3%,215,1.121 [1.076-1.167],0.009,**,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+Omega-3,420,1.099 [1.061-1.137],0.021,*,Omega-3 Fatty Acids
+Omega-6/Omega-3,257,0.897 [0.863-0.933],0.013,*,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+XL-VLDL-C,639,0.877 [0.838-0.919],0.007,**,Cholesterol in Very Large VLDL
+L-VLDL-PL,637,0.877 [0.836-0.919],0.012,*,Phospholipids in Large VLDL
+L-VLDL-L,609,0.876 [0.834-0.921],0.037,*,Total-Lipids in Large VLDL
+L-VLDL-P,622,0.875 [0.834-0.919],0.016,*,Concentration of Large VLDL Particles
+XL-HDL-TG%,642,0.874 [0.833-0.917],0.012,*,Triglycerides to Total-Lipids in Very Large HDL percentage
+XL-VLDL-L,578,0.873 [0.830-0.918],0.027,*,Total-Lipids in Very Large VLDL
+XL-VLDL-PL,607,0.872 [0.830-0.917],0.015,*,Phospholipids in Very Large VLDL
+VLDL-size,604,0.872 [0.830-0.916],0.010,**,Average Diameter for VLDL Particles
+L-VLDL-FC,648,0.872 [0.832-0.913],0.002,**,Free Cholesterol in Large VLDL
+XL-VLDL-FC,610,0.867 [0.826-0.910],0.002,**,Free Cholesterol in Very Large VLDL
+XXL-VLDL-CE,621,0.866 [0.824-0.911],0.004,**,Cholesteryl Esters in Chylomicrons and Extremely Large VLDL
+TG/PG,632,0.865 [0.821-0.911],0.012,*,Triglycerides to Phosphoglycerides ratio
+XL-VLDL-TG,570,0.860 [0.816-0.907],0.006,**,Triglycerides in Very Large VLDL
+XXL-VLDL-C,589,0.860 [0.817-0.905],0.002,**,Cholesterol in Chylomicrons and Extremely Large VLDL
+XXL-VLDL-FC,557,0.859 [0.815-0.905],0.004,**,Free Cholesterol in Chylomicrons and Extremely Large VLDL
+XXL-VLDL-P,529,0.856 [0.810-0.905],0.009,**,Concentration of Chylomicrons and Extremely Large VLDL Particles
+XXL-VLDL-PL,556,0.853 [0.809-0.901],0.002,**,Phospholipids in Chylomicrons and Extremely Large VLDL
+XXL-VLDL-L,514,0.849 [0.802-0.899],0.006,**,Total-Lipids in Chylomicrons and Extremely Large VLDL
+XXL-VLDL-TG,472,0.846 [0.799-0.896],0.002,**,Triglycerides in Chylomicrons and Extremely Large VLDL
+MUFA%,525,0.834 [0.795-0.875],3.313e-08,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage

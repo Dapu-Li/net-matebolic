@@ -1,0 +1,47 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+MUFA%,"1.137 [1.099,1.176]",1.759e-08,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+M-HDL-PL%,"1.124 [1.087,1.162]",1.270e-06,***,Phospholipids to Total-Lipids in Medium HDL percentage
+L-HDL-PL%,"1.117 [1.079,1.156]",6.853e-05,***,Phospholipids to Total-Lipids in Large HDL percentage
+SFA%,"1.113 [1.078,1.149]",9.404e-06,***,Saturated Fatty Acids to Total-Fatty Acids percentage
+S-HDL-TG,"1.100 [1.068,1.134]",5.429e-05,***,Triglycerides in Small HDL
+L-LDL-TG%,"1.100 [1.066,1.135]",7.509e-04,***,Triglycerides to Total-Lipids in Large LDL percentage
+IDL-TG%,"1.096 [1.062,1.131]",0.003,**,Triglycerides to Total-Lipids in IDL percentage
+TG/PG,"1.094 [1.058,1.131]",0.025,*,Triglycerides to Phosphoglycerides ratio
+XL-VLDL-TG,"1.092 [1.058,1.126]",0.006,**,Triglycerides in Very Large VLDL
+XXL-VLDL-TG,"1.090 [1.057,1.125]",0.012,*,Triglycerides in Chylomicrons and Extremely Large VLDL
+XXL-VLDL-P,"1.090 [1.057,1.124]",0.010,*,Concentration of Chylomicrons and Extremely Large VLDL Particles
+XL-HDL-TG%,"1.089 [1.055,1.125]",0.044,*,Triglycerides to Total-Lipids in Very Large HDL percentage
+XXL-VLDL-L,"1.088 [1.055,1.123]",0.020,*,Total-Lipids in Chylomicrons and Extremely Large VLDL
+S-HDL-TG%,"1.088 [1.055,1.123]",0.016,*,Triglycerides to Total-Lipids in Small HDL percentage
+XXL-VLDL-PL,"1.088 [1.055,1.122]",0.019,*,Phospholipids in Chylomicrons and Extremely Large VLDL
+XS-VLDL-TG%,"1.088 [1.054,1.123]",0.044,*,Triglycerides to Total-Lipids in Very Small VLDL percentage
+M-VLDL-TG%,"1.085 [1.052,1.119]",0.040,*,Triglycerides to Total-Lipids in Medium VLDL percentage
+XL-VLDL-P,"1.085 [1.052,1.119]",0.036,*,Concentration of Very Large VLDL Particles
+M-HDL-TG,"1.081 [1.051,1.112]",0.019,*,Triglycerides in Medium HDL
+L-VLDL-PL%,"1.081 [1.050,1.113]",0.032,*,Phospholipids to Total-Lipids in Large VLDL percentage
+XL-HDL-P,"0.921 [0.893,0.950]",0.044,*,Concentration of Very Large HDL Particles
+XL-HDL-PL,"0.921 [0.892,0.950]",0.049,*,Phospholipids in Very Large HDL
+XL-VLDL-CE%,"0.920 [0.892,0.948]",0.015,*,Cholesteryl Esters to Total-Lipids in Very Large VLDL percentage
+M-VLDL-CE%,"0.919 [0.890,0.949]",0.048,*,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
+M-VLDL-C%,"0.918 [0.890,0.948]",0.031,*,Cholesterol to Total-Lipids in Medium VLDL percentage
+XL-HDL-L,"0.918 [0.890,0.947]",0.018,*,Total-Lipids in Very Large HDL
+XL-VLDL-FC%,"0.918 [0.891,0.945]",0.003,**,Free Cholesterol to Total-Lipids in Very Large VLDL percentage
+IDL-FC%,"0.917 [0.890,0.946]",0.008,**,Free Cholesterol to Total-Lipids in IDL percentage
+XL-VLDL-C%,"0.917 [0.890,0.945]",0.005,**,Cholesterol to Total-Lipids in Very Large VLDL percentage
+L-HDL-C,"0.916 [0.887,0.946]",0.027,*,Cholesterol in Large HDL
+S-LDL-FC%,"0.915 [0.888,0.943]",0.001,**,Free Cholesterol to Total-Lipids in Small LDL percentage
+L-HDL-CE,"0.914 [0.884,0.944]",0.010,*,Cholesteryl Esters in Large HDL
+L-LDL-FC%,"0.913 [0.885,0.942]",0.002,**,Free Cholesterol to Total-Lipids in Large LDL percentage
+M-HDL-CE%,"0.913 [0.884,0.942]",0.004,**,Cholesteryl Esters to Total-Lipids in Medium HDL percentage
+L-LDL-C%,"0.912 [0.883,0.942]",0.005,**,Cholesterol to Total-Lipids in Large LDL percentage
+XL-HDL-C,"0.911 [0.883,0.940]",0.001,**,Cholesterol in Very Large HDL
+XL-HDL-CE,"0.908 [0.880,0.937]",4.941e-04,***,Cholesteryl Esters in Very Large HDL
+M-HDL-C%,"0.905 [0.876,0.934]",2.746e-04,***,Cholesterol to Total-Lipids in Medium HDL percentage
+M-LDL-FC%,"0.903 [0.875,0.933]",1.100e-04,***,Free Cholesterol to Total-Lipids in Medium LDL percentage
+L-HDL-CE%,"0.898 [0.868,0.930]",3.758e-04,***,Cholesteryl Esters to Total-Lipids in Large HDL percentage
+L-HDL-C%,"0.898 [0.867,0.930]",4.692e-04,***,Cholesterol to Total-Lipids in Large HDL percentage
+Unsaturation,"0.885 [0.857,0.915]",4.684e-08,***,Degree of Unsaturation
+Omega-6%,"0.877 [0.849,0.906]",8.985e-10,***,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+LA%,"0.866 [0.839,0.894]",3.946e-13,***,Linoleic Acid to Total-Fatty Acids percentage
+PUFA/MUFA,"0.862 [0.833,0.892]",1.695e-12,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+PUFA%,"0.859 [0.831,0.888]",7.662e-14,***,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage

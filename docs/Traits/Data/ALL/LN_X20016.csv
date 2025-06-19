@@ -1,0 +1,25 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+Val,"0.092 [0.075,0.108]",9.337e-22,***,Valine
+Total-BCAA,"0.073 [0.057,0.090]",1.415e-12,***,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+SFA%,"0.073 [0.057,0.089]",3.101e-13,***,Saturated Fatty Acids to Total-Fatty Acids percentage
+Sc-ala,"0.064 [0.049,0.080]",4.786e-10,***,Spectrometer-corrected alanine
+Albumin,"0.057 [0.042,0.073]",2.074e-07,***,Albumin
+XXL-VLDL-TG%,"0.056 [0.040,0.071]",4.046e-07,***,Triglycerides to Total-Lipids in Chylomicrons and Extremely Large VLDL percentage
+Tyr,"0.054 [0.038,0.071]",5.602e-05,***,Tyrosine
+Ala,"0.054 [0.038,0.070]",8.707e-06,***,Alanine
+XL-VLDL-TG%,"0.051 [0.035,0.067]",1.750e-04,***,Triglycerides to Total-Lipids in Very Large VLDL percentage
+Leu,"0.050 [0.033,0.067]",9.130e-04,***,Leucine
+Creatinine,"0.049 [0.033,0.065]",3.407e-04,***,Creatinine
+Ile,"0.048 [0.031,0.064]",0.004,**,Isoleucine
+XXL-VLDL-PL%,"-0.042 [-0.057,-0.026]",0.037,*,Phospholipids to Total-Lipids in Chylomicrons and Extremely Large VLDL percentage
+L-VLDL-C%,"-0.043 [-0.059,-0.027]",0.021,*,Cholesterol to Total-Lipids in Large VLDL percentage
+Omega-6%,"-0.046 [-0.062,-0.029]",0.026,*,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+L-VLDL-FC%,"-0.047 [-0.063,-0.032]",8.411e-04,***,Free Cholesterol to Total-Lipids in Large VLDL percentage
+XXL-VLDL-FC%,"-0.051 [-0.067,-0.035]",1.389e-04,***,Free Cholesterol to Total-Lipids in Chylomicrons and Extremely Large VLDL percentage
+Citrate,"-0.052 [-0.068,-0.036]",4.007e-05,***,Citrate
+Unsaturation,"-0.053 [-0.070,-0.037]",5.517e-05,***,Degree of Unsaturation
+XL-VLDL-C%,"-0.054 [-0.070,-0.038]",1.819e-05,***,Cholesterol to Total-Lipids in Very Large VLDL percentage
+XL-VLDL-CE%,"-0.057 [-0.073,-0.040]",2.298e-06,***,Cholesteryl Esters to Total-Lipids in Very Large VLDL percentage
+XXL-VLDL-CE%,"-0.061 [-0.077,-0.046]",6.984e-09,***,Cholesteryl Esters to Total-Lipids in Chylomicrons and Extremely Large VLDL percentage
+XXL-VLDL-C%,"-0.064 [-0.080,-0.049]",4.282e-10,***,Cholesterol to Total-Lipids in Chylomicrons and Extremely Large VLDL percentage
+GlycA,"-0.080 [-0.096,-0.063]",8.889e-16,***,Glycoprotein Acetyls

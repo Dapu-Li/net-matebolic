@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+S-LDL-FC%,578,1.118 [1.068-1.171],0.523,,Free Cholesterol to Total-Lipids in Small LDL percentage
+M-HDL-CE%,557,1.118 [1.076-1.162],0.003,**,Cholesteryl Esters to Total-Lipids in Medium HDL percentage
+M-HDL-C%,632,1.113 [1.071-1.157],0.014,*,Cholesterol to Total-Lipids in Medium HDL percentage
+S-HDL-CE,360,1.072 [1.011-1.136],1.000,,Cholesteryl Esters in Small HDL
+S-LDL-PL,409,1.015 [0.977-1.054],1.000,,Phospholipids in Small LDL
+S-HDL-TG%,677,0.913 [0.879-0.947],0.344,,Triglycerides to Total-Lipids in Small HDL percentage
+M-HDL-TG%,657,0.910 [0.878-0.943],0.056,,Triglycerides to Total-Lipids in Medium HDL percentage
+L-VLDL-PL%,580,0.903 [0.868-0.940],0.146,,Phospholipids to Total-Lipids in Large VLDL percentage
+XXL-VLDL-L,514,0.896 [0.856-0.936],0.310,,Total-Lipids in Chylomicrons and Extremely Large VLDL
+XXL-VLDL-P,529,0.894 [0.853-0.936],0.382,,Concentration of Chylomicrons and Extremely Large VLDL Particles

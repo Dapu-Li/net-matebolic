@@ -1,0 +1,37 @@
+# 🧬 Muscle wasting and atrophy, not elsewhere classified
+    
+> **Root:** Predict and Diagnose
+
+> **Chapter: 13**
+
+> **Chapter Name: Musculoskeletal**
+
+> **Code: M13_MUSCLEATROPH**
+
+## 🧪 Baseline Diagnosis
+
+**⚠️ Sample size too small to interpret results reliably.**
+
+---
+
+## 📊 Full Follow-up
+
+<img src="/Predict/Figures/ALL/IMP/M13_MUSCLEATROPH.png" />
+
+<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_M13_MUSCLEATROPH.csv" label="🔍 View full results" />
+
+<img src="/Predict/Figures/ALL/ROC/M13_MUSCLEATROPH.png" />
+
+<CsvTableROC src="/Predict/Data/ALL/EVA/M13_MUSCLEATROPH.csv" label="🔍 View full results" />
+
+---
+
+## 📈 Within 5 Years
+
+**⚠️ Sample size too small to interpret results reliably.**
+
+---
+
+## 📉 Over 5 Years
+
+**⚠️ Sample size too small to interpret results reliably.**

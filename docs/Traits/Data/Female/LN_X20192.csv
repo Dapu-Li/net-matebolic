@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+Sc-ala,"0.055 [0.033,0.078]",0.192,,Spectrometer-corrected alanine
+Total-C,"0.034 [0.010,0.059]",1.000,,Total-Cholesterol
+LDL-C,"0.026 [0.003,0.049]",1.000,,LDL Cholesterol
+Non-HDL-C,"0.023 [0.000,0.047]",1.000,,Total-Cholesterol Minus HDL-C
+Remnant-C,"0.019 [-0.004,0.042]",1.000,,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
+M-LDL-PL%,"-0.003 [-0.025,0.018]",1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+ApoB/ApoA1,"-0.005 [-0.028,0.018]",1.000,,Apolipoprotein B to Apolipoprotein A1 ratio
+Gln,"-0.005 [-0.028,0.017]",1.000,,Glutamine
+PUFA/MUFA,"-0.006 [-0.033,0.021]",1.000,,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+Phe,"-0.011 [-0.033,0.011]",1.000,,Phenylalanine

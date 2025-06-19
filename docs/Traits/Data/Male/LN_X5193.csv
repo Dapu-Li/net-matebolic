@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+Unsaturation,"2.632 [1.636,3.627]",0.051,,Degree of Unsaturation
+PUFA/MUFA,"2.397 [1.407,3.387]",0.480,,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+M-LDL-FC%,"0.944 [-0.000,1.889]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+Remnant-C,"0.452 [-0.513,1.417]",1.000,,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
+Non-HDL-C,"0.427 [-0.523,1.377]",1.000,,Total-Cholesterol Minus HDL-C
+ApoA1,"-0.175 [-1.244,0.894]",1.000,,Apolipoprotein A1
+M-LDL-PL%,"-0.222 [-1.224,0.780]",1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+Omega-6/Omega-3,"-1.076 [-2.050,-0.102]",1.000,,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+Acetate,"-2.523 [-3.487,-1.559]",0.067,,Acetate
+Lactate,"-2.627 [-3.553,-1.702]",0.006,**,Lactate

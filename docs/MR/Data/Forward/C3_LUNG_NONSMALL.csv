@@ -1,0 +1,16 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+DHA%,240,1.168 [1.128-1.208],2.687e-13,***,Docosahexaenoic Acid to Total-Fatty Acids percentage
+S-LDL-PL%,510,1.163 [1.100-1.230],0.024,*,Phospholipids to Total-Lipids in Small LDL percentage
+XS-VLDL-FC%,460,1.163 [1.105-1.224],0.001,**,Free Cholesterol to Total-Lipids in Very Small VLDL percentage
+IDL-FC%,332,1.146 [1.090-1.205],0.025,*,Free Cholesterol to Total-Lipids in IDL percentage
+PUFA/MUFA,484,1.141 [1.095-1.189],1.000e-04,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+Unsaturation,310,1.135 [1.107-1.165],6.004e-17,***,Degree of Unsaturation
+DHA,289,1.122 [1.078-1.166],0.003,**,Docosahexaenoic Acid
+Omega-3%,215,1.121 [1.091-1.152],7.806e-11,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+Omega-6/Omega-3,257,0.892 [0.869-0.917],3.849e-11,***,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+S-LDL-CE%,545,0.868 [0.823-0.915],0.036,*,Cholesteryl Esters to Total-Lipids in Small LDL percentage
+MUFA%,525,0.864 [0.828-0.901],1.850e-06,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+MUFA,654,0.858 [0.818-0.900],7.262e-05,***,Monounsaturated Fatty Acids
+LA,635,0.834 [0.793-0.877],2.285e-07,***,Linoleic Acid
+LA%,226,0.813 [0.776-0.852],1.284e-12,***,Linoleic Acid to Total-Fatty Acids percentage
+GlycA,385,0.803 [0.744-0.867],0.005,**,Glycoprotein Acetyls

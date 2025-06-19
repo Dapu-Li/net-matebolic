@@ -1,0 +1,11 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+MUFA%,"0.095 [0.051,0.139]",1.000,,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+SFA%,"0.073 [0.032,0.114]",1.000,,Saturated Fatty Acids to Total-Fatty Acids percentage
+MUFA,"0.049 [0.007,0.090]",1.000,,Monounsaturated Fatty Acids
+SFA,"0.040 [-0.002,0.081]",1.000,,Saturated Fatty Acids
+M-LDL-TG%,"0.039 [-0.003,0.080]",1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+Omega-3%,"-0.106 [-0.148,-0.065]",0.110,,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+PUFA%,"-0.106 [-0.151,-0.062]",0.569,,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+PUFA/MUFA,"-0.108 [-0.152,-0.063]",0.422,,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+DHA%,"-0.121 [-0.164,-0.079]",0.004,**,Docosahexaenoic Acid to Total-Fatty Acids percentage
+Unsaturation,"-0.126 [-0.170,-0.083]",0.003,**,Degree of Unsaturation

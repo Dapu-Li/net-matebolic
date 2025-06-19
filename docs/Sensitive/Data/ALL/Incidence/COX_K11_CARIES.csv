@@ -1,0 +1,11 @@
+Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
+TG/PG,1.05 [1.00-1.10],1.000,,Triglycerides to Phosphoglycerides ratio
+M-LDL-PL%,1.03 [0.98-1.08],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+XXL-VLDL-TG,1.03 [0.98-1.08],1.000,,Triglycerides in Chylomicrons and Extremely Large VLDL
+XXL-VLDL-PL,1.02 [0.98-1.07],1.000,,Phospholipids in Chylomicrons and Extremely Large VLDL
+IDL-PL%,1.02 [0.98-1.07],1.000,,Phospholipids to Total-Lipids in IDL percentage
+L-LDL-C%,0.89 [0.85-0.93],0.170,,Cholesterol to Total-Lipids in Large LDL percentage
+Omega-3%,0.88 [0.84-0.92],0.078,,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+DHA%,0.87 [0.83-0.91],0.008,**,Docosahexaenoic Acid to Total-Fatty Acids percentage
+Unsaturation,0.87 [0.82-0.91],0.003,**,Degree of Unsaturation
+DHA,0.85 [0.81-0.90],3.288e-04,***,Docosahexaenoic Acid

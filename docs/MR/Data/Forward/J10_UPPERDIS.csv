@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+L-HDL-PL%,508,1.029 [1.013-1.045],1.000,,Phospholipids to Total-Lipids in Large HDL percentage
+XS-VLDL-TG%,661,1.009 [0.995-1.024],1.000,,Triglycerides to Total-Lipids in Very Small VLDL percentage
+L-LDL-PL%,382,1.004 [0.993-1.016],1.000,,Phospholipids to Total-Lipids in Large LDL percentage
+M-LDL-FC%,651,1.004 [0.991-1.018],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+Unsaturation,310,1.004 [0.993-1.015],1.000,,Degree of Unsaturation
+Total-FC,546,0.961 [0.947-0.976],0.061,,Total-Free Cholesterol
+Total-CE,575,0.959 [0.945-0.975],0.053,,Total-Esterified Cholesterol
+LDL-L,502,0.959 [0.944-0.975],0.064,,Total-Lipids in LDL
+LDL-C,476,0.958 [0.943-0.974],0.079,,LDL Cholesterol
+LDL-CE,506,0.957 [0.942-0.973],0.016,*,Cholesteryl Esters in LDL

@@ -1,0 +1,24 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Phe,17,1.210 [1.036-1.413],1.000,,Phenylalanine
+XS-VLDL-PL%,375,1.094 [1.056-1.133],0.151,,Phospholipids to Total-Lipids in Very Small VLDL percentage
+XL-HDL-FC%,547,1.044 [1.022-1.066],1.000,,Free Cholesterol to Total-Lipids in Very Large HDL percentage
+XL-VLDL-TG,570,1.021 [0.993-1.050],1.000,,Triglycerides in Very Large VLDL
+L-VLDL-TG,567,1.013 [0.986-1.042],1.000,,Triglycerides in Large VLDL
+Unsaturation,310,0.954 [0.937-0.971],0.035,*,Degree of Unsaturation
+L-HDL-FC,638,0.944 [0.925-0.964],0.015,*,Free Cholesterol in Large HDL
+L-HDL-C,671,0.944 [0.924-0.964],0.034,*,Cholesterol in Large HDL
+M-HDL-FC%,609,0.941 [0.921-0.961],0.007,**,Free Cholesterol to Total-Lipids in Medium HDL percentage
+DHA%,240,0.940 [0.919-0.961],0.013,*,Docosahexaenoic Acid to Total-Fatty Acids percentage
+HDL-L,598,0.939 [0.918-0.961],0.020,*,Total-Lipids in HDL
+HDL-PL,590,0.937 [0.915-0.958],0.007,**,Phospholipids in HDL
+M-HDL-P,598,0.936 [0.913-0.959],0.032,*,Concentration of Medium HDL Particles
+HDL-FC,599,0.935 [0.915-0.956],3.807e-04,***,Free Cholesterol in HDL
+SM,547,0.935 [0.913-0.957],0.007,**,Sphingomyelins
+HDL-C,621,0.935 [0.912-0.957],0.008,**,HDL Cholesterol
+M-HDL-L,576,0.933 [0.910-0.957],0.014,*,Total-Lipids in Medium HDL
+HDL-CE,611,0.933 [0.910-0.956],0.006,**,Cholesteryl Esters in HDL
+M-HDL-PL,545,0.932 [0.909-0.956],0.016,*,Phospholipids in Medium HDL
+M-HDL-FC,597,0.932 [0.910-0.954],0.001,**,Free Cholesterol in Medium HDL
+ApoA1,587,0.932 [0.910-0.955],0.003,**,Apolipoprotein A1
+HDL-P,547,0.921 [0.896-0.946],7.534e-04,***,Concentration of HDL Particles
+Total-P,531,0.911 [0.886-0.937],1.668e-05,***,Total-Concentration of Lipoprotein Particles

@@ -1,0 +1,53 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+Glu-lactate,"0.261 [0.209,0.313]",1.766e-17,***,Glucose-lactate
+Albumin,"0.236 [0.187,0.286]",1.652e-15,***,Albumin
+3-Hydroxybutyrate,"0.206 [0.159,0.253]",1.486e-12,***,3-Hydroxybutyrate
+Lactate,"0.198 [0.152,0.244]",8.853e-12,***,Lactate
+S-HDL-C,"0.185 [0.136,0.234]",1.919e-08,***,Cholesterol in Small HDL
+S-HDL-P,"0.183 [0.135,0.232]",2.367e-08,***,Concentration of Small HDL Particles
+Total-P,"0.183 [0.132,0.234]",5.122e-07,***,Total-Concentration of Lipoprotein Particles
+S-HDL-CE,"0.181 [0.133,0.229]",3.246e-08,***,Cholesteryl Esters in Small HDL
+SM,"0.174 [0.122,0.226]",1.263e-05,***,Sphingomyelins
+HDL-P,"0.171 [0.120,0.222]",9.812e-06,***,Concentration of HDL Particles
+S-HDL-FC,"0.169 [0.118,0.219]",9.929e-06,***,Free Cholesterol in Small HDL
+XL-HDL-CE%,"0.164 [0.106,0.223]",0.009,**,Cholesteryl Esters to Total-Lipids in Very Large HDL percentage
+S-HDL-L,"0.163 [0.114,0.213]",1.582e-05,***,Total-Lipids in Small HDL
+Total-CE,"0.163 [0.110,0.215]",3.104e-04,***,Total-Esterified Cholesterol
+Total-PL,"0.161 [0.108,0.214]",6.385e-04,***,Total-Phospholipids in Lipoprotein Particles
+Cholines,"0.159 [0.106,0.212]",0.001,**,Total-Cholines
+Total-C,"0.159 [0.106,0.211]",7.091e-04,***,Total-Cholesterol
+SFA,"0.158 [0.104,0.213]",0.003,**,Saturated Fatty Acids
+Total-L,"0.155 [0.103,0.208]",0.001,**,Total-Lipids in Lipoprotein Particles
+Omega-6,"0.153 [0.101,0.204]",0.002,**,Omega-6 Fatty Acids
+M-LDL-CE,"0.152 [0.102,0.202]",6.204e-04,***,Cholesteryl Esters in Medium LDL
+Total-FA,"0.152 [0.099,0.206]",0.005,**,Total-Fatty Acids
+M-LDL-C,"0.151 [0.101,0.201]",6.935e-04,***,Cholesterol in Medium LDL
+S-HDL-PL,"0.150 [0.100,0.199]",7.033e-04,***,Phospholipids in Small HDL
+Phosphoglyc,"0.150 [0.096,0.203]",0.008,**,Phosphoglycerides
+PUFA,"0.150 [0.097,0.202]",0.005,**,Polyunsaturated Fatty Acids
+M-LDL-L,"0.148 [0.099,0.198]",0.001,**,Total-Lipids in Medium LDL
+GlycA,"0.145 [0.091,0.199]",0.026,*,Glycoprotein Acetyls
+Total-FC,"0.144 [0.093,0.196]",0.008,**,Total-Free Cholesterol
+LDL-CE,"0.143 [0.093,0.193]",0.006,**,Cholesteryl Esters in LDL
+LDL-C,"0.142 [0.092,0.193]",0.007,**,LDL Cholesterol
+LDL-L,"0.142 [0.092,0.192]",0.007,**,Total-Lipids in LDL
+S-LDL-CE,"0.142 [0.092,0.192]",0.006,**,Cholesteryl Esters in Small LDL
+S-LDL-C,"0.139 [0.089,0.189]",0.009,**,Cholesterol in Small LDL
+M-LDL-FC,"0.138 [0.089,0.188]",0.010,**,Free Cholesterol in Medium LDL
+Clinical LDL-C,"0.138 [0.088,0.189]",0.019,*,Clinical LDL Cholesterol
+LDL-PL,"0.137 [0.088,0.187]",0.014,*,Phospholipids in LDL
+L-LDL-PL,"0.137 [0.087,0.186]",0.018,*,Phospholipids in Large LDL
+S-LDL-L,"0.137 [0.087,0.186]",0.020,*,Total-Lipids in Small LDL
+L-LDL-L,"0.136 [0.086,0.187]",0.030,*,Total-Lipids in Large LDL
+M-LDL-PL,"0.135 [0.086,0.185]",0.020,*,Phospholipids in Medium LDL
+L-LDL-C,"0.134 [0.084,0.185]",0.044,*,Cholesterol in Large LDL
+L-LDL-CE,"0.134 [0.084,0.184]",0.041,*,Cholesteryl Esters in Large LDL
+LDL-FC,"0.133 [0.083,0.183]",0.049,*,Free Cholesterol in LDL
+M-LDL-P,"0.133 [0.083,0.183]",0.046,*,Concentration of Medium LDL Particles
+Val,"-0.146 [-0.199,-0.094]",0.012,*,Valine
+Tyr,"-0.169 [-0.221,-0.118]",2.912e-05,***,Tyrosine
+Gln,"-0.180 [-0.231,-0.130]",6.575e-07,***,Glutamine
+Total-BCAA,"-0.207 [-0.260,-0.153]",6.524e-09,***,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+Leu,"-0.236 [-0.291,-0.181]",8.961e-12,***,Leucine
+Phe,"-0.272 [-0.323,-0.220]",5.865e-20,***,Phenylalanine
+Ile,"-0.277 [-0.330,-0.224]",3.708e-19,***,Isoleucine

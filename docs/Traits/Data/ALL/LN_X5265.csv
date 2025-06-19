@@ -1,0 +1,39 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+Lactate,"0.122 [0.100,0.144]",2.112e-22,***,Lactate
+Glu-lactate,"0.094 [0.070,0.117]",2.466e-09,***,Glucose-lactate
+MUFA%,"0.090 [0.065,0.115]",6.256e-07,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+S-HDL-PL,"0.088 [0.065,0.111]",3.238e-08,***,Phospholipids in Small HDL
+S-HDL-L,"0.088 [0.065,0.111]",2.186e-08,***,Total-Lipids in Small HDL
+MUFA,"0.084 [0.060,0.108]",1.078e-06,***,Monounsaturated Fatty Acids
+3-Hydroxybutyrate,"0.082 [0.059,0.105]",6.551e-07,***,3-Hydroxybutyrate
+S-HDL-P,"0.082 [0.059,0.105]",6.111e-07,***,Concentration of Small HDL Particles
+S-HDL-FC,"0.081 [0.058,0.105]",2.480e-06,***,Free Cholesterol in Small HDL
+S-HDL-C,"0.080 [0.057,0.103]",2.477e-06,***,Cholesterol in Small HDL
+Albumin,"0.079 [0.056,0.102]",2.656e-06,***,Albumin
+SFA,"0.078 [0.054,0.102]",3.140e-05,***,Saturated Fatty Acids
+HDL-P,"0.076 [0.052,0.100]",2.331e-04,***,Concentration of HDL Particles
+S-HDL-CE,"0.076 [0.053,0.099]",1.922e-05,***,Cholesteryl Esters in Small HDL
+Total-P,"0.076 [0.051,0.100]",2.217e-04,***,Total-Concentration of Lipoprotein Particles
+GlycA,"0.073 [0.048,0.097]",0.001,**,Glycoprotein Acetyls
+Total-FA,"0.071 [0.048,0.095]",6.223e-04,***,Total-Fatty Acids
+M-HDL-PL,"0.071 [0.046,0.095]",0.005,**,Phospholipids in Medium HDL
+M-HDL-L,"0.069 [0.044,0.094]",0.011,*,Total-Lipids in Medium HDL
+ApoA1,"0.068 [0.042,0.093]",0.034,*,Apolipoprotein A1
+Phosphoglyc,"0.067 [0.043,0.092]",0.011,*,Phosphoglycerides
+M-HDL-P,"0.067 [0.041,0.092]",0.045,*,Concentration of Medium HDL Particles
+M-LDL-TG,"0.065 [0.041,0.089]",0.026,*,Triglycerides in Medium LDL
+Cholines,"0.065 [0.040,0.089]",0.043,*,Total-Cholines
+LDL-TG,"0.064 [0.040,0.088]",0.044,*,Triglycerides in LDL
+XS-VLDL-CE%,"-0.068 [-0.093,-0.043]",0.016,*,Cholesteryl Esters to Total-Lipids in Very Small VLDL percentage
+Unsaturation,"-0.068 [-0.093,-0.044]",0.015,*,Degree of Unsaturation
+Gln,"-0.069 [-0.093,-0.046]",0.001,**,Glutamine
+LA%,"-0.070 [-0.095,-0.045]",0.013,*,Linoleic Acid to Total-Fatty Acids percentage
+Tyr,"-0.070 [-0.095,-0.045]",0.008,**,Tyrosine
+Total-BCAA,"-0.077 [-0.103,-0.052]",6.085e-04,***,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+Leu,"-0.083 [-0.109,-0.057]",8.222e-05,***,Leucine
+Creatinine,"-0.084 [-0.111,-0.056]",5.152e-04,***,Creatinine
+Omega-6%,"-0.086 [-0.111,-0.061]",4.247e-06,***,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+Phe,"-0.087 [-0.111,-0.062]",8.391e-07,***,Phenylalanine
+Ile,"-0.090 [-0.116,-0.065]",4.105e-07,***,Isoleucine
+PUFA%,"-0.095 [-0.121,-0.070]",3.765e-08,***,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+PUFA/MUFA,"-0.099 [-0.124,-0.073]",7.552e-09,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio

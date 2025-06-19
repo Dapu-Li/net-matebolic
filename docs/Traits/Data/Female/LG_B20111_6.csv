@@ -1,0 +1,17 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+MUFA%,"1.155 [1.108,1.203]",2.041e-06,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+L-HDL-PL%,"1.119 [1.073,1.167]",0.029,*,Phospholipids to Total-Lipids in Large HDL percentage
+Gln,"1.026 [0.988,1.066]",1.000,,Glutamine
+Gly,"1.007 [0.974,1.042]",1.000,,Glycine
+M-LDL-PL%,"1.001 [0.965,1.037]",1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+S-HDL-FC%,"0.904 [0.870,0.939]",0.036,*,Free Cholesterol to Total-Lipids in Small HDL percentage
+XL-HDL-FC,"0.900 [0.868,0.934]",0.006,**,Free Cholesterol in Very Large HDL
+LA%,"0.898 [0.863,0.934]",0.020,*,Linoleic Acid to Total-Fatty Acids percentage
+XL-HDL-PL,"0.895 [0.860,0.931]",0.007,**,Phospholipids in Very Large HDL
+Unsaturation,"0.895 [0.860,0.931]",0.009,**,Degree of Unsaturation
+XL-HDL-L,"0.892 [0.858,0.928]",0.003,**,Total-Lipids in Very Large HDL
+XL-HDL-P,"0.891 [0.857,0.926]",0.001,**,Concentration of Very Large HDL Particles
+XL-HDL-C,"0.891 [0.857,0.926]",0.001,**,Cholesterol in Very Large HDL
+XL-HDL-CE,"0.890 [0.856,0.926]",0.001,**,Cholesteryl Esters in Very Large HDL
+PUFA%,"0.885 [0.850,0.921]",8.012e-04,***,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+PUFA/MUFA,"0.867 [0.832,0.904]",3.107e-06,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio

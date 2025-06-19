@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+DHA%,240,1.094 [1.055-1.134],0.322,,Docosahexaenoic Acid to Total-Fatty Acids percentage
+Unsaturation,310,1.086 [1.056-1.117],0.002,**,Degree of Unsaturation
+DHA,289,1.084 [1.049-1.121],0.362,,Docosahexaenoic Acid
+Omega-3%,215,1.079 [1.057-1.101],5.179e-08,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+L-VLDL-C%,395,1.027 [0.985-1.071],1.000,,Cholesterol to Total-Lipids in Large VLDL percentage
+L-LDL-TG%,474,0.994 [0.960-1.029],1.000,,Triglycerides to Total-Lipids in Large LDL percentage
+Total-TG,641,0.984 [0.931-1.039],1.000,,Total-Triglycerides
+VLDL-P,640,0.965 [0.909-1.025],1.000,,Concentration of VLDL Particles
+Omega-6/Omega-3,257,0.926 [0.907-0.944],1.880e-08,***,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+LA%,226,0.855 [0.823-0.889],2.181e-10,***,Linoleic Acid to Total-Fatty Acids percentage

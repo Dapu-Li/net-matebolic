@@ -1,0 +1,28 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+HDL-C,"0.151 [0.104,0.197]",4.380e-05,***,HDL Cholesterol
+HDL-CE,"0.151 [0.104,0.197]",4.261e-05,***,Cholesteryl Esters in HDL
+L-HDL-L,"0.145 [0.098,0.192]",3.535e-04,***,Total-Lipids in Large HDL
+M-HDL-FC%,"0.144 [0.097,0.191]",3.148e-04,***,Free Cholesterol to Total-Lipids in Medium HDL percentage
+L-HDL-C,"0.143 [0.096,0.190]",4.846e-04,***,Cholesterol in Large HDL
+L-HDL-CE,"0.143 [0.096,0.189]",4.960e-04,***,Cholesteryl Esters in Large HDL
+L-HDL-PL,"0.141 [0.095,0.188]",5.799e-04,***,Phospholipids in Large HDL
+HDL-FC,"0.139 [0.094,0.185]",4.909e-04,***,Free Cholesterol in HDL
+L-HDL-P,"0.138 [0.092,0.184]",0.001,**,Concentration of Large HDL Particles
+HDL-L,"0.137 [0.092,0.183]",0.001,**,Total-Lipids in HDL
+L-HDL-FC,"0.135 [0.089,0.181]",0.002,**,Free Cholesterol in Large HDL
+M-HDL-C,"0.134 [0.089,0.179]",0.001,**,Cholesterol in Medium HDL
+PUFA/MUFA,"0.134 [0.089,0.179]",0.001,**,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+M-HDL-CE,"0.133 [0.088,0.178]",0.001,**,Cholesteryl Esters in Medium HDL
+M-HDL-FC,"0.131 [0.087,0.176]",0.002,**,Free Cholesterol in Medium HDL
+HDL-PL,"0.129 [0.083,0.174]",0.006,**,Phospholipids in HDL
+ApoA1,"0.129 [0.084,0.174]",0.005,**,Apolipoprotein A1
+XS-VLDL-CE%,"0.129 [0.083,0.174]",0.006,**,Cholesteryl Esters to Total-Lipids in Very Small VLDL percentage
+M-HDL-P,"0.126 [0.081,0.170]",0.007,**,Concentration of Medium HDL Particles
+HDL-size,"0.125 [0.078,0.171]",0.032,*,Average Diameter for HDL Particles
+M-HDL-L,"0.120 [0.075,0.164]",0.034,*,Total-Lipids in Medium HDL
+XS-VLDL-C%,"0.119 [0.075,0.164]",0.037,*,Cholesterol to Total-Lipids in Very Small VLDL percentage
+VLDL-size,"-0.117 [-0.161,-0.072]",0.071,,Average Diameter for VLDL Particles
+XS-VLDL-PL%,"-0.139 [-0.182,-0.096]",3.720e-05,***,Phospholipids to Total-Lipids in Very Small VLDL percentage
+GlycA,"-0.141 [-0.185,-0.097]",7.033e-05,***,Glycoprotein Acetyls
+TG/PG,"-0.142 [-0.188,-0.096]",2.595e-04,***,Triglycerides to Phosphoglycerides ratio
+MUFA%,"-0.150 [-0.196,-0.105]",1.453e-05,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage

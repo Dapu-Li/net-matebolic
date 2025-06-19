@@ -1,0 +1,26 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+MUFA%,1.14 [1.10-1.17],4.013e-10,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+IDL-TG%,1.11 [1.07-1.14],1.436e-05,***,Triglycerides to Total-Lipids in IDL percentage
+L-LDL-TG%,1.10 [1.07-1.13],4.518e-05,***,Triglycerides to Total-Lipids in Large LDL percentage
+GlycA,1.10 [1.07-1.13],2.013e-04,***,Glycoprotein Acetyls
+XS-VLDL-TG%,1.09 [1.06-1.13],0.004,**,Triglycerides to Total-Lipids in Very Small VLDL percentage
+M-LDL-TG%,1.09 [1.06-1.12],9.631e-04,***,Triglycerides to Total-Lipids in Medium LDL percentage
+S-HDL-TG%,1.09 [1.06-1.13],0.009,**,Triglycerides to Total-Lipids in Small HDL percentage
+S-LDL-TG%,1.09 [1.05-1.12],0.008,**,Triglycerides to Total-Lipids in Small LDL percentage
+M-LDL-C%,0.92 [0.90-0.95],0.015,*,Cholesterol to Total-Lipids in Medium LDL percentage
+M-LDL-FC%,0.92 [0.90-0.95],0.039,*,Free Cholesterol to Total-Lipids in Medium LDL percentage
+S-VLDL-FC%,0.92 [0.90-0.95],0.040,*,Free Cholesterol to Total-Lipids in Small VLDL percentage
+M-HDL-C%,0.92 [0.89-0.95],0.036,*,Cholesterol to Total-Lipids in Medium HDL percentage
+Omega-6%,0.92 [0.89-0.95],0.022,*,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+L-HDL-CE%,0.92 [0.89-0.95],0.007,**,Cholesteryl Esters to Total-Lipids in Large HDL percentage
+LA%,0.92 [0.89-0.95],0.013,*,Linoleic Acid to Total-Fatty Acids percentage
+L-LDL-C%,0.92 [0.89-0.95],0.005,**,Cholesterol to Total-Lipids in Large LDL percentage
+L-LDL-FC%,0.92 [0.89-0.94],0.003,**,Free Cholesterol to Total-Lipids in Large LDL percentage
+L-HDL-C%,0.92 [0.89-0.94],0.004,**,Cholesterol to Total-Lipids in Large HDL percentage
+IDL-CE%,0.91 [0.89-0.94],1.666e-04,***,Cholesteryl Esters to Total-Lipids in IDL percentage
+IDL-C%,0.91 [0.88-0.94],3.274e-05,***,Cholesterol to Total-Lipids in IDL percentage
+XS-VLDL-C%,0.91 [0.88-0.93],4.471e-05,***,Cholesterol to Total-Lipids in Very Small VLDL percentage
+XS-VLDL-CE%,0.90 [0.88-0.93],1.883e-05,***,Cholesteryl Esters to Total-Lipids in Very Small VLDL percentage
+PUFA%,0.90 [0.87-0.93],3.519e-06,***,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+Unsaturation,0.89 [0.87-0.92],6.617e-07,***,Degree of Unsaturation
+PUFA/MUFA,0.88 [0.85-0.91],1.602e-09,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio

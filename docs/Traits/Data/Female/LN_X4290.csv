@@ -1,0 +1,13 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+Glu,"6.341 [3.777,8.906]",0.287,,Glucose
+M-HDL-PL%,"3.894 [1.046,6.741]",1.000,,Phospholipids to Total-Lipids in Medium HDL percentage
+Gln,"2.935 [0.455,5.416]",1.000,,Glutamine
+Phe,"2.390 [-0.091,4.871]",1.000,,Phenylalanine
+M-HDL-TG%,"1.910 [-0.630,4.451]",1.000,,Triglycerides to Total-Lipids in Medium HDL percentage
+XL-HDL-P,"-6.393 [-8.798,-3.988]",0.043,*,Concentration of Very Large HDL Particles
+XL-HDL-C,"-6.462 [-8.900,-4.024]",0.047,*,Cholesterol in Very Large HDL
+XL-HDL-CE,"-6.519 [-8.978,-4.060]",0.047,*,Cholesteryl Esters in Very Large HDL
+M-LDL-C%,"-6.802 [-9.321,-4.282]",0.028,*,Cholesterol to Total-Lipids in Medium LDL percentage
+IDL-CE%,"-7.170 [-9.784,-4.556]",0.017,*,Cholesteryl Esters to Total-Lipids in IDL percentage
+L-LDL-C%,"-7.895 [-10.650,-5.141]",0.004,**,Cholesterol to Total-Lipids in Large LDL percentage
+M-HDL-FC%,"-8.017 [-10.939,-5.096]",0.017,*,Free Cholesterol to Total-Lipids in Medium HDL percentage

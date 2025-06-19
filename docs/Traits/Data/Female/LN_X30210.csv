@@ -1,0 +1,58 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+Gly,"0.104 [0.094,0.114]",5.981e-93,***,Glycine
+Tyr,"0.066 [0.055,0.076]",6.500e-29,***,Tyrosine
+M-HDL-PL%,"0.050 [0.038,0.062]",3.018e-10,***,Phospholipids to Total-Lipids in Medium HDL percentage
+L-HDL-FC%,"0.048 [0.034,0.062]",3.690e-06,***,Free Cholesterol to Total-Lipids in Large HDL percentage
+XL-HDL-PL%,"0.044 [0.030,0.058]",1.522e-04,***,Phospholipids to Total-Lipids in Very Large HDL percentage
+M-HDL-TG%,"0.042 [0.031,0.053]",2.471e-08,***,Triglycerides to Total-Lipids in Medium HDL percentage
+S-HDL-TG%,"0.041 [0.029,0.052]",2.092e-07,***,Triglycerides to Total-Lipids in Small HDL percentage
+Gln,"0.040 [0.029,0.050]",3.662e-07,***,Glutamine
+L-HDL-TG%,"0.034 [0.021,0.046]",0.016,*,Triglycerides to Total-Lipids in Large HDL percentage
+S-HDL-FC%,"0.032 [0.021,0.042]",0.002,**,Free Cholesterol to Total-Lipids in Small HDL percentage
+XL-HDL-FC,"0.030 [0.020,0.041]",0.003,**,Free Cholesterol in Very Large HDL
+XL-HDL-TG,"0.029 [0.018,0.040]",0.034,*,Triglycerides in Very Large HDL
+L-HDL-TG,"0.029 [0.018,0.039]",0.016,*,Triglycerides in Large HDL
+Citrate,"-0.029 [-0.039,-0.018]",0.039,*,Citrate
+Cholines,"-0.031 [-0.042,-0.019]",0.044,*,Total-Cholines
+Omega-3%,"-0.031 [-0.042,-0.020]",0.013,*,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+Omega-6,"-0.031 [-0.042,-0.020]",0.012,*,Omega-6 Fatty Acids
+HDL-L,"-0.032 [-0.044,-0.020]",0.021,*,Total-Lipids in HDL
+M-LDL-C%,"-0.032 [-0.043,-0.021]",0.002,**,Cholesterol to Total-Lipids in Medium LDL percentage
+Pyruvate,"-0.034 [-0.045,-0.023]",9.373e-05,***,Pyruvate
+S-LDL-CE%,"-0.034 [-0.045,-0.024]",6.691e-05,***,Cholesteryl Esters to Total-Lipids in Small LDL percentage
+SM,"-0.035 [-0.047,-0.024]",1.910e-04,***,Sphingomyelins
+M-HDL-FC,"-0.036 [-0.047,-0.025]",5.715e-05,***,Free Cholesterol in Medium HDL
+M-HDL-PL,"-0.037 [-0.048,-0.025]",3.234e-05,***,Phospholipids in Medium HDL
+PUFA,"-0.037 [-0.048,-0.025]",3.957e-05,***,Polyunsaturated Fatty Acids
+DHA,"-0.037 [-0.049,-0.026]",1.530e-05,***,Docosahexaenoic Acid
+Omega-3,"-0.037 [-0.048,-0.026]",5.164e-06,***,Omega-3 Fatty Acids
+Lactate,"-0.038 [-0.048,-0.027]",5.993e-07,***,Lactate
+HDL-C,"-0.038 [-0.050,-0.027]",3.560e-05,***,HDL Cholesterol
+Unsaturation,"-0.039 [-0.051,-0.027]",1.647e-05,***,Degree of Unsaturation
+S-LDL-C%,"-0.040 [-0.050,-0.029]",3.312e-07,***,Cholesterol to Total-Lipids in Small LDL percentage
+M-HDL-L,"-0.040 [-0.052,-0.029]",6.910e-07,***,Total-Lipids in Medium HDL
+ApoA1,"-0.041 [-0.052,-0.030]",5.179e-07,***,Apolipoprotein A1
+S-HDL-C%,"-0.042 [-0.053,-0.031]",1.574e-08,***,Cholesterol to Total-Lipids in Small HDL percentage
+M-HDL-P,"-0.042 [-0.053,-0.031]",1.996e-08,***,Concentration of Medium HDL Particles
+HDL-CE,"-0.043 [-0.054,-0.031]",1.704e-07,***,Cholesteryl Esters in HDL
+S-HDL-FC,"-0.043 [-0.054,-0.032]",1.164e-09,***,Free Cholesterol in Small HDL
+M-HDL-C,"-0.048 [-0.059,-0.037]",2.587e-11,***,Cholesterol in Medium HDL
+Glu,"-0.048 [-0.059,-0.037]",5.069e-12,***,Glucose
+M-HDL-C%,"-0.049 [-0.061,-0.037]",3.415e-10,***,Cholesterol to Total-Lipids in Medium HDL percentage
+XL-HDL-C%,"-0.050 [-0.062,-0.037]",3.405e-09,***,Cholesterol to Total-Lipids in Very Large HDL percentage
+S-HDL-PL,"-0.050 [-0.060,-0.039]",1.935e-14,***,Phospholipids in Small HDL
+S-HDL-CE%,"-0.050 [-0.061,-0.039]",5.055e-14,***,Cholesteryl Esters to Total-Lipids in Small HDL percentage
+M-HDL-CE,"-0.050 [-0.062,-0.039]",4.074e-13,***,Cholesteryl Esters in Medium HDL
+M-HDL-CE%,"-0.051 [-0.063,-0.039]",5.983e-12,***,Cholesteryl Esters to Total-Lipids in Medium HDL percentage
+S-HDL-L,"-0.054 [-0.065,-0.043]",7.573e-18,***,Total-Lipids in Small HDL
+Total-P,"-0.055 [-0.066,-0.044]",1.031e-16,***,Total-Concentration of Lipoprotein Particles
+HDL-P,"-0.056 [-0.067,-0.045]",1.057e-17,***,Concentration of HDL Particles
+S-HDL-P,"-0.064 [-0.075,-0.054]",8.493e-28,***,Concentration of Small HDL Particles
+S-HDL-C,"-0.066 [-0.076,-0.055]",1.122e-28,***,Cholesterol in Small HDL
+XL-HDL-CE%,"-0.068 [-0.080,-0.056]",2.744e-22,***,Cholesteryl Esters to Total-Lipids in Very Large HDL percentage
+S-HDL-CE,"-0.070 [-0.080,-0.059]",9.174e-34,***,Cholesteryl Esters in Small HDL
+Glu-lactate,"-0.070 [-0.081,-0.059]",7.445e-30,***,Glucose-lactate
+Albumin,"-0.071 [-0.082,-0.060]",3.443e-32,***,Albumin
+Acetoacetate,"-0.073 [-0.084,-0.062]",1.618e-36,***,Acetoacetate
+Acetone,"-0.086 [-0.097,-0.075]",4.538e-49,***,Acetone
+3-Hydroxybutyrate,"-0.101 [-0.111,-0.091]",4.676e-80,***,3-Hydroxybutyrate

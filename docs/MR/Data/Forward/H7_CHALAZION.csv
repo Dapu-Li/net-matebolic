@@ -1,0 +1,29 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+S-HDL-FC,483,1.368 [1.239-1.511],1.543e-04,***,Free Cholesterol in Small HDL
+S-HDL-PL,489,1.348 [1.223-1.486],4.389e-04,***,Phospholipids in Small HDL
+Total-P,531,1.333 [1.214-1.463],3.875e-04,***,Total-Concentration of Lipoprotein Particles
+S-HDL-L,442,1.314 [1.187-1.455],0.036,*,Total-Lipids in Small HDL
+HDL-P,547,1.302 [1.192-1.422],0.001,**,Concentration of HDL Particles
+M-HDL-PL,545,1.270 [1.166-1.383],0.010,**,Phospholipids in Medium HDL
+M-HDL-L,576,1.262 [1.163-1.370],0.006,**,Total-Lipids in Medium HDL
+Phosphoglyc,609,1.254 [1.164-1.351],6.949e-04,***,Phosphoglycerides
+M-HDL-P,598,1.248 [1.156-1.347],0.003,**,Concentration of Medium HDL Particles
+PUFA,699,1.245 [1.164-1.332],4.166e-05,***,Polyunsaturated Fatty Acids
+Cholines,620,1.240 [1.148-1.338],0.009,**,Total-Cholines
+M-HDL-C,607,1.237 [1.152-1.329],0.001,**,Cholesterol in Medium HDL
+ApoA1,587,1.231 [1.140-1.329],0.026,*,Apolipoprotein A1
+M-HDL-CE,607,1.230 [1.148-1.318],0.001,**,Cholesteryl Esters in Medium HDL
+DHA,289,1.226 [1.162-1.293],2.314e-08,***,Docosahexaenoic Acid
+DHA%,240,1.224 [1.162-1.289],4.845e-09,***,Docosahexaenoic Acid to Total-Fatty Acids percentage
+M-HDL-FC,597,1.211 [1.127-1.301],0.040,*,Free Cholesterol in Medium HDL
+HDL-PL,590,1.207 [1.125-1.294],0.040,*,Phospholipids in HDL
+Omega-3,420,1.206 [1.142-1.275],5.573e-06,***,Omega-3 Fatty Acids
+HDL-L,598,1.203 [1.125-1.287],0.014,*,Total-Lipids in HDL
+Unsaturation,310,1.188 [1.142-1.237],6.672e-12,***,Degree of Unsaturation
+Omega-3%,215,1.170 [1.129-1.212],1.542e-12,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+HDL-FC,599,1.165 [1.101-1.232],0.023,*,Free Cholesterol in HDL
+L-VLDL-CE,614,0.994 [0.940-1.050],1.000,,Cholesteryl Esters in Large VLDL
+XS-VLDL-TG%,661,0.986 [0.930-1.045],1.000,,Triglycerides to Total-Lipids in Very Small VLDL percentage
+XL-VLDL-TG%,444,0.978 [0.911-1.050],1.000,,Triglycerides to Total-Lipids in Very Large VLDL percentage
+Omega-6/Omega-3,257,0.851 [0.821-0.882],3.441e-13,***,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+LA%,226,0.736 [0.689-0.787],6.609e-14,***,Linoleic Acid to Total-Fatty Acids percentage

@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+XL-HDL-FC,"51.935 [31.335,72.535]",0.179,,Free Cholesterol in Very Large HDL
+PUFA/MUFA,"30.359 [13.865,46.854]",1.000,,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+VLDL-CE,"6.729 [-9.896,23.354]",1.000,,Cholesteryl Esters in VLDL
+Total-CE,"5.459 [-11.085,22.004]",1.000,,Total-Esterified Cholesterol
+LDL-CE,"1.244 [-14.968,17.456]",1.000,,Cholesteryl Esters in LDL
+Omega-6,"-8.652 [-24.947,7.642]",1.000,,Omega-6 Fatty Acids
+PUFA,"-8.982 [-25.326,7.362]",1.000,,Polyunsaturated Fatty Acids
+M-LDL-TG%,"-23.504 [-39.847,-7.162]",1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+L-HDL-PL%,"-42.969 [-59.179,-26.759]",0.047,*,Phospholipids to Total-Lipids in Large HDL percentage
+GlycA,"-49.715 [-66.698,-32.732]",0.002,**,Glycoprotein Acetyls

@@ -1,0 +1,11 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+MUFA%,"0.067 [-0.020,0.153]",1.000,,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+Omega-6/Omega-3,"0.039 [-0.044,0.123]",1.000,,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+HDL-CE,"0.026 [-0.075,0.127]",1.000,,Cholesteryl Esters in HDL
+HDL-C,"0.024 [-0.078,0.125]",1.000,,HDL Cholesterol
+M-LDL-FC%,"0.001 [-0.081,0.083]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+Total-C,"-0.005 [-0.092,0.082]",1.000,,Total-Cholesterol
+LDL-C,"-0.008 [-0.093,0.078]",1.000,,LDL Cholesterol
+Non-HDL-C,"-0.013 [-0.099,0.073]",1.000,,Total-Cholesterol Minus HDL-C
+Remnant-C,"-0.016 [-0.102,0.071]",1.000,,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
+M-VLDL-C%,"-0.022 [-0.107,0.063]",1.000,,Cholesterol to Total-Lipids in Medium VLDL percentage

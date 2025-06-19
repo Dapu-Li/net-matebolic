@@ -1,0 +1,11 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+Omega-6/Omega-3,"0.174 [0.114,0.235]",0.004,**,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+M-LDL-CE%,"0.078 [0.017,0.139]",1.000,,Cholesteryl Esters to Total-Lipids in Medium LDL percentage
+M-VLDL-TG%,"0.040 [-0.026,0.106]",1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
+His,"0.025 [-0.034,0.085]",1.000,,Histidine
+Gln,"0.012 [-0.050,0.073]",1.000,,Glutamine
+Omega-3,"-0.133 [-0.197,-0.070]",1.000,,Omega-3 Fatty Acids
+DHA,"-0.174 [-0.238,-0.110]",0.020,*,Docosahexaenoic Acid
+Unsaturation,"-0.175 [-0.239,-0.110]",0.026,*,Degree of Unsaturation
+Omega-3%,"-0.201 [-0.262,-0.139]",4.129e-05,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+DHA%,"-0.201 [-0.261,-0.141]",1.424e-05,***,Docosahexaenoic Acid to Total-Fatty Acids percentage

@@ -1,0 +1,21 @@
+# 🧪 Remnant-C
+
+> **Root:** Mendelian Randomization
+
+> **Group:** Concentration  
+
+> **Subgroup:** Other traits
+
+> **Phenotype:** Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)  
+
+> **Abbreviations:** `Remnant-C`
+
+## 🧬 Mendelian Randomization  
+
+<img src="/MR/Figures/Inverse/Remnant-C.png"/>
+
+
+## 📊 Data Table
+
+
+<CsvTableMRI src="/MR/Data/Inverse/Remnant-C.csv"/>

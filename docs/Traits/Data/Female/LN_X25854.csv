@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+PUFA/MUFA,"13.578 [8.426,18.729]",0.055,,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+XL-HDL-C,"11.306 [7.049,15.563]",0.045,*,Cholesterol in Very Large HDL
+XL-HDL-CE,"11.246 [6.957,15.535]",0.064,,Cholesteryl Esters in Very Large HDL
+XL-HDL-L,"11.129 [6.856,15.403]",0.077,,Total-Lipids in Very Large HDL
+XL-HDL-FC,"10.767 [6.672,14.863]",0.059,,Free Cholesterol in Very Large HDL
+MUFA,"-12.200 [-17.019,-7.380]",0.162,,Monounsaturated Fatty Acids
+VLDL-size,"-12.721 [-17.488,-7.955]",0.039,*,Average Diameter for VLDL Particles
+MUFA%,"-13.776 [-18.810,-8.741]",0.019,*,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+L-HDL-PL%,"-16.471 [-22.062,-10.880]",0.002,**,Phospholipids to Total-Lipids in Large HDL percentage
+GlycA,"-19.571 [-24.310,-14.832]",1.442e-10,***,Glycoprotein Acetyls

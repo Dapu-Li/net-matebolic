@@ -1,0 +1,23 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+Omega-3,"1.056 [1.042,1.070]",2.801e-10,***,Omega-3 Fatty Acids
+Omega-3%,"1.053 [1.039,1.067]",2.724e-08,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+GlycA,"1.047 [1.033,1.062]",2.127e-05,***,Glycoprotein Acetyls
+DHA,"1.045 [1.031,1.059]",4.862e-05,***,Docosahexaenoic Acid
+S-VLDL-L,"1.041 [1.027,1.054]",4.588e-04,***,Total-Lipids in Small VLDL
+XL-HDL-TG%,"1.040 [1.025,1.055]",0.037,*,Triglycerides to Total-Lipids in Very Large HDL percentage
+XS-VLDL-TG,"1.039 [1.025,1.053]",0.003,**,Triglycerides in Very Small VLDL
+S-VLDL-P,"1.039 [1.025,1.052]",0.002,**,Concentration of Small VLDL Particles
+L-VLDL-PL%,"1.038 [1.025,1.051]",3.715e-04,***,Phospholipids to Total-Lipids in Large VLDL percentage
+L-LDL-TG,"1.038 [1.024,1.052]",0.019,*,Triglycerides in Large LDL
+LDL-TG,"1.037 [1.023,1.052]",0.030,*,Triglycerides in LDL
+S-VLDL-TG,"1.037 [1.023,1.051]",0.024,*,Triglycerides in Small VLDL
+IDL-TG,"1.036 [1.023,1.050]",0.027,*,Triglycerides in IDL
+S-VLDL-PL,"1.036 [1.023,1.050]",0.010,*,Phospholipids in Small VLDL
+S-VLDL-CE,"1.035 [1.022,1.048]",0.021,*,Cholesteryl Esters in Small VLDL
+S-VLDL-C,"1.035 [1.021,1.048]",0.036,*,Cholesterol in Small VLDL
+XXL-VLDL-PL%,"1.033 [1.021,1.045]",0.009,**,Phospholipids to Total-Lipids in Chylomicrons and Extremely Large VLDL percentage
+HDL-size,"0.963 [0.949,0.977]",0.041,*,Average Diameter for HDL Particles
+LA%,"0.961 [0.947,0.975]",0.016,*,Linoleic Acid to Total-Fatty Acids percentage
+XS-VLDL-CE%,"0.960 [0.945,0.974]",0.020,*,Cholesteryl Esters to Total-Lipids in Very Small VLDL percentage
+L-LDL-FC%,"0.959 [0.946,0.973]",0.003,**,Free Cholesterol to Total-Lipids in Large LDL percentage
+Omega-6/Omega-3,"0.946 [0.933,0.959]",6.568e-10,***,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio

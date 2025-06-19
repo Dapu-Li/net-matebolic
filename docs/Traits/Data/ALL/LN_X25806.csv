@@ -1,0 +1,58 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+Creatinine,"63.831 [53.193,74.469]",1.768e-26,***,Creatinine
+XL-HDL-FC%,"54.772 [44.044,65.500]",3.621e-18,***,Free Cholesterol to Total-Lipids in Very Large HDL percentage
+XL-HDL-C%,"40.549 [30.203,50.896]",3.729e-09,***,Cholesterol to Total-Lipids in Very Large HDL percentage
+TG/PG,"32.136 [21.375,42.897]",0.001,**,Triglycerides to Phosphoglycerides ratio
+Leu,"28.725 [18.418,39.032]",0.011,*,Leucine
+ApoB/ApoA1,"28.468 [17.952,38.985]",0.026,*,Apolipoprotein B to Apolipoprotein A1 ratio
+XS-VLDL-C,"-28.190 [-38.780,-17.599]",0.042,*,Cholesterol in Very Small VLDL
+IDL-PL,"-28.215 [-38.850,-17.580]",0.046,*,Phospholipids in IDL
+IDL-CE,"-28.407 [-39.069,-17.745]",0.041,*,Cholesteryl Esters in IDL
+IDL-L,"-28.527 [-39.197,-17.858]",0.037,*,Total-Lipids in IDL
+Total-CE,"-29.257 [-39.966,-18.547]",0.020,*,Total-Esterified Cholesterol
+XS-VLDL-CE,"-29.797 [-40.394,-19.200]",0.008,**,Cholesteryl Esters in Very Small VLDL
+XL-HDL-FC,"-29.928 [-40.430,-19.426]",0.005,**,Free Cholesterol in Very Large HDL
+DHA,"-30.640 [-41.131,-20.149]",0.002,**,Docosahexaenoic Acid
+S-HDL-L,"-30.664 [-41.180,-20.148]",0.003,**,Total-Lipids in Small HDL
+GlycA,"-32.219 [-43.384,-21.055]",0.004,**,Glycoprotein Acetyls
+Omega-6,"-32.474 [-42.983,-21.965]",3.216e-04,***,Omega-6 Fatty Acids
+Gly,"-34.729 [-45.004,-24.454]",8.101e-06,***,Glycine
+PUFA,"-34.841 [-45.367,-24.314]",2.034e-05,***,Polyunsaturated Fatty Acids
+L-HDL-FC%,"-35.379 [-46.191,-24.568]",3.297e-05,***,Free Cholesterol to Total-Lipids in Large HDL percentage
+S-HDL-FC,"-35.628 [-46.122,-25.134]",6.628e-06,***,Free Cholesterol in Small HDL
+L-HDL-TG,"-35.759 [-46.165,-25.352]",3.825e-06,***,Triglycerides in Large HDL
+S-HDL-PL,"-37.160 [-47.719,-26.601]",1.236e-06,***,Phospholipids in Small HDL
+XL-HDL-C,"-39.596 [-50.210,-28.982]",6.191e-08,***,Cholesterol in Very Large HDL
+XL-HDL-P,"-40.312 [-50.854,-29.770]",1.569e-08,***,Concentration of Very Large HDL Particles
+SM,"-40.640 [-51.214,-30.067]",1.167e-08,***,Sphingomyelins
+XL-HDL-CE,"-41.460 [-52.091,-30.828]",5.011e-09,***,Cholesteryl Esters in Very Large HDL
+XL-HDL-L,"-42.070 [-52.598,-31.541]",1.145e-09,***,Total-Lipids in Very Large HDL
+XL-HDL-PL,"-42.469 [-52.928,-32.011]",4.145e-10,***,Phospholipids in Very Large HDL
+XL-HDL-PL%,"-43.032 [-53.499,-32.565]",1.852e-10,***,Phospholipids to Total-Lipids in Very Large HDL percentage
+S-HDL-PL%,"-43.404 [-53.594,-33.215]",1.659e-11,***,Phospholipids to Total-Lipids in Small HDL percentage
+Total-PL,"-43.568 [-54.193,-32.944]",2.195e-10,***,Total-Phospholipids in Lipoprotein Particles
+Total-P,"-47.644 [-58.179,-37.110]",1.880e-13,***,Total-Concentration of Lipoprotein Particles
+HDL-size,"-48.232 [-58.760,-37.703]",6.716e-14,***,Average Diameter for HDL Particles
+HDL-P,"-49.166 [-59.688,-38.643]",1.307e-14,***,Concentration of HDL Particles
+L-HDL-CE,"-49.609 [-60.295,-38.923]",2.245e-14,***,Cholesteryl Esters in Large HDL
+Cholines,"-49.957 [-60.567,-39.347]",6.792e-15,***,Total-Cholines
+Phosphoglyc,"-50.685 [-61.272,-40.099]",1.585e-15,***,Phosphoglycerides
+L-HDL-C,"-50.879 [-61.544,-40.215]",2.163e-15,***,Cholesterol in Large HDL
+L-HDL-P,"-51.515 [-62.102,-40.929]",3.663e-16,***,Concentration of Large HDL Particles
+M-HDL-FC%,"-51.935 [-62.696,-41.173]",7.767e-16,***,Free Cholesterol to Total-Lipids in Medium HDL percentage
+L-HDL-FC,"-52.480 [-63.004,-41.957]",3.667e-17,***,Free Cholesterol in Large HDL
+PC,"-52.568 [-63.177,-41.959]",6.774e-17,***,Phosphatidylcholines
+M-HDL-CE,"-53.866 [-64.420,-43.312]",3.761e-18,***,Cholesteryl Esters in Medium HDL
+HDL-CE,"-54.351 [-65.014,-43.688]",4.278e-18,***,Cholesteryl Esters in HDL
+M-HDL-C,"-55.017 [-65.565,-44.469]",4.032e-19,***,Cholesterol in Medium HDL
+L-HDL-L,"-55.134 [-65.723,-44.545]",4.850e-19,***,Total-Lipids in Large HDL
+HDL-C,"-55.864 [-66.507,-45.221]",2.073e-19,***,HDL Cholesterol
+ApoA1,"-55.906 [-66.444,-45.368]",6.558e-20,***,Apolipoprotein A1
+M-HDL-P,"-56.039 [-66.544,-45.534]",3.611e-20,***,Concentration of Medium HDL Particles
+L-HDL-PL,"-56.580 [-67.076,-46.084]",1.132e-20,***,Phospholipids in Large HDL
+M-HDL-L,"-56.580 [-67.088,-46.072]",1.282e-20,***,Total-Lipids in Medium HDL
+M-HDL-PL,"-57.068 [-67.552,-46.584]",3.751e-21,***,Phospholipids in Medium HDL
+M-HDL-FC,"-58.089 [-68.582,-47.595]",5.303e-22,***,Free Cholesterol in Medium HDL
+HDL-FC,"-58.176 [-68.696,-47.657]",5.968e-22,***,Free Cholesterol in HDL
+HDL-L,"-58.967 [-69.504,-48.430]",1.446e-22,***,Total-Lipids in HDL
+HDL-PL,"-60.039 [-70.512,-49.567]",7.325e-24,***,Phospholipids in HDL

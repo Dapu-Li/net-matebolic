@@ -1,0 +1,22 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+PUFA/MUFA,"0.084 [0.067,0.100]",8.637e-19,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+PUFA%,"0.073 [0.057,0.088]",2.290e-14,***,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+Unsaturation,"0.071 [0.054,0.087]",4.467e-12,***,Degree of Unsaturation
+DHA%,"0.062 [0.046,0.078]",3.319e-09,***,Docosahexaenoic Acid to Total-Fatty Acids percentage
+Omega-6%,"0.056 [0.040,0.072]",3.975e-07,***,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+LA%,"0.050 [0.034,0.066]",2.526e-04,***,Linoleic Acid to Total-Fatty Acids percentage
+Omega-3%,"0.050 [0.033,0.066]",3.768e-04,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+Creatinine,"0.049 [0.032,0.066]",0.005,**,Creatinine
+S-LDL-FC%,"0.042 [0.026,0.057]",0.019,*,Free Cholesterol to Total-Lipids in Small LDL percentage
+XXL-VLDL-TG,"-0.042 [-0.058,-0.026]",0.038,*,Triglycerides in Chylomicrons and Extremely Large VLDL
+Lactate,"-0.043 [-0.058,-0.028]",0.006,**,Lactate
+SFA,"-0.043 [-0.059,-0.028]",0.006,**,Saturated Fatty Acids
+XXL-VLDL-PL,"-0.044 [-0.060,-0.028]",0.012,*,Phospholipids in Chylomicrons and Extremely Large VLDL
+XXL-VLDL-FC,"-0.044 [-0.060,-0.028]",0.010,*,Free Cholesterol in Chylomicrons and Extremely Large VLDL
+Pyruvate,"-0.045 [-0.058,-0.031]",1.144e-05,***,Pyruvate
+XXL-VLDL-L,"-0.045 [-0.061,-0.029]",0.010,*,Total-Lipids in Chylomicrons and Extremely Large VLDL
+XXL-VLDL-C,"-0.046 [-0.062,-0.030]",0.004,**,Cholesterol in Chylomicrons and Extremely Large VLDL
+XXL-VLDL-CE,"-0.046 [-0.062,-0.030]",0.004,**,Cholesteryl Esters in Chylomicrons and Extremely Large VLDL
+MUFA,"-0.057 [-0.072,-0.042]",7.917e-08,***,Monounsaturated Fatty Acids
+MUFA%,"-0.082 [-0.099,-0.066]",6.505e-18,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+GlycA,"-0.085 [-0.101,-0.068]",4.051e-19,***,Glycoprotein Acetyls

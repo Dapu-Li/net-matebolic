@@ -1,0 +1,16 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+GlycA,385,1.578 [1.360-1.831],4.271e-04,***,Glycoprotein Acetyls
+LA,635,1.407 [1.290-1.535],3.334e-09,***,Linoleic Acid
+MUFA,654,1.369 [1.262-1.487],1.408e-08,***,Monounsaturated Fatty Acids
+Omega-6,651,1.292 [1.185-1.410],0.002,**,Omega-6 Fatty Acids
+S-LDL-CE%,545,1.272 [1.165-1.389],0.018,*,Cholesteryl Esters to Total-Lipids in Small LDL percentage
+Total-FA,654,1.258 [1.157-1.368],0.018,*,Total-Fatty Acids
+MUFA%,525,1.253 [1.170-1.342],2.379e-05,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+LA%,226,1.229 [1.141-1.325],0.015,*,Linoleic Acid to Total-Fatty Acids percentage
+S-LDL-TG,690,1.211 [1.130-1.298],0.014,*,Triglycerides in Small LDL
+Omega-6/Omega-3,257,1.136 [1.088-1.186],0.001,**,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+Omega-3%,215,0.880 [0.843-0.918],7.540e-04,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+Unsaturation,310,0.857 [0.821-0.895],8.614e-07,***,Degree of Unsaturation
+DHA%,240,0.827 [0.783-0.874],2.315e-06,***,Docosahexaenoic Acid to Total-Fatty Acids percentage
+PUFA/MUFA,484,0.817 [0.767-0.871],1.426e-04,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+PUFA%,371,0.795 [0.738-0.857],4.417e-04,***,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage

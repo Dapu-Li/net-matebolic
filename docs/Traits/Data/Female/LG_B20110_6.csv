@@ -1,0 +1,12 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+MUFA%,"1.109 [1.079,1.140]",5.565e-08,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+MUFA,"1.071 [1.043,1.100]",0.066,,Monounsaturated Fatty Acids
+SFA%,"1.069 [1.041,1.098]",0.172,,Saturated Fatty Acids to Total-Fatty Acids percentage
+VLDL-CE,"1.018 [0.994,1.043]",1.000,,Cholesteryl Esters in VLDL
+Total-CE,"1.005 [0.979,1.031]",1.000,,Total-Esterified Cholesterol
+LA%,"0.923 [0.898,0.948]",0.001,**,Linoleic Acid to Total-Fatty Acids percentage
+Omega-6%,"0.922 [0.897,0.947]",0.001,**,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+DHA%,"0.922 [0.897,0.947]",8.909e-04,***,Docosahexaenoic Acid to Total-Fatty Acids percentage
+Unsaturation,"0.909 [0.885,0.934]",6.659e-07,***,Degree of Unsaturation
+PUFA%,"0.896 [0.871,0.921]",1.256e-09,***,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+PUFA/MUFA,"0.893 [0.868,0.918]",3.892e-10,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio

@@ -1,0 +1,18 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+Leu,"0.005 [0.004,0.006]",4.002e-11,***,Leucine
+Creatinine,"0.005 [0.004,0.007]",4.714e-09,***,Creatinine
+PUFA/MUFA,"0.005 [0.004,0.006]",9.307e-10,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+Citrate,"0.004 [0.003,0.006]",4.486e-06,***,Citrate
+Total-BCAA,"0.004 [0.003,0.006]",1.150e-05,***,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+PUFA%,"0.004 [0.003,0.005]",1.631e-06,***,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+Val,"0.004 [0.003,0.005]",1.196e-04,***,Valine
+DHA%,"0.004 [0.003,0.005]",1.114e-04,***,Docosahexaenoic Acid to Total-Fatty Acids percentage
+Unsaturation,"0.004 [0.003,0.005]",0.001,**,Degree of Unsaturation
+Omega-6%,"0.003 [0.002,0.004]",0.040,*,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+Acetoacetate,"-0.003 [-0.005,-0.002]",0.039,*,Acetoacetate
+SM,"-0.004 [-0.005,-0.002]",0.015,*,Sphingomyelins
+MUFA,"-0.004 [-0.005,-0.003]",3.214e-05,***,Monounsaturated Fatty Acids
+Pyruvate,"-0.005 [-0.006,-0.003]",2.224e-05,***,Pyruvate
+3-Hydroxybutyrate,"-0.005 [-0.006,-0.004]",3.643e-07,***,3-Hydroxybutyrate
+MUFA%,"-0.005 [-0.006,-0.004]",6.621e-10,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+GlycA,"-0.009 [-0.010,-0.008]",4.796e-39,***,Glycoprotein Acetyls

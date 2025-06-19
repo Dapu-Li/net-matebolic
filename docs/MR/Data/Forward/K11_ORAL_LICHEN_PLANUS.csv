@@ -1,0 +1,14 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+LA%,226,1.098 [0.983-1.226],1.000,,Linoleic Acid to Total-Fatty Acids percentage
+XL-VLDL-FC%,397,1.064 [0.943-1.200],1.000,,Free Cholesterol to Total-Lipids in Very Large VLDL percentage
+S-VLDL-FC%,609,1.024 [0.933-1.125],1.000,,Free Cholesterol to Total-Lipids in Small VLDL percentage
+XL-HDL-C,653,1.020 [0.943-1.104],1.000,,Cholesterol in Very Large HDL
+M-LDL-FC,407,1.010 [0.902-1.131],1.000,,Free Cholesterol in Medium LDL
+HDL-P,547,0.656 [0.570-0.755],0.001,**,Concentration of HDL Particles
+Total-P,531,0.634 [0.547-0.734],3.278e-04,***,Total-Concentration of Lipoprotein Particles
+S-HDL-P,416,0.633 [0.536-0.746],0.013,*,Concentration of Small HDL Particles
+S-HDL-C,410,0.631 [0.535-0.745],0.013,*,Cholesterol in Small HDL
+S-HDL-FC,483,0.587 [0.499-0.689],1.955e-05,***,Free Cholesterol in Small HDL
+S-HDL-L,442,0.560 [0.477-0.659],4.824e-07,***,Total-Lipids in Small HDL
+S-HDL-PL,489,0.553 [0.473-0.646],2.349e-08,***,Phospholipids in Small HDL
+GlycA,385,0.535 [0.435-0.659],9.521e-04,***,Glycoprotein Acetyls

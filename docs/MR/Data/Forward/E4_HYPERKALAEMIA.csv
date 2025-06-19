@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Acetone,15,1.080 [0.699-1.669],1.000,,Acetone
+M-HDL-C%,632,1.073 [1.012-1.137],1.000,,Cholesterol to Total-Lipids in Medium HDL percentage
+XL-HDL-CE,664,1.031 [0.979-1.087],1.000,,Cholesteryl Esters in Very Large HDL
+XL-HDL-P,581,1.015 [0.966-1.067],1.000,,Concentration of Very Large HDL Particles
+S-LDL-C%,261,1.008 [0.922-1.102],1.000,,Cholesterol to Total-Lipids in Small LDL percentage
+Total-FA,654,0.828 [0.768-0.893],0.225,,Total-Fatty Acids
+PUFA,699,0.813 [0.757-0.873],0.003,**,Polyunsaturated Fatty Acids
+Omega-6,651,0.803 [0.741-0.870],0.023,*,Omega-6 Fatty Acids
+S-HDL-FC,483,0.749 [0.675-0.831],0.012,*,Free Cholesterol in Small HDL
+GlycA,385,0.698 [0.611-0.797],0.029,*,Glycoprotein Acetyls

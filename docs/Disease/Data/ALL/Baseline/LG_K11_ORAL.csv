@@ -1,0 +1,11 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+GlycA,1.10 [1.07-1.14],4.783e-05,***,Glycoprotein Acetyls
+MUFA%,1.10 [1.06-1.13],8.081e-04,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+L-LDL-TG%,1.09 [1.06-1.12],0.004,**,Triglycerides to Total-Lipids in Large LDL percentage
+M-LDL-TG%,1.08 [1.05-1.12],0.009,**,Triglycerides to Total-Lipids in Medium LDL percentage
+IDL-TG%,1.08 [1.05-1.12],0.015,*,Triglycerides to Total-Lipids in IDL percentage
+M-LDL-C%,0.93 [0.90-0.96],0.096,,Cholesterol to Total-Lipids in Medium LDL percentage
+PUFA%,0.93 [0.90-0.96],0.116,,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+IDL-CE%,0.93 [0.90-0.95],0.019,*,Cholesteryl Esters to Total-Lipids in IDL percentage
+IDL-C%,0.92 [0.90-0.95],0.007,**,Cholesterol to Total-Lipids in IDL percentage
+PUFA/MUFA,0.91 [0.89-0.94],0.002,**,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio

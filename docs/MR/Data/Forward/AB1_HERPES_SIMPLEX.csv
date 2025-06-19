@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+L-HDL-L,623,1.025 [0.992-1.058],1.000,,Total-Lipids in Large HDL
+L-HDL-FC,638,1.025 [0.993-1.058],1.000,,Free Cholesterol in Large HDL
+L-HDL-PL,598,1.020 [0.988-1.054],1.000,,Phospholipids in Large HDL
+Total-TG,641,1.012 [0.968-1.057],1.000,,Total-Triglycerides
+M-HDL-FC%,609,1.001 [0.969-1.035],1.000,,Free Cholesterol to Total-Lipids in Medium HDL percentage
+IDL-P,505,0.892 [0.854-0.931],0.054,,Concentration of IDL Particles
+VLDL-CE,621,0.889 [0.850-0.931],0.130,,Cholesteryl Esters in VLDL
+L-LDL-P,541,0.888 [0.847-0.930],0.153,,Concentration of Large LDL Particles
+M-VLDL-C,535,0.867 [0.826-0.911],0.003,**,Cholesterol in Medium VLDL
+M-VLDL-CE,487,0.865 [0.825-0.907],5.790e-04,***,Cholesteryl Esters in Medium VLDL

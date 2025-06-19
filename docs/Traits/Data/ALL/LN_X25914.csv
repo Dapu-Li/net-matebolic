@@ -1,0 +1,15 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+Creatinine,"19.051 [11.843,26.260]",0.051,,Creatinine
+XL-HDL-FC%,"18.177 [10.913,25.440]",0.215,,Free Cholesterol to Total-Lipids in Very Large HDL percentage
+M-LDL-FC%,"5.205 [-2.185,12.594]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+Clinical LDL-C,"3.204 [-3.987,10.395]",1.000,,Clinical LDL Cholesterol
+ApoB,"2.727 [-4.431,9.885]",1.000,,Apolipoprotein B
+M-HDL-C,"-18.932 [-26.075,-11.790]",0.047,*,Cholesterol in Medium HDL
+M-HDL-P,"-19.150 [-26.264,-12.036]",0.030,*,Concentration of Medium HDL Particles
+HDL-L,"-19.777 [-26.913,-12.640]",0.013,*,Total-Lipids in HDL
+Glu-lactate,"-19.783 [-27.054,-12.511]",0.022,*,Glucose-lactate
+M-HDL-FC,"-19.892 [-26.999,-12.785]",0.009,**,Free Cholesterol in Medium HDL
+M-HDL-L,"-20.257 [-27.372,-13.141]",0.006,**,Total-Lipids in Medium HDL
+GlycA,"-20.741 [-28.288,-13.194]",0.017,*,Glycoprotein Acetyls
+HDL-PL,"-20.810 [-27.903,-13.716]",0.002,**,Phospholipids in HDL
+M-HDL-PL,"-21.030 [-28.130,-13.931]",0.001,**,Phospholipids in Medium HDL

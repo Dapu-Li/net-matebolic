@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Tyr,120,1.133 [0.896-1.433],1.000,,Tyrosine
+HDL-C,621,1.066 [0.983-1.155],1.000,,HDL Cholesterol
+L-HDL-CE%,562,1.045 [0.969-1.126],1.000,,Cholesteryl Esters to Total-Lipids in Large HDL percentage
+M-HDL-FC%,609,1.024 [0.959-1.093],1.000,,Free Cholesterol to Total-Lipids in Medium HDL percentage
+S-LDL-TG%,594,1.012 [0.941-1.090],1.000,,Triglycerides to Total-Lipids in Small LDL percentage
+HDL-P,547,0.998 [0.888-1.122],1.000,,Concentration of HDL Particles
+XXL-VLDL-PL,556,0.977 [0.902-1.057],1.000,,Phospholipids in Chylomicrons and Extremely Large VLDL
+L-VLDL-FC%,331,0.931 [0.863-1.005],1.000,,Free Cholesterol to Total-Lipids in Large VLDL percentage
+ApoB/ApoA1,542,0.823 [0.765-0.885],0.035,*,Apolipoprotein B to Apolipoprotein A1 ratio
+3-Hydroxybutyrate,68,0.507 [0.382-0.673],0.597,,3-Hydroxybutyrate

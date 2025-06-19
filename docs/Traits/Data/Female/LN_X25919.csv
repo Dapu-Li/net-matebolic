@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+Total-C,"1.027 [0.122,1.931]",1.000,,Total-Cholesterol
+Non-HDL-C,"0.929 [0.063,1.795]",1.000,,Total-Cholesterol Minus HDL-C
+M-LDL-FC%,"0.910 [-0.064,1.883]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+Remnant-C,"0.860 [-0.002,1.721]",1.000,,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
+VLDL-C,"0.642 [-0.194,1.479]",1.000,,VLDL Cholesterol
+M-LDL-PL%,"-0.392 [-1.165,0.380]",1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+Val,"-0.648 [-1.493,0.197]",1.000,,Valine
+Total-BCAA,"-0.648 [-1.486,0.189]",1.000,,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+Leu,"-0.685 [-1.525,0.155]",1.000,,Leucine
+Creatinine,"-2.719 [-3.803,-1.634]",0.206,,Creatinine

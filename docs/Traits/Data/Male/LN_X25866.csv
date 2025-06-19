@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+XL-HDL-FC,"28.515 [17.378,39.653]",0.121,,Free Cholesterol in Very Large HDL
+L-HDL-FC%,"20.238 [12.138,28.338]",0.225,,Free Cholesterol to Total-Lipids in Large HDL percentage
+Non-HDL-C,"12.948 [4.132,21.763]",1.000,,Total-Cholesterol Minus HDL-C
+LDL-C,"11.167 [2.404,19.930]",1.000,,LDL Cholesterol
+HDL-C,"2.091 [-8.262,12.445]",1.000,,HDL Cholesterol
+SFA,"-2.886 [-11.374,5.601]",1.000,,Saturated Fatty Acids
+MUFA,"-5.187 [-13.782,3.408]",1.000,,Monounsaturated Fatty Acids
+SFA%,"-6.411 [-14.618,1.796]",1.000,,Saturated Fatty Acids to Total-Fatty Acids percentage
+M-LDL-TG%,"-13.887 [-22.722,-5.052]",1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+L-HDL-PL%,"-24.550 [-33.313,-15.787]",0.009,**,Phospholipids to Total-Lipids in Large HDL percentage

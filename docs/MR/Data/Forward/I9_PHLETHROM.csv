@@ -1,0 +1,16 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+PUFA%,371,1.176 [1.112-1.243],0.003,**,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+DHA%,240,1.167 [1.123-1.212],4.773e-10,***,Docosahexaenoic Acid to Total-Fatty Acids percentage
+HDL-P,547,1.155 [1.098-1.215],0.005,**,Concentration of HDL Particles
+DHA,289,1.143 [1.109-1.178],1.119e-12,***,Docosahexaenoic Acid
+Unsaturation,310,1.140 [1.107-1.173],5.879e-13,***,Degree of Unsaturation
+PUFA/MUFA,484,1.137 [1.090-1.185],4.028e-04,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+M-HDL-CE,607,1.123 [1.075-1.173],0.048,*,Cholesteryl Esters in Medium HDL
+M-HDL-P,598,1.120 [1.075-1.167],0.017,*,Concentration of Medium HDL Particles
+Omega-3%,215,1.120 [1.093-1.147],6.919e-15,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+Omega-3,420,1.119 [1.092-1.146],3.644e-14,***,Omega-3 Fatty Acids
+M-LDL-C,525,0.998 [0.941-1.058],1.000,,Cholesterol in Medium LDL
+Omega-6/Omega-3,257,0.894 [0.873-0.917],1.106e-13,***,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+MUFA%,525,0.887 [0.854-0.920],5.657e-05,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+XS-VLDL-PL%,375,0.852 [0.806-0.900],0.003,**,Phospholipids to Total-Lipids in Very Small VLDL percentage
+LA%,226,0.839 [0.782-0.901],0.274,,Linoleic Acid to Total-Fatty Acids percentage

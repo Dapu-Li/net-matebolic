@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+LA%,226,1.209 [1.120-1.304],0.232,,Linoleic Acid to Total-Fatty Acids percentage
+Omega-6/Omega-3,257,1.117 [1.072-1.165],0.046,*,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+S-LDL-PL%,510,1.055 [0.987-1.128],1.000,,Phospholipids to Total-Lipids in Small LDL percentage
+M-LDL-TG%,456,1.034 [0.977-1.095],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+S-LDL-FC%,578,1.011 [0.954-1.071],1.000,,Free Cholesterol to Total-Lipids in Small LDL percentage
+L-LDL-FC,474,0.901 [0.841-0.965],1.000,,Free Cholesterol in Large LDL
+Omega-3%,215,0.897 [0.862-0.934],0.035,*,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+Omega-3,420,0.890 [0.853-0.928],0.011,*,Omega-3 Fatty Acids
+DHA%,240,0.866 [0.818-0.917],0.192,,Docosahexaenoic Acid to Total-Fatty Acids percentage
+DHA,289,0.863 [0.819-0.908],0.005,**,Docosahexaenoic Acid

@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+Lactate,"0.001 [0.000,0.001]",6.094e-10,***,Lactate
+L-VLDL-C%,"0.000 [0.000,0.000]",0.854,,Cholesterol to Total-Lipids in Large VLDL percentage
+Omega-6/Omega-3,"0.000 [0.000,0.000]",1.000,,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+PUFA/MUFA,"0.000 [-0.000,0.000]",1.000,,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+M-LDL-FC%,"0.000 [-0.000,0.000]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+M-VLDL-TG%,"-0.000 [-0.000,-0.000]",1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
+L-VLDL-TG%,"-0.000 [-0.000,-0.000]",0.512,,Triglycerides to Total-Lipids in Large VLDL percentage
+S-HDL-CE,"-0.000 [-0.000,-0.000]",0.627,,Cholesteryl Esters in Small HDL
+L-LDL-CE%,"-0.000 [-0.000,-0.000]",0.738,,Cholesteryl Esters to Total-Lipids in Large LDL percentage
+Glu,"-0.000 [-0.001,-0.000]",6.097e-04,***,Glucose

@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+S-LDL-PL%,510,1.136 [1.082-1.194],0.077,,Phospholipids to Total-Lipids in Small LDL percentage
+L-LDL-FC%,687,1.122 [1.075-1.172],0.037,*,Free Cholesterol to Total-Lipids in Large LDL percentage
+XL-HDL-CE,664,1.059 [1.020-1.099],1.000,,Cholesteryl Esters in Very Large HDL
+HDL-size,600,1.044 [1.008-1.082],1.000,,Average Diameter for HDL Particles
+Omega-3%,215,1.029 [1.000-1.058],1.000,,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+S-HDL-C,410,0.864 [0.816-0.916],0.219,,Cholesterol in Small HDL
+S-HDL-P,416,0.850 [0.802-0.901],0.010,**,Concentration of Small HDL Particles
+S-HDL-PL,489,0.843 [0.796-0.892],7.209e-04,***,Phospholipids in Small HDL
+S-HDL-L,442,0.835 [0.787-0.886],6.554e-04,***,Total-Lipids in Small HDL
+GlycA,385,0.773 [0.717-0.834],5.713e-06,***,Glycoprotein Acetyls

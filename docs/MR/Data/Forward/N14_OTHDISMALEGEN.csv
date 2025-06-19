@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+XS-VLDL-PL%,375,1.212 [1.104-1.332],1.000,,Phospholipids to Total-Lipids in Very Small VLDL percentage
+Tyr,120,1.150 [0.970-1.363],1.000,,Tyrosine
+S-VLDL-TG%,564,1.090 [1.014-1.170],1.000,,Triglycerides to Total-Lipids in Small VLDL percentage
+HDL-TG,593,1.031 [0.974-1.090],1.000,,Triglycerides in HDL
+IDL-TG,602,1.008 [0.958-1.060],1.000,,Triglycerides in IDL
+SM,547,0.845 [0.789-0.904],0.250,,Sphingomyelins
+Total-P,531,0.818 [0.755-0.886],0.195,,Total-Concentration of Lipoprotein Particles
+M-HDL-C,607,0.816 [0.758-0.877],0.010,**,Cholesterol in Medium HDL
+M-HDL-CE,607,0.815 [0.757-0.877],0.011,*,Cholesteryl Esters in Medium HDL
+HDL-P,547,0.796 [0.735-0.863],0.006,**,Concentration of HDL Particles

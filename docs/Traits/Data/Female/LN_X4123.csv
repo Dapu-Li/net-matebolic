@@ -1,0 +1,14 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+DHA%,"0.811 [0.582,1.039]",7.895e-07,***,Docosahexaenoic Acid to Total-Fatty Acids percentage
+PUFA/MUFA,"0.712 [0.471,0.953]",0.002,**,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+Sc-ala,"0.612 [0.406,0.819]",0.001,**,Spectrometer-corrected alanine
+Unsaturation,"0.558 [0.330,0.786]",0.374,,Degree of Unsaturation
+Omega-3%,"0.530 [0.317,0.743]",0.254,,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+VLDL-C,"-0.554 [-0.758,-0.350]",0.023,*,VLDL Cholesterol
+M-VLDL-C,"-0.560 [-0.763,-0.357]",0.015,*,Cholesterol in Medium VLDL
+VLDL-CE,"-0.578 [-0.780,-0.375]",0.005,**,Cholesteryl Esters in VLDL
+Gly,"-0.579 [-0.767,-0.391]",3.766e-04,***,Glycine
+M-VLDL-CE,"-0.579 [-0.784,-0.374]",0.007,**,Cholesteryl Esters in Medium VLDL
+XL-VLDL-PL%,"-0.627 [-0.814,-0.441]",1.060e-05,***,Phospholipids to Total-Lipids in Very Large VLDL percentage
+GlycA,"-0.717 [-0.939,-0.496]",5.229e-05,***,Glycoprotein Acetyls
+MUFA%,"-0.764 [-1.000,-0.527]",5.582e-05,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage

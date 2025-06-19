@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+LDL-size,178,1.211 [0.991-1.480],1.000,,Average Diameter for LDL Particles
+L-VLDL-CE%,492,1.117 [1.010-1.235],1.000,,Cholesteryl Esters to Total-Lipids in Large VLDL percentage
+S-HDL-FC%,491,1.044 [0.977-1.114],1.000,,Free Cholesterol to Total-Lipids in Small HDL percentage
+Unsaturation,310,1.009 [0.944-1.078],1.000,,Degree of Unsaturation
+Non-HDL-C,563,1.003 [0.911-1.105],1.000,,Total-Cholesterol Minus HDL-C
+ApoB,565,0.987 [0.898-1.085],1.000,,Apolipoprotein B
+S-HDL-PL,489,0.674 [0.580-0.783],0.063,,Phospholipids in Small HDL
+S-HDL-FC,483,0.669 [0.573-0.782],0.111,,Free Cholesterol in Small HDL
+S-HDL-L,442,0.656 [0.559-0.770],0.058,,Total-Lipids in Small HDL
+GlycA,385,0.533 [0.440-0.646],3.821e-05,***,Glycoprotein Acetyls

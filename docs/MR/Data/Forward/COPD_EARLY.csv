@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+M-VLDL-TG%,609,1.085 [1.050-1.120],0.169,,Triglycerides to Total-Lipids in Medium VLDL percentage
+Gly,134,1.051 [1.011-1.093],1.000,,Glycine
+XL-HDL-FC%,547,1.044 [1.016-1.072],1.000,,Free Cholesterol to Total-Lipids in Very Large HDL percentage
+L-VLDL-PL%,580,1.016 [0.988-1.044],1.000,,Phospholipids to Total-Lipids in Large VLDL percentage
+L-VLDL-TG%,369,1.011 [0.980-1.043],1.000,,Triglycerides to Total-Lipids in Large VLDL percentage
+Total-L,626,0.917 [0.887-0.948],0.090,,Total-Lipids in Lipoprotein Particles
+IDL-C,568,0.914 [0.885-0.945],0.028,*,Cholesterol in IDL
+LDL-FC,411,0.914 [0.882-0.946],0.102,,Free Cholesterol in LDL
+L-LDL-FC,474,0.913 [0.881-0.945],0.061,,Free Cholesterol in Large LDL
+L-LDL-C%,403,0.906 [0.875-0.939],0.008,**,Cholesterol to Total-Lipids in Large LDL percentage

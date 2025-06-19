@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+S-HDL-L,442,1.075 [1.046-1.105],0.048,*,Total-Lipids in Small HDL
+LA%,226,1.073 [1.049-1.096],8.224e-05,***,Linoleic Acid to Total-Fatty Acids percentage
+S-HDL-PL,489,1.071 [1.043-1.100],0.099,,Phospholipids in Small HDL
+LA,635,1.053 [1.032-1.076],0.218,,Linoleic Acid
+Omega-6/Omega-3,257,1.042 [1.029-1.054],4.942e-06,***,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+Omega-3,420,0.969 [0.956-0.982],0.971,,Omega-3 Fatty Acids
+Omega-3%,215,0.961 [0.949-0.973],5.410e-05,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+DHA,289,0.959 [0.945-0.974],0.015,*,Docosahexaenoic Acid
+Unsaturation,310,0.957 [0.944-0.970],1.146e-04,***,Degree of Unsaturation
+DHA%,240,0.950 [0.933-0.966],0.002,**,Docosahexaenoic Acid to Total-Fatty Acids percentage

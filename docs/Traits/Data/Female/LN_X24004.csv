@@ -1,0 +1,31 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+M-LDL-FC%,"0.119 [0.025,0.213]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+L-VLDL-TG%,"0.077 [-0.001,0.154]",1.000,,Triglycerides to Total-Lipids in Large VLDL percentage
+M-HDL-C%,"0.060 [-0.033,0.153]",1.000,,Cholesterol to Total-Lipids in Medium HDL percentage
+L-LDL-PL%,"0.060 [-0.020,0.140]",1.000,,Phospholipids to Total-Lipids in Large LDL percentage
+L-LDL-TG%,"0.025 [-0.066,0.116]",1.000,,Triglycerides to Total-Lipids in Large LDL percentage
+L-HDL-TG,"-0.220 [-0.302,-0.139]",0.029,*,Triglycerides in Large HDL
+VLDL-C,"-0.227 [-0.310,-0.144]",0.017,*,VLDL Cholesterol
+VLDL-CE,"-0.228 [-0.310,-0.145]",0.013,*,Cholesteryl Esters in VLDL
+XS-VLDL-P,"-0.229 [-0.311,-0.147]",0.011,*,Concentration of Very Small VLDL Particles
+XS-VLDL-PL,"-0.233 [-0.316,-0.150]",0.007,**,Phospholipids in Very Small VLDL
+XS-VLDL-FC,"-0.234 [-0.316,-0.151]",0.006,**,Free Cholesterol in Very Small VLDL
+IDL-L,"-0.235 [-0.322,-0.149]",0.022,*,Total-Lipids in IDL
+IDL-PL,"-0.236 [-0.321,-0.151]",0.011,*,Phospholipids in IDL
+XL-HDL-TG,"-0.239 [-0.323,-0.154]",0.007,**,Triglycerides in Very Large HDL
+SM,"-0.240 [-0.328,-0.152]",0.021,*,Sphingomyelins
+XS-VLDL-CE,"-0.243 [-0.327,-0.160]",0.003,**,Cholesteryl Esters in Very Small VLDL
+Remnant-C,"-0.244 [-0.328,-0.160]",0.003,**,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
+XS-VLDL-C,"-0.244 [-0.328,-0.161]",0.002,**,Cholesterol in Very Small VLDL
+Total-CE,"-0.246 [-0.334,-0.158]",0.012,*,Total-Esterified Cholesterol
+XS-VLDL-L,"-0.246 [-0.329,-0.163]",0.002,**,Total-Lipids in Very Small VLDL
+PC,"-0.252 [-0.342,-0.163]",0.007,**,Phosphatidylcholines
+Total-C,"-0.253 [-0.341,-0.164]",0.005,**,Total-Cholesterol
+Total-FC,"-0.256 [-0.342,-0.169]",0.001,**,Total-Free Cholesterol
+Total-FA,"-0.258 [-0.347,-0.169]",0.003,**,Total-Fatty Acids
+Phosphoglyc,"-0.261 [-0.350,-0.171]",0.003,**,Phosphoglycerides
+SFA,"-0.268 [-0.358,-0.179]",0.001,**,Saturated Fatty Acids
+Cholines,"-0.269 [-0.359,-0.179]",9.812e-04,***,Total-Cholines
+Total-L,"-0.277 [-0.365,-0.189]",1.302e-04,***,Total-Lipids in Lipoprotein Particles
+Total-PL,"-0.290 [-0.380,-0.201]",4.327e-05,***,Total-Phospholipids in Lipoprotein Particles
+Lactate,"-0.363 [-0.445,-0.280]",1.527e-12,***,Lactate

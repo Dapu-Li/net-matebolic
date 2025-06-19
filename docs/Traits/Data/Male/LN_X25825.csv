@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+XL-HDL-FC,"137.340 [82.212,192.469]",0.241,,Free Cholesterol in Very Large HDL
+L-HDL-C%,"126.185 [83.591,168.779]",0.001,**,Cholesterol to Total-Lipids in Large HDL percentage
+L-HDL-CE%,"119.532 [77.625,161.439]",0.005,**,Cholesteryl Esters to Total-Lipids in Large HDL percentage
+M-VLDL-CE%,"117.382 [73.738,161.027]",0.031,*,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
+M-VLDL-C%,"115.823 [71.461,160.185]",0.072,,Cholesterol to Total-Lipids in Medium VLDL percentage
+Omega-6,"-18.602 [-62.208,25.004]",1.000,,Omega-6 Fatty Acids
+Omega-3,"-30.963 [-75.373,13.448]",1.000,,Omega-3 Fatty Acids
+S-HDL-L,"-109.981 [-154.481,-65.482]",0.293,,Total-Lipids in Small HDL
+S-HDL-PL,"-116.653 [-161.412,-71.894]",0.075,,Phospholipids in Small HDL
+L-HDL-PL%,"-177.504 [-220.810,-134.199]",2.363e-10,***,Phospholipids to Total-Lipids in Large HDL percentage

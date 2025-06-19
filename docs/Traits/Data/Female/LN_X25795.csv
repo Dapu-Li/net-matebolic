@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+LA%,"88.446 [52.674,124.217]",0.291,,Linoleic Acid to Total-Fatty Acids percentage
+M-LDL-FC%,"52.510 [15.897,89.123]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+Non-HDL-C,"19.744 [-12.855,52.343]",1.000,,Total-Cholesterol Minus HDL-C
+LDL-C,"18.744 [-13.547,51.035]",1.000,,LDL Cholesterol
+Remnant-C,"18.290 [-14.121,50.700]",1.000,,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
+Omega-3%,"-3.437 [-35.021,28.148]",1.000,,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+M-LDL-PL%,"-13.583 [-42.656,15.491]",1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+SFA%,"-28.488 [-61.989,5.012]",1.000,,Saturated Fatty Acids to Total-Fatty Acids percentage
+GlycA,"-82.893 [-116.737,-49.050]",0.365,,Glycoprotein Acetyls
+L-HDL-PL%,"-118.517 [-158.371,-78.663]",0.001,**,Phospholipids to Total-Lipids in Large HDL percentage

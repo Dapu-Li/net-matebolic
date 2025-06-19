@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+GlycA,385,1.391 [1.247-1.552],8.172e-04,***,Glycoprotein Acetyls
+HDL-FC,599,1.073 [1.016-1.133],1.000,,Free Cholesterol in HDL
+HDL-TG,593,1.060 [1.001-1.122],1.000,,Triglycerides in HDL
+L-HDL-C,671,1.031 [0.988-1.076],1.000,,Cholesterol in Large HDL
+L-HDL-CE%,562,1.009 [0.955-1.066],1.000,,Cholesteryl Esters to Total-Lipids in Large HDL percentage
+S-HDL-CE%,367,0.994 [0.946-1.044],1.000,,Cholesteryl Esters to Total-Lipids in Small HDL percentage
+Total-CE,575,0.987 [0.924-1.054],1.000,,Total-Esterified Cholesterol
+M-VLDL-FC,594,0.959 [0.899-1.023],1.000,,Free Cholesterol in Medium VLDL
+S-VLDL-FC,593,0.955 [0.897-1.017],1.000,,Free Cholesterol in Small VLDL
+L-LDL-FC,474,0.945 [0.887-1.007],1.000,,Free Cholesterol in Large LDL

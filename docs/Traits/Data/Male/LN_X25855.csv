@@ -1,0 +1,13 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+XL-HDL-FC,"17.398 [11.810,22.987]",2.466e-04,***,Free Cholesterol in Very Large HDL
+XL-HDL-C,"17.079 [11.190,22.967]",0.003,**,Cholesterol in Very Large HDL
+XL-HDL-L,"16.414 [10.602,22.227]",0.007,**,Total-Lipids in Very Large HDL
+XL-HDL-CE,"16.410 [10.469,22.350]",0.014,*,Cholesteryl Esters in Very Large HDL
+XL-HDL-PL,"16.141 [10.313,21.968]",0.013,*,Phospholipids in Very Large HDL
+S-HDL-CE,"-12.371 [-16.848,-7.895]",0.014,*,Cholesteryl Esters in Small HDL
+S-HDL-C,"-12.378 [-16.845,-7.910]",0.013,*,Cholesterol in Small HDL
+S-HDL-P,"-12.901 [-17.385,-8.417]",0.004,**,Concentration of Small HDL Particles
+GlycA,"-13.868 [-18.477,-9.258]",8.701e-04,***,Glycoprotein Acetyls
+S-HDL-L,"-14.421 [-18.932,-9.910]",8.722e-05,***,Total-Lipids in Small HDL
+S-HDL-PL,"-14.564 [-19.102,-10.027]",7.433e-05,***,Phospholipids in Small HDL
+L-HDL-PL%,"-14.960 [-19.357,-10.563]",6.144e-06,***,Phospholipids to Total-Lipids in Large HDL percentage

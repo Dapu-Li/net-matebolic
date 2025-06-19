@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+M-LDL-FC%,"22.103 [7.888,36.318]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+M-LDL-C%,"19.315 [4.199,34.432]",1.000,,Cholesterol to Total-Lipids in Medium LDL percentage
+Gln,"17.281 [2.590,31.973]",1.000,,Glutamine
+M-HDL-CE%,"11.258 [-2.994,25.510]",1.000,,Cholesteryl Esters to Total-Lipids in Medium HDL percentage
+Gly,"1.276 [-18.633,21.185]",1.000,,Glycine
+S-HDL-L,"-37.472 [-52.336,-22.608]",0.179,,Total-Lipids in Small HDL
+S-HDL-PL,"-39.957 [-54.908,-25.007]",0.038,*,Phospholipids in Small HDL
+M-HDL-PL,"-40.847 [-56.605,-25.090]",0.087,,Phospholipids in Medium HDL
+Sc-ala,"-41.774 [-56.346,-27.202]",0.004,**,Spectrometer-corrected alanine
+Ala,"-44.527 [-58.951,-30.102]",3.396e-04,***,Alanine

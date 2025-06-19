@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+L-HDL-C%,"43.485 [26.849,60.121]",0.069,,Cholesterol to Total-Lipids in Large HDL percentage
+L-LDL-FC%,"41.474 [27.558,55.390]",0.001,**,Free Cholesterol to Total-Lipids in Large LDL percentage
+LA%,"41.190 [27.568,54.811]",7.235e-04,***,Linoleic Acid to Total-Fatty Acids percentage
+Omega-6%,"38.509 [24.166,52.852]",0.033,*,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+PUFA/MUFA,"36.467 [22.477,50.456]",0.075,,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+L-LDL-TG%,"-33.932 [-47.162,-20.702]",0.115,,Triglycerides to Total-Lipids in Large LDL percentage
+MUFA%,"-34.595 [-48.270,-20.920]",0.164,,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+M-HDL-PL%,"-35.403 [-49.374,-21.431]",0.157,,Phospholipids to Total-Lipids in Medium HDL percentage
+GlycA,"-44.515 [-57.395,-31.635]",2.992e-06,***,Glycoprotein Acetyls
+L-HDL-PL%,"-52.406 [-67.583,-37.230]",3.119e-06,***,Phospholipids to Total-Lipids in Large HDL percentage

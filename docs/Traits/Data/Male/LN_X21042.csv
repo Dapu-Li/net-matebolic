@@ -1,0 +1,22 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+XS-VLDL-TG%,"0.066 [0.045,0.087]",2.483e-04,***,Triglycerides to Total-Lipids in Very Small VLDL percentage
+S-VLDL-TG%,"0.065 [0.044,0.087]",6.927e-04,***,Triglycerides to Total-Lipids in Small VLDL percentage
+M-VLDL-TG%,"0.063 [0.041,0.085]",0.008,**,Triglycerides to Total-Lipids in Medium VLDL percentage
+M-LDL-TG%,"0.059 [0.038,0.080]",0.007,**,Triglycerides to Total-Lipids in Medium LDL percentage
+S-LDL-TG%,"0.058 [0.037,0.079]",0.010,**,Triglycerides to Total-Lipids in Small LDL percentage
+IDL-TG%,"0.057 [0.036,0.078]",0.020,*,Triglycerides to Total-Lipids in IDL percentage
+M-VLDL-CE%,"-0.055 [-0.076,-0.034]",0.039,*,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
+XS-VLDL-CE%,"-0.056 [-0.077,-0.036]",0.025,*,Cholesteryl Esters to Total-Lipids in Very Small VLDL percentage
+M-VLDL-C%,"-0.057 [-0.078,-0.036]",0.021,*,Cholesterol to Total-Lipids in Medium VLDL percentage
+XS-VLDL-FC%,"-0.058 [-0.077,-0.039]",8.679e-04,***,Free Cholesterol to Total-Lipids in Very Small VLDL percentage
+IDL-FC%,"-0.059 [-0.078,-0.039]",0.001,**,Free Cholesterol to Total-Lipids in IDL percentage
+XS-VLDL-C%,"-0.059 [-0.079,-0.038]",0.005,**,Cholesterol to Total-Lipids in Very Small VLDL percentage
+L-VLDL-C%,"-0.059 [-0.081,-0.037]",0.036,*,Cholesterol to Total-Lipids in Large VLDL percentage
+M-VLDL-FC%,"-0.060 [-0.081,-0.039]",0.007,**,Free Cholesterol to Total-Lipids in Medium VLDL percentage
+S-VLDL-FC%,"-0.060 [-0.081,-0.039]",0.007,**,Free Cholesterol to Total-Lipids in Small VLDL percentage
+L-VLDL-CE%,"-0.060 [-0.082,-0.038]",0.030,*,Cholesteryl Esters to Total-Lipids in Large VLDL percentage
+S-VLDL-PL%,"-0.060 [-0.082,-0.039]",0.008,**,Phospholipids to Total-Lipids in Small VLDL percentage
+S-VLDL-CE%,"-0.063 [-0.084,-0.042]",7.247e-04,***,Cholesteryl Esters to Total-Lipids in Small VLDL percentage
+XL-VLDL-FC%,"-0.063 [-0.087,-0.040]",0.024,*,Free Cholesterol to Total-Lipids in Very Large VLDL percentage
+S-VLDL-C%,"-0.064 [-0.085,-0.043]",4.674e-04,***,Cholesterol to Total-Lipids in Small VLDL percentage
+L-LDL-FC%,"-0.065 [-0.086,-0.044]",3.633e-04,***,Free Cholesterol to Total-Lipids in Large LDL percentage

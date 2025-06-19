@@ -1,0 +1,25 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+Ile,"1.081 [1.021,1.145]",1.000,,Isoleucine
+Total-BCAA,"1.058 [0.996,1.125]",1.000,,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+Val,"1.049 [0.986,1.115]",1.000,,Valine
+Leu,"1.044 [0.984,1.107]",1.000,,Leucine
+M-LDL-PL%,"1.008 [0.949,1.070]",1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+HDL-PL,"0.831 [0.776,0.890]",0.022,*,Phospholipids in HDL
+M-HDL-PL,"0.830 [0.777,0.887]",0.007,**,Phospholipids in Medium HDL
+HDL-L,"0.829 [0.774,0.887]",0.015,*,Total-Lipids in HDL
+M-HDL-L,"0.826 [0.774,0.882]",0.002,**,Total-Lipids in Medium HDL
+S-HDL-L,"0.826 [0.777,0.877]",1.280e-04,***,Total-Lipids in Small HDL
+S-HDL-PL,"0.826 [0.776,0.878]",2.448e-04,***,Phospholipids in Small HDL
+S-HDL-FC,"0.825 [0.776,0.878]",2.267e-04,***,Free Cholesterol in Small HDL
+HDL-CE,"0.825 [0.768,0.886]",0.029,*,Cholesteryl Esters in HDL
+HDL-C,"0.824 [0.768,0.885]",0.025,*,HDL Cholesterol
+S-HDL-CE,"0.823 [0.774,0.875]",8.004e-05,***,Cholesteryl Esters in Small HDL
+S-HDL-P,"0.821 [0.772,0.873]",8.455e-05,***,Concentration of Small HDL Particles
+S-HDL-C,"0.820 [0.771,0.871]",2.769e-05,***,Cholesterol in Small HDL
+ApoA1,"0.818 [0.765,0.875]",9.689e-04,***,Apolipoprotein A1
+M-HDL-C,"0.815 [0.762,0.873]",9.399e-04,***,Cholesterol in Medium HDL
+M-HDL-CE,"0.815 [0.762,0.873]",9.729e-04,***,Cholesteryl Esters in Medium HDL
+M-HDL-P,"0.814 [0.758,0.873]",0.002,**,Concentration of Medium HDL Particles
+M-HDL-FC,"0.812 [0.757,0.872]",0.002,**,Free Cholesterol in Medium HDL
+Total-P,"0.808 [0.757,0.863]",4.189e-05,***,Total-Concentration of Lipoprotein Particles
+HDL-P,"0.804 [0.752,0.859]",3.290e-05,***,Concentration of HDL Particles

@@ -1,0 +1,58 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+Omega-6/Omega-3,"42.203 [34.504,49.903]",1.512e-21,***,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+ApoA1,"41.686 [33.807,49.566]",8.038e-20,***,Apolipoprotein A1
+M-HDL-L,"41.227 [33.391,49.063]",1.461e-19,***,Total-Lipids in Medium HDL
+M-HDL-C,"40.948 [33.128,48.767]",2.424e-19,***,Cholesterol in Medium HDL
+M-HDL-CE,"40.782 [33.001,48.564]",2.226e-19,***,Cholesteryl Esters in Medium HDL
+HDL-L,"40.249 [32.145,48.352]",5.022e-17,***,Total-Lipids in HDL
+HDL-P,"40.245 [32.658,47.832]",6.069e-20,***,Concentration of HDL Particles
+M-HDL-P,"40.137 [32.511,47.764]",1.419e-19,***,Concentration of Medium HDL Particles
+M-HDL-PL,"39.510 [31.798,47.223]",2.379e-18,***,Phospholipids in Medium HDL
+HDL-PL,"39.371 [31.388,47.353]",9.721e-17,***,Phospholipids in HDL
+Total-P,"39.276 [31.645,46.906]",1.468e-18,***,Total-Concentration of Lipoprotein Particles
+HDL-CE,"39.032 [30.975,47.089]",5.134e-16,***,Cholesteryl Esters in HDL
+HDL-C,"38.772 [30.681,46.864]",1.375e-15,***,HDL Cholesterol
+M-HDL-FC,"38.630 [30.924,46.336]",2.061e-17,***,Free Cholesterol in Medium HDL
+HDL-FC,"33.936 [26.100,41.771]",4.837e-12,***,Free Cholesterol in HDL
+Cholines,"33.415 [25.451,41.378]",4.540e-11,***,Total-Cholines
+S-HDL-PL,"33.371 [26.017,40.725]",1.375e-13,***,Phospholipids in Small HDL
+PC,"33.172 [25.245,41.098]",5.442e-11,***,Phosphatidylcholines
+Phosphoglyc,"32.110 [24.181,40.039]",4.784e-10,***,Phosphoglycerides
+S-HDL-L,"31.564 [24.247,38.881]",6.481e-12,***,Total-Lipids in Small HDL
+S-HDL-C,"30.529 [23.280,37.778]",3.527e-11,***,Cholesterol in Small HDL
+IDL-CE%,"30.518 [22.576,38.460]",1.157e-08,***,Cholesteryl Esters to Total-Lipids in IDL percentage
+M-HDL-FC%,"30.026 [21.127,38.926]",8.636e-06,***,Free Cholesterol to Total-Lipids in Medium HDL percentage
+S-HDL-FC,"29.433 [21.978,36.887]",2.321e-09,***,Free Cholesterol in Small HDL
+S-HDL-P,"29.378 [22.160,36.596]",3.456e-10,***,Concentration of Small HDL Particles
+S-HDL-CE,"29.363 [22.195,36.532]",2.277e-10,***,Cholesteryl Esters in Small HDL
+Total-PL,"29.218 [21.282,37.154]",1.233e-07,***,Total-Phospholipids in Lipoprotein Particles
+L-HDL-PL,"27.546 [19.647,35.445]",1.883e-06,***,Phospholipids in Large HDL
+L-HDL-L,"27.518 [19.438,35.598]",5.671e-06,***,Total-Lipids in Large HDL
+S-LDL-C%,"26.802 [19.235,34.370]",8.896e-07,***,Cholesterol to Total-Lipids in Small LDL percentage
+XS-VLDL-CE%,"26.588 [17.867,35.310]",5.261e-04,***,Cholesteryl Esters to Total-Lipids in Very Small VLDL percentage
+IDL-C%,"25.992 [17.823,34.160]",1.027e-04,***,Cholesterol to Total-Lipids in IDL percentage
+Omega-6,"25.431 [17.725,33.136]",2.269e-05,***,Omega-6 Fatty Acids
+L-HDL-P,"25.038 [17.389,32.687]",3.219e-05,***,Concentration of Large HDL Particles
+L-HDL-CE,"25.006 [17.137,32.876]",1.084e-04,***,Cholesteryl Esters in Large HDL
+LA,"24.994 [17.357,32.631]",3.235e-05,***,Linoleic Acid
+L-HDL-C,"24.983 [17.070,32.895]",1.392e-04,***,Cholesterol in Large HDL
+S-LDL-CE%,"24.516 [17.187,31.845]",1.264e-05,***,Cholesteryl Esters to Total-Lipids in Small LDL percentage
+Total-CE,"24.120 [16.224,32.016]",4.885e-04,***,Total-Esterified Cholesterol
+XS-VLDL-C%,"23.399 [14.751,32.046]",0.026,*,Cholesterol to Total-Lipids in Very Small VLDL percentage
+L-HDL-FC,"22.785 [15.111,30.458]",0.001,**,Free Cholesterol in Large HDL
+Total-C,"22.523 [14.634,30.411]",0.005,**,Total-Cholesterol
+Ile,"-21.083 [-28.536,-13.631]",0.007,**,Isoleucine
+IDL-TG%,"-21.632 [-29.755,-13.510]",0.041,*,Triglycerides to Total-Lipids in IDL percentage
+Ala,"-22.024 [-29.551,-14.498]",0.002,**,Alanine
+S-LDL-PL%,"-22.171 [-29.425,-14.917]",4.797e-04,***,Phospholipids to Total-Lipids in Small LDL percentage
+GlycA,"-22.991 [-30.983,-14.999]",0.004,**,Glycoprotein Acetyls
+IDL-PL%,"-23.005 [-30.195,-15.814]",8.261e-05,***,Phospholipids to Total-Lipids in IDL percentage
+Total-BCAA,"-24.302 [-31.869,-16.734]",7.088e-05,***,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+Sc-ala,"-25.112 [-32.471,-17.752]",5.193e-06,***,Spectrometer-corrected alanine
+M-HDL-PL%,"-25.461 [-34.008,-16.913]",0.001,**,Phospholipids to Total-Lipids in Medium HDL percentage
+Omega-3,"-26.723 [-34.306,-19.140]",1.138e-06,***,Omega-3 Fatty Acids
+DHA,"-27.308 [-35.046,-19.570]",1.061e-06,***,Docosahexaenoic Acid
+Val,"-30.341 [-37.970,-22.712]",1.485e-09,***,Valine
+XS-VLDL-PL%,"-35.227 [-43.007,-27.447]",1.637e-13,***,Phospholipids to Total-Lipids in Very Small VLDL percentage
+DHA%,"-41.054 [-49.203,-32.904]",1.277e-17,***,Docosahexaenoic Acid to Total-Fatty Acids percentage
+Omega-3%,"-42.064 [-49.723,-34.405]",1.208e-21,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage

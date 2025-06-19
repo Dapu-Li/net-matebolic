@@ -1,0 +1,16 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+DHA%,"0.938 [0.710,1.167]",1.973e-10,***,Docosahexaenoic Acid to Total-Fatty Acids percentage
+PUFA/MUFA,"0.830 [0.588,1.071]",3.685e-06,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+Unsaturation,"0.665 [0.437,0.893]",0.003,**,Degree of Unsaturation
+Omega-3%,"0.644 [0.430,0.857]",7.894e-04,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+DHA,"0.572 [0.356,0.788]",0.048,*,Docosahexaenoic Acid
+M-VLDL-C,"-0.546 [-0.749,-0.342]",0.034,*,Cholesterol in Medium VLDL
+S-LDL-CE%,"-0.547 [-0.751,-0.344]",0.031,*,Cholesteryl Esters to Total-Lipids in Small LDL percentage
+Remnant-C,"-0.552 [-0.760,-0.344]",0.046,*,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
+VLDL-C,"-0.581 [-0.785,-0.377]",0.005,**,VLDL Cholesterol
+VLDL-CE,"-0.591 [-0.794,-0.389]",0.002,**,Cholesteryl Esters in VLDL
+XL-VLDL-PL%,"-0.632 [-0.819,-0.445]",7.866e-06,***,Phospholipids to Total-Lipids in Very Large VLDL percentage
+Gly,"-0.640 [-0.828,-0.452]",5.791e-06,***,Glycine
+MUFA,"-0.652 [-0.876,-0.429]",0.003,**,Monounsaturated Fatty Acids
+GlycA,"-0.830 [-1.051,-0.608]",4.899e-08,***,Glycoprotein Acetyls
+MUFA%,"-0.883 [-1.120,-0.646]",5.959e-08,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage

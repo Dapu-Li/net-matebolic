@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+XXL-VLDL-TG%,153,1.203 [1.048-1.380],1.000,,Triglycerides to Total-Lipids in Chylomicrons and Extremely Large VLDL percentage
+XL-VLDL-TG%,444,1.185 [1.044-1.344],1.000,,Triglycerides to Total-Lipids in Very Large VLDL percentage
+SFA%,94,1.061 [0.775-1.453],1.000,,Saturated Fatty Acids to Total-Fatty Acids percentage
+XXL-VLDL-C,589,1.022 [0.926-1.128],1.000,,Cholesterol in Chylomicrons and Extremely Large VLDL
+IDL-TG%,635,1.019 [0.930-1.116],1.000,,Triglycerides to Total-Lipids in IDL percentage
+S-HDL-P,416,0.696 [0.603-0.803],0.178,,Concentration of Small HDL Particles
+S-HDL-C,410,0.692 [0.602-0.797],0.070,,Cholesterol in Small HDL
+S-HDL-PL,489,0.674 [0.589-0.771],0.002,**,Phospholipids in Small HDL
+S-HDL-L,442,0.665 [0.580-0.762],0.001,**,Total-Lipids in Small HDL
+GlycA,385,0.626 [0.527-0.742],0.018,*,Glycoprotein Acetyls

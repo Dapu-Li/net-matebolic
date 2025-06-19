@@ -1,0 +1,11 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+MUFA%,"0.152 [0.107,0.196]",4.405e-06,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+VLDL-size,"0.107 [0.062,0.152]",0.647,,Average Diameter for VLDL Particles
+Omega-6/Omega-3,"0.105 [0.064,0.146]",0.138,,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+Gly,"0.019 [-0.023,0.062]",1.000,,Glycine
+Phe,"0.012 [-0.028,0.053]",1.000,,Phenylalanine
+DHA,"-0.122 [-0.164,-0.080]",0.003,**,Docosahexaenoic Acid
+Omega-3%,"-0.129 [-0.170,-0.087]",2.416e-04,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+Unsaturation,"-0.129 [-0.173,-0.085]",0.002,**,Degree of Unsaturation
+PUFA/MUFA,"-0.138 [-0.183,-0.094]",2.684e-04,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+DHA%,"-0.158 [-0.201,-0.115]",8.381e-08,***,Docosahexaenoic Acid to Total-Fatty Acids percentage

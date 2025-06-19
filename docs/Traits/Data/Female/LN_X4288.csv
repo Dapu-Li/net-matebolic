@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+Glu,"11.021 [9.777,12.265]",7.131e-62,***,Glucose
+LA%,"4.542 [3.191,5.893]",1.015e-05,***,Linoleic Acid to Total-Fatty Acids percentage
+PUFA%,"3.848 [2.429,5.268]",0.025,*,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+Acetoacetate,"3.822 [2.634,5.010]",6.681e-05,***,Acetoacetate
+Gln,"3.206 [1.998,4.413]",0.045,*,Glutamine
+Ala,"-6.170 [-7.383,-4.957]",5.000e-18,***,Alanine
+Sc-ala,"-6.529 [-7.718,-5.340]",1.294e-21,***,Spectrometer-corrected alanine
+Pyruvate,"-8.664 [-9.624,-7.704]",2.463e-64,***,Pyruvate
+Acetate,"-9.624 [-10.818,-8.430]",1.175e-50,***,Acetate
+Lactate,"-17.760 [-18.832,-16.687]",2.329e-222,***,Lactate

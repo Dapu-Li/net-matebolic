@@ -1,0 +1,16 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Lactate,22,1.152 [0.921-1.442],1.000,,Lactate
+Albumin,72,1.097 [0.962-1.252],1.000,,Albumin
+IDL-TG%,635,1.024 [0.988-1.061],1.000,,Triglycerides to Total-Lipids in IDL percentage
+M-HDL-CE%,557,1.018 [0.980-1.057],1.000,,Cholesteryl Esters to Total-Lipids in Medium HDL percentage
+M-HDL-C,607,1.010 [0.973-1.047],1.000,,Cholesterol in Medium HDL
+L-LDL-L,508,0.917 [0.887-0.947],0.036,*,Total-Lipids in Large LDL
+L-LDL-FC,474,0.914 [0.885-0.945],0.031,*,Free Cholesterol in Large LDL
+LDL-CE,506,0.914 [0.883-0.945],0.045,*,Cholesteryl Esters in LDL
+L-LDL-C,488,0.914 [0.884-0.945],0.028,*,Cholesterol in Large LDL
+L-LDL-CE,502,0.913 [0.884-0.944],0.014,*,Cholesteryl Esters in Large LDL
+M-VLDL-CE,487,0.912 [0.881-0.943],0.024,*,Cholesteryl Esters in Medium VLDL
+LDL-C,476,0.911 [0.881-0.943],0.027,*,LDL Cholesterol
+L-LDL-PL,492,0.909 [0.878-0.940],0.009,**,Phospholipids in Large LDL
+LDL-PL,473,0.908 [0.878-0.939],0.006,**,Phospholipids in LDL
+Clinical LDL-C,463,0.908 [0.878-0.940],0.007,**,Clinical LDL Cholesterol

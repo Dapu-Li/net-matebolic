@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+L-LDL-FC%,687,1.067 [0.989-1.153],1.000,,Free Cholesterol to Total-Lipids in Large LDL percentage
+L-LDL-TG%,474,1.049 [0.978-1.125],1.000,,Triglycerides to Total-Lipids in Large LDL percentage
+XL-VLDL-FC%,397,1.045 [0.940-1.162],1.000,,Free Cholesterol to Total-Lipids in Very Large VLDL percentage
+PUFA/MUFA,484,1.016 [0.939-1.098],1.000,,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+S-HDL-C%,436,1.008 [0.937-1.085],1.000,,Cholesterol to Total-Lipids in Small HDL percentage
+PUFA,699,0.832 [0.778-0.890],0.017,*,Polyunsaturated Fatty Acids
+Omega-6,651,0.816 [0.757-0.880],0.030,*,Omega-6 Fatty Acids
+S-HDL-FC,483,0.795 [0.728-0.870],0.117,,Free Cholesterol in Small HDL
+S-HDL-PL,489,0.778 [0.711-0.851],0.010,*,Phospholipids in Small HDL
+S-HDL-P,416,0.768 [0.699-0.844],0.008,**,Concentration of Small HDL Particles

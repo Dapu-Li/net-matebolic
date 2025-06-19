@@ -1,0 +1,30 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+M-HDL-C,"0.174 [0.129,0.220]",1.892e-08,***,Cholesterol in Medium HDL
+M-HDL-CE,"0.174 [0.128,0.219]",1.903e-08,***,Cholesteryl Esters in Medium HDL
+M-HDL-P,"0.172 [0.127,0.218]",1.728e-08,***,Concentration of Medium HDL Particles
+M-HDL-FC,"0.172 [0.126,0.217]",4.224e-08,***,Free Cholesterol in Medium HDL
+M-HDL-L,"0.170 [0.125,0.216]",3.654e-08,***,Total-Lipids in Medium HDL
+ApoA1,"0.169 [0.124,0.215]",8.751e-08,***,Apolipoprotein A1
+HDL-L,"0.167 [0.120,0.214]",5.859e-07,***,Total-Lipids in HDL
+M-HDL-PL,"0.167 [0.122,0.212]",5.902e-08,***,Phospholipids in Medium HDL
+HDL-PL,"0.167 [0.120,0.213]",3.541e-07,***,Phospholipids in HDL
+HDL-P,"0.165 [0.120,0.209]",6.681e-08,***,Concentration of HDL Particles
+HDL-CE,"0.164 [0.117,0.211]",2.254e-06,***,Cholesteryl Esters in HDL
+HDL-C,"0.164 [0.116,0.211]",2.780e-06,***,HDL Cholesterol
+Total-P,"0.154 [0.110,0.198]",1.563e-06,***,Total-Concentration of Lipoprotein Particles
+HDL-FC,"0.153 [0.107,0.200]",2.707e-05,***,Free Cholesterol in HDL
+S-HDL-PL,"0.130 [0.088,0.172]",2.965e-04,***,Phospholipids in Small HDL
+L-HDL-PL,"0.129 [0.082,0.176]",0.020,*,Phospholipids in Large HDL
+PC,"0.126 [0.082,0.171]",0.006,**,Phosphatidylcholines
+S-HDL-FC,"0.124 [0.082,0.166]",0.002,**,Free Cholesterol in Small HDL
+S-HDL-L,"0.121 [0.080,0.163]",0.002,**,Total-Lipids in Small HDL
+Phosphoglyc,"0.121 [0.077,0.165]",0.017,*,Phosphoglycerides
+Cholines,"0.118 [0.073,0.162]",0.043,*,Total-Cholines
+S-HDL-C,"0.117 [0.075,0.158]",0.006,**,Cholesterol in Small HDL
+S-HDL-P,"0.112 [0.071,0.153]",0.023,*,Concentration of Small HDL Particles
+S-HDL-CE,"0.109 [0.069,0.150]",0.035,*,Cholesteryl Esters in Small HDL
+M-LDL-FC%,"-0.002 [-0.045,0.041]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+M-LDL-CE%,"-0.003 [-0.043,0.038]",1.000,,Cholesteryl Esters to Total-Lipids in Medium LDL percentage
+M-LDL-C%,"-0.004 [-0.046,0.038]",1.000,,Cholesterol to Total-Lipids in Medium LDL percentage
+M-HDL-TG%,"-0.062 [-0.105,-0.019]",1.000,,Triglycerides to Total-Lipids in Medium HDL percentage
+M-HDL-PL%,"-0.070 [-0.116,-0.025]",1.000,,Phospholipids to Total-Lipids in Medium HDL percentage

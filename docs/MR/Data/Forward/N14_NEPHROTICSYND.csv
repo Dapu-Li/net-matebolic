@@ -1,0 +1,16 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Total-BCAA,38,1.506 [0.850-2.667],1.000,,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+S-LDL-PL%,510,1.488 [1.260-1.757],0.687,,Phospholipids to Total-Lipids in Small LDL percentage
+XL-HDL-PL,562,1.069 [1.001-1.142],1.000,,Phospholipids in Very Large HDL
+M-VLDL-TG%,609,1.054 [0.970-1.144],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
+PUFA/MUFA,484,1.019 [0.921-1.127],1.000,,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+S-LDL-CE%,545,0.656 [0.561-0.768],0.036,*,Cholesteryl Esters to Total-Lipids in Small LDL percentage
+LA,635,0.655 [0.565-0.760],0.006,**,Linoleic Acid
+PUFA,699,0.645 [0.567-0.733],4.876e-06,***,Polyunsaturated Fatty Acids
+Omega-6,651,0.625 [0.541-0.723],5.378e-05,***,Omega-6 Fatty Acids
+MUFA,654,0.623 [0.539-0.720],3.470e-05,***,Monounsaturated Fatty Acids
+Total-FA,654,0.606 [0.527-0.697],5.405e-07,***,Total-Fatty Acids
+S-HDL-FC,483,0.586 [0.484-0.708],0.008,**,Free Cholesterol in Small HDL
+S-HDL-PL,489,0.579 [0.478-0.700],0.005,**,Phospholipids in Small HDL
+S-HDL-L,442,0.561 [0.460-0.686],0.004,**,Total-Lipids in Small HDL
+GlycA,385,0.420 [0.328-0.537],1.139e-06,***,Glycoprotein Acetyls

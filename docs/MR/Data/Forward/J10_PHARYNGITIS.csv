@@ -1,0 +1,21 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+S-VLDL-TG%,564,1.106 [1.068-1.146],0.005,**,Triglycerides to Total-Lipids in Small VLDL percentage
+M-VLDL-TG%,609,1.096 [1.058-1.136],0.102,,Triglycerides to Total-Lipids in Medium VLDL percentage
+XS-VLDL-TG%,661,1.090 [1.054-1.126],0.084,,Triglycerides to Total-Lipids in Very Small VLDL percentage
+S-LDL-TG%,594,1.087 [1.054-1.121],0.034,*,Triglycerides to Total-Lipids in Small LDL percentage
+M-LDL-TG%,456,1.079 [1.048-1.111],0.088,,Triglycerides to Total-Lipids in Medium LDL percentage
+S-LDL-PL,409,0.914 [0.885-0.943],0.009,**,Phospholipids in Small LDL
+S-LDL-C,489,0.913 [0.882-0.944],0.030,*,Cholesterol in Small LDL
+L-LDL-C,488,0.910 [0.879-0.942],0.022,*,Cholesterol in Large LDL
+LDL-C,476,0.910 [0.880-0.942],0.014,*,LDL Cholesterol
+LDL-PL,473,0.905 [0.875-0.936],0.001,**,Phospholipids in LDL
+L-LDL-PL,492,0.905 [0.874-0.937],0.007,**,Phospholipids in Large LDL
+L-LDL-FC,474,0.904 [0.872-0.936],0.004,**,Free Cholesterol in Large LDL
+M-VLDL-CE,487,0.904 [0.871-0.937],0.012,*,Cholesteryl Esters in Medium VLDL
+S-LDL-FC,410,0.903 [0.874-0.933],1.857e-04,***,Free Cholesterol in Small LDL
+Clinical LDL-C,463,0.900 [0.869-0.933],0.002,**,Clinical LDL Cholesterol
+M-LDL-FC,407,0.890 [0.860-0.922],1.244e-05,***,Free Cholesterol in Medium LDL
+LDL-FC,411,0.890 [0.859-0.921],8.488e-06,***,Free Cholesterol in LDL
+IDL-FC%,332,0.889 [0.852-0.927],0.011,*,Free Cholesterol to Total-Lipids in IDL percentage
+XS-VLDL-FC%,460,0.877 [0.846-0.909],3.367e-07,***,Free Cholesterol to Total-Lipids in Very Small VLDL percentage
+M-LDL-C%,225,0.872 [0.832-0.914],0.003,**,Cholesterol to Total-Lipids in Medium LDL percentage

@@ -1,0 +1,16 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+Lactate,"1.368 [1.330,1.407]",3.370e-102,***,Lactate
+Pyruvate,"1.292 [1.260,1.326]",6.532e-80,***,Pyruvate
+Acetate,"1.244 [1.211,1.278]",8.359e-52,***,Acetate
+3-Hydroxybutyrate,"1.125 [1.098,1.154]",2.416e-15,***,3-Hydroxybutyrate
+Citrate,"1.124 [1.093,1.156]",9.315e-11,***,Citrate
+LDL-size,"1.117 [1.082,1.153]",1.188e-06,***,Average Diameter for LDL Particles
+Glu-lactate,"1.115 [1.083,1.148]",7.548e-08,***,Glucose-lactate
+XXL-VLDL-CE%,"1.096 [1.066,1.127]",1.900e-05,***,Cholesteryl Esters to Total-Lipids in Chylomicrons and Extremely Large VLDL percentage
+Acetone,"1.095 [1.066,1.125]",1.394e-05,***,Acetone
+XXL-VLDL-C%,"1.082 [1.052,1.112]",0.008,**,Cholesterol to Total-Lipids in Chylomicrons and Extremely Large VLDL percentage
+Gly,"0.994 [0.968,1.020]",1.000,,Glycine
+M-LDL-CE%,"0.963 [0.936,0.991]",1.000,,Cholesteryl Esters to Total-Lipids in Medium LDL percentage
+M-HDL-PL%,"0.918 [0.888,0.948]",0.077,,Phospholipids to Total-Lipids in Medium HDL percentage
+Glu,"0.910 [0.883,0.938]",1.676e-04,***,Glucose
+Tyr,"0.900 [0.874,0.927]",5.965e-07,***,Tyrosine

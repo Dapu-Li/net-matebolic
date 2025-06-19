@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+PUFA,699,1.068 [1.042-1.095],0.046,*,Polyunsaturated Fatty Acids
+Omega-3,420,1.055 [1.036-1.074],0.002,**,Omega-3 Fatty Acids
+DHA%,240,1.049 [1.031-1.068],0.019,*,Docosahexaenoic Acid to Total-Fatty Acids percentage
+DHA,289,1.049 [1.031-1.067],0.014,*,Docosahexaenoic Acid
+Omega-3%,215,1.039 [1.026-1.053],0.001,**,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+MUFA%,525,0.999 [0.978-1.020],1.000,,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+L-HDL-CE%,562,0.994 [0.969-1.019],1.000,,Cholesteryl Esters to Total-Lipids in Large HDL percentage
+XS-VLDL-FC%,460,0.964 [0.932-0.996],1.000,,Free Cholesterol to Total-Lipids in Very Small VLDL percentage
+Omega-6/Omega-3,257,0.959 [0.947-0.972],3.032e-04,***,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+LA%,226,0.930 [0.905-0.955],0.035,*,Linoleic Acid to Total-Fatty Acids percentage

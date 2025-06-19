@@ -1,0 +1,11 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+Omega-3%,"0.218 [0.160,0.276]",4.633e-08,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+DHA%,"0.190 [0.128,0.252]",4.432e-04,***,Docosahexaenoic Acid to Total-Fatty Acids percentage
+Unsaturation,"0.166 [0.102,0.229]",0.072,,Degree of Unsaturation
+Omega-3,"0.158 [0.100,0.215]",0.019,*,Omega-3 Fatty Acids
+DHA,"0.145 [0.086,0.203]",0.275,,Docosahexaenoic Acid
+M-HDL-PL%,"-0.000 [-0.068,0.067]",1.000,,Phospholipids to Total-Lipids in Medium HDL percentage
+M-LDL-C%,"-0.006 [-0.066,0.054]",1.000,,Cholesterol to Total-Lipids in Medium LDL percentage
+M-HDL-TG%,"-0.037 [-0.095,0.021]",1.000,,Triglycerides to Total-Lipids in Medium HDL percentage
+L-VLDL-PL%,"-0.045 [-0.095,0.005]",1.000,,Phospholipids to Total-Lipids in Large VLDL percentage
+Omega-6/Omega-3,"-0.226 [-0.285,-0.167]",1.169e-08,***,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio

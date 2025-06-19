@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+Glu,"0.219 [0.132,0.307]",0.208,,Glucose
+M-LDL-FC%,"0.072 [-0.015,0.159]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+L-HDL-FC%,"0.019 [-0.062,0.100]",1.000,,Free Cholesterol to Total-Lipids in Large HDL percentage
+L-LDL-TG%,"0.003 [-0.085,0.091]",1.000,,Triglycerides to Total-Lipids in Large LDL percentage
+L-LDL-FC%,"0.002 [-0.088,0.091]",1.000,,Free Cholesterol to Total-Lipids in Large LDL percentage
+M-VLDL-C%,"-0.001 [-0.089,0.087]",1.000,,Cholesterol to Total-Lipids in Medium VLDL percentage
+HDL-C,"-0.027 [-0.133,0.079]",1.000,,HDL Cholesterol
+Citrate,"-0.238 [-0.331,-0.144]",0.141,,Citrate
+Creatinine,"-0.273 [-0.370,-0.176]",0.008,**,Creatinine
+Lactate,"-0.321 [-0.413,-0.229]",2.053e-06,***,Lactate

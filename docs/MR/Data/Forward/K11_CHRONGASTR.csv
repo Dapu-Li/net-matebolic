@@ -1,0 +1,15 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Acetone,15,1.118 [0.935-1.336],1.000,,Acetone
+Albumin,72,1.080 [0.958-1.218],1.000,,Albumin
+S-VLDL-TG%,564,1.073 [1.047-1.100],0.005,**,Triglycerides to Total-Lipids in Small VLDL percentage
+M-VLDL-TG%,609,1.070 [1.043-1.098],0.071,,Triglycerides to Total-Lipids in Medium VLDL percentage
+XS-VLDL-TG%,661,1.065 [1.039-1.091],0.116,,Triglycerides to Total-Lipids in Very Small VLDL percentage
+S-VLDL-PL%,600,0.935 [0.912-0.959],0.039,*,Phospholipids to Total-Lipids in Small VLDL percentage
+XS-VLDL-C%,642,0.933 [0.912-0.955],0.002,**,Cholesterol to Total-Lipids in Very Small VLDL percentage
+S-VLDL-FC%,609,0.933 [0.909-0.957],0.034,*,Free Cholesterol to Total-Lipids in Small VLDL percentage
+M-VLDL-C%,604,0.932 [0.908-0.955],0.010,*,Cholesterol to Total-Lipids in Medium VLDL percentage
+XS-VLDL-CE%,644,0.929 [0.907-0.951],2.091e-04,***,Cholesteryl Esters to Total-Lipids in Very Small VLDL percentage
+M-VLDL-FC%,574,0.929 [0.904-0.954],0.026,*,Free Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-CE%,597,0.926 [0.903-0.950],0.001,**,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
+PUFA,699,0.905 [0.873-0.939],0.015,*,Polyunsaturated Fatty Acids
+Omega-6,651,0.892 [0.857-0.929],0.007,**,Omega-6 Fatty Acids

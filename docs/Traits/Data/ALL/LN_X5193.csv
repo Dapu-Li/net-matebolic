@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+Unsaturation,"2.242 [1.506,2.978]",5.340e-04,***,Degree of Unsaturation
+LA%,"2.177 [1.426,2.929]",0.003,**,Linoleic Acid to Total-Fatty Acids percentage
+PUFA/MUFA,"2.068 [1.312,2.825]",0.019,*,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+PUFA%,"1.940 [1.188,2.693]",0.100,,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+Albumin,"1.879 [1.200,2.558]",0.014,*,Albumin
+Leu,"-0.332 [-1.101,0.438]",1.000,,Leucine
+Ile,"-0.674 [-1.420,0.073]",1.000,,Isoleucine
+MUFA%,"-1.879 [-2.629,-1.129]",0.206,,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+Lactate,"-2.568 [-3.220,-1.917]",2.574e-09,***,Lactate
+Acetate,"-3.025 [-3.717,-2.334]",2.299e-12,***,Acetate

@@ -1,0 +1,35 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Omega-6%,366,1.240 [1.139-1.349],0.162,,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+L-LDL-PL%,382,1.169 [1.096-1.245],0.411,,Phospholipids to Total-Lipids in Large LDL percentage
+L-VLDL-CE%,492,1.129 [1.054-1.210],1.000,,Cholesteryl Esters to Total-Lipids in Large VLDL percentage
+IDL-C%,558,1.030 [0.973-1.090],1.000,,Cholesterol to Total-Lipids in IDL percentage
+M-VLDL-PL%,523,1.009 [0.946-1.076],1.000,,Phospholipids to Total-Lipids in Medium VLDL percentage
+M-LDL-TG,658,0.860 [0.814-0.908],0.011,*,Triglycerides in Medium LDL
+S-VLDL-P,669,0.856 [0.808-0.906],0.025,*,Concentration of Small VLDL Particles
+S-VLDL-L,665,0.852 [0.803-0.903],0.016,*,Total-Lipids in Small VLDL
+VLDL-P,640,0.849 [0.800-0.900],0.010,*,Concentration of VLDL Particles
+S-LDL-TG,690,0.848 [0.801-0.897],0.003,**,Triglycerides in Small LDL
+XL-VLDL-FC,610,0.845 [0.793-0.899],0.034,*,Free Cholesterol in Very Large VLDL
+Total-FC,546,0.844 [0.793-0.899],0.036,*,Total-Free Cholesterol
+VLDL-C,644,0.843 [0.794-0.895],0.005,**,VLDL Cholesterol
+M-VLDL-L,589,0.842 [0.790-0.897],0.024,*,Total-Lipids in Medium VLDL
+L-LDL-CE,502,0.839 [0.786-0.896],0.033,*,Cholesteryl Esters in Large LDL
+S-LDL-CE,543,0.839 [0.786-0.896],0.030,*,Cholesteryl Esters in Small LDL
+VLDL-FC,630,0.837 [0.787-0.891],0.006,**,Free Cholesterol in VLDL
+LDL-C,476,0.837 [0.784-0.894],0.031,*,LDL Cholesterol
+LDL-L,502,0.837 [0.784-0.893],0.018,*,Total-Lipids in LDL
+Total-PL,628,0.837 [0.787-0.890],0.003,**,Total-Phospholipids in Lipoprotein Particles
+VLDL-PL,674,0.837 [0.788-0.889],0.002,**,Phospholipids in VLDL
+M-VLDL-PL,632,0.836 [0.786-0.890],0.005,**,Phospholipids in Medium VLDL
+L-LDL-L,508,0.836 [0.784-0.892],0.012,*,Total-Lipids in Large LDL
+LDL-CE,506,0.833 [0.780-0.889],0.012,*,Cholesteryl Esters in LDL
+VLDL-L,623,0.832 [0.782-0.885],0.001,**,Total-Lipids in VLDL
+Total-C,563,0.828 [0.776-0.883],0.003,**,Total-Cholesterol
+Total-CE,575,0.827 [0.774-0.883],0.004,**,Total-Esterified Cholesterol
+PUFA,699,0.825 [0.781-0.872],1.518e-06,***,Polyunsaturated Fatty Acids
+MUFA,654,0.824 [0.775-0.875],1.009e-04,***,Monounsaturated Fatty Acids
+Total-FA,654,0.814 [0.767-0.863],2.097e-06,***,Total-Fatty Acids
+LA,635,0.810 [0.762-0.861],3.817e-06,***,Linoleic Acid
+SFA,553,0.806 [0.755-0.860],2.413e-05,***,Saturated Fatty Acids
+Total-L,626,0.803 [0.754-0.855],1.265e-06,***,Total-Lipids in Lipoprotein Particles
+Omega-6,651,0.801 [0.754-0.851],2.083e-07,***,Omega-6 Fatty Acids

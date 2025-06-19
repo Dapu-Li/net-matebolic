@@ -1,0 +1,13 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Val,50,1.058 [0.962-1.163],1.000,,Valine
+XXL-VLDL-P,529,1.024 [0.999-1.050],1.000,,Concentration of Chylomicrons and Extremely Large VLDL Particles
+L-VLDL-PL%,580,1.017 [0.995-1.039],1.000,,Phospholipids to Total-Lipids in Large VLDL percentage
+XL-VLDL-P,599,1.010 [0.985-1.036],1.000,,Concentration of Very Large VLDL Particles
+L-VLDL-PL,637,1.001 [0.976-1.025],1.000,,Phospholipids in Large VLDL
+L-HDL-C%,622,0.947 [0.929-0.967],0.037,*,Cholesterol to Total-Lipids in Large HDL percentage
+S-VLDL-PL%,600,0.947 [0.928-0.966],0.026,*,Phospholipids to Total-Lipids in Small VLDL percentage
+IDL-C,568,0.947 [0.928-0.966],0.033,*,Cholesterol in IDL
+S-VLDL-FC%,609,0.946 [0.927-0.966],0.039,*,Free Cholesterol to Total-Lipids in Small VLDL percentage
+IDL-FC,587,0.946 [0.927-0.965],0.011,*,Free Cholesterol in IDL
+L-LDL-C%,403,0.938 [0.917-0.960],0.011,*,Cholesterol to Total-Lipids in Large LDL percentage
+IDL-FC%,332,0.926 [0.902-0.950],0.001,**,Free Cholesterol to Total-Lipids in IDL percentage

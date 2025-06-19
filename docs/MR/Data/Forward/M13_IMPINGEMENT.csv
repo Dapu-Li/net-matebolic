@@ -1,0 +1,13 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+S-LDL-PL%,510,1.099 [1.060-1.139],0.078,,Phospholipids to Total-Lipids in Small LDL percentage
+XXL-VLDL-C%,176,1.051 [1.007-1.097],1.000,,Cholesterol to Total-Lipids in Chylomicrons and Extremely Large VLDL percentage
+S-VLDL-PL%,600,1.017 [0.986-1.050],1.000,,Phospholipids to Total-Lipids in Small VLDL percentage
+His,43,1.013 [0.907-1.132],1.000,,Histidine
+L-HDL-P,633,1.003 [0.981-1.025],1.000,,Concentration of Large HDL Particles
+VLDL-C,644,0.921 [0.893-0.950],0.039,*,VLDL Cholesterol
+M-VLDL-PL,632,0.919 [0.891-0.949],0.033,*,Phospholipids in Medium VLDL
+VLDL-PL,674,0.919 [0.891-0.948],0.019,*,Phospholipids in VLDL
+VLDL-FC,630,0.915 [0.887-0.945],0.010,**,Free Cholesterol in VLDL
+Total-FA,654,0.912 [0.882-0.944],0.037,*,Total-Fatty Acids
+LA,635,0.910 [0.880-0.942],0.023,*,Linoleic Acid
+MUFA,654,0.909 [0.877-0.941],0.022,*,Monounsaturated Fatty Acids

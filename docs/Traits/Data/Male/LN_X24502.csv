@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+L-LDL-PL%,"0.016 [-0.001,0.033]",1.000,,Phospholipids to Total-Lipids in Large LDL percentage
+L-HDL-TG%,"0.009 [-0.007,0.025]",1.000,,Triglycerides to Total-Lipids in Large HDL percentage
+L-LDL-TG%,"0.005 [-0.011,0.021]",1.000,,Triglycerides to Total-Lipids in Large LDL percentage
+M-LDL-TG%,"0.003 [-0.013,0.019]",1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+L-LDL-FC%,"0.002 [-0.014,0.018]",1.000,,Free Cholesterol to Total-Lipids in Large LDL percentage
+PUFA%,"-0.004 [-0.019,0.012]",1.000,,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+Omega-6%,"-0.004 [-0.020,0.012]",1.000,,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+LA%,"-0.005 [-0.021,0.011]",1.000,,Linoleic Acid to Total-Fatty Acids percentage
+DHA,"-0.007 [-0.024,0.009]",1.000,,Docosahexaenoic Acid
+Citrate,"-0.051 [-0.067,-0.034]",8.158e-04,***,Citrate

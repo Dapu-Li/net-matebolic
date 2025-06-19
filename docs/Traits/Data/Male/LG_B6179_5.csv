@@ -1,0 +1,11 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+Gly,"1.338 [1.261,1.419]",8.036e-17,***,Glycine
+PUFA%,"1.086 [1.040,1.134]",1.000,,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+DHA,"1.065 [1.018,1.114]",1.000,,Docosahexaenoic Acid
+Omega-3,"1.038 [0.992,1.086]",1.000,,Omega-3 Fatty Acids
+M-LDL-FC%,"1.021 [0.978,1.066]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+M-VLDL-PL%,"0.993 [0.950,1.037]",1.000,,Phospholipids to Total-Lipids in Medium VLDL percentage
+Ile,"0.942 [0.900,0.986]",1.000,,Isoleucine
+Total-BCAA,"0.871 [0.830,0.913]",0.003,**,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+Leu,"0.866 [0.826,0.909]",7.146e-04,***,Leucine
+Val,"0.862 [0.822,0.904]",2.600e-04,***,Valine

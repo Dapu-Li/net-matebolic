@@ -1,0 +1,25 @@
+Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
+S-HDL-PL,1.12 [1.09-1.15],5.608e-11,***,Phospholipids in Small HDL
+M-HDL-PL,1.11 [1.08-1.15],1.154e-08,***,Phospholipids in Medium HDL
+S-HDL-L,1.11 [1.08-1.14],1.785e-09,***,Total-Lipids in Small HDL
+M-HDL-L,1.11 [1.08-1.14],1.834e-07,***,Total-Lipids in Medium HDL
+M-HDL-P,1.10 [1.07-1.14],5.225e-06,***,Concentration of Medium HDL Particles
+ApoA1,1.10 [1.07-1.13],1.514e-04,***,Apolipoprotein A1
+M-HDL-C,1.10 [1.07-1.13],1.311e-04,***,Cholesterol in Medium HDL
+HDL-P,1.10 [1.07-1.13],4.858e-05,***,Concentration of HDL Particles
+M-HDL-CE,1.10 [1.06-1.13],1.416e-04,***,Cholesteryl Esters in Medium HDL
+S-HDL-C,1.10 [1.07-1.12],6.616e-06,***,Cholesterol in Small HDL
+M-HDL-FC,1.09 [1.06-1.13],4.354e-04,***,Free Cholesterol in Medium HDL
+HDL-PL,1.09 [1.06-1.13],7.307e-04,***,Phospholipids in HDL
+S-HDL-P,1.09 [1.07-1.12],1.058e-05,***,Concentration of Small HDL Particles
+S-HDL-CE,1.09 [1.06-1.12],1.996e-05,***,Cholesteryl Esters in Small HDL
+S-HDL-FC,1.09 [1.06-1.12],7.501e-05,***,Free Cholesterol in Small HDL
+Total-P,1.09 [1.06-1.12],0.001,**,Total-Concentration of Lipoprotein Particles
+HDL-L,1.09 [1.05-1.12],0.015,*,Total-Lipids in HDL
+PC,1.08 [1.05-1.11],0.011,*,Phosphatidylcholines
+M-HDL-TG,1.08 [1.05-1.11],0.002,**,Triglycerides in Medium HDL
+VLDL-C,1.00 [0.97-1.02],1.000,,VLDL Cholesterol
+M-LDL-FC%,0.97 [0.95-1.00],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+XS-VLDL-PL%,0.93 [0.91-0.96],0.146,,Phospholipids to Total-Lipids in Very Small VLDL percentage
+Citrate,0.92 [0.90-0.95],0.004,**,Citrate
+XL-HDL-FC,0.92 [0.89-0.95],0.029,*,Free Cholesterol in Very Large HDL

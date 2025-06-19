@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+LA%,226,1.083 [1.030-1.138],1.000,,Linoleic Acid to Total-Fatty Acids percentage
+L-HDL-PL%,508,1.041 [0.990-1.096],1.000,,Phospholipids to Total-Lipids in Large HDL percentage
+M-LDL-TG%,456,1.025 [0.989-1.061],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+S-LDL-TG%,594,1.019 [0.976-1.064],1.000,,Triglycerides to Total-Lipids in Small LDL percentage
+XL-HDL-TG,489,1.007 [0.972-1.044],1.000,,Triglycerides in Very Large HDL
+S-VLDL-FC%,609,0.989 [0.945-1.034],1.000,,Free Cholesterol to Total-Lipids in Small VLDL percentage
+XL-HDL-PL,562,0.969 [0.927-1.013],1.000,,Phospholipids in Very Large HDL
+L-LDL-CE%,344,0.938 [0.879-1.001],1.000,,Cholesteryl Esters to Total-Lipids in Large LDL percentage
+SFA%,94,0.820 [0.728-0.923],1.000,,Saturated Fatty Acids to Total-Fatty Acids percentage
+Albumin,72,0.671 [0.579-0.779],0.036,*,Albumin

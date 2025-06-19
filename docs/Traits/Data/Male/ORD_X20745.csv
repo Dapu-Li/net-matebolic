@@ -1,0 +1,16 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+M-HDL-FC,"0.191 [0.121,0.261]",0.018,*,Free Cholesterol in Medium HDL
+HDL-L,"0.191 [0.122,0.259]",0.011,*,Total-Lipids in HDL
+M-HDL-P,"0.190 [0.121,0.259]",0.016,*,Concentration of Medium HDL Particles
+ApoA1,"0.188 [0.121,0.256]",0.010,**,Apolipoprotein A1
+HDL-PL,"0.187 [0.119,0.255]",0.018,*,Phospholipids in HDL
+HDL-C,"0.187 [0.116,0.257]",0.050,*,HDL Cholesterol
+M-HDL-L,"0.182 [0.117,0.248]",0.013,*,Total-Lipids in Medium HDL
+M-HDL-C,"0.182 [0.115,0.250]",0.028,*,Cholesterol in Medium HDL
+M-HDL-PL,"0.179 [0.113,0.245]",0.024,*,Phospholipids in Medium HDL
+M-HDL-CE,"0.179 [0.112,0.246]",0.044,*,Cholesteryl Esters in Medium HDL
+Val,"-0.006 [-0.070,0.058]",1.000,,Valine
+PUFA/MUFA,"-0.006 [-0.068,0.056]",1.000,,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+M-LDL-FC%,"-0.010 [-0.070,0.050]",1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+ApoB/ApoA1,"-0.082 [-0.143,-0.021]",1.000,,Apolipoprotein B to Apolipoprotein A1 ratio
+Omega-6/Omega-3,"-0.130 [-0.190,-0.071]",1.000,,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio

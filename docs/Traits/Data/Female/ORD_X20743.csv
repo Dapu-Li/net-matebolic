@@ -1,0 +1,11 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+MUFA%,"0.172 [0.107,0.236]",0.041,*,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+Omega-6/Omega-3,"0.163 [0.106,0.220]",0.004,**,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+Total-CE,"0.021 [-0.039,0.080]",1.000,,Total-Esterified Cholesterol
+Phe,"0.009 [-0.044,0.062]",1.000,,Phenylalanine
+Tyr,"0.006 [-0.047,0.059]",1.000,,Tyrosine
+DHA,"-0.184 [-0.241,-0.128]",3.975e-05,***,Docosahexaenoic Acid
+PUFA/MUFA,"-0.187 [-0.252,-0.121]",0.005,**,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+Omega-3%,"-0.190 [-0.246,-0.134]",7.312e-06,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+Unsaturation,"-0.196 [-0.257,-0.135]",6.238e-05,***,Degree of Unsaturation
+DHA%,"-0.235 [-0.295,-0.176]",2.572e-09,***,Docosahexaenoic Acid to Total-Fatty Acids percentage

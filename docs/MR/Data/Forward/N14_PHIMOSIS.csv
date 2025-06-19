@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+Omega-6%,366,1.106 [1.066-1.147],0.022,*,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+XL-VLDL-CE%,485,1.087 [1.049-1.126],0.900,,Cholesteryl Esters to Total-Lipids in Very Large VLDL percentage
+GlycA,385,1.051 [0.949-1.164],1.000,,Glycoprotein Acetyls
+PUFA/MUFA,484,1.049 [1.013-1.085],1.000,,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+S-LDL-PL%,510,1.011 [0.953-1.073],1.000,,Phospholipids to Total-Lipids in Small LDL percentage
+XXL-VLDL-TG,472,0.908 [0.878-0.939],0.004,**,Triglycerides in Chylomicrons and Extremely Large VLDL
+XL-VLDL-TG,570,0.907 [0.873-0.942],0.132,,Triglycerides in Very Large VLDL
+L-VLDL-TG,567,0.899 [0.862-0.937],0.100,,Triglycerides in Large VLDL
+L-VLDL-L,609,0.890 [0.852-0.929],0.026,*,Total-Lipids in Large VLDL
+M-VLDL-TG,613,0.889 [0.849-0.931],0.172,,Triglycerides in Medium VLDL

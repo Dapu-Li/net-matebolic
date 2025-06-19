@@ -1,0 +1,11 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+GlycA,385,1.205 [1.148-1.265],1.803e-08,***,Glycoprotein Acetyls
+S-HDL-FC,483,1.116 [1.075-1.159],0.003,**,Free Cholesterol in Small HDL
+S-HDL-PL,489,1.114 [1.071-1.159],0.017,*,Phospholipids in Small HDL
+HDL-P,547,1.092 [1.057-1.128],0.028,*,Concentration of HDL Particles
+Total-P,531,1.091 [1.054-1.129],0.174,,Total-Concentration of Lipoprotein Particles
+VLDL-CE,621,0.977 [0.957-0.999],1.000,,Cholesteryl Esters in VLDL
+S-VLDL-FC%,609,0.975 [0.955-0.995],1.000,,Free Cholesterol to Total-Lipids in Small VLDL percentage
+L-VLDL-FC%,331,0.972 [0.953-0.991],1.000,,Free Cholesterol to Total-Lipids in Large VLDL percentage
+S-LDL-PL%,510,0.948 [0.918-0.979],1.000,,Phospholipids to Total-Lipids in Small LDL percentage
+L-LDL-PL%,382,0.929 [0.902-0.958],0.427,,Phospholipids to Total-Lipids in Large LDL percentage

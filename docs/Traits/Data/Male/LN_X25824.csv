@@ -1,0 +1,11 @@
+Abbreviations,Beta(95%CI),P-value(Bonferroni),P-star,Metabolite
+LA%,"121.620 [77.607,165.633]",0.014,*,Linoleic Acid to Total-Fatty Acids percentage
+M-VLDL-CE%,"109.887 [66.764,153.010]",0.136,,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
+L-HDL-C%,"107.062 [64.965,149.158]",0.143,,Cholesterol to Total-Lipids in Large HDL percentage
+L-HDL-CE%,"102.517 [61.101,143.933]",0.283,,Cholesteryl Esters to Total-Lipids in Large HDL percentage
+PUFA%,"101.584 [59.227,143.941]",0.598,,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+Total-FA,"-65.174 [-107.022,-23.326]",1.000,,Total-Fatty Acids
+M-HDL-PL,"-115.005 [-161.613,-68.397]",0.305,,Phospholipids in Medium HDL
+S-HDL-L,"-117.883 [-161.837,-73.929]",0.034,*,Total-Lipids in Small HDL
+S-HDL-PL,"-128.580 [-172.786,-84.374]",0.003,**,Phospholipids in Small HDL
+L-HDL-PL%,"-157.828 [-200.635,-115.021]",1.200e-07,***,Phospholipids to Total-Lipids in Large HDL percentage

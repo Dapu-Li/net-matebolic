@@ -1,0 +1,26 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+XL-VLDL-FC%,397,1.196 [1.123-1.274],0.006,**,Free Cholesterol to Total-Lipids in Very Large VLDL percentage
+XL-VLDL-C%,486,1.182 [1.119-1.249],6.559e-04,***,Cholesterol to Total-Lipids in Very Large VLDL percentage
+XL-VLDL-CE%,485,1.181 [1.117-1.248],0.001,**,Cholesteryl Esters to Total-Lipids in Very Large VLDL percentage
+XS-VLDL-FC%,460,1.177 [1.119-1.239],9.290e-05,***,Free Cholesterol to Total-Lipids in Very Small VLDL percentage
+S-VLDL-C%,527,1.170 [1.117-1.224],4.696e-06,***,Cholesterol to Total-Lipids in Small VLDL percentage
+S-VLDL-CE%,509,1.169 [1.117-1.223],3.296e-06,***,Cholesteryl Esters to Total-Lipids in Small VLDL percentage
+IDL-FC%,332,1.161 [1.098-1.228],0.040,*,Free Cholesterol to Total-Lipids in IDL percentage
+L-VLDL-CE%,492,1.159 [1.102-1.219],0.002,**,Cholesteryl Esters to Total-Lipids in Large VLDL percentage
+M-VLDL-FC%,574,1.157 [1.102-1.214],7.068e-04,***,Free Cholesterol to Total-Lipids in Medium VLDL percentage
+L-LDL-FC%,687,1.155 [1.102-1.209],2.905e-04,***,Free Cholesterol to Total-Lipids in Large LDL percentage
+L-LDL-PL%,382,1.154 [1.099-1.213],0.002,**,Phospholipids to Total-Lipids in Large LDL percentage
+XS-VLDL-C%,642,1.146 [1.097-1.197],2.151e-04,***,Cholesterol to Total-Lipids in Very Small VLDL percentage
+M-VLDL-C%,604,1.143 [1.090-1.199],0.011,*,Cholesterol to Total-Lipids in Medium VLDL percentage
+S-VLDL-FC%,609,1.134 [1.085-1.185],0.007,**,Free Cholesterol to Total-Lipids in Small VLDL percentage
+S-VLDL-PL%,600,1.133 [1.084-1.184],0.006,**,Phospholipids to Total-Lipids in Small VLDL percentage
+XS-VLDL-CE%,644,1.127 [1.079-1.178],0.018,*,Cholesteryl Esters to Total-Lipids in Very Small VLDL percentage
+S-LDL-FC%,578,1.124 [1.076-1.174],0.036,*,Free Cholesterol to Total-Lipids in Small LDL percentage
+IDL-TG%,635,0.893 [0.857-0.931],0.018,*,Triglycerides to Total-Lipids in IDL percentage
+S-LDL-TG%,594,0.882 [0.844-0.922],0.006,**,Triglycerides to Total-Lipids in Small LDL percentage
+M-VLDL-TG%,609,0.873 [0.832-0.915],0.005,**,Triglycerides to Total-Lipids in Medium VLDL percentage
+MUFA,654,0.869 [0.829-0.911],0.001,**,Monounsaturated Fatty Acids
+XS-VLDL-TG%,661,0.863 [0.824-0.904],1.434e-04,***,Triglycerides to Total-Lipids in Very Small VLDL percentage
+S-VLDL-TG%,564,0.858 [0.819-0.898],1.790e-05,***,Triglycerides to Total-Lipids in Small VLDL percentage
+XL-VLDL-TG%,444,0.831 [0.786-0.879],2.441e-05,***,Triglycerides to Total-Lipids in Very Large VLDL percentage
+GlycA,385,0.766 [0.711-0.826],1.124e-06,***,Glycoprotein Acetyls

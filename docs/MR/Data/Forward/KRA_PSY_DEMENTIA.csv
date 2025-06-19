@@ -1,0 +1,52 @@
+Abbreviations,N_snp,OR(95%CI),P(Bonferroni),P-star,Metabolite
+M-LDL-FC,407,1.613 [1.419-1.833],5.588e-08,***,Free Cholesterol in Medium LDL
+LDL-FC,411,1.593 [1.403-1.807],1.289e-07,***,Free Cholesterol in LDL
+LDL-PL,473,1.565 [1.400-1.749],7.541e-10,***,Phospholipids in LDL
+M-LDL-PL,492,1.563 [1.392-1.755],1.020e-08,***,Phospholipids in Medium LDL
+Clinical LDL-C,463,1.561 [1.391-1.752],1.001e-08,***,Clinical LDL Cholesterol
+S-LDL-FC,410,1.561 [1.385-1.759],7.319e-08,***,Free Cholesterol in Small LDL
+S-LDL-PL,409,1.557 [1.382-1.753],7.718e-08,***,Phospholipids in Small LDL
+L-LDL-FC,474,1.554 [1.380-1.749],7.105e-08,***,Free Cholesterol in Large LDL
+LDL-C,476,1.549 [1.382-1.735],1.247e-08,***,LDL Cholesterol
+S-LDL-C,489,1.547 [1.382-1.730],6.579e-09,***,Cholesterol in Small LDL
+L-LDL-PL,492,1.540 [1.376-1.723],1.390e-08,***,Phospholipids in Large LDL
+L-LDL-C,488,1.522 [1.363-1.701],2.488e-08,***,Cholesterol in Large LDL
+S-LDL-L,511,1.522 [1.367-1.694],4.145e-09,***,Total-Lipids in Small LDL
+LDL-L,502,1.521 [1.361-1.700],3.369e-08,***,Total-Lipids in LDL
+LDL-CE,506,1.520 [1.359-1.700],5.298e-08,***,Cholesteryl Esters in LDL
+L-LDL-CE,502,1.511 [1.353-1.687],5.681e-08,***,Cholesteryl Esters in Large LDL
+L-LDL-L,508,1.508 [1.355-1.679],1.284e-08,***,Total-Lipids in Large LDL
+M-LDL-C,525,1.506 [1.347-1.685],1.757e-07,***,Cholesterol in Medium LDL
+M-LDL-L,531,1.503 [1.347-1.677],7.556e-08,***,Total-Lipids in Medium LDL
+S-LDL-CE,543,1.500 [1.348-1.669],2.386e-08,***,Cholesteryl Esters in Small LDL
+M-VLDL-CE,487,1.476 [1.311-1.662],2.991e-05,***,Cholesteryl Esters in Medium VLDL
+M-LDL-P,508,1.472 [1.312-1.652],1.044e-05,***,Concentration of Medium LDL Particles
+M-LDL-CE,550,1.460 [1.309-1.628],2.353e-06,***,Cholesteryl Esters in Medium LDL
+L-LDL-P,541,1.450 [1.307-1.609],5.446e-07,***,Concentration of Large LDL Particles
+Non-HDL-C,563,1.448 [1.305-1.607],7.300e-07,***,Total-Cholesterol Minus HDL-C
+IDL-P,505,1.446 [1.294-1.616],1.971e-05,***,Concentration of IDL Particles
+S-LDL-P,566,1.443 [1.300-1.602],1.229e-06,***,Concentration of Small LDL Particles
+LDL-P,552,1.441 [1.299-1.599],1.312e-06,***,Concentration of LDL Particles
+IDL-CE,553,1.425 [1.284-1.582],7.471e-06,***,Cholesteryl Esters in IDL
+ApoB,565,1.419 [1.283-1.571],2.933e-06,***,Apolipoprotein B
+IDL-C,568,1.416 [1.279-1.568],5.881e-06,***,Cholesterol in IDL
+M-VLDL-C,535,1.411 [1.265-1.574],1.650e-04,***,Cholesterol in Medium VLDL
+ApoB/ApoA1,542,1.393 [1.255-1.546],1.235e-04,***,Apolipoprotein B to Apolipoprotein A1 ratio
+Total-CE,575,1.392 [1.251-1.548],2.668e-04,***,Total-Esterified Cholesterol
+IDL-FC,587,1.392 [1.260-1.537],1.824e-05,***,Free Cholesterol in IDL
+Total-FC,546,1.387 [1.248-1.541],2.938e-04,***,Total-Free Cholesterol
+L-LDL-C%,403,1.386 [1.231-1.561],0.018,*,Cholesterol to Total-Lipids in Large LDL percentage
+Total-C,563,1.383 [1.242-1.540],8.505e-04,***,Total-Cholesterol
+IDL-L,573,1.374 [1.247-1.514],2.967e-05,***,Total-Lipids in IDL
+Remnant-C,577,1.359 [1.228-1.503],6.714e-04,***,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
+S-VLDL-C%,527,1.350 [1.205-1.511],0.049,*,Cholesterol to Total-Lipids in Small VLDL percentage
+S-VLDL-FC,593,1.341 [1.214-1.481],0.002,**,Free Cholesterol in Small VLDL
+M-VLDL-FC,594,1.330 [1.201-1.473],0.011,*,Free Cholesterol in Medium VLDL
+S-VLDL-PL%,600,1.324 [1.208-1.451],4.255e-04,***,Phospholipids to Total-Lipids in Small VLDL percentage
+S-VLDL-FC%,609,1.315 [1.200-1.441],0.001,**,Free Cholesterol to Total-Lipids in Small VLDL percentage
+IDL-PL,591,1.308 [1.191-1.436],0.004,**,Phospholipids in IDL
+IDL-TG%,635,0.818 [0.754-0.886],0.254,,Triglycerides to Total-Lipids in IDL percentage
+XS-VLDL-TG%,661,0.811 [0.744-0.885],0.524,,Triglycerides to Total-Lipids in Very Small VLDL percentage
+M-VLDL-TG%,609,0.769 [0.690-0.857],0.499,,Triglycerides to Total-Lipids in Medium VLDL percentage
+S-VLDL-TG%,564,0.733 [0.658-0.818],0.005,**,Triglycerides to Total-Lipids in Small VLDL percentage
+S-HDL-PL%,367,0.672 [0.586-0.771],0.004,**,Phospholipids to Total-Lipids in Small HDL percentage

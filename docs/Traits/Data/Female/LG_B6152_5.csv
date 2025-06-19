@@ -1,0 +1,14 @@
+Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
+IDL-TG%,"1.106 [1.061,1.153]",0.474,,Triglycerides to Total-Lipids in IDL percentage
+L-LDL-TG%,"1.106 [1.061,1.154]",0.575,,Triglycerides to Total-Lipids in Large LDL percentage
+M-LDL-TG%,"1.096 [1.053,1.141]",1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+L-HDL-TG%,"1.057 [1.011,1.104]",1.000,,Triglycerides to Total-Lipids in Large HDL percentage
+L-HDL-PL%,"1.036 [0.990,1.084]",1.000,,Phospholipids to Total-Lipids in Large HDL percentage
+IDL-C,"0.899 [0.864,0.936]",0.049,*,Cholesterol in IDL
+IDL-CE,"0.897 [0.862,0.934]",0.025,*,Cholesteryl Esters in IDL
+LA,"0.896 [0.860,0.933]",0.032,*,Linoleic Acid
+Total-C,"0.894 [0.858,0.932]",0.021,*,Total-Cholesterol
+IDL-CE%,"0.894 [0.859,0.930]",0.006,**,Cholesteryl Esters to Total-Lipids in IDL percentage
+Total-CE,"0.892 [0.856,0.930]",0.012,*,Total-Esterified Cholesterol
+Omega-6,"0.892 [0.855,0.929]",0.015,*,Omega-6 Fatty Acids
+PUFA,"0.888 [0.851,0.926]",0.006,**,Polyunsaturated Fatty Acids
