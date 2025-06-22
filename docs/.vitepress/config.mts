@@ -5502,8 +5502,8 @@ export default defineConfig({
             ] },
           ]
         },
-                {
-          text: 'Mendelian Randomization Inverse', link: '/MR/Inverse_Overview',
+                 {
+          text: 'Mendelian Randomization Inverse',
           collapsed: false,
           items: [
             { text: 'HDL', collapsed: true, items: [
