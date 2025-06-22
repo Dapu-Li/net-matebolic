@@ -12,10 +12,10 @@
 
 ## 🧬 Mendelian Randomization  
 
-<img src="/MR/Figures/Inverse/3-Hydroxybutyrate.png"/>
+<img src="/MR/Figures/Inverse/3hengxianHydroxybutyrate.png"/>
 
 
 ## 📊 Data Table
 
 
-<CsvTableMRI src="/MR/Data/Inverse/3-Hydroxybutyrate.csv"/>
+<CsvTableMRI src="/MR/Data/Inverse/3hengxianHydroxybutyrate.csv"/>

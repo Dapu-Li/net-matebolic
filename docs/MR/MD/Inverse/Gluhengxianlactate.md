@@ -12,10 +12,10 @@
 
 ## 🧬 Mendelian Randomization  
 
-<img src="/MR/Figures/Inverse/Glu-lactate.png"/>
+<img src="/MR/Figures/Inverse/Gluhengxianlactate.png"/>
 
 
 ## 📊 Data Table
 
 
-<CsvTableMRI src="/MR/Data/Inverse/Glu-lactate.csv"/>
+<CsvTableMRI src="/MR/Data/Inverse/Gluhengxianlactate.csv"/>

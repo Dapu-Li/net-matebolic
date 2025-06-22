@@ -12,10 +12,10 @@
 
 ## 🧬 Mendelian Randomization  
 
-<img src="/MR/Figures/Inverse/S-VLDL-FC%.png"/>
+<img src="/MR/Figures/Inverse/ShengxianVLDLhengxianFCbaifenhao.png"/>
 
 
 ## 📊 Data Table
 
 
-<CsvTableMRI src="/MR/Data/Inverse/S-VLDL-FC%.csv"/>
+<CsvTableMRI src="/MR/Data/Inverse/ShengxianVLDLhengxianFCbaifenhao.csv"/>

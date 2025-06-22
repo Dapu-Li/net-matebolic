@@ -12,10 +12,10 @@
 
 ## 🧬 Mendelian Randomization  
 
-<img src="/MR/Figures/Inverse/Total-PL.png"/>
+<img src="/MR/Figures/Inverse/TotalhengxianPL.png"/>
 
 
 ## 📊 Data Table
 
 
-<CsvTableMRI src="/MR/Data/Inverse/Total-PL.csv"/>
+<CsvTableMRI src="/MR/Data/Inverse/TotalhengxianPL.csv"/>

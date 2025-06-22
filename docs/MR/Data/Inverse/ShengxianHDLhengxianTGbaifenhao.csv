@@ -1,0 +1,308 @@
+Code,N_snp,Beta(95%CI),P(Bonferroni),P-star,LONGNAME,Chapter_name
+N14_CYSTITIS,693,0.302 [0.290-0.31],1.000e-315,***,Cystitis,Genitourinary
+E4_HYPERLIPMIX,365,0.291 [0.255-0.33],1.464e-52,***,Mixed hyperlipidaemia,Endocrine and metabolic
+N14_URINOTH,1485,0.159 [0.144-0.17],1.127e-84,***,Other diseases of urinary system,Genitourinary
+K11_OTHDISDIG,25,0.111 [0.087-0.13],1.147e-14,***,Other diseases of the digestive system,Digestive
+KRA_PSY_ANYMENTAL,2504,0.110 [0.099-0.12],9.890e-74,***,Any mental disorder,Mental and behavioural
+N14_MALEGEN,1375,0.109 [0.102-0.12],5.601e-245,***,Diseases of male genital organs,Genitourinary
+J10_PLEURA,140,0.091 [0.076-0.11],3.261e-27,***,Other diseases of pleura,Respiratory
+K11_FISTULA,485,0.086 [0.082-0.09],1.000e-315,***,Colonic or urogenital fistula,Digestive
+F5_DELIRIUM,173,0.083 [0.071-0.10],4.672e-34,***,"Delirium, not induced by alcohol and other psychoactive substances",Mental and behavioural
+M13_ENTESOPATHYOTH,48,0.075 [0.057-0.09],2.388e-10,***,Other enthesopathies,Musculoskeletal
+M13_SOFTTISSUEOTH,600,0.074 [0.054-0.09],2.032e-07,***,"Other soft tissue disorders, not elsewhere classified",Musculoskeletal
+K11_INTESTOTH,398,0.071 [0.058-0.08],2.933e-19,***,Other diseases of intestines,Digestive
+N14_MENSIRREG,59,0.069 [0.053-0.09],7.809e-12,***,Irregular menses,Genitourinary
+VD_U,43,0.067 [0.047-0.09],1.297e-05,***,Vascular dementia (undefined),Mental and behavioural
+E4_PCOS_CONCORTIUM,205,0.067 [0.055-0.08],1.840e-21,***,"Polycystic ovarian syndrome, consortium definition",Endocrine and metabolic
+N14_MENORRHAGIA,717,0.067 [0.056-0.08],2.919e-28,***,Menorrhagia,Genitourinary
+M13_MYALGIA,253,0.065 [0.054-0.08],1.571e-26,***,Myalgia,Musculoskeletal
+K11_ORAL,489,0.065 [0.043-0.09],0.003,**,"Diseases of oral cavity, salivary glands and jaws",Digestive
+C_DIFFICILE_ENTEROCOLITIS,2693,0.060 [0.058-0.06],1.000e-315,***,Enterocolitis due to Clostridium difficile,Infectious and parasitic
+H7_PARASTRAB,7,0.060 [0.041-0.08],2.608e-04,***,Paralytic strabismus,Eye and adnexa
+N14_PROSTHYPERPLA,3795,0.059 [0.056-0.06],1.000e-315,***,Hyperplasia of prostate,Genitourinary
+N14_FEMALEINFERT,80,0.058 [0.043-0.07],1.986e-09,***,Female infertility,Genitourinary
+N14_OVARYCYST,986,0.055 [0.051-0.06],9.258e-119,***,Ovarian cyst,Genitourinary
+AB1_BACT_INTEST_OTH,357,0.055 [0.047-0.06],1.149e-42,***,Other bacterial intestinal infections,Infectious and parasitic
+H7_CHALAZION,671,0.055 [0.050-0.06],2.557e-119,***,Chalazion,Eye and adnexa
+M13_HAMMERTOE,331,0.052 [0.041-0.06],2.016e-15,***,Other hammer toe(s) (acquired),Musculoskeletal
+F5_VASCDEM,107,0.050 [0.034-0.07],0.001,**,Vascular dementia,Mental and behavioural
+J10_SEPTDEV,498,0.050 [0.041-0.06],3.364e-24,***,Deviated nasal septum,Respiratory
+I9_HEARTFAIL,682,0.049 [0.040-0.06],3.116e-22,***,"Heart failure, strict",Circulatory
+H8_NONSUPPNAS,1145,0.047 [0.043-0.05],2.960e-100,***,Nonsuppurative otitis media,Ear and mastoid
+J10_PNEUMOTHORAX,46,0.047 [0.036-0.06],2.109e-11,***,Pneumothorax,Respiratory
+H7_PTOSIS,64,0.047 [0.038-0.05],9.515e-24,***,Ptosis of eyelid,Eye and adnexa
+F5_DEPRESSIO,2165,0.042 [0.037-0.05],1.218e-48,***,Depression,Mental and behavioural
+I9_IHD,7725,0.040 [0.031-0.05],9.824e-11,***,"Ischaemic heart disease, wide definition",Circulatory
+J10_PLEURPLAGUE,310,0.040 [0.037-0.04],6.784e-169,***,Pleural plaque,Respiratory
+COPD_EARLY,512,0.040 [0.037-0.04],2.089e-142,***,Early onset COPD,Respiratory
+K11_GASTRODUOULC,227,0.039 [0.033-0.04],6.493e-32,***,Gastroduodenal ulcer,Digestive
+CD2_BENIGN_MELANOCYTIC_TRUNK,183,0.038 [0.033-0.04],2.814e-58,***,Melanocytic naevi of trunk,Neoplasms
+CD2_BENIGN_MELANOCYTIC,521,0.037 [0.027-0.05],3.243e-09,***,Melanocytic naevi,Neoplasms
+I9_CORATHER,8695,0.036 [0.027-0.04],1.074e-11,***,Coronary atherosclerosis,Circulatory
+N14_ORHCEPINDIDYMITIS,99,0.035 [0.024-0.05],1.197e-05,***,Orchitis and epididymitis,Genitourinary
+N14_CHRONEPHROPATH,18,0.034 [0.023-0.04],7.384e-05,***,Chronic nephritic syndrome,Genitourinary
+J10_EMPHYSEMA,365,0.033 [0.030-0.04],1.312e-120,***,Emphysema,Respiratory
+CD2_LYMPHOID_LEUKAEMIA,767,0.033 [0.031-0.03],1.000e-315,***,Lymphoid leukaemia,Neoplasms
+M13_HALLUXVALGUS,3980,0.032 [0.029-0.04],3.036e-81,***,Hallux valgus (acquired),Musculoskeletal
+O15_LABOUR_MALPOS,202,0.031 [0.022-0.04],4.952e-05,***,Obstructed labour due to malposition and malpresentation of fetus,Pregnancy
+C3_BRONCHUS_LUNG,573,0.031 [0.027-0.03],1.121e-62,***,Malignant neoplasm of bronchus and lung,Neoplasms
+N14_BENIGNMAMDYSP,134,0.030 [0.024-0.04],1.188e-15,***,Benign mammary dysplasia,Genitourinary
+N14_ENDOMETRIOSIS_UTERUS,193,0.030 [0.025-0.03],5.199e-26,***,Adenomyosis (Endometriosis of uterus),Genitourinary
+N14_BREAST,659,0.029 [0.024-0.03],9.593e-21,***,Disorders of breast,Genitourinary
+C3_LUNG_NONSMALL,527,0.029 [0.026-0.03],3.853e-69,***,Non-small cell lung cancer,Neoplasms
+I9_AORTANEUR,1277,0.028 [0.025-0.03],4.118e-68,***,Aortic aneurysm,Circulatory
+I9_ANGINA,5810,0.028 [0.019-0.04],2.754e-05,***,Angina pectoris,Circulatory
+K11_HERNIA,6152,0.027 [0.023-0.03],1.946e-47,***,Hernia,Digestive
+L12_ROSACEANAS,82,0.026 [0.016-0.04],0.048,*,Other and unspecified rosacea,Skin
+I9_OTHARR,798,0.026 [0.019-0.03],7.694e-08,***,Other arrhythmias,Circulatory
+N14_OTHNONINFUTER,645,0.025 [0.022-0.03],6.897e-45,***,"Other noninflammatory disorders of uterus, except cervix",Genitourinary
+CD2_BENIGN_OVARY,144,0.025 [0.019-0.03],3.379e-08,***,Benign neoplasm of ovary,Neoplasms
+I9_CHD,6392,0.025 [0.016-0.03],0.015,*,Major coronary heart disease event,Circulatory
+AB1_ZOSTER,268,0.025 [0.020-0.03],4.836e-22,***,Zoster [herpes zoster],Infectious and parasitic
+M13_CALCIFICTEND,177,0.024 [0.021-0.03],9.046e-50,***,Calcific tendinitis of shoulder,Musculoskeletal
+C3_KIDNEY_NOTRENALPELVIS,209,0.023 [0.018-0.03],3.007e-13,***,"Malignant neoplasm of kidney, except renal pelvis",Neoplasms
+CD2_BENIGN_THYROID,151,0.023 [0.020-0.03],3.305e-59,***,Benign neoplasm of thyroid gland,Neoplasms
+NEURODEGOTH,4178,0.023 [0.020-0.03],1.253e-50,***,Other degenerative diseases of the nervous system,Nervous
+E4_MINERAL_MET,806,0.023 [0.021-0.02],2.485e-207,***,Disorders of mineral metabolism,Endocrine and metabolic
+O15_GESTAT_HYPERT,476,0.022 [0.015-0.03],1.793e-04,***,Gestational [pregnancy-induced] hypertension,Pregnancy
+K11_VENTHER,1063,0.021 [0.015-0.03],1.119e-07,***,Ventral hernia,Digestive
+CD2_BENIGN_LEIOMYOMA_UTERI,9079,0.020 [0.019-0.02],4.463e-99,***,Leiomyoma of uterus,Neoplasms
+CD2_BENIGN_MELANOCYTIC_SCALPNECK,136,0.020 [0.016-0.02],1.464e-16,***,Melanocytic naevi of scalp and neck,Neoplasms
+AD_AM,451,0.019 [0.013-0.03],0.001,**,Alzheimer disease (Atypical or mixed),Nervous
+C3_CLL_WIDE,431,0.019 [0.017-0.02],1.643e-126,***,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, including Hilmo",Neoplasms
+K11_DIVERTIC,4845,0.019 [0.015-0.02],2.754e-22,***,Diverticular disease of intestine,Digestive
+I9_THAORTANEUR,1182,0.018 [0.016-0.02],2.998e-54,***,Thoracic aortic aneurysm,Circulatory
+I9_ABAORTANEUR,210,0.018 [0.012-0.02],4.480e-04,***,Abdominal aortic aneurysm (AAA),Circulatory
+K11_ENERCOLNONINF,4471,0.017 [0.013-0.02],8.584e-13,***,Noninfective enteritis and colitis,Digestive
+N14_CALCUKIDUR,1321,0.017 [0.013-0.02],1.351e-09,***,Calculus of kidney and ureter,Genitourinary
+I9_SECONDRIGHT,127,0.017 [0.012-0.02],1.055e-05,***,Secondary right heart disease,Circulatory
+K11_DULC,287,0.015 [0.012-0.02],1.072e-10,***,Duodenal ulcer,Digestive
+K11_UMBHER,2034,0.015 [0.011-0.02],6.723e-09,***,Umbilical hernia,Digestive
+CD2_FOLLICULAR_LYMPHOMA,5808,0.014 [0.013-0.01],3.099e-266,***,"Follicular lymphoma, hilmo",Neoplasms
+K11_FIBROCHIRLIV,942,0.013 [0.009-0.02],7.764e-07,***,Fibrosis and cirrhosis of liver,Digestive
+CD2_BENIGN_MENINGES,586,0.012 [0.009-0.02],4.523e-11,***,Benign neoplasm of meninges,Neoplasms
+ULCERRECT,2148,0.012 [0.010-0.01],2.089e-25,***,Ulcerative rectosigmoiditis,Digestive
+C3_THYROID_GLAND,1116,0.012 [0.010-0.01],4.332e-46,***,Malignant neoplasm of thyroid gland,Neoplasms
+H7_BLINDMONOCULAR,75,0.012 [0.009-0.01],2.817e-12,***,"Blindness, monocular",Eye and adnexa
+C3_ANUS_ANALCANAL,76,0.011 [0.009-0.01],6.754e-10,***,Malignant neoplasm of anus and anal canal,Neoplasms
+K11_HERING,7336,0.009 [0.007-0.01],1.351e-08,***,Inguinal hernia,Digestive
+J10_CHRONTONSADEN,5827,0.009 [0.006-0.01],0.019,*,Chronic diseases of tonsils and adenoids,Respiratory
+ULCEROTH,633,0.009 [0.006-0.01],9.789e-07,***,Other ulcerative colitis,Digestive
+MUCOPROCT,4157,0.009 [0.007-0.01],1.818e-19,***,Mucosal proctocolitis,Digestive
+ULCERNAS,2224,0.008 [0.005-0.01],1.119e-05,***,"Ulcerative colitis, NAS",Digestive
+CHRONNAS,1420,0.007 [0.005-0.01],6.991e-15,***,Crohn's disease NAS,Digestive
+H7_HEREDRETINADYST,308,0.006 [0.004-0.01],8.427e-04,***,Hereditary retinal dystrophy,Eye and adnexa
+M13_SYSTSLCE,1075,0.005 [0.003-0.01],0.005,**,Systemic sclerosis,Musculoskeletal
+G6_OTHDEMYEL,3560,0.004 [0.003-0.00],2.260e-16,***,Other demyelinating diseases of the central nervous system,Nervous
+E4_IRON_MET,3833,0.003 [0.003-0.00],1.764e-96,***,Disorders of iron metabolism,Endocrine and metabolic
+GOUT_IDIO,1453,0.003 [0.002-0.00],0.002,**,Idiopathic gout,Musculoskeletal
+E4_LACTONAS,2420,-0.001 [-0.002--0.00],0.031,*,"Lactose intolerance, other/unspecified",Endocrine and metabolic
+M13_RHEUMA,20944,-0.003 [-0.003--0.00],1.756e-07,***,Rheumatoid arthritis,Musculoskeletal
+D3_COAGOTHER,2572,-0.003 [-0.003--0.00],1.856e-07,***,Other coagulation defects,Blood and immune
+SPONDYLOARTHRITIS,25038,-0.003 [-0.003--0.00],1.713e-31,***,Spondyloarthritis,Musculoskeletal
+RHEUMA_NOS,13051,-0.003 [-0.004--0.00],4.294e-08,***,Other/unspecified rheumatoid arthritis,Musculoskeletal
+M13_DUPUTRYEN,4305,-0.003 [-0.004--0.00],6.861e-07,***,Palmar fascial fibromatosis [Dupuytren],Musculoskeletal
+E4_GILBERT,452,-0.003 [-0.004--0.00],1.643e-24,***,Gilbert syndrome,Endocrine and metabolic
+H7_DISORDERLENSNAS,160,-0.004 [-0.005--0.00],1.507e-06,***,Other specified and unspecified disorders of lens,Eye and adnexa
+DRY_AMD,4885,-0.004 [-0.005--0.00],0.014,*,Dry age-related macular degeneration (includes geographic atrophy),Eye and adnexa
+M13_SPONDYLINFLAMNAS,14599,-0.004 [-0.004--0.00],4.103e-78,***,Other specified/unspecified inflammatory spondylopathies,Musculoskeletal
+E4_PORBILIR,370,-0.005 [-0.005--0.00],2.286e-29,***,Disorders of porphyrin and bilirubin metabolism,Endocrine and metabolic
+N14_DIALYSIS,1620,-0.005 [-0.006--0.00],0.003,**,Dialysis,Genitourinary
+H7_IRIDONAS,4666,-0.005 [-0.006--0.00],4.816e-20,***,Other and unspecified iridocyclitis,Eye and adnexa
+M13_FIBROBLASTIC,2687,-0.006 [-0.007--0.00],7.102e-12,***,Fibroblastic disorders,Musculoskeletal
+E4_GOITRENAS,1714,-0.006 [-0.007--0.00],2.472e-10,***,Other and/or unspecified nontoxic goitre,Endocrine and metabolic
+M13_POLYMYALGIA,4532,-0.006 [-0.008--0.00],8.463e-04,***,Polymyalgia rheumatica,Musculoskeletal
+POLYCYTVERA,838,-0.006 [-0.006--0.01],2.394e-98,***,Polycythaemia vera,Neoplasms
+RHEUMA_OTHER_WIDE,12512,-0.006 [-0.007--0.01],4.161e-28,***,"Other (seronegative) rheumatoid arthritis, wide",Musculoskeletal
+K11_COELIAC,42111,-0.006 [-0.006--0.01],1.000e-315,***,Coeliac disease,Digestive
+G6_MS,12132,-0.006 [-0.007--0.01],1.268e-87,***,MS-disease / Multiple Sclerosis,Nervous
+L12_PAPULOSQUAMOUS,16405,-0.006 [-0.007--0.01],3.780e-28,***,Papulosquamous disorders,Skin
+CHRONOTH,1965,-0.007 [-0.008--0.01],3.021e-11,***,Other Crohn's disease,Digestive
+I9_PHLETHROM,1191,-0.008 [-0.011--0.01],1.019e-04,***,Phlebitis and thrombophlebitis (not including DVT),Circulatory
+THROMBOCYTAEMIA,728,-0.008 [-0.009--0.01],1.299e-48,***,Essential (haemorrhagic) thrombocythaemia,Neoplasms
+E4_GOITREMULTINOD,6287,-0.008 [-0.010--0.01],6.149e-11,***,Nontoxic multinodular goitre,Endocrine and metabolic
+N14_GLOMEINOTH,5455,-0.008 [-0.009--0.01],3.450e-45,***,Glomerular disorders in diseases classified elsewhere,Genitourinary
+L12_PSORI_NAS,8866,-0.009 [-0.010--0.01],3.980e-144,***,Other and unspecified psoriasis,Skin
+RHEUMA_SERONEG,8327,-0.009 [-0.010--0.01],5.202e-44,***,Seronegative rheumatoid arthritis,Musculoskeletal
+CHRONMYELOPRO,471,-0.009 [-0.010--0.01],8.962e-118,***,Chronic myeloproliferative disease,Neoplasms
+E4_PCOS,353,-0.009 [-0.012--0.01],1.112e-05,***,Polycystic ovarian syndrome,Endocrine and metabolic
+M13_PSORIARTH,11111,-0.009 [-0.010--0.01],2.039e-144,***,Psoriatic arthropathies,Musculoskeletal
+M13_ARTHTROSIS_COX,3783,-0.010 [-0.013--0.01],0.003,**,Coxarthrosis,Musculoskeletal
+H7_SCLERACORNEA,15425,-0.010 [-0.012--0.01],2.010e-40,***,"Disorders of sclera, cornea, iris and ciliary body",Eye and adnexa
+M13_GIANTCELL,1909,-0.010 [-0.012--0.01],1.603e-37,***,Giant cell arteritis,Musculoskeletal
+L12_PSORIASIS,18203,-0.010 [-0.011--0.01],1.185e-161,***,Psoriasis,Skin
+H7_GLAUCOMA,6452,-0.011 [-0.014--0.01],4.957e-07,***,Glaucoma,Eye and adnexa
+L12_PSORI_VULG,15019,-0.011 [-0.011--0.01],5.340e-198,***,Psoriasis vulgaris,Skin
+M13_VARUS,203,-0.011 [-0.012--0.01],4.602e-63,***,"Varus deformity, not elsewhere classified",Musculoskeletal
+H7_EYELIDFUNC,23,-0.012 [-0.015--0.01],9.385e-05,***,Other disorders affecting eyelid function,Eye and adnexa
+J10_NASALPOLYP,7370,-0.012 [-0.013--0.01],7.745e-73,***,Nasal polyp,Respiratory
+I9_PULMEMB,1247,-0.012 [-0.017--0.01],0.030,*,Pulmonary embolism,Circulatory
+AUTOHEP,2902,-0.012 [-0.013--0.01],1.000e-315,***,Autoimmune hepatitis,Digestive
+CHRONSMALL,2604,-0.013 [-0.014--0.01],1.021e-44,***,Crohn's disease of small intestine,Digestive
+M13_POLYARTHROPATHIES,18752,-0.013 [-0.014--0.01],3.247e-64,***,Polyarthropathies,Musculoskeletal
+D3_BLOODNAS,64,-0.013 [-0.018--0.01],4.581e-04,***,Other and unspecified diseases of blood and blood-forming organs,Blood and immune
+E4_GLUCOPANCREAS,8980,-0.014 [-0.015--0.01],2.040e-293,***,Other disorders of glucose regulation and pancreatic internal secretion,Endocrine and metabolic
+L12_PILONIDALCYST,217,-0.014 [-0.019--0.01],0.004,**,Pilonidal cyst,Skin
+E4_GOITRENOD,331,-0.014 [-0.017--0.01],4.906e-15,***,Nontoxic single thyroid nodule,Endocrine and metabolic
+E4_OBESITYNAS,1620,-0.014 [-0.019--0.01],1.769e-06,***,"Obesity, other/unspecified",Endocrine and metabolic
+L12_LUPUS,5381,-0.016 [-0.016--0.02],1.000e-315,***,Cutaneous lupus erythematosus,Skin
+IPF,3405,-0.016 [-0.016--0.02],1.000e-315,***,Idiopathic pulmonary fibrosis,Respiratory
+E4_OVARDYS,221,-0.016 [-0.020--0.01],5.327e-10,***,Ovarian dysfunction,Endocrine and metabolic
+N14_CERVICAL_LSIL,1187,-0.016 [-0.021--0.01],4.405e-07,***,LSIL lesion of the cervix uteri,Genitourinary
+E4_OBESITY,3239,-0.017 [-0.021--0.01],6.266e-10,***,Obesity,Endocrine and metabolic
+DM_NEUROPATHY,5299,-0.017 [-0.018--0.02],5.284e-164,***,Diabetic neuropathy,Endocrine and metabolic
+E4_THYTOXGOITDIF,19055,-0.017 [-0.018--0.02],1.000e-315,***,Thyrotoxicosis with diffuse goitre,Endocrine and metabolic
+H7_MYOPIA,146,-0.017 [-0.023--0.01],3.621e-04,***,Myopia,Eye and adnexa
+I9_HYPTENS,25620,-0.018 [-0.021--0.01],6.802e-16,***,Hypertension,Circulatory
+K11_MALABSORB,6958,-0.018 [-0.018--0.02],1.000e-315,***,Intestinal malabsorption,Digestive
+D3_ITP,120,-0.018 [-0.023--0.01],1.084e-07,***,Idiopathic thrombocytopenic purpura,Blood and immune
+M13_CRYSTALARTH,168,-0.018 [-0.021--0.02],4.821e-46,***,Other crystal arthropathies,Musculoskeletal
+DM_NEOVASCULAR_GLAUCOMA,434,-0.019 [-0.022--0.02],2.013e-28,***,Neovascular glaucoma,Eye and adnexa
+L12_BULLOUS,10568,-0.019 [-0.019--0.02],1.000e-315,***,Bullous disorders,Skin
+L12_ULCERLOWLIMB,2421,-0.019 [-0.021--0.02],6.282e-56,***,"Ulcer of lower limb, not elsewhere classified",Skin
+K11_ACUTPANC,242,-0.020 [-0.024--0.01],8.242e-11,***,Acute pancreatitis,Digestive
+H8_PERFORATION,143,-0.020 [-0.024--0.01],1.003e-09,***,Perforation of tympanic membrane,Ear and mastoid
+PHLEBI_THROMBOP_LOWER_EXTREMITI_UNSPE,25,-0.020 [-0.024--0.02],3.554e-16,***,"Phlebitis and thrombophlebitis of lower extremities, unspecified, drug-induced",Ear and mastoid
+DM_NEPHROPATHY,7402,-0.020 [-0.021--0.02],2.262e-280,***,Diabetic nephropathy,Genitourinary
+I9_VARICVE,10262,-0.020 [-0.023--0.02],2.052e-44,***,Varicose veins,Circulatory
+H7_RETINALBREAK,282,-0.021 [-0.024--0.02],4.730e-27,***,Retinal breaks without detachment,Eye and adnexa
+M13_SJOGREN,13564,-0.021 [-0.022--0.02],1.000e-315,***,Sicca syndrome [Sjögren],Musculoskeletal
+D3_SARCOIDOSIS,15089,-0.021 [-0.022--0.02],1.000e-315,***,Sarcoidosis,Blood and immune
+K11_OTHDIG,23141,-0.023 [-0.023--0.02],1.000e-315,***,Diseases of the digestive system,Digestive
+M13_MYOSITIS,988,-0.024 [-0.025--0.02],1.527e-135,***,Myositis,Musculoskeletal
+G6_PARKINSON,2693,-0.024 [-0.025--0.02],1.000e-315,***,Parkinson's disease,Nervous
+L12_CORNSANDCALLOS,491,-0.025 [-0.027--0.02],1.132e-84,***,Corns and callosities,Skin
+H7_ORBIT,4635,-0.025 [-0.025--0.02],1.000e-315,***,Disorders of orbit,Eye and adnexa
+G6_XTRAPYROTH,275,-0.025 [-0.030--0.02],5.161e-15,***,Other extrapyramidal and movement disorders in other diseases,Nervous
+L12_SEBORRKERAT,374,-0.025 [-0.030--0.02],3.284e-15,***,Seborrhoeic keratosis,Skin
+G6_TRINEU,93,-0.026 [-0.032--0.02],4.542e-11,***,Trigeminal neuralgia,Nervous
+D3_OTHERBLOOD,428,-0.026 [-0.028--0.02],3.494e-123,***,Other diseases of blood and blood-forming organs,Blood and immune
+I9_HYPTENSESS,17746,-0.026 [-0.030--0.02],2.087e-27,***,"Hypertension, essential",Circulatory
+M13_CONNECTNAS,4565,-0.027 [-0.027--0.03],1.000e-315,***,Other specified/unspecified systemic involvement of connective tissue,Musculoskeletal
+M13_TRIGGERFINGER,2255,-0.027 [-0.029--0.02],5.193e-94,***,Trigger finger,Musculoskeletal
+K11_APPENDACUT,1379,-0.027 [-0.032--0.02],4.157e-17,***,Acute appendicitis,Digestive
+N14_NEPHROTICSYND,824,-0.027 [-0.030--0.02],5.698e-77,***,Nephrotic syndrome,Genitourinary
+M13_ADHCAPSULITIS,1742,-0.028 [-0.031--0.02],1.147e-49,***,Adhesive capsulitis of shoulder,Musculoskeletal
+M13_ARTHROSIS_KNEE,5080,-0.028 [-0.032--0.02],4.562e-32,***,Gonarthrosis,Musculoskeletal
+M13_MCTD,5075,-0.028 [-0.029--0.03],1.000e-315,***,Mixed connective tissue disease,Musculoskeletal
+E4_ADDISON,668,-0.029 [-0.032--0.03],1.279e-68,***,Adrenocortical insufficiency,Endocrine and metabolic
+I9_AVBLOCK,403,-0.029 [-0.033--0.02],2.974e-29,***,AV-block,Circulatory
+O15_HAEMORRH_EARLY_PREG,149,-0.029 [-0.037--0.02],1.286e-08,***,Haemorrhage in early pregnancy,Pregnancy
+H8_MIDDLEMASTOID,2761,-0.029 [-0.035--0.02],6.552e-20,***,Diseases of middle ear and mastoid,Ear and mastoid
+E4_THYROIDITAUTOIM,932,-0.029 [-0.032--0.03],7.859e-135,***,Autoimmune thyroiditis,Endocrine and metabolic
+AB1_VIRAL_WARTS,3425,-0.030 [-0.032--0.03],1.856e-292,***,Viral warts,Infectious and parasitic
+H8_EXTOTITIS,1164,-0.031 [-0.034--0.03],2.693e-81,***,Otitis externa,Ear and mastoid
+CD2_INSITU_CERVIX_UTERI,1636,-0.031 [-0.034--0.03],1.994e-88,***,Carcinoma in situ of cervix uteri,Neoplasms
+J10_CHRONSINUSITIS,3550,-0.032 [-0.035--0.03],5.132e-80,***,Chronic sinusitis,Respiratory
+N14_CERVICAL_HSIL,5964,-0.033 [-0.034--0.03],1.378e-234,***,HSIL lesion of the cervix uteri,Genitourinary
+K11_PERITONITIS,161,-0.033 [-0.038--0.03],4.859e-34,***,Acute peritonitis,Digestive
+I9_SAH,322,-0.033 [-0.036--0.03],2.230e-98,***,Subarachnoid haemorrhage,Circulatory
+C3_CERVIX_UTERI,81,-0.033 [-0.037--0.03],2.586e-59,***,Malignant neoplasm of cervix uteri,Neoplasms
+H7_CHOROIDRETINA,12847,-0.033 [-0.035--0.03],3.359e-269,***,Disorders of choroid and retina,Eye and adnexa
+G6_CARPTU,3265,-0.033 [-0.037--0.03],2.405e-63,***,Carpal tunnel syndrome,Nervous
+L12_LICHENSIMPLEX,206,-0.034 [-0.036--0.03],1.867e-105,***,Lichen simplex chronicus,Skin
+KRA_PSY_SUBSTANCE,742,-0.034 [-0.040--0.03],2.063e-20,***,Substance abuse,Mental and behavioural
+E4_TESTICHYPO,23,-0.034 [-0.046--0.02],0.002,**,Testicular hypofunction,Endocrine and metabolic
+N14_FEMALE_GENITAL_HSIL,6550,-0.035 [-0.036--0.03],1.000e-315,***,"HSIL lesion of the cervix uteri, vagina or vulva",Genitourinary
+I9_ARTOTH,187,-0.035 [-0.039--0.03],1.964e-40,***,Other diseases of arteries and capillaries,Circulatory
+I9_OTHPER,110,-0.035 [-0.043--0.03],2.025e-11,***,Other peripheral vascular diseases,Circulatory
+C3_CANCER_WIDE,3272,-0.035 [-0.044--0.03],8.046e-11,***,"Malignant neoplasm, wide definition for exclusion",Neoplasms
+E4_ENDOMETPOSTOP,4212,-0.035 [-0.037--0.03],1.000e-315,***,"Postprocedural endocrine and metabolic disorders, not elsewhere classified",Endocrine and metabolic
+G6_HYDROCEPH,204,-0.035 [-0.040--0.03],9.401e-57,***,Hydrocephalus,Nervous
+I9_VTE,4387,-0.036 [-0.041--0.03],1.873e-40,***,Venous thromboembolism,Circulatory
+J10_PERITONSABSC,1910,-0.037 [-0.042--0.03],4.080e-36,***,Peritonsillar abscess,Respiratory
+K11_CHRONPANC,105,-0.037 [-0.043--0.03],2.821e-29,***,Chronic pancreatitis,Digestive
+I9_ATHSCLE,3616,-0.037 [-0.041--0.03],4.424e-83,***,"Atherosclerosis, excluding cerebral and coronary sclerosis",Circulatory
+CD2_BENIGN_COLORECANI,1443,-0.037 [-0.048--0.03],3.602e-05,***,"Benign neoplasm of colon, rectum, anus and anal canal",Neoplasms
+D3_ANAEMIA_B12_DEF,5007,-0.037 [-0.039--0.04],1.000e-315,***,Vitamin B12 deficiency anaemia,Blood and immune
+N14_FEMALE_GENITAL_LSIL,2422,-0.038 [-0.041--0.03],4.225e-110,***,"LSIL lesion of the cervix uteri, vagina or vulva",Genitourinary
+H7_KERATITIS,1243,-0.038 [-0.043--0.03],4.383e-60,***,Keratitis,Eye and adnexa
+AB1_SEXUAL_TRANSMISSION_NOS,10411,-0.039 [-0.040--0.04],1.000e-315,***,"Other predominantly sexually transmitted diseases, not elsewhere classified",Infectious and parasitic
+L12_GRANULOMATOUSSKIN,404,-0.039 [-0.041--0.04],1.000e-315,***,Granulomatous disorders of skin and subcutaneous tissue,Skin
+N14_CERVICAL_DYSPLASIA_ALL,5631,-0.040 [-0.042--0.04],1.469e-213,***,All dysplastic lesions of the cervix uteri,Genitourinary
+N14_CHRONKIDNEYDIS,1777,-0.041 [-0.046--0.04],1.857e-45,***,Chronic kidney disease,Genitourinary
+J10_UPPERDIS,4085,-0.041 [-0.048--0.03],4.202e-32,***,Other diseases of upper respiratory tract,Respiratory
+CD2_BENIGN_PAROTID,171,-0.041 [-0.045--0.04],1.085e-101,***,Benign neoplasm: Parotid gland,Neoplasms
+M13_SPONDYLOPATHY,12014,-0.042 [-0.044--0.04],1.000e-315,***,Spondylopathies,Musculoskeletal
+K11_CHOLANGI,1455,-0.043 [-0.044--0.04],1.000e-315,***,"Cholangitis (primary sclerosing, PSC)",Digestive
+RESP_ILL_DIS_CLASS_ELSEWHERE,55,-0.043 [-0.049--0.04],1.994e-32,***,Respiratory disorders in diseases classified elsewhere,Respiratory
+M13_ARTHROSIS_POLY,390,-0.043 [-0.051--0.04],3.099e-22,***,Polyarthrosis,Musculoskeletal
+N14_FEMALE_GENITAL_DYSPLASIA_ALL,7063,-0.043 [-0.046--0.04],1.000e-315,***,"All dysplastic lesions of the cervix uteri, vagina or vulva",Genitourinary
+ALLERG_RHINITIS,746,-0.044 [-0.051--0.04],4.481e-28,***,Allergic rhinitis,Respiratory
+CD2_BENIGN_EAR_RESP,224,-0.044 [-0.051--0.04],6.629e-34,***,Benign neoplasm of middle ear and respiratory system,Neoplasms
+POLLENALLERG,487,-0.045 [-0.052--0.04],2.485e-27,***,Pollen allergy,Respiratory
+I9_PHLETHROMBDVTLOW,3262,-0.045 [-0.049--0.04],7.670e-116,***,DVT of lower extremities,Circulatory
+H7_CATARACTSENILE,4936,-0.046 [-0.051--0.04],2.043e-85,***,Senile cataract,Eye and adnexa
+I9_SEQULAE,126,-0.047 [-0.060--0.03],4.800e-07,***,Sequelae of cerebrovascular disease,Circulatory
+H7_CATARACTOTHER,4338,-0.047 [-0.050--0.04],2.415e-218,***,Other cataract,Eye and adnexa
+J10_INFLUPNEU,534,-0.048 [-0.060--0.04],4.263e-08,***,Influenza and pneumonia,Respiratory
+K11_LIVER,812,-0.048 [-0.058--0.04],1.933e-14,***,Diseases of liver,Digestive
+K11_CHOLECYST,114,-0.049 [-0.055--0.04],4.394e-46,***,Cholecystitis,Digestive
+H8_EXTERNAL,828,-0.049 [-0.053--0.04],2.057e-127,***,Diseases of external ear,Ear and mastoid
+K11_PANCOTH,29,-0.049 [-0.061--0.04],1.921e-11,***,Other diseases of pancreas,Digestive
+F5_CANNABIS,7,-0.050 [-0.063--0.04],8.313e-09,***,Mental and behavioural disorders due to cannabinoids,Mental and behavioural
+E4_THYROID,25555,-0.050 [-0.052--0.05],1.000e-315,***,Disorders of the thyroid gland,Endocrine and metabolic
+M13_PYOGARTH,525,-0.050 [-0.053--0.05],9.724e-236,***,Pyogenic arthritis,Musculoskeletal
+M13_OSTEOPOROSIS,372,-0.051 [-0.060--0.04],9.385e-25,***,Osteoporosis,Musculoskeletal
+E4_OBESITYXTRMALV,103,-0.052 [-0.058--0.05],1.157e-57,***,Extreme obesity with alveolar hypoventilation,Endocrine and metabolic
+F5_ALCOHOL_DEPENDENCE,95,-0.052 [-0.063--0.04],1.285e-16,***,Alcohol dependence,Mental and behavioural
+H7_KERATITISOTH,43,-0.052 [-0.068--0.04],2.548e-05,***,Other keratitis,Eye and adnexa
+M13_ARTHROSIS,4684,-0.053 [-0.059--0.05],6.496e-59,***,Arthrosis,Musculoskeletal
+M13_ARTHROSIS_OTH,570,-0.053 [-0.063--0.04],2.911e-18,***,Other arthrosis,Musculoskeletal
+I9_STR,191,-0.053 [-0.068--0.04],7.773e-07,***,"Stroke, excluding SAH",Circulatory
+H7_OTHIRISCILIARY,14,-0.059 [-0.075--0.04],8.987e-09,***,Other disorders of iris and ciliary body,Eye and adnexa
+K11_OTHINFLIV,466,-0.060 [-0.062--0.06],1.000e-315,***,Other inflammatory liver diseases,Digestive
+AB1_SEXUAL_TRANSMISSION,7171,-0.060 [-0.062--0.06],1.000e-315,***,Infections with a predominantly sexual mode of transmission,Infectious and parasitic
+ALLERG_ASTHMA,7321,-0.061 [-0.063--0.06],1.000e-315,***,Allergic asthma (mode),Respiratory
+CD2_BENIGN_PITUITARY_CRANIPHAR,90,-0.065 [-0.071--0.06],1.013e-77,***,"Benign neoplasm: Pituitary gland, craniopharyngeal duct",Neoplasms
+N14_URETHRAOTH,610,-0.065 [-0.073--0.06],2.242e-51,***,Other disorders of urethra and urinary system,Genitourinary
+M13_MENISCUSDERANGEMENTS,937,-0.066 [-0.074--0.06],3.136e-49,***,Meniscus derangement,Musculoskeletal
+K11_OTHENTERCOL,751,-0.067 [-0.075--0.06],7.457e-68,***,Other noninfective gastroenteritis and colitis,Digestive
+M13_INTERVERTEB,3685,-0.068 [-0.074--0.06],2.175e-98,***,Other intervertebral disc disorders,Musculoskeletal
+N14_PYELONEPHR,67,-0.068 [-0.092--0.04],0.005,**,Acute tubulo-interstitial nephritis,Genitourinary
+J10_UPPERINFEC,1002,-0.069 [-0.078--0.06],3.047e-44,***,Acute upper respiratory infections,Respiratory
+L12_DERMATITISECZEMA,8563,-0.072 [-0.077--0.07],2.159e-179,***,Dermatitis and eczema,Skin
+D3_AGRANULOCYTOSIS,347,-0.075 [-0.079--0.07],1.000e-315,***,Agranulocytosis,Blood and immune
+M13_CERVICALGIA,179,-0.075 [-0.086--0.07],1.501e-42,***,Cervicalgia,Musculoskeletal
+J10_LOWCHRON,14991,-0.076 [-0.079--0.07],1.000e-315,***,Chronic lower respiratory diseases,Respiratory
+H7_CONJUNCTIVITISACUNONATOPIC,214,-0.078 [-0.093--0.06],3.542e-17,***,"Conjunctivitis (acute, non atopic)",Eye and adnexa
+H7_OCUPAIN,174,-0.079 [-0.085--0.07],2.294e-191,***,Ocular pain,Eye and adnexa
+AB1_GASTROENTERITIS_NOS,923,-0.080 [-0.095--0.06],4.849e-20,***,Diarrhoea and gastroenteritis of presumed infectious origin,Infectious and parasitic
+J10_ACUTEUPPERINFEC,241,-0.081 [-0.096--0.07],3.475e-20,***,Acute upper respiratory infections of multiple and unspecified sites,Respiratory
+M13_SPINSTENOSIS,4505,-0.084 [-0.089--0.08],8.338e-269,***,Spinal stenosis,Musculoskeletal
+M13_LIMBPAIN,197,-0.085 [-0.104--0.07],4.558e-13,***,Pain in limb,Musculoskeletal
+L12_URTICA_NAS,213,-0.087 [-0.101--0.07],6.837e-26,***,Other and unspecified urticaria,Skin
+M13_SPONDYLOSIS,854,-0.091 [-0.104--0.08],2.373e-33,***,Spondylosis,Musculoskeletal
+M13_DORSOPATHY,8797,-0.091 [-0.096--0.09],1.000e-315,***,Dorsopathies,Musculoskeletal
+G6_NERPLEX,2804,-0.092 [-0.099--0.09],3.836e-144,***,"Nerve, nerve root and plexus disorders",Nervous
+H8_BPV,30,-0.095 [-0.126--0.06],3.031e-04,***,Benign paroxysmal vertigo,Ear and mastoid
+L12_OTHERSKINSUBCUTIS,3364,-0.095 [-0.101--0.09],7.510e-237,***,Other disorders of skin and subcutaneous tissue,Skin
+O15_MATERN_CARE_OTHER,240,-0.097 [-0.104--0.09],3.816e-138,***,Maternal care for other known or suspected fetal problems,Pregnancy
+ASTHMA_NAS,3913,-0.101 [-0.105--0.10],1.000e-315,***,"Asthma, unspecified (mode)",Respiratory
+AB1_VIRAL_SKIN_MUCOUS_MEMBRANE,1622,-0.101 [-0.108--0.09],3.100e-148,***,Viral infections characterized by skin and mucous membrane lesions,Infectious and parasitic
+O15_MATERN_CARE_PELVIC_ABNORM,86,-0.101 [-0.114--0.09],1.354e-48,***,Maternal care for known or suspected abnormality of pelvic organs,Pregnancy
+H7_EYEOTH,57,-0.103 [-0.115--0.09],8.961e-52,***,Other disorders of eye and adnexa,Eye and adnexa
+K11_OESSTODUO,43,-0.111 [-0.150--0.07],0.005,**,"Diseases of oesophagus, stomach and duodenum",Digestive
+K11_FUNCDYSP,169,-0.112 [-0.119--0.11],9.743e-208,***,Functional dyspepsia,Digestive
+M13_ARTHROPATHIES,7062,-0.112 [-0.118--0.11],4.957e-272,***,Arthropathies,Musculoskeletal
+L12_OTHERCONTACT,39,-0.113 [-0.144--0.08],1.951e-07,***,Other contact dermatitis,Skin
+M13_MUSCLE,168,-0.113 [-0.118--0.11],1.000e-315,***,Disorders of muscles,Musculoskeletal
+H7_VITRBODYGLOBE,276,-0.114 [-0.122--0.11],5.514e-151,***,Disorders of vitreous body,Eye and adnexa
+AB1_OTHER_BACTERIAL,478,-0.115 [-0.132--0.10],3.602e-33,***,Other bacterial diseases,Infectious and parasitic
+N14_EROSECTROPUT,31,-0.115 [-0.126--0.10],2.281e-88,***,Erosion and ectropion of cervix uteri,Genitourinary
+G6_MIGRAINE_WITH_AURA,143,-0.121 [-0.130--0.11],2.584e-139,***,Migraine with aura,Nervous
+M13_OTHERJOINT,3314,-0.121 [-0.129--0.11],1.620e-171,***,Other joint disorders,Musculoskeletal
+M13_THORACISPINEPAIN,151,-0.123 [-0.131--0.11],1.722e-182,***,Pain in thoracic spine,Musculoskeletal
+M13_DORSOPATHYOTH,5393,-0.126 [-0.133--0.12],4.938e-269,***,"Other dorsopathies, not elsewhere classified",Musculoskeletal
+M13_OSTEOCHONDRO,166,-0.127 [-0.148--0.11],7.143e-27,***,Osteopathies and chondropathies,Musculoskeletal
+O15_DELIV_CAESAR,82,-0.132 [-0.146--0.12],1.040e-68,***,Single delivery by caesarean section,Pregnancy
+JOINTPAIN,1595,-0.134 [-0.147--0.12],2.807e-88,***,Pain in joint,Musculoskeletal
+CD2_BENIGN_COLON_NOS,212,-0.136 [-0.173--0.10],3.261e-07,***,"Benign neoplasm: Colon, unspecified",Neoplasms
+E4_LIPOPROTNAS,242,-0.145 [-0.190--0.10],2.700e-05,***,"Disorder of lipoprotein metabolism, unspecified",Endocrine and metabolic
+M13_DORSALGIANAS,1009,-0.159 [-0.168--0.15],2.540e-283,***,Other/unspecified dorsalgia,Musculoskeletal
+M13_SOFTTISSUE,1904,-0.162 [-0.174--0.15],5.002e-144,***,Soft tissue disorders,Musculoskeletal
+L12_DERMATITISNAS,2477,-0.193 [-0.200--0.19],1.000e-315,***,Dermatitis,Skin
+O15_PRETERM,17,-0.199 [-0.230--0.17],2.821e-31,***,Preterm labour and delivery,Pregnancy
+M13_LOWBACKPAIN,1988,-0.205 [-0.214--0.20],1.000e-315,***,Low back pain,Musculoskeletal
+N14_RENALTUB,449,-0.241 [-0.252--0.23],1.000e-315,***,Renal tubulo-interstitial diseases,Genitourinary
+K11_CHRONGASTR,210,-0.288 [-0.300--0.28],1.000e-315,***,Chronic gastritis,Digestive
