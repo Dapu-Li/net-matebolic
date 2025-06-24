@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/CHIRHEP_NAS.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_CHIRHEP_NAS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/ALL/IMP/IMP_CHIRHEP_NAS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/CHIRHEP_NAS.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/CHIRHEP_NAS.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/ALL/EVA/CHIRHEP_NAS.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,8 +36,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/CHIRHEP_NAS.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_CHIRHEP_NAS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/OverFYears/IMP/IMP_CHIRHEP_NAS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/CHIRHEP_NAS.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/CHIRHEP_NAS.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/OverFYears/EVA/CHIRHEP_NAS.csv" label="🔍 View full results" />

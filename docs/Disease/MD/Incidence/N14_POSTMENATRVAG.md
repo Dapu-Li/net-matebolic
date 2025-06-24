@@ -13,4 +13,4 @@
 > Cases: **702**  
 > Controls: **82645**
 <img src="/Disease/Figures/ALL/Incidence/N14_POSTMENATRVAG.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_N14_POSTMENATRVAG.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_N14_POSTMENATRVAG.csv" label="🔍 View full results" />

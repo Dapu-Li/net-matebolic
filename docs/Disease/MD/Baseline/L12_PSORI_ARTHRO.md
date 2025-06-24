@@ -13,7 +13,7 @@
 > Cases: **159**  
 > Controls: **210060**
 <img src="/Disease/Figures/ALL/Baseline/L12_PSORI_ARTHRO.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_L12_PSORI_ARTHRO.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_L12_PSORI_ARTHRO.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99499**  

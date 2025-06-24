@@ -13,7 +13,7 @@
 > Cases: **376**  
 > Controls: **172657**
 <img src="/Disease/Figures/ALL/Incidence/FEMHER_UNILATERAL.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_FEMHER_UNILATERAL.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_FEMHER_UNILATERAL.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **77844**  
@@ -28,4 +28,4 @@
 > Cases: **277**  
 > Controls: **94912**
 <img src="/Disease/Figures/Female/Incidence/FEMHER_UNILATERAL.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_FEMHER_UNILATERAL.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Incidence/COX_FEMHER_UNILATERAL.csv" label="🔍 View full results" />

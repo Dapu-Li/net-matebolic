@@ -9,15 +9,15 @@
 > Cases: **121005**  
 > Controls: **91746**
 <img src="/Cluster/Figures/Incidence/LG/Cluster_25.png" />
-<CsvTable src="/Cluster/Data/Incidence/LG/LG_Cluster_25.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Incidence/LG/LG_Cluster_25.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **134291**
 <img src="/Cluster/Figures/Incidence/Histogram/Cluster_25_in.png" />
-<CsvTable src="/Cluster/Data/Incidence/Histogram/Cluster_25_in.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Incidence/Histogram/Cluster_25_in.csv" label="🔍 View full results" />
 
 <img src="/Cluster/Figures/Incidence/ORD/Cluster_25.png" />
-<CsvTable src="/Cluster/Data/Incidence/ORD/ORD_Cluster_25.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Incidence/ORD/ORD_Cluster_25.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - N14_GENITOUROTH (14) - Other disorders of the genitourinary system

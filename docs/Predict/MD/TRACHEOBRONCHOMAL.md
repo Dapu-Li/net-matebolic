@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/TRACHEOBRONCHOMAL.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_TRACHEOBRONCHOMAL.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/ALL/IMP/IMP_TRACHEOBRONCHOMAL.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/TRACHEOBRONCHOMAL.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/TRACHEOBRONCHOMAL.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/ALL/EVA/TRACHEOBRONCHOMAL.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,8 +36,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/TRACHEOBRONCHOMAL.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_TRACHEOBRONCHOMAL.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/OverFYears/IMP/IMP_TRACHEOBRONCHOMAL.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/TRACHEOBRONCHOMAL.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/TRACHEOBRONCHOMAL.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/OverFYears/EVA/TRACHEOBRONCHOMAL.csv" label="🔍 View full results" />

@@ -13,14 +13,14 @@
 > Cases: **260**  
 > Controls: **212324**
 <img src="/Disease/Figures/ALL/Incidence/J10_PYOTHORAX.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_J10_PYOTHORAX.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_J10_PYOTHORAX.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100661**  
 > Cases: **175**  
 > Controls: **100486**
 <img src="/Disease/Figures/Male/Incidence/J10_PYOTHORAX.png"/>
-<CsvTable src="/Disease/Data/Male/Incidence/COX_J10_PYOTHORAX.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Male/Incidence/COX_J10_PYOTHORAX.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111923**  

@@ -13,4 +13,4 @@
 > Cases: **702**  
 > Controls: **110986**
 <img src="/Disease/Figures/ALL/Incidence/CD2_INSITU_BREAST_INTRADUCTAL.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_CD2_INSITU_BREAST_INTRADUCTAL.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_CD2_INSITU_BREAST_INTRADUCTAL.csv" label="🔍 View full results" />

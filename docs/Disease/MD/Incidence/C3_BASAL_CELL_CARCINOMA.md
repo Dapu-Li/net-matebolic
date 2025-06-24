@@ -13,18 +13,18 @@
 > Cases: **9096**  
 > Controls: **162196**
 <img src="/Disease/Figures/ALL/Incidence/C3_BASAL_CELL_CARCINOMA.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_C3_BASAL_CELL_CARCINOMA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_C3_BASAL_CELL_CARCINOMA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **80575**  
 > Cases: **5160**  
 > Controls: **75415**
 <img src="/Disease/Figures/Male/Incidence/C3_BASAL_CELL_CARCINOMA.png"/>
-<CsvTable src="/Disease/Data/Male/Incidence/COX_C3_BASAL_CELL_CARCINOMA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Male/Incidence/COX_C3_BASAL_CELL_CARCINOMA.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **90717**  
 > Cases: **3936**  
 > Controls: **86781**
 <img src="/Disease/Figures/Female/Incidence/C3_BASAL_CELL_CARCINOMA.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_C3_BASAL_CELL_CARCINOMA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Incidence/COX_C3_BASAL_CELL_CARCINOMA.csv" label="🔍 View full results" />

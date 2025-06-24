@@ -13,7 +13,7 @@
 > Cases: **115**  
 > Controls: **205458**
 <img src="/Disease/Figures/ALL/Incidence/H7_PARASTRA6.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_H7_PARASTRA6.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_H7_PARASTRA6.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **97871**  

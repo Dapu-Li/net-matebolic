@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/BACT_INTEST_INFECTION_NOS.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/BACT_INTEST_INFECTION_NOS.csv"/>

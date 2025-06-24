@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/CD2_MULTIPLE_MYELOMA_PLASMA_CELL.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_CD2_MULTIPLE_MYELOMA_PLASMA_CELL.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/ALL/IMP/IMP_CD2_MULTIPLE_MYELOMA_PLASMA_CELL.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/CD2_MULTIPLE_MYELOMA_PLASMA_CELL.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/CD2_MULTIPLE_MYELOMA_PLASMA_CELL.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/ALL/EVA/CD2_MULTIPLE_MYELOMA_PLASMA_CELL.csv" label="🔍 View full results" />
 
 ---
 
@@ -30,11 +30,11 @@
 
 <img src="/Predict/Figures/FYears/IMP/CD2_MULTIPLE_MYELOMA_PLASMA_CELL.png" />
 
-<CsvTableIMP src="/Predict/Data/FYears/IMP/IMP_CD2_MULTIPLE_MYELOMA_PLASMA_CELL.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/FYears/IMP/IMP_CD2_MULTIPLE_MYELOMA_PLASMA_CELL.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/FYears/ROC/CD2_MULTIPLE_MYELOMA_PLASMA_CELL.png" />
 
-<CsvTableROC src="/Predict/Data/FYears/EVA/CD2_MULTIPLE_MYELOMA_PLASMA_CELL.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/FYears/EVA/CD2_MULTIPLE_MYELOMA_PLASMA_CELL.csv" label="🔍 View full results" />
 
 ---
 
@@ -42,8 +42,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/CD2_MULTIPLE_MYELOMA_PLASMA_CELL.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_CD2_MULTIPLE_MYELOMA_PLASMA_CELL.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/OverFYears/IMP/IMP_CD2_MULTIPLE_MYELOMA_PLASMA_CELL.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/CD2_MULTIPLE_MYELOMA_PLASMA_CELL.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/CD2_MULTIPLE_MYELOMA_PLASMA_CELL.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/OverFYears/EVA/CD2_MULTIPLE_MYELOMA_PLASMA_CELL.csv" label="🔍 View full results" />

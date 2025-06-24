@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/C3_CIRCULATING_LYMPHOID.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_C3_CIRCULATING_LYMPHOID.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/ALL/IMP/IMP_C3_CIRCULATING_LYMPHOID.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/C3_CIRCULATING_LYMPHOID.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/C3_CIRCULATING_LYMPHOID.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/ALL/EVA/C3_CIRCULATING_LYMPHOID.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,8 +36,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/C3_CIRCULATING_LYMPHOID.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_C3_CIRCULATING_LYMPHOID.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/OverFYears/IMP/IMP_C3_CIRCULATING_LYMPHOID.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/C3_CIRCULATING_LYMPHOID.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/C3_CIRCULATING_LYMPHOID.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/OverFYears/EVA/C3_CIRCULATING_LYMPHOID.csv" label="🔍 View full results" />

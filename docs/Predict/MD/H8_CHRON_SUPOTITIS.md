@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/H8_CHRON_SUPOTITIS.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_H8_CHRON_SUPOTITIS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/Baseline/IMP/IMP_H8_CHRON_SUPOTITIS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/H8_CHRON_SUPOTITIS.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/H8_CHRON_SUPOTITIS.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/Baseline/EVA/H8_CHRON_SUPOTITIS.csv" label="🔍 View full results" />
 
 ---
 

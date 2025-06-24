@@ -13,7 +13,7 @@
 > Cases: **105**  
 > Controls: **205427**
 <img src="/Disease/Figures/ALL/Baseline/H8_TINNITUS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_H8_TINNITUS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_H8_TINNITUS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **96850**  

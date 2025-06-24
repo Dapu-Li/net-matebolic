@@ -13,18 +13,18 @@
 > Cases: **341**  
 > Controls: **197337**
 <img src="/Disease/Figures/ALL/Incidence/L12_HYPERTROPHICSKIN.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_L12_HYPERTROPHICSKIN.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_L12_HYPERTROPHICSKIN.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **93665**  
 > Cases: **169**  
 > Controls: **93496**
 <img src="/Disease/Figures/Male/Incidence/L12_HYPERTROPHICSKIN.png"/>
-<CsvTable src="/Disease/Data/Male/Incidence/COX_L12_HYPERTROPHICSKIN.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Male/Incidence/COX_L12_HYPERTROPHICSKIN.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **104013**  
 > Cases: **172**  
 > Controls: **103841**
 <img src="/Disease/Figures/Female/Incidence/L12_HYPERTROPHICSKIN.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_L12_HYPERTROPHICSKIN.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Incidence/COX_L12_HYPERTROPHICSKIN.csv" label="🔍 View full results" />

@@ -13,7 +13,7 @@
 > Cases: **210**  
 > Controls: **162196**
 <img src="/Disease/Figures/ALL/Incidence/C3_THYROID_GLAND.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_C3_THYROID_GLAND.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_C3_THYROID_GLAND.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **75478**  
@@ -28,4 +28,4 @@
 > Cases: **147**  
 > Controls: **86781**
 <img src="/Disease/Figures/Female/Incidence/C3_THYROID_GLAND.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_C3_THYROID_GLAND.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Incidence/COX_C3_THYROID_GLAND.csv" label="🔍 View full results" />

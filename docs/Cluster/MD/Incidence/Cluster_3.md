@@ -9,15 +9,15 @@
 > Cases: **3396**  
 > Controls: **209355**
 <img src="/Cluster/Figures/Incidence/LG/Cluster_3.png" />
-<CsvTable src="/Cluster/Data/Incidence/LG/LG_Cluster_3.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Incidence/LG/LG_Cluster_3.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **13825**
 <img src="/Cluster/Figures/Incidence/Histogram/Cluster_3_in.png" />
-<CsvTable src="/Cluster/Data/Incidence/Histogram/Cluster_3_in.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Incidence/Histogram/Cluster_3_in.csv" label="🔍 View full results" />
 
 <img src="/Cluster/Figures/Incidence/ORD/Cluster_3.png" />
-<CsvTable src="/Cluster/Data/Incidence/ORD/ORD_Cluster_3.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Incidence/ORD/ORD_Cluster_3.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - M13_CONTRACTUREJOINT (13) - Contracture of joint

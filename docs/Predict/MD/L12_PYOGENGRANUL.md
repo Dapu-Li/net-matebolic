@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/L12_PYOGENGRANUL.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_L12_PYOGENGRANUL.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/ALL/IMP/IMP_L12_PYOGENGRANUL.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/L12_PYOGENGRANUL.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/L12_PYOGENGRANUL.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/ALL/EVA/L12_PYOGENGRANUL.csv" label="🔍 View full results" />
 
 ---
 

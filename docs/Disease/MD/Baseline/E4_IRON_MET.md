@@ -13,14 +13,14 @@
 > Cases: **147**  
 > Controls: **165933**
 <img src="/Disease/Figures/ALL/Baseline/E4_IRON_MET.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_E4_IRON_MET.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_E4_IRON_MET.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **75440**  
 > Cases: **116**  
 > Controls: **75324**
 <img src="/Disease/Figures/Male/Baseline/E4_IRON_MET.png"/>
-<CsvTable src="/Disease/Data/Male/Baseline/LG_E4_IRON_MET.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Male/Baseline/LG_E4_IRON_MET.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **90640**  

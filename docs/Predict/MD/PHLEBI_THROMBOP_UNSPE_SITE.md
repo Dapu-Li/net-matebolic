@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/PHLEBI_THROMBOP_UNSPE_SITE.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_PHLEBI_THROMBOP_UNSPE_SITE.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/ALL/IMP/IMP_PHLEBI_THROMBOP_UNSPE_SITE.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/PHLEBI_THROMBOP_UNSPE_SITE.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/PHLEBI_THROMBOP_UNSPE_SITE.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/ALL/EVA/PHLEBI_THROMBOP_UNSPE_SITE.csv" label="🔍 View full results" />
 
 ---
 

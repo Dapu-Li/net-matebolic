@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/M13_WRISTFOOTDROP.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_M13_WRISTFOOTDROP.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/ALL/IMP/IMP_M13_WRISTFOOTDROP.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/M13_WRISTFOOTDROP.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/M13_WRISTFOOTDROP.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/ALL/EVA/M13_WRISTFOOTDROP.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,8 +36,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/M13_WRISTFOOTDROP.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_M13_WRISTFOOTDROP.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/OverFYears/IMP/IMP_M13_WRISTFOOTDROP.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/M13_WRISTFOOTDROP.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/M13_WRISTFOOTDROP.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/OverFYears/EVA/M13_WRISTFOOTDROP.csv" label="🔍 View full results" />

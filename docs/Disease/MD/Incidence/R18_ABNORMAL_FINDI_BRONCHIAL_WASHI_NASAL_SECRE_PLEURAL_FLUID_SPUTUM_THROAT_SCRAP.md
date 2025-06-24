@@ -13,7 +13,7 @@
 > Cases: **124**  
 > Controls: **211426**
 <img src="/Disease/Figures/ALL/Incidence/R18_ABNORMAL_FINDI_BRONCHIAL_WASHI_NASAL_SECRE_PLEURAL_FLUID_SPUTUM_THROAT_SCRAP.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_R18_ABNORMAL_FINDI_BRONCHIAL_WASHI_NASAL_SECRE_PLEURAL_FLUID_SPUTUM_THROAT_SCRAP.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_R18_ABNORMAL_FINDI_BRONCHIAL_WASHI_NASAL_SECRE_PLEURAL_FLUID_SPUTUM_THROAT_SCRAP.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100544**  

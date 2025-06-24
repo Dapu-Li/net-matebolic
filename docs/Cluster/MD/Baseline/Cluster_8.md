@@ -9,15 +9,15 @@
 > Cases: **35684**  
 > Controls: **177067**
 <img src="/Cluster/Figures/Baseline/LG/Cluster_8.png" />
-<CsvTable src="/Cluster/Data/Baseline/LG/LG_Cluster_8.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Baseline/LG/LG_Cluster_8.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **49100**
 <img src="/Cluster/Figures/Baseline/Histogram/Cluster_8_ba.png" />
-<CsvTable src="/Cluster/Data/Baseline/Histogram/Cluster_8_ba.csv" label="🔍 View full results" />
+<CsvTableNumb src="/Cluster_Data/Baseline/Histogram/Cluster_8_ba.csv" label="🔍 View full results" />
         
 <img src="/Cluster/Figures/Baseline/ORD/Cluster_8.png" />
-<CsvTable src="/Cluster/Data/Baseline/ORD/ORD_Cluster_8.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Baseline/ORD/ORD_Cluster_8.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - N14_URINOTH (14) - Other diseases of urinary system

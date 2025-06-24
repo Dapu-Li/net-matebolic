@@ -13,7 +13,7 @@
 > Cases: **245**  
 > Controls: **212269**
 <img src="/Disease/Figures/ALL/Incidence/PRIM_COXARTHROSIS.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_PRIM_COXARTHROSIS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_PRIM_COXARTHROSIS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100641**  
@@ -28,4 +28,4 @@
 > Cases: **152**  
 > Controls: **111721**
 <img src="/Disease/Figures/Female/Incidence/PRIM_COXARTHROSIS.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_PRIM_COXARTHROSIS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Incidence/COX_PRIM_COXARTHROSIS.csv" label="🔍 View full results" />

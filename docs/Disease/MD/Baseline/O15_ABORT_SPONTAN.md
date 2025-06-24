@@ -13,4 +13,4 @@
 > Cases: **653**  
 > Controls: **110225**
 <img src="/Disease/Figures/ALL/Baseline/O15_ABORT_SPONTAN.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_ABORT_SPONTAN.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_O15_ABORT_SPONTAN.csv" label="🔍 View full results" />

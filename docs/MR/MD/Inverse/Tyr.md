@@ -18,4 +18,4 @@
 ## 📊 Data Table
 
 
-<CsvTableMRI src="/MR/Data/Inverse/Tyr.csv"/>
+<CsvTableMRI src="/MR_Data/Inverse/Tyr.csv"/>

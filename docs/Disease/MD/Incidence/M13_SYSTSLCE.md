@@ -13,7 +13,7 @@
 > Cases: **114**  
 > Controls: **212567**
 <img src="/Disease/Figures/ALL/Incidence/M13_SYSTSLCE.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_M13_SYSTSLCE.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_M13_SYSTSLCE.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100737**  

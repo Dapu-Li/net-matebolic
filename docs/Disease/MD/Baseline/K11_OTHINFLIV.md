@@ -13,7 +13,7 @@
 > Cases: **101**  
 > Controls: **205809**
 <img src="/Disease/Figures/ALL/Baseline/K11_OTHINFLIV.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_K11_OTHINFLIV.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_K11_OTHINFLIV.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **97372**  

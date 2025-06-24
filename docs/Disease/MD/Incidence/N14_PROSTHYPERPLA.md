@@ -13,4 +13,4 @@
 > Cases: **10688**  
 > Controls: **81957**
 <img src="/Disease/Figures/ALL/Incidence/N14_PROSTHYPERPLA.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_N14_PROSTHYPERPLA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_N14_PROSTHYPERPLA.csv" label="🔍 View full results" />

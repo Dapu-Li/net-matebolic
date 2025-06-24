@@ -13,7 +13,7 @@
 > Cases: **132**  
 > Controls: **210041**
 <img src="/Disease/Figures/ALL/Incidence/G6_PARDIPLE.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_G6_PARDIPLE.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_G6_PARDIPLE.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99268**  

@@ -13,7 +13,7 @@
 > Cases: **495**  
 > Controls: **149279**
 <img src="/Disease/Figures/ALL/Baseline/M13_TOEDEFORMOTH.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_M13_TOEDEFORMOTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_M13_TOEDEFORMOTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **73010**  
@@ -27,4 +27,4 @@
 > Cases: **423**  
 > Controls: **76341**
 <img src="/Disease/Figures/Female/Baseline/M13_TOEDEFORMOTH.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_M13_TOEDEFORMOTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Baseline/LG_M13_TOEDEFORMOTH.csv" label="🔍 View full results" />

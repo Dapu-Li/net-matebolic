@@ -9,15 +9,15 @@
 > Cases: **14934**  
 > Controls: **197817**
 <img src="/Cluster/Figures/Incidence/LG/Cluster_7.png" />
-<CsvTable src="/Cluster/Data/Incidence/LG/LG_Cluster_7.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Incidence/LG/LG_Cluster_7.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **34401**
 <img src="/Cluster/Figures/Incidence/Histogram/Cluster_7_in.png" />
-<CsvTable src="/Cluster/Data/Incidence/Histogram/Cluster_7_in.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Incidence/Histogram/Cluster_7_in.csv" label="🔍 View full results" />
 
 <img src="/Cluster/Figures/Incidence/ORD/Cluster_7.png" />
-<CsvTable src="/Cluster/Data/Incidence/ORD/ORD_Cluster_7.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Incidence/ORD/ORD_Cluster_7.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - N14_NEPHROTICSYND (14) - Nephrotic syndrome

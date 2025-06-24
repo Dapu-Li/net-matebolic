@@ -13,7 +13,7 @@
 > Cases: **157**  
 > Controls: **185260**
 <img src="/Disease/Figures/ALL/Baseline/M13_RADICULOPATHY.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_M13_RADICULOPATHY.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_M13_RADICULOPATHY.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **89014**  

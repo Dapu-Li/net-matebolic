@@ -13,7 +13,7 @@
 > Cases: **302**  
 > Controls: **212448**
 <img src="/Disease/Figures/ALL/Baseline/N14_GENITOUROTH.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_GENITOUROTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_N14_GENITOUROTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100755**  
@@ -27,4 +27,4 @@
 > Cases: **247**  
 > Controls: **111748**
 <img src="/Disease/Figures/Female/Baseline/N14_GENITOUROTH.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_N14_GENITOUROTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Baseline/LG_N14_GENITOUROTH.csv" label="🔍 View full results" />

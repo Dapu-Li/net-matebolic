@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/KRA_PSY_ANYMENTAL.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_KRA_PSY_ANYMENTAL.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/Baseline/IMP/IMP_KRA_PSY_ANYMENTAL.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/KRA_PSY_ANYMENTAL.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/KRA_PSY_ANYMENTAL.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/Baseline/EVA/KRA_PSY_ANYMENTAL.csv" label="🔍 View full results" />
 
 ---
 
@@ -24,11 +24,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/KRA_PSY_ANYMENTAL.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_KRA_PSY_ANYMENTAL.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/ALL/IMP/IMP_KRA_PSY_ANYMENTAL.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/KRA_PSY_ANYMENTAL.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/KRA_PSY_ANYMENTAL.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/ALL/EVA/KRA_PSY_ANYMENTAL.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,11 +36,11 @@
 
 <img src="/Predict/Figures/FYears/IMP/KRA_PSY_ANYMENTAL.png" />
 
-<CsvTableIMP src="/Predict/Data/FYears/IMP/IMP_KRA_PSY_ANYMENTAL.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/FYears/IMP/IMP_KRA_PSY_ANYMENTAL.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/FYears/ROC/KRA_PSY_ANYMENTAL.png" />
 
-<CsvTableROC src="/Predict/Data/FYears/EVA/KRA_PSY_ANYMENTAL.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/FYears/EVA/KRA_PSY_ANYMENTAL.csv" label="🔍 View full results" />
 
 ---
 
@@ -48,8 +48,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/KRA_PSY_ANYMENTAL.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_KRA_PSY_ANYMENTAL.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/OverFYears/IMP/IMP_KRA_PSY_ANYMENTAL.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/KRA_PSY_ANYMENTAL.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/KRA_PSY_ANYMENTAL.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/OverFYears/EVA/KRA_PSY_ANYMENTAL.csv" label="🔍 View full results" />

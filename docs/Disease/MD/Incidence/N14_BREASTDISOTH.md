@@ -13,4 +13,4 @@
 > Cases: **460**  
 > Controls: **108607**
 <img src="/Disease/Figures/ALL/Incidence/N14_BREASTDISOTH.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_N14_BREASTDISOTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_N14_BREASTDISOTH.csv" label="🔍 View full results" />

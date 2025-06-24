@@ -13,7 +13,7 @@
 > Cases: **365**  
 > Controls: **149018**
 <img src="/Disease/Figures/ALL/Baseline/M13_HALLUXRIGIDUS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_M13_HALLUXRIGIDUS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_M13_HALLUXRIGIDUS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **73051**  
@@ -27,4 +27,4 @@
 > Cases: **267**  
 > Controls: **76065**
 <img src="/Disease/Figures/Female/Baseline/M13_HALLUXRIGIDUS.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_M13_HALLUXRIGIDUS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Baseline/LG_M13_HALLUXRIGIDUS.csv" label="🔍 View full results" />

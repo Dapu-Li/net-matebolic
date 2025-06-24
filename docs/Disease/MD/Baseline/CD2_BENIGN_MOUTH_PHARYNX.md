@@ -13,7 +13,7 @@
 > Cases: **150**  
 > Controls: **212601**
 <img src="/Disease/Figures/ALL/Baseline/CD2_BENIGN_MOUTH_PHARYNX.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_MOUTH_PHARYNX.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_CD2_BENIGN_MOUTH_PHARYNX.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100756**  

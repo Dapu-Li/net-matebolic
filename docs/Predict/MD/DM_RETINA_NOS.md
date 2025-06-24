@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/DM_RETINA_NOS.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_DM_RETINA_NOS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/ALL/IMP/IMP_DM_RETINA_NOS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/DM_RETINA_NOS.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/DM_RETINA_NOS.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/ALL/EVA/DM_RETINA_NOS.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,8 +36,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/DM_RETINA_NOS.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_DM_RETINA_NOS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/OverFYears/IMP/IMP_DM_RETINA_NOS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/DM_RETINA_NOS.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/DM_RETINA_NOS.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/OverFYears/EVA/DM_RETINA_NOS.csv" label="🔍 View full results" />

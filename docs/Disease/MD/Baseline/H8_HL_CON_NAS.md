@@ -13,7 +13,7 @@
 > Cases: **115**  
 > Controls: **204913**
 <img src="/Disease/Figures/ALL/Baseline/H8_HL_CON_NAS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_H8_HL_CON_NAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_H8_HL_CON_NAS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **96562**  

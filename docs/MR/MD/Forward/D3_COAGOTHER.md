@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/D3_COAGOTHER.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/D3_COAGOTHER.csv"/>

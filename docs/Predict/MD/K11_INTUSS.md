@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/K11_INTUSS.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_K11_INTUSS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/ALL/IMP/IMP_K11_INTUSS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/K11_INTUSS.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/K11_INTUSS.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/ALL/EVA/K11_INTUSS.csv" label="🔍 View full results" />
 
 ---
 

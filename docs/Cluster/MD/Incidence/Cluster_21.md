@@ -9,15 +9,15 @@
 > Cases: **2748**  
 > Controls: **210003**
 <img src="/Cluster/Figures/Incidence/LG/Cluster_21.png" />
-<CsvTable src="/Cluster/Data/Incidence/LG/LG_Cluster_21.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Incidence/LG/LG_Cluster_21.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **12772**
 <img src="/Cluster/Figures/Incidence/Histogram/Cluster_21_in.png" />
-<CsvTable src="/Cluster/Data/Incidence/Histogram/Cluster_21_in.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Incidence/Histogram/Cluster_21_in.csv" label="🔍 View full results" />
 
 <img src="/Cluster/Figures/Incidence/ORD/Cluster_21.png" />
-<CsvTable src="/Cluster/Data/Incidence/ORD/ORD_Cluster_21.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Incidence/ORD/ORD_Cluster_21.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - M13_OTHCONN (13) - Other systemic involvement of connective tissue

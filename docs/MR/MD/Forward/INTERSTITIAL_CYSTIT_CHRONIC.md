@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/INTERSTITIAL_CYSTIT_CHRONIC.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/INTERSTITIAL_CYSTIT_CHRONIC.csv"/>

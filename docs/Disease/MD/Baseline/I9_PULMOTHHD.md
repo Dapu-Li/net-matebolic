@@ -13,7 +13,7 @@
 > Cases: **100**  
 > Controls: **212534**
 <img src="/Disease/Figures/ALL/Baseline/I9_PULMOTHHD.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_I9_PULMOTHHD.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_I9_PULMOTHHD.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100701**  

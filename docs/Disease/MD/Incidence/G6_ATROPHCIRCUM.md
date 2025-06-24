@@ -13,7 +13,7 @@
 > Cases: **113**  
 > Controls: **212597**
 <img src="/Disease/Figures/ALL/Incidence/G6_ATROPHCIRCUM.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_G6_ATROPHCIRCUM.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_G6_ATROPHCIRCUM.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100736**  

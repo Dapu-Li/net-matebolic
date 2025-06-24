@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/O15_PUERP_INFECT_OTHER.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/O15_PUERP_INFECT_OTHER.csv"/>

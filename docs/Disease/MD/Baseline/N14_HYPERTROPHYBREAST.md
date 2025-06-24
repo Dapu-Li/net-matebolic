@@ -13,4 +13,4 @@
 > Cases: **287**  
 > Controls: **108702**
 <img src="/Disease/Figures/ALL/Baseline/N14_HYPERTROPHYBREAST.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_HYPERTROPHYBREAST.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_N14_HYPERTROPHYBREAST.csv" label="🔍 View full results" />

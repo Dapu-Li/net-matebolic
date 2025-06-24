@@ -13,7 +13,7 @@
 > Cases: **146**  
 > Controls: **210522**
 <img src="/Disease/Figures/ALL/Incidence/H8_CHOLEASTOMA.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_H8_CHOLEASTOMA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_H8_CHOLEASTOMA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99741**  

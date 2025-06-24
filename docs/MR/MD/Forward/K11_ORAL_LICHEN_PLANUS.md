@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/K11_ORAL_LICHEN_PLANUS.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/K11_ORAL_LICHEN_PLANUS.csv"/>

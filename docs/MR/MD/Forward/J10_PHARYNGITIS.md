@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/J10_PHARYNGITIS.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/J10_PHARYNGITIS.csv"/>

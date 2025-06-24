@@ -13,7 +13,7 @@
 > Cases: **121**  
 > Controls: **183542**
 <img src="/Disease/Figures/ALL/Baseline/M13_MYALGIA.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_M13_MYALGIA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_M13_MYALGIA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **87558**  

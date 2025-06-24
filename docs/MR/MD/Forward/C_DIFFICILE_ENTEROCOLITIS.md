@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/C_DIFFICILE_ENTEROCOLITIS.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/C_DIFFICILE_ENTEROCOLITIS.csv"/>

@@ -13,4 +13,4 @@
 > Cases: **2357**  
 > Controls: **109634**
 <img src="/Disease/Figures/ALL/Baseline/N14_FEMALEGENINF.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_FEMALEGENINF.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_N14_FEMALEGENINF.csv" label="🔍 View full results" />

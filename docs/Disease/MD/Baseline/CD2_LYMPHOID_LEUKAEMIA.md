@@ -13,7 +13,7 @@
 > Cases: **117**  
 > Controls: **212524**
 <img src="/Disease/Figures/ALL/Baseline/CD2_LYMPHOID_LEUKAEMIA.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_CD2_LYMPHOID_LEUKAEMIA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_CD2_LYMPHOID_LEUKAEMIA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100703**  

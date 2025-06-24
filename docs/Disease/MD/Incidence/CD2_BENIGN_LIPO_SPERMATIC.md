@@ -13,4 +13,4 @@
 > Cases: **597**  
 > Controls: **99978**
 <img src="/Disease/Figures/ALL/Incidence/CD2_BENIGN_LIPO_SPERMATIC.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_CD2_BENIGN_LIPO_SPERMATIC.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_CD2_BENIGN_LIPO_SPERMATIC.csv" label="🔍 View full results" />

@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/ALLERG_ASTHMA.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/ALLERG_ASTHMA.csv"/>

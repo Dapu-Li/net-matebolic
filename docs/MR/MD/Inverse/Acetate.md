@@ -18,4 +18,4 @@
 ## 📊 Data Table
 
 
-<CsvTableMRI src="/MR/Data/Inverse/Acetate.csv"/>
+<CsvTableMRI src="/MR_Data/Inverse/Acetate.csv"/>

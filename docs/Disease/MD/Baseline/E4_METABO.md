@@ -13,7 +13,7 @@
 > Cases: **290**  
 > Controls: **167186**
 <img src="/Disease/Figures/ALL/Baseline/E4_METABO.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_E4_METABO.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_E4_METABO.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **75653**  
@@ -27,4 +27,4 @@
 > Cases: **221**  
 > Controls: **91602**
 <img src="/Disease/Figures/Female/Baseline/E4_METABO.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_E4_METABO.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Baseline/LG_E4_METABO.csv" label="🔍 View full results" />

@@ -13,4 +13,4 @@
 > Cases: **1009**  
 > Controls: **110986**
 <img src="/Disease/Figures/ALL/Baseline/N14_FEMALE_GENITAL_DYSPLASIA_ALL.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_FEMALE_GENITAL_DYSPLASIA_ALL.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_N14_FEMALE_GENITAL_DYSPLASIA_ALL.csv" label="🔍 View full results" />

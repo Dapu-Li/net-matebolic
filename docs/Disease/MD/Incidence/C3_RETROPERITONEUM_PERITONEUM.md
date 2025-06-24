@@ -13,7 +13,7 @@
 > Cases: **170**  
 > Controls: **162196**
 <img src="/Disease/Figures/ALL/Incidence/C3_RETROPERITONEUM_PERITONEUM.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_C3_RETROPERITONEUM_PERITONEUM.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_C3_RETROPERITONEUM_PERITONEUM.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **75444**  
@@ -28,4 +28,4 @@
 > Cases: **141**  
 > Controls: **86781**
 <img src="/Disease/Figures/Female/Incidence/C3_RETROPERITONEUM_PERITONEUM.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_C3_RETROPERITONEUM_PERITONEUM.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Incidence/COX_C3_RETROPERITONEUM_PERITONEUM.csv" label="🔍 View full results" />

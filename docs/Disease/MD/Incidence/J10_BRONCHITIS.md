@@ -13,7 +13,7 @@
 > Cases: **141**  
 > Controls: **204528**
 <img src="/Disease/Figures/ALL/Incidence/J10_BRONCHITIS.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_J10_BRONCHITIS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_J10_BRONCHITIS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **96613**  

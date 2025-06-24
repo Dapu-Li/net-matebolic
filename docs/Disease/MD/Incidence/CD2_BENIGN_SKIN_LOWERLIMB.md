@@ -13,7 +13,7 @@
 > Cases: **191**  
 > Controls: **212321**
 <img src="/Disease/Figures/ALL/Incidence/CD2_BENIGN_SKIN_LOWERLIMB.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_CD2_BENIGN_SKIN_LOWERLIMB.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_CD2_BENIGN_SKIN_LOWERLIMB.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100681**  
@@ -28,4 +28,4 @@
 > Cases: **102**  
 > Controls: **111729**
 <img src="/Disease/Figures/Female/Incidence/CD2_BENIGN_SKIN_LOWERLIMB.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_CD2_BENIGN_SKIN_LOWERLIMB.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Incidence/COX_CD2_BENIGN_SKIN_LOWERLIMB.csv" label="🔍 View full results" />

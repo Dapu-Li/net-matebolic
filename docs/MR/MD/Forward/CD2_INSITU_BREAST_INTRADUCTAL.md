@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/CD2_INSITU_BREAST_INTRADUCTAL.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/CD2_INSITU_BREAST_INTRADUCTAL.csv"/>

@@ -18,4 +18,4 @@
 ## 📊 Data Table
 
 
-<CsvTableMRI src="/MR/Data/Inverse/Leu.csv"/>
+<CsvTableMRI src="/MR_Data/Inverse/Leu.csv"/>

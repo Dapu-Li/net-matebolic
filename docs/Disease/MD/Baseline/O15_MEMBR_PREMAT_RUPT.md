@@ -13,4 +13,4 @@
 > Cases: **509**  
 > Controls: **108795**
 <img src="/Disease/Figures/ALL/Baseline/O15_MEMBR_PREMAT_RUPT.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_MEMBR_PREMAT_RUPT.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_O15_MEMBR_PREMAT_RUPT.csv" label="🔍 View full results" />

@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/MYOCLONUS.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_MYOCLONUS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/ALL/IMP/IMP_MYOCLONUS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/MYOCLONUS.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/MYOCLONUS.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/ALL/EVA/MYOCLONUS.csv" label="🔍 View full results" />
 
 ---
 

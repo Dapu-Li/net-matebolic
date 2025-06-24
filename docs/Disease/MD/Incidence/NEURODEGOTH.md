@@ -13,18 +13,18 @@
 > Cases: **3340**  
 > Controls: **208141**
 <img src="/Disease/Figures/ALL/Incidence/NEURODEGOTH.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_NEURODEGOTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_NEURODEGOTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100204**  
 > Cases: **1644**  
 > Controls: **98560**
 <img src="/Disease/Figures/Male/Incidence/NEURODEGOTH.png"/>
-<CsvTable src="/Disease/Data/Male/Incidence/COX_NEURODEGOTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Male/Incidence/COX_NEURODEGOTH.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111277**  
 > Cases: **1696**  
 > Controls: **109581**
 <img src="/Disease/Figures/Female/Incidence/NEURODEGOTH.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_NEURODEGOTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Incidence/COX_NEURODEGOTH.csv" label="🔍 View full results" />

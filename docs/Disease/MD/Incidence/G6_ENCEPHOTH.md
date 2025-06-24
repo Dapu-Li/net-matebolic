@@ -13,14 +13,14 @@
 > Cases: **195**  
 > Controls: **212111**
 <img src="/Disease/Figures/ALL/Incidence/G6_ENCEPHOTH.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_G6_ENCEPHOTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_G6_ENCEPHOTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100544**  
 > Cases: **105**  
 > Controls: **100439**
 <img src="/Disease/Figures/Male/Incidence/G6_ENCEPHOTH.png"/>
-<CsvTable src="/Disease/Data/Male/Incidence/COX_G6_ENCEPHOTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Male/Incidence/COX_G6_ENCEPHOTH.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111762**  

@@ -9,15 +9,15 @@
 > Cases: **88372**  
 > Controls: **124379**
 <img src="/Cluster/Figures/Incidence/LG/Cluster_14.png" />
-<CsvTable src="/Cluster/Data/Incidence/LG/LG_Cluster_14.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Incidence/LG/LG_Cluster_14.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **109139**
 <img src="/Cluster/Figures/Incidence/Histogram/Cluster_14_in.png" />
-<CsvTable src="/Cluster/Data/Incidence/Histogram/Cluster_14_in.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Incidence/Histogram/Cluster_14_in.csv" label="🔍 View full results" />
 
 <img src="/Cluster/Figures/Incidence/ORD/Cluster_14.png" />
-<CsvTable src="/Cluster/Data/Incidence/ORD/ORD_Cluster_14.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Incidence/ORD/ORD_Cluster_14.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - N14_GLOMEINOTH (14) - Glomerular disorders in diseases classified elsewhere

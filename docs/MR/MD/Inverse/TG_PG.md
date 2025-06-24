@@ -18,4 +18,4 @@
 ## 📊 Data Table
 
 
-<CsvTableMRI src="/MR/Data/Inverse/TG_PG.csv"/>
+<CsvTableMRI src="/MR_Data/Inverse/TG_PG.csv"/>

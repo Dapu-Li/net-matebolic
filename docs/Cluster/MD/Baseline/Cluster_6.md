@@ -9,15 +9,15 @@
 > Cases: **50790**  
 > Controls: **161961**
 <img src="/Cluster/Figures/Baseline/LG/Cluster_6.png" />
-<CsvTable src="/Cluster/Data/Baseline/LG/LG_Cluster_6.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Baseline/LG/LG_Cluster_6.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **72490**
 <img src="/Cluster/Figures/Baseline/Histogram/Cluster_6_ba.png" />
-<CsvTable src="/Cluster/Data/Baseline/Histogram/Cluster_6_ba.csv" label="🔍 View full results" />
+<CsvTableNumb src="/Cluster_Data/Baseline/Histogram/Cluster_6_ba.csv" label="🔍 View full results" />
         
 <img src="/Cluster/Figures/Baseline/ORD/Cluster_6.png" />
-<CsvTable src="/Cluster/Data/Baseline/ORD/ORD_Cluster_6.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Baseline/ORD/ORD_Cluster_6.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - N14_KIDNEY_DISEASES (14) - All kidney diseases

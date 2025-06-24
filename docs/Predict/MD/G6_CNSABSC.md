@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/G6_CNSABSC.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_G6_CNSABSC.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/ALL/IMP/IMP_G6_CNSABSC.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/G6_CNSABSC.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/G6_CNSABSC.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/ALL/EVA/G6_CNSABSC.csv" label="🔍 View full results" />
 
 ---
 

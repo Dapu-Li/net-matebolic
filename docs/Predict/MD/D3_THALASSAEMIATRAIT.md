@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/D3_THALASSAEMIATRAIT.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_D3_THALASSAEMIATRAIT.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/ALL/IMP/IMP_D3_THALASSAEMIATRAIT.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/D3_THALASSAEMIATRAIT.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/D3_THALASSAEMIATRAIT.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/ALL/EVA/D3_THALASSAEMIATRAIT.csv" label="🔍 View full results" />
 
 ---
 

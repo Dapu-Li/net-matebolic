@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/G6_MYOPOTHUNS.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/G6_MYOPOTHUNS.csv"/>

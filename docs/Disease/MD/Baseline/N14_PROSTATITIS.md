@@ -13,4 +13,4 @@
 > Cases: **364**  
 > Controls: **83052**
 <img src="/Disease/Figures/ALL/Baseline/N14_PROSTATITIS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_PROSTATITIS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_N14_PROSTATITIS.csv" label="🔍 View full results" />

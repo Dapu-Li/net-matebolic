@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/M13_INTERVERTEB.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_M13_INTERVERTEB.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/Baseline/IMP/IMP_M13_INTERVERTEB.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/M13_INTERVERTEB.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/M13_INTERVERTEB.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/Baseline/EVA/M13_INTERVERTEB.csv" label="🔍 View full results" />
 
 ---
 
@@ -24,11 +24,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/M13_INTERVERTEB.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_M13_INTERVERTEB.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/ALL/IMP/IMP_M13_INTERVERTEB.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/M13_INTERVERTEB.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/M13_INTERVERTEB.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/ALL/EVA/M13_INTERVERTEB.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,11 +36,11 @@
 
 <img src="/Predict/Figures/FYears/IMP/M13_INTERVERTEB.png" />
 
-<CsvTableIMP src="/Predict/Data/FYears/IMP/IMP_M13_INTERVERTEB.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/FYears/IMP/IMP_M13_INTERVERTEB.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/FYears/ROC/M13_INTERVERTEB.png" />
 
-<CsvTableROC src="/Predict/Data/FYears/EVA/M13_INTERVERTEB.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/FYears/EVA/M13_INTERVERTEB.csv" label="🔍 View full results" />
 
 ---
 
@@ -48,8 +48,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/M13_INTERVERTEB.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_M13_INTERVERTEB.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/OverFYears/IMP/IMP_M13_INTERVERTEB.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/M13_INTERVERTEB.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/M13_INTERVERTEB.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/OverFYears/EVA/M13_INTERVERTEB.csv" label="🔍 View full results" />

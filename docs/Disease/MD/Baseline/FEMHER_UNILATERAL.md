@@ -13,7 +13,7 @@
 > Cases: **176**  
 > Controls: **173033**
 <img src="/Disease/Figures/ALL/Baseline/FEMHER_UNILATERAL.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_FEMHER_UNILATERAL.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_FEMHER_UNILATERAL.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **77897**  
@@ -27,4 +27,4 @@
 > Cases: **123**  
 > Controls: **95189**
 <img src="/Disease/Figures/Female/Baseline/FEMHER_UNILATERAL.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_FEMHER_UNILATERAL.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Baseline/LG_FEMHER_UNILATERAL.csv" label="🔍 View full results" />

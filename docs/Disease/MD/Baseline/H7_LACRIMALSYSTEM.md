@@ -13,18 +13,18 @@
 > Cases: **557**  
 > Controls: **205820**
 <img src="/Disease/Figures/ALL/Baseline/H7_LACRIMALSYSTEM.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_H7_LACRIMALSYSTEM.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_H7_LACRIMALSYSTEM.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **97742**  
 > Cases: **199**  
 > Controls: **97543**
 <img src="/Disease/Figures/Male/Baseline/H7_LACRIMALSYSTEM.png"/>
-<CsvTable src="/Disease/Data/Male/Baseline/LG_H7_LACRIMALSYSTEM.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Male/Baseline/LG_H7_LACRIMALSYSTEM.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **108635**  
 > Cases: **358**  
 > Controls: **108277**
 <img src="/Disease/Figures/Female/Baseline/H7_LACRIMALSYSTEM.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_H7_LACRIMALSYSTEM.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Baseline/LG_H7_LACRIMALSYSTEM.csv" label="🔍 View full results" />

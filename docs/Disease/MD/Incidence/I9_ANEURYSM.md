@@ -13,7 +13,7 @@
 > Cases: **302**  
 > Controls: **200995**
 <img src="/Disease/Figures/ALL/Incidence/I9_ANEURYSM.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_I9_ANEURYSM.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_I9_ANEURYSM.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **94341**  
@@ -28,4 +28,4 @@
 > Cases: **206**  
 > Controls: **106750**
 <img src="/Disease/Figures/Female/Incidence/I9_ANEURYSM.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_I9_ANEURYSM.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Incidence/COX_I9_ANEURYSM.csv" label="🔍 View full results" />

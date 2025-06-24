@@ -13,7 +13,7 @@
 > Cases: **125**  
 > Controls: **184426**
 <img src="/Disease/Figures/ALL/Incidence/M13_DORSOPATHYNAS.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_M13_DORSOPATHYNAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_M13_DORSOPATHYNAS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **88632**  

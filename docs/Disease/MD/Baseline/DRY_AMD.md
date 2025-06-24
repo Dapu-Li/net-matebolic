@@ -13,7 +13,7 @@
 > Cases: **264**  
 > Controls: **157914**
 <img src="/Disease/Figures/ALL/Baseline/DRY_AMD.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_DRY_AMD.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_DRY_AMD.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **73804**  
@@ -27,4 +27,4 @@
 > Cases: **167**  
 > Controls: **84207**
 <img src="/Disease/Figures/Female/Baseline/DRY_AMD.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_DRY_AMD.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Baseline/LG_DRY_AMD.csv" label="🔍 View full results" />

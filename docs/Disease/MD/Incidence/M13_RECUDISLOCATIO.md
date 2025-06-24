@@ -13,7 +13,7 @@
 > Cases: **166**  
 > Controls: **148317**
 <img src="/Disease/Figures/ALL/Incidence/M13_RECUDISLOCATIO.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_M13_RECUDISLOCATIO.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_M13_RECUDISLOCATIO.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **72843**  

@@ -13,7 +13,7 @@
 > Cases: **433**  
 > Controls: **149389**
 <img src="/Disease/Figures/ALL/Baseline/M13_HAMMERTOE.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_M13_HAMMERTOE.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_M13_HAMMERTOE.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **73012**  
@@ -27,4 +27,4 @@
 > Cases: **380**  
 > Controls: **76430**
 <img src="/Disease/Figures/Female/Baseline/M13_HAMMERTOE.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_M13_HAMMERTOE.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Baseline/LG_M13_HAMMERTOE.csv" label="🔍 View full results" />

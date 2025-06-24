@@ -13,7 +13,7 @@
 > Cases: **173**  
 > Controls: **211614**
 <img src="/Disease/Figures/ALL/Incidence/H7_CONJUHAEMOR.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_H7_CONJUHAEMOR.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_H7_CONJUHAEMOR.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100297**  

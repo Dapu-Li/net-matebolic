@@ -13,4 +13,4 @@
 > Cases: **511**  
 > Controls: **111484**
 <img src="/Disease/Figures/ALL/Baseline/CD2_BENIGN_BREAST.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_BREAST.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_CD2_BENIGN_BREAST.csv" label="🔍 View full results" />

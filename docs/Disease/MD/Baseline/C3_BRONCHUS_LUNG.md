@@ -13,7 +13,7 @@
 > Cases: **138**  
 > Controls: **164862**
 <img src="/Disease/Figures/ALL/Baseline/C3_BRONCHUS_LUNG.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_C3_BRONCHUS_LUNG.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_C3_BRONCHUS_LUNG.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **76836**  

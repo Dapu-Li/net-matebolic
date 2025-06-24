@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/CD2_BENIGN_BONE_CARTILAGE.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_CD2_BENIGN_BONE_CARTILAGE.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/Baseline/IMP/IMP_CD2_BENIGN_BONE_CARTILAGE.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/CD2_BENIGN_BONE_CARTILAGE.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/CD2_BENIGN_BONE_CARTILAGE.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/Baseline/EVA/CD2_BENIGN_BONE_CARTILAGE.csv" label="🔍 View full results" />
 
 ---
 
@@ -24,11 +24,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/CD2_BENIGN_BONE_CARTILAGE.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_CD2_BENIGN_BONE_CARTILAGE.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/ALL/IMP/IMP_CD2_BENIGN_BONE_CARTILAGE.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/CD2_BENIGN_BONE_CARTILAGE.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/CD2_BENIGN_BONE_CARTILAGE.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/ALL/EVA/CD2_BENIGN_BONE_CARTILAGE.csv" label="🔍 View full results" />
 
 ---
 

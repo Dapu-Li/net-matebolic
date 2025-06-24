@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/C3_ANUS_ANALCANAL.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_C3_ANUS_ANALCANAL.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/ALL/IMP/IMP_C3_ANUS_ANALCANAL.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/C3_ANUS_ANALCANAL.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/C3_ANUS_ANALCANAL.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/ALL/EVA/C3_ANUS_ANALCANAL.csv" label="🔍 View full results" />
 
 ---
 

@@ -13,7 +13,7 @@
 > Cases: **105**  
 > Controls: **212553**
 <img src="/Disease/Figures/ALL/Incidence/DUODENAL_ULCER_ACUTE_WO_HAEMORRHAGE_PERFORATION.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_DUODENAL_ULCER_ACUTE_WO_HAEMORRHAGE_PERFORATION.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_DUODENAL_ULCER_ACUTE_WO_HAEMORRHAGE_PERFORATION.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100687**  

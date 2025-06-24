@@ -9,15 +9,15 @@
 > Cases: **11832**  
 > Controls: **200919**
 <img src="/Cluster/Figures/Incidence/LG/Cluster_23.png" />
-<CsvTable src="/Cluster/Data/Incidence/LG/LG_Cluster_23.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Incidence/LG/LG_Cluster_23.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **18066**
 <img src="/Cluster/Figures/Incidence/Histogram/Cluster_23_in.png" />
-<CsvTable src="/Cluster/Data/Incidence/Histogram/Cluster_23_in.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Incidence/Histogram/Cluster_23_in.csv" label="🔍 View full results" />
 
 <img src="/Cluster/Figures/Incidence/ORD/Cluster_23.png" />
-<CsvTable src="/Cluster/Data/Incidence/ORD/ORD_Cluster_23.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Incidence/ORD/ORD_Cluster_23.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - M13_POLYMYALGIA (13) - Polymyalgia rheumatica

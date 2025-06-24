@@ -13,7 +13,7 @@
 > Cases: **156**  
 > Controls: **148317**
 <img src="/Disease/Figures/ALL/Incidence/M13_LOOSEJOINT.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_M13_LOOSEJOINT.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_M13_LOOSEJOINT.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **72845**  

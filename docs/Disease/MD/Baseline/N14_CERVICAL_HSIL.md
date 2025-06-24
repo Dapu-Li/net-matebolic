@@ -13,4 +13,4 @@
 > Cases: **494**  
 > Controls: **111501**
 <img src="/Disease/Figures/ALL/Baseline/N14_CERVICAL_HSIL.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_CERVICAL_HSIL.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_N14_CERVICAL_HSIL.csv" label="🔍 View full results" />

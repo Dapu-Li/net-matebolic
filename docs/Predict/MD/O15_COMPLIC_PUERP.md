@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/O15_COMPLIC_PUERP.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_O15_COMPLIC_PUERP.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/Baseline/IMP/IMP_O15_COMPLIC_PUERP.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/O15_COMPLIC_PUERP.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/O15_COMPLIC_PUERP.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/Baseline/EVA/O15_COMPLIC_PUERP.csv" label="🔍 View full results" />
 
 ---
 

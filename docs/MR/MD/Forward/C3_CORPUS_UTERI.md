@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/C3_CORPUS_UTERI.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/C3_CORPUS_UTERI.csv"/>

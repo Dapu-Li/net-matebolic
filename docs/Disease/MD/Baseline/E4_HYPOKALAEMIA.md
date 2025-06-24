@@ -13,7 +13,7 @@
 > Cases: **142**  
 > Controls: **168868**
 <img src="/Disease/Figures/ALL/Baseline/E4_HYPOKALAEMIA.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_E4_HYPOKALAEMIA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_E4_HYPOKALAEMIA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **76530**  

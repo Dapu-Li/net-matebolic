@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/J10_ASBESTPNEUMOC.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_J10_ASBESTPNEUMOC.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/ALL/IMP/IMP_J10_ASBESTPNEUMOC.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/J10_ASBESTPNEUMOC.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/J10_ASBESTPNEUMOC.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/ALL/EVA/J10_ASBESTPNEUMOC.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,8 +36,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/J10_ASBESTPNEUMOC.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_J10_ASBESTPNEUMOC.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/OverFYears/IMP/IMP_J10_ASBESTPNEUMOC.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/J10_ASBESTPNEUMOC.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/J10_ASBESTPNEUMOC.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/OverFYears/EVA/J10_ASBESTPNEUMOC.csv" label="🔍 View full results" />

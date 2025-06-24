@@ -13,7 +13,7 @@
 > Cases: **113**  
 > Controls: **212628**
 <img src="/Disease/Figures/ALL/Baseline/I9_OTHOTH.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_I9_OTHOTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_I9_OTHOTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100750**  

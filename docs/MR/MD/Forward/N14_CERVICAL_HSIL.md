@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/N14_CERVICAL_HSIL.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/N14_CERVICAL_HSIL.csv"/>

@@ -13,7 +13,7 @@
 > Cases: **120**  
 > Controls: **212577**
 <img src="/Disease/Figures/ALL/Incidence/E4_DM1OPTH.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_E4_DM1OPTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_E4_DM1OPTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100717**  

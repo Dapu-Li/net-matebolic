@@ -13,7 +13,7 @@
 > Cases: **119**  
 > Controls: **212632**
 <img src="/Disease/Figures/ALL/Baseline/DRUGADVERS_OSTEOPO.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_DRUGADVERS_OSTEOPO.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_DRUGADVERS_OSTEOPO.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100756**  

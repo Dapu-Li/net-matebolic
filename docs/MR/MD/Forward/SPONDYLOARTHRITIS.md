@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/SPONDYLOARTHRITIS.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/SPONDYLOARTHRITIS.csv"/>

@@ -13,7 +13,7 @@
 > Cases: **168**  
 > Controls: **151332**
 <img src="/Disease/Figures/ALL/Baseline/K11_ADHE.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_K11_ADHE.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_K11_ADHE.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **71976**  
@@ -27,4 +27,4 @@
 > Cases: **107**  
 > Controls: **79417**
 <img src="/Disease/Figures/Female/Baseline/K11_ADHE.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_K11_ADHE.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Baseline/LG_K11_ADHE.csv" label="🔍 View full results" />

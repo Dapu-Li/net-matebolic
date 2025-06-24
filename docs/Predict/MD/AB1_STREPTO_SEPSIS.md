@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/AB1_STREPTO_SEPSIS.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_AB1_STREPTO_SEPSIS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/ALL/IMP/IMP_AB1_STREPTO_SEPSIS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/AB1_STREPTO_SEPSIS.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/AB1_STREPTO_SEPSIS.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/ALL/EVA/AB1_STREPTO_SEPSIS.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,8 +36,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/AB1_STREPTO_SEPSIS.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_AB1_STREPTO_SEPSIS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/OverFYears/IMP/IMP_AB1_STREPTO_SEPSIS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/AB1_STREPTO_SEPSIS.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/AB1_STREPTO_SEPSIS.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/OverFYears/EVA/AB1_STREPTO_SEPSIS.csv" label="🔍 View full results" />

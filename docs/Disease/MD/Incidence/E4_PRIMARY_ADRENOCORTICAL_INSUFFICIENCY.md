@@ -13,7 +13,7 @@
 > Cases: **110**  
 > Controls: **212587**
 <img src="/Disease/Figures/ALL/Incidence/E4_PRIMARY_ADRENOCORTICAL_INSUFFICIENCY.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_E4_PRIMARY_ADRENOCORTICAL_INSUFFICIENCY.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_E4_PRIMARY_ADRENOCORTICAL_INSUFFICIENCY.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100735**  

@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/AMN2.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/AMN2.csv"/>

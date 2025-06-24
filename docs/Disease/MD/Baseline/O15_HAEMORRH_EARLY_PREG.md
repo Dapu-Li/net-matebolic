@@ -13,4 +13,4 @@
 > Cases: **478**  
 > Controls: **110401**
 <img src="/Disease/Figures/ALL/Baseline/O15_HAEMORRH_EARLY_PREG.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_HAEMORRH_EARLY_PREG.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_O15_HAEMORRH_EARLY_PREG.csv" label="🔍 View full results" />

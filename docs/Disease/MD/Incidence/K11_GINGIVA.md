@@ -13,7 +13,7 @@
 > Cases: **219**  
 > Controls: **204736**
 <img src="/Disease/Figures/ALL/Incidence/K11_GINGIVA.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_K11_GINGIVA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_K11_GINGIVA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **97322**  
@@ -28,4 +28,4 @@
 > Cases: **138**  
 > Controls: **107495**
 <img src="/Disease/Figures/Female/Incidence/K11_GINGIVA.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_K11_GINGIVA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Incidence/COX_K11_GINGIVA.csv" label="🔍 View full results" />

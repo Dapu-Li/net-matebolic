@@ -13,7 +13,7 @@
 > Cases: **139**  
 > Controls: **196153**
 <img src="/Disease/Figures/ALL/Incidence/J10_PNEUMONONBACT.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_J10_PNEUMONONBACT.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_J10_PNEUMONONBACT.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **91678**  

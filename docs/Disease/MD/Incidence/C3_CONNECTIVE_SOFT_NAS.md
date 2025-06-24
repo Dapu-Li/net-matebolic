@@ -13,14 +13,14 @@
 > Cases: **188**  
 > Controls: **162196**
 <img src="/Disease/Figures/ALL/Incidence/C3_CONNECTIVE_SOFT_NAS.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_C3_CONNECTIVE_SOFT_NAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_C3_CONNECTIVE_SOFT_NAS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **75532**  
 > Cases: **117**  
 > Controls: **75415**
 <img src="/Disease/Figures/Male/Incidence/C3_CONNECTIVE_SOFT_NAS.png"/>
-<CsvTable src="/Disease/Data/Male/Incidence/COX_C3_CONNECTIVE_SOFT_NAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Male/Incidence/COX_C3_CONNECTIVE_SOFT_NAS.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **86852**  

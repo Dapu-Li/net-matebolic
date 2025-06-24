@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/AB1_VIRAL_SKIN_MUCOUS_MEMBRANE.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/AB1_VIRAL_SKIN_MUCOUS_MEMBRANE.csv"/>

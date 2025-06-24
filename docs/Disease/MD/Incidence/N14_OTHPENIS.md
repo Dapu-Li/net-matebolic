@@ -13,4 +13,4 @@
 > Cases: **1156**  
 > Controls: **81957**
 <img src="/Disease/Figures/ALL/Incidence/N14_OTHPENIS.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_N14_OTHPENIS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_N14_OTHPENIS.csv" label="🔍 View full results" />

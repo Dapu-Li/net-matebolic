@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/L12_SEBORRKERAT.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/L12_SEBORRKERAT.csv"/>

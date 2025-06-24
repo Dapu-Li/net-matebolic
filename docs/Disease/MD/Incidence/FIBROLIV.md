@@ -13,7 +13,7 @@
 > Cases: **135**  
 > Controls: **212596**
 <img src="/Disease/Figures/ALL/Incidence/FIBROLIV.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_FIBROLIV.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_FIBROLIV.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100741**  

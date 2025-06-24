@@ -13,18 +13,18 @@
 > Cases: **407**  
 > Controls: **165159**
 <img src="/Disease/Figures/ALL/Baseline/R18_FLATU_RELATED_CONDI.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_R18_FLATU_RELATED_CONDI.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_R18_FLATU_RELATED_CONDI.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **81945**  
 > Cases: **135**  
 > Controls: **81810**
 <img src="/Disease/Figures/Male/Baseline/R18_FLATU_RELATED_CONDI.png"/>
-<CsvTable src="/Disease/Data/Male/Baseline/LG_R18_FLATU_RELATED_CONDI.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Male/Baseline/LG_R18_FLATU_RELATED_CONDI.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **83621**  
 > Cases: **272**  
 > Controls: **83349**
 <img src="/Disease/Figures/Female/Baseline/R18_FLATU_RELATED_CONDI.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_R18_FLATU_RELATED_CONDI.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Baseline/LG_R18_FLATU_RELATED_CONDI.csv" label="🔍 View full results" />

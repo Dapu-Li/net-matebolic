@@ -13,7 +13,7 @@
 > Cases: **130**  
 > Controls: **201877**
 <img src="/Disease/Figures/ALL/Baseline/R18_ABNORMAL_INVOLU_MOVEM.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_R18_ABNORMAL_INVOLU_MOVEM.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_R18_ABNORMAL_INVOLU_MOVEM.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **95462**  

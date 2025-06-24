@@ -13,7 +13,7 @@
 > Cases: **129**  
 > Controls: **183552**
 <img src="/Disease/Figures/ALL/Baseline/M13_MUSCLEDISNAS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_M13_MUSCLEDISNAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_M13_MUSCLEDISNAS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **87656**  

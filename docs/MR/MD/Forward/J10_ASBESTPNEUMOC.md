@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/J10_ASBESTPNEUMOC.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/J10_ASBESTPNEUMOC.csv"/>

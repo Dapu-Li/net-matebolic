@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/ALCOHOLACUTE10.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/ALCOHOLACUTE10.csv"/>

@@ -9,15 +9,15 @@
 > Cases: **15585**  
 > Controls: **197166**
 <img src="/Cluster/Figures/Incidence/LG/Cluster_13.png" />
-<CsvTable src="/Cluster/Data/Incidence/LG/LG_Cluster_13.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Incidence/LG/LG_Cluster_13.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **22035**
 <img src="/Cluster/Figures/Incidence/Histogram/Cluster_13_in.png" />
-<CsvTable src="/Cluster/Data/Incidence/Histogram/Cluster_13_in.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Incidence/Histogram/Cluster_13_in.csv" label="🔍 View full results" />
 
 <img src="/Cluster/Figures/Incidence/ORD/Cluster_13.png" />
-<CsvTable src="/Cluster/Data/Incidence/ORD/ORD_Cluster_13.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Incidence/ORD/ORD_Cluster_13.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - M13_PREPATELLARBURSITIS (13) - Prepatellar bursitis

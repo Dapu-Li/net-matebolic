@@ -13,7 +13,7 @@
 > Cases: **350**  
 > Controls: **212331**
 <img src="/Disease/Figures/ALL/Incidence/CD2_BENIGN_PARATHYROID.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_CD2_BENIGN_PARATHYROID.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_CD2_BENIGN_PARATHYROID.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100741**  
@@ -28,4 +28,4 @@
 > Cases: **273**  
 > Controls: **111667**
 <img src="/Disease/Figures/Female/Incidence/CD2_BENIGN_PARATHYROID.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_CD2_BENIGN_PARATHYROID.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Incidence/COX_CD2_BENIGN_PARATHYROID.csv" label="🔍 View full results" />

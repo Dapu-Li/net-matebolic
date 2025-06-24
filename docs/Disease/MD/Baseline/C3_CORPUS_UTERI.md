@@ -13,4 +13,4 @@
 > Cases: **290**  
 > Controls: **87628**
 <img src="/Disease/Figures/ALL/Baseline/C3_CORPUS_UTERI.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_C3_CORPUS_UTERI.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_C3_CORPUS_UTERI.csv" label="🔍 View full results" />

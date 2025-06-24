@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/CHIRBIL_PRIM.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/CHIRBIL_PRIM.csv"/>

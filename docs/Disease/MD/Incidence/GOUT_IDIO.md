@@ -13,7 +13,7 @@
 > Cases: **120**  
 > Controls: **212620**
 <img src="/Disease/Figures/ALL/Incidence/GOUT_IDIO.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_GOUT_IDIO.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_GOUT_IDIO.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100746**  

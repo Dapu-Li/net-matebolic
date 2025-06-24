@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/O15_LABOUR_OTHER.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_O15_LABOUR_OTHER.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/Baseline/IMP/IMP_O15_LABOUR_OTHER.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/O15_LABOUR_OTHER.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/O15_LABOUR_OTHER.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/Baseline/EVA/O15_LABOUR_OTHER.csv" label="🔍 View full results" />
 
 ---
 

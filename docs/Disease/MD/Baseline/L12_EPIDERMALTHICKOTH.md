@@ -13,7 +13,7 @@
 > Cases: **138**  
 > Controls: **197897**
 <img src="/Disease/Figures/ALL/Baseline/L12_EPIDERMALTHICKOTH.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_L12_EPIDERMALTHICKOTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_L12_EPIDERMALTHICKOTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **93848**  

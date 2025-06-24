@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/CHRONNAS.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/CHRONNAS.csv"/>

@@ -13,7 +13,7 @@
 > Cases: **157**  
 > Controls: **212310**
 <img src="/Disease/Figures/ALL/Incidence/CD2_BENIGN_SKIN_TRUNK.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_CD2_BENIGN_SKIN_TRUNK.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_CD2_BENIGN_SKIN_TRUNK.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100644**  

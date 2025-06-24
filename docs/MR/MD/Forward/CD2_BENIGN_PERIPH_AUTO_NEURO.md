@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/CD2_BENIGN_PERIPH_AUTO_NEURO.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/CD2_BENIGN_PERIPH_AUTO_NEURO.csv"/>

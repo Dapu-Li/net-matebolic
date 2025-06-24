@@ -13,4 +13,4 @@
 > Cases: **116**  
 > Controls: **111879**
 <img src="/Disease/Figures/ALL/Baseline/O15_POOR_FETGRO.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_POOR_FETGRO.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_O15_POOR_FETGRO.csv" label="🔍 View full results" />

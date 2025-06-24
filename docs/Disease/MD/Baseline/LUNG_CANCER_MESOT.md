@@ -13,7 +13,7 @@
 > Cases: **139**  
 > Controls: **211075**
 <img src="/Disease/Figures/ALL/Baseline/LUNG_CANCER_MESOT.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_LUNG_CANCER_MESOT.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_LUNG_CANCER_MESOT.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100051**  

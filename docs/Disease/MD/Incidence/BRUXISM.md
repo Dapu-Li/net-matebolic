@@ -13,7 +13,7 @@
 > Cases: **131**  
 > Controls: **212525**
 <img src="/Disease/Figures/ALL/Incidence/BRUXISM.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_BRUXISM.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_BRUXISM.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100720**  

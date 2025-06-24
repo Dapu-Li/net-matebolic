@@ -13,7 +13,7 @@
 > Cases: **119**  
 > Controls: **212626**
 <img src="/Disease/Figures/ALL/Baseline/M13_POLYMYALGIA.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_M13_POLYMYALGIA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_M13_POLYMYALGIA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100754**  

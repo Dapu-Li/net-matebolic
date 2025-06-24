@@ -13,7 +13,7 @@
 > Cases: **128**  
 > Controls: **212546**
 <img src="/Disease/Figures/ALL/Incidence/DUODENAL_ULCER_CHRONIC_UNSPE_W_HAEMORRHAGE.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_DUODENAL_ULCER_CHRONIC_UNSPE_W_HAEMORRHAGE.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_DUODENAL_ULCER_CHRONIC_UNSPE_W_HAEMORRHAGE.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100692**  

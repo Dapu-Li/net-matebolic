@@ -13,18 +13,18 @@
 > Cases: **5318**  
 > Controls: **207231**
 <img src="/Disease/Figures/ALL/Baseline/D3_BLOOD_IMMUN.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_D3_BLOOD_IMMUN.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_D3_BLOOD_IMMUN.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100658**  
 > Cases: **1830**  
 > Controls: **98828**
 <img src="/Disease/Figures/Male/Baseline/D3_BLOOD_IMMUN.png"/>
-<CsvTable src="/Disease/Data/Male/Baseline/LG_D3_BLOOD_IMMUN.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Male/Baseline/LG_D3_BLOOD_IMMUN.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111891**  
 > Cases: **3488**  
 > Controls: **108403**
 <img src="/Disease/Figures/Female/Baseline/D3_BLOOD_IMMUN.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_D3_BLOOD_IMMUN.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Baseline/LG_D3_BLOOD_IMMUN.csv" label="🔍 View full results" />

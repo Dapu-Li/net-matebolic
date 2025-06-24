@@ -13,4 +13,4 @@
 > Cases: **592**  
 > Controls: **110216**
 <img src="/Disease/Figures/ALL/Baseline/O15_CONCEPT_ABNORM.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_CONCEPT_ABNORM.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_O15_CONCEPT_ABNORM.csv" label="🔍 View full results" />

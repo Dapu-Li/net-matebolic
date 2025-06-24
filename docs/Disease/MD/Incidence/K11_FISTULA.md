@@ -13,18 +13,18 @@
 > Cases: **1423**  
 > Controls: **210113**
 <img src="/Disease/Figures/ALL/Incidence/K11_FISTULA.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_K11_FISTULA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_K11_FISTULA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100087**  
 > Cases: **823**  
 > Controls: **99264**
 <img src="/Disease/Figures/Male/Incidence/K11_FISTULA.png"/>
-<CsvTable src="/Disease/Data/Male/Incidence/COX_K11_FISTULA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Male/Incidence/COX_K11_FISTULA.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111449**  
 > Cases: **600**  
 > Controls: **110849**
 <img src="/Disease/Figures/Female/Incidence/K11_FISTULA.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_K11_FISTULA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Incidence/COX_K11_FISTULA.csv" label="🔍 View full results" />

@@ -13,7 +13,7 @@
 > Cases: **118**  
 > Controls: **212498**
 <img src="/Disease/Figures/ALL/Baseline/I9_ENDOCARD.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_I9_ENDOCARD.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_I9_ENDOCARD.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100688**  

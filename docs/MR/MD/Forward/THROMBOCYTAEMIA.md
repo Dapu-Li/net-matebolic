@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/THROMBOCYTAEMIA.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/THROMBOCYTAEMIA.csv"/>

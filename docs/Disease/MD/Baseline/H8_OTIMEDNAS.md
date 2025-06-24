@@ -13,7 +13,7 @@
 > Cases: **163**  
 > Controls: **210757**
 <img src="/Disease/Figures/ALL/Baseline/H8_OTIMEDNAS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_H8_OTIMEDNAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_H8_OTIMEDNAS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99856**  

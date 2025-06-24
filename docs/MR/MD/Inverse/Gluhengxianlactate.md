@@ -18,4 +18,4 @@
 ## 📊 Data Table
 
 
-<CsvTableMRI src="/MR/Data/Inverse/Gluhengxianlactate.csv"/>
+<CsvTableMRI src="/MR_Data/Inverse/Gluhengxianlactate.csv"/>

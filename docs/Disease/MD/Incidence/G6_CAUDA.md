@@ -13,14 +13,14 @@
 > Cases: **192**  
 > Controls: **210041**
 <img src="/Disease/Figures/ALL/Incidence/G6_CAUDA.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_G6_CAUDA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_G6_CAUDA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99301**  
 > Cases: **106**  
 > Controls: **99195**
 <img src="/Disease/Figures/Male/Incidence/G6_CAUDA.png"/>
-<CsvTable src="/Disease/Data/Male/Incidence/COX_G6_CAUDA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Male/Incidence/COX_G6_CAUDA.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **110932**  

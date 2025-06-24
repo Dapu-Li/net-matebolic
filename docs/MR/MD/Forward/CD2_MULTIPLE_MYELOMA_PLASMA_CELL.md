@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/CD2_MULTIPLE_MYELOMA_PLASMA_CELL.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/CD2_MULTIPLE_MYELOMA_PLASMA_CELL.csv"/>

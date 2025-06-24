@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/H7_ANOMAPUPFUNC.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/H7_ANOMAPUPFUNC.csv"/>

@@ -13,7 +13,7 @@
 > Cases: **137**  
 > Controls: **211386**
 <img src="/Disease/Figures/ALL/Baseline/H7_CORNEALOTH.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_H7_CORNEALOTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_H7_CORNEALOTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100178**  

@@ -13,7 +13,7 @@
 > Cases: **114**  
 > Controls: **211999**
 <img src="/Disease/Figures/ALL/Incidence/G6_HERATAXIA.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_G6_HERATAXIA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_G6_HERATAXIA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100425**  

@@ -13,7 +13,7 @@
 > Cases: **105**  
 > Controls: **212646**
 <img src="/Disease/Figures/ALL/Baseline/CD2_INSITU_SKIN.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_CD2_INSITU_SKIN.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_CD2_INSITU_SKIN.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100756**  

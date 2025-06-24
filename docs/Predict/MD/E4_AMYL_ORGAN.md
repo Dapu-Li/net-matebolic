@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/E4_AMYL_ORGAN.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_E4_AMYL_ORGAN.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/ALL/IMP/IMP_E4_AMYL_ORGAN.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/E4_AMYL_ORGAN.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/E4_AMYL_ORGAN.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/ALL/EVA/E4_AMYL_ORGAN.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,8 +36,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/E4_AMYL_ORGAN.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_E4_AMYL_ORGAN.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/OverFYears/IMP/IMP_E4_AMYL_ORGAN.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/E4_AMYL_ORGAN.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/E4_AMYL_ORGAN.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/OverFYears/EVA/E4_AMYL_ORGAN.csv" label="🔍 View full results" />

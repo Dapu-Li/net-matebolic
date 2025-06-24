@@ -13,7 +13,7 @@
 > Cases: **236**  
 > Controls: **183954**
 <img src="/Disease/Figures/ALL/Baseline/J10_BRONCHIECTASIS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_J10_BRONCHIECTASIS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_J10_BRONCHIECTASIS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **87843**  
@@ -27,4 +27,4 @@
 > Cases: **145**  
 > Controls: **96202**
 <img src="/Disease/Figures/Female/Baseline/J10_BRONCHIECTASIS.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_J10_BRONCHIECTASIS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Baseline/LG_J10_BRONCHIECTASIS.csv" label="🔍 View full results" />

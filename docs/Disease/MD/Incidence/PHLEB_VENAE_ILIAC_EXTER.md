@@ -13,18 +13,18 @@
 > Cases: **1942**  
 > Controls: **209811**
 <img src="/Disease/Figures/ALL/Incidence/PHLEB_VENAE_ILIAC_EXTER.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_PHLEB_VENAE_ILIAC_EXTER.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_PHLEB_VENAE_ILIAC_EXTER.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100250**  
 > Cases: **1019**  
 > Controls: **99231**
 <img src="/Disease/Figures/Male/Incidence/PHLEB_VENAE_ILIAC_EXTER.png"/>
-<CsvTable src="/Disease/Data/Male/Incidence/COX_PHLEB_VENAE_ILIAC_EXTER.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Male/Incidence/COX_PHLEB_VENAE_ILIAC_EXTER.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111503**  
 > Cases: **923**  
 > Controls: **110580**
 <img src="/Disease/Figures/Female/Incidence/PHLEB_VENAE_ILIAC_EXTER.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_PHLEB_VENAE_ILIAC_EXTER.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Incidence/COX_PHLEB_VENAE_ILIAC_EXTER.csv" label="🔍 View full results" />

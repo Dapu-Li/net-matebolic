@@ -18,4 +18,4 @@
 ## 📊 Data Table
 
 
-<CsvTableMRI src="/MR/Data/Inverse/Val.csv"/>
+<CsvTableMRI src="/MR_Data/Inverse/Val.csv"/>

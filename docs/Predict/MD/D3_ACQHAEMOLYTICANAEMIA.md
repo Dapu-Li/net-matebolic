@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/D3_ACQHAEMOLYTICANAEMIA.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_D3_ACQHAEMOLYTICANAEMIA.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/ALL/IMP/IMP_D3_ACQHAEMOLYTICANAEMIA.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/D3_ACQHAEMOLYTICANAEMIA.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/D3_ACQHAEMOLYTICANAEMIA.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/ALL/EVA/D3_ACQHAEMOLYTICANAEMIA.csv" label="🔍 View full results" />
 
 ---
 

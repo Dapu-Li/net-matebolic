@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/K11_LIP_ORAL_MUCOSA.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/K11_LIP_ORAL_MUCOSA.csv"/>

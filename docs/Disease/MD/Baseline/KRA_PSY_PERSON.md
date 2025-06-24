@@ -13,7 +13,7 @@
 > Cases: **101**  
 > Controls: **212649**
 <img src="/Disease/Figures/ALL/Baseline/KRA_PSY_PERSON.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_KRA_PSY_PERSON.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_KRA_PSY_PERSON.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100755**  

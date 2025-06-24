@@ -13,4 +13,4 @@
 > Cases: **303**  
 > Controls: **108787**
 <img src="/Disease/Figures/ALL/Baseline/O15_ANTEPART_HAEM_NAS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_ANTEPART_HAEM_NAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_O15_ANTEPART_HAEM_NAS.csv" label="🔍 View full results" />

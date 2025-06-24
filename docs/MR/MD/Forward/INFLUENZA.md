@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/INFLUENZA.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/INFLUENZA.csv"/>

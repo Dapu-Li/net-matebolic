@@ -13,4 +13,4 @@
 > Cases: **332**  
 > Controls: **107523**
 <img src="/Disease/Figures/ALL/Baseline/O15_LABOUR_OTHER.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_LABOUR_OTHER.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_O15_LABOUR_OTHER.csv" label="🔍 View full results" />

@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/H7_DEGENMYOPIA.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_H7_DEGENMYOPIA.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/ALL/IMP/IMP_H7_DEGENMYOPIA.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/H7_DEGENMYOPIA.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/H7_DEGENMYOPIA.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/ALL/EVA/H7_DEGENMYOPIA.csv" label="🔍 View full results" />
 
 ---
 

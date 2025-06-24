@@ -13,7 +13,7 @@
 > Cases: **100**  
 > Controls: **212609**
 <img src="/Disease/Figures/ALL/Incidence/CD2_TNK_LYMPHOMA.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_CD2_TNK_LYMPHOMA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_CD2_TNK_LYMPHOMA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100735**  

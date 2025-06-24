@@ -13,7 +13,7 @@
 > Cases: **119**  
 > Controls: **198777**
 <img src="/Disease/Figures/ALL/Incidence/G6_STATUSEPI.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_G6_STATUSEPI.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_G6_STATUSEPI.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **93663**  

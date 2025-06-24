@@ -13,7 +13,7 @@
 > Cases: **117**  
 > Controls: **212633**
 <img src="/Disease/Figures/ALL/Baseline/DUODENAL_ULCER_CHRONIC_WO_HAEMORRHAGE_PERFORATION.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_DUODENAL_ULCER_CHRONIC_WO_HAEMORRHAGE_PERFORATION.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_DUODENAL_ULCER_CHRONIC_WO_HAEMORRHAGE_PERFORATION.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100755**  

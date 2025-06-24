@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/AB1_OTHER_SEPSIS.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/AB1_OTHER_SEPSIS.csv"/>

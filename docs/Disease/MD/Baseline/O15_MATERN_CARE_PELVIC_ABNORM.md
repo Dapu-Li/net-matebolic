@@ -13,4 +13,4 @@
 > Cases: **732**  
 > Controls: **108808**
 <img src="/Disease/Figures/ALL/Baseline/O15_MATERN_CARE_PELVIC_ABNORM.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_MATERN_CARE_PELVIC_ABNORM.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_O15_MATERN_CARE_PELVIC_ABNORM.csv" label="🔍 View full results" />

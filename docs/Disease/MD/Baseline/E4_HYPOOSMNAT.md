@@ -13,7 +13,7 @@
 > Cases: **120**  
 > Controls: **169526**
 <img src="/Disease/Figures/ALL/Baseline/E4_HYPOOSMNAT.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_E4_HYPOOSMNAT.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_E4_HYPOOSMNAT.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **77042**  

@@ -13,7 +13,7 @@
 > Cases: **146**  
 > Controls: **207819**
 <img src="/Disease/Figures/ALL/Baseline/MEMLOSS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_MEMLOSS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_MEMLOSS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **98283**  

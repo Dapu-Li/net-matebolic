@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/CHIRHEP_NAS.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/CHIRHEP_NAS.csv"/>

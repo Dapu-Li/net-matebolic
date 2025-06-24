@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/CAMPYLOENTERITIS.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/CAMPYLOENTERITIS.csv"/>

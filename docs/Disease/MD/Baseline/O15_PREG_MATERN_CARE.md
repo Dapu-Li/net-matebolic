@@ -13,4 +13,4 @@
 > Cases: **936**  
 > Controls: **110405**
 <img src="/Disease/Figures/ALL/Baseline/O15_PREG_MATERN_CARE.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_PREG_MATERN_CARE.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_O15_PREG_MATERN_CARE.csv" label="🔍 View full results" />

@@ -18,4 +18,4 @@
 ## 📊 Data Table
 
 
-<CsvTableMRI src="/MR/Data/Inverse/HDLhengxianTG.csv"/>
+<CsvTableMRI src="/MR_Data/Inverse/HDLhengxianTG.csv"/>

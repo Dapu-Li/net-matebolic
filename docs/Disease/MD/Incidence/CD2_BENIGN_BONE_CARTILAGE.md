@@ -13,7 +13,7 @@
 > Cases: **125**  
 > Controls: **212521**
 <img src="/Disease/Figures/ALL/Incidence/CD2_BENIGN_BONE_CARTILAGE.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_CD2_BENIGN_BONE_CARTILAGE.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_CD2_BENIGN_BONE_CARTILAGE.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100716**  

@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/M13_HALLUXRIGIDUS.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/M13_HALLUXRIGIDUS.csv"/>

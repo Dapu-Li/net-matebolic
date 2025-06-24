@@ -13,7 +13,7 @@
 > Cases: **102**  
 > Controls: **211726**
 <img src="/Disease/Figures/ALL/Baseline/H8_CERUMEN.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_H8_CERUMEN.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_H8_CERUMEN.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100278**  

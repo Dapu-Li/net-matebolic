@@ -13,7 +13,7 @@
 > Cases: **110**  
 > Controls: **212632**
 <img src="/Disease/Figures/ALL/Baseline/SLE_NOS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_SLE_NOS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_SLE_NOS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100754**  

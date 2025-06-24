@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/I9_THROMBOTH.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_I9_THROMBOTH.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/ALL/IMP/IMP_I9_THROMBOTH.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/I9_THROMBOTH.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/I9_THROMBOTH.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/ALL/EVA/I9_THROMBOTH.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,8 +36,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/I9_THROMBOTH.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_I9_THROMBOTH.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/OverFYears/IMP/IMP_I9_THROMBOTH.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/I9_THROMBOTH.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/I9_THROMBOTH.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/OverFYears/EVA/I9_THROMBOTH.csv" label="🔍 View full results" />

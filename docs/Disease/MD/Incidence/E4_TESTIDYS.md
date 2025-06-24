@@ -13,4 +13,4 @@
 > Cases: **138**  
 > Controls: **99594**
 <img src="/Disease/Figures/ALL/Incidence/E4_TESTIDYS.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_E4_TESTIDYS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_E4_TESTIDYS.csv" label="🔍 View full results" />

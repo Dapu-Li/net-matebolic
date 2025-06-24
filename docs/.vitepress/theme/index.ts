@@ -7,6 +7,7 @@ import CsvTableIMP from './components/CsvTableIMP.vue'
 import CsvTableROC from './components/CsvTableROC.vue'
 import CsvTableMRF from './components/CsvTableMRF.vue'
 import CsvTableMRI from './components/CsvTableMRI.vue'
+import CsvTableNumb from './components/CsvTableNumb.vue'
 //import CsvTable_Sen from './components/CsvTable_Sen.vue'
 import './style.css'
   
@@ -24,5 +25,6 @@ export default {
     app.component('CsvTableMRF', CsvTableMRF) //  注册 CsvTableMR_F 组件
     app.component('CsvTableMRI', CsvTableMRI) //  注册 CsvTableMR_I 组件
     //app.component('CsvTable_Sen', CsvTable_Sen) //  注册 CsvTable_Sen 组件
+    app.component('CsvTableNumb', CsvTableNumb) //  注册 CsvTableNumb 组件
   }
 } satisfies Theme

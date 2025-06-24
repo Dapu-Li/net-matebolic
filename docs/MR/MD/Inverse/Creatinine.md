@@ -18,4 +18,4 @@
 ## 📊 Data Table
 
 
-<CsvTableMRI src="/MR/Data/Inverse/Creatinine.csv"/>
+<CsvTableMRI src="/MR_Data/Inverse/Creatinine.csv"/>

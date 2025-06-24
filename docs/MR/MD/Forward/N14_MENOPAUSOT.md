@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/N14_MENOPAUSOT.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/N14_MENOPAUSOT.csv"/>

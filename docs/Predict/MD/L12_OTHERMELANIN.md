@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/L12_OTHERMELANIN.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_L12_OTHERMELANIN.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/ALL/IMP/IMP_L12_OTHERMELANIN.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/L12_OTHERMELANIN.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/L12_OTHERMELANIN.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/ALL/EVA/L12_OTHERMELANIN.csv" label="🔍 View full results" />
 
 ---
 
@@ -30,11 +30,11 @@
 
 <img src="/Predict/Figures/FYears/IMP/L12_OTHERMELANIN.png" />
 
-<CsvTableIMP src="/Predict/Data/FYears/IMP/IMP_L12_OTHERMELANIN.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/FYears/IMP/IMP_L12_OTHERMELANIN.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/FYears/ROC/L12_OTHERMELANIN.png" />
 
-<CsvTableROC src="/Predict/Data/FYears/EVA/L12_OTHERMELANIN.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/FYears/EVA/L12_OTHERMELANIN.csv" label="🔍 View full results" />
 
 ---
 
@@ -42,8 +42,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/L12_OTHERMELANIN.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_L12_OTHERMELANIN.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/OverFYears/IMP/IMP_L12_OTHERMELANIN.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/L12_OTHERMELANIN.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/L12_OTHERMELANIN.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/OverFYears/EVA/L12_OTHERMELANIN.csv" label="🔍 View full results" />

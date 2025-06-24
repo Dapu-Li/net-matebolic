@@ -13,7 +13,7 @@
 > Cases: **135**  
 > Controls: **210700**
 <img src="/Disease/Figures/ALL/Baseline/E4_PARATHYRO.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_E4_PARATHYRO.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_E4_PARATHYRO.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99866**  

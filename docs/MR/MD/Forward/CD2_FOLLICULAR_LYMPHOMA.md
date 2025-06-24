@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/CD2_FOLLICULAR_LYMPHOMA.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/CD2_FOLLICULAR_LYMPHOMA.csv"/>

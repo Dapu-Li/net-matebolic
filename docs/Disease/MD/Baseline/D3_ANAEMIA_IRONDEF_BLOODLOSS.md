@@ -13,7 +13,7 @@
 > Cases: **149**  
 > Controls: **212602**
 <img src="/Disease/Figures/ALL/Baseline/D3_ANAEMIA_IRONDEF_BLOODLOSS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_D3_ANAEMIA_IRONDEF_BLOODLOSS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_D3_ANAEMIA_IRONDEF_BLOODLOSS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100756**  
@@ -27,4 +27,4 @@
 > Cases: **125**  
 > Controls: **111870**
 <img src="/Disease/Figures/Female/Baseline/D3_ANAEMIA_IRONDEF_BLOODLOSS.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_D3_ANAEMIA_IRONDEF_BLOODLOSS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Baseline/LG_D3_ANAEMIA_IRONDEF_BLOODLOSS.csv" label="🔍 View full results" />

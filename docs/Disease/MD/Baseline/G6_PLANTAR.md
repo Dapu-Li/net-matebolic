@@ -13,7 +13,7 @@
 > Cases: **303**  
 > Controls: **199059**
 <img src="/Disease/Figures/ALL/Baseline/G6_PLANTAR.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_G6_PLANTAR.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_G6_PLANTAR.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **95317**  
@@ -27,4 +27,4 @@
 > Cases: **254**  
 > Controls: **103791**
 <img src="/Disease/Figures/Female/Baseline/G6_PLANTAR.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_G6_PLANTAR.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Baseline/LG_G6_PLANTAR.csv" label="🔍 View full results" />

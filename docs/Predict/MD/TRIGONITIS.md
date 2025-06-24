@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/TRIGONITIS.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_TRIGONITIS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/Baseline/IMP/IMP_TRIGONITIS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/TRIGONITIS.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/TRIGONITIS.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/Baseline/EVA/TRIGONITIS.csv" label="🔍 View full results" />
 
 ---
 

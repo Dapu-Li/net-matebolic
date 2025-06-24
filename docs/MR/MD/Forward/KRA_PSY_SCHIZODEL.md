@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/KRA_PSY_SCHIZODEL.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/KRA_PSY_SCHIZODEL.csv"/>

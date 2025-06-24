@@ -13,7 +13,7 @@
 > Cases: **102**  
 > Controls: **212617**
 <img src="/Disease/Figures/ALL/Baseline/CD2_FOLLICULAR_LYMPHOMA.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_CD2_FOLLICULAR_LYMPHOMA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_CD2_FOLLICULAR_LYMPHOMA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100741**  

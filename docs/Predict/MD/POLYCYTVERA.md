@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/POLYCYTVERA.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_POLYCYTVERA.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/Baseline/IMP/IMP_POLYCYTVERA.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/POLYCYTVERA.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/POLYCYTVERA.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/Baseline/EVA/POLYCYTVERA.csv" label="🔍 View full results" />
 
 ---
 
@@ -24,11 +24,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/POLYCYTVERA.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_POLYCYTVERA.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/ALL/IMP/IMP_POLYCYTVERA.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/POLYCYTVERA.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/POLYCYTVERA.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/ALL/EVA/POLYCYTVERA.csv" label="🔍 View full results" />
 
 ---
 
@@ -42,8 +42,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/POLYCYTVERA.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_POLYCYTVERA.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/OverFYears/IMP/IMP_POLYCYTVERA.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/POLYCYTVERA.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/POLYCYTVERA.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/OverFYears/EVA/POLYCYTVERA.csv" label="🔍 View full results" />

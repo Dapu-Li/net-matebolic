@@ -13,7 +13,7 @@
 > Cases: **149**  
 > Controls: **205437**
 <img src="/Disease/Figures/ALL/Incidence/L12_NAILNAS.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_L12_NAILNAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_L12_NAILNAS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **97271**  

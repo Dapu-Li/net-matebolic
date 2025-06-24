@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/RHEUMA_SEROPOS_WIDE.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/RHEUMA_SEROPOS_WIDE.csv"/>

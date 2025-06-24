@@ -13,4 +13,4 @@
 > Cases: **224**  
 > Controls: **100494**
 <img src="/Disease/Figures/ALL/Incidence/CD2_INSITU_PROSTATE.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_CD2_INSITU_PROSTATE.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_CD2_INSITU_PROSTATE.csv" label="🔍 View full results" />

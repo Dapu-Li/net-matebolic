@@ -13,4 +13,4 @@
 > Cases: **200**  
 > Controls: **107522**
 <img src="/Disease/Figures/ALL/Baseline/O15_LABOUR_ABNORM_FORCES.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_LABOUR_ABNORM_FORCES.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_O15_LABOUR_ABNORM_FORCES.csv" label="🔍 View full results" />

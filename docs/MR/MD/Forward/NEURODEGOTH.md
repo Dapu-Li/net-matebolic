@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/NEURODEGOTH.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/NEURODEGOTH.csv"/>

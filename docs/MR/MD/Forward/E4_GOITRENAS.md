@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/E4_GOITRENAS.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/E4_GOITRENAS.csv"/>

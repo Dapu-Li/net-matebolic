@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/C3_CERVIX_UTERI.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_C3_CERVIX_UTERI.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/Baseline/IMP/IMP_C3_CERVIX_UTERI.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/C3_CERVIX_UTERI.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/C3_CERVIX_UTERI.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/Baseline/EVA/C3_CERVIX_UTERI.csv" label="🔍 View full results" />
 
 ---
 

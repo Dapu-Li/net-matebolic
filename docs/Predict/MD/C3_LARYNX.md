@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/C3_LARYNX.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_C3_LARYNX.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/ALL/IMP/IMP_C3_LARYNX.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/C3_LARYNX.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/C3_LARYNX.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/ALL/EVA/C3_LARYNX.csv" label="🔍 View full results" />
 
 ---
 

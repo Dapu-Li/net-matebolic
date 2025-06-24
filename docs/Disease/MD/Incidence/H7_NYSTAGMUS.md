@@ -13,18 +13,18 @@
 > Cases: **271**  
 > Controls: **211419**
 <img src="/Disease/Figures/ALL/Incidence/H7_NYSTAGMUS.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_H7_NYSTAGMUS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_H7_NYSTAGMUS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100254**  
 > Cases: **146**  
 > Controls: **100108**
 <img src="/Disease/Figures/Male/Incidence/H7_NYSTAGMUS.png"/>
-<CsvTable src="/Disease/Data/Male/Incidence/COX_H7_NYSTAGMUS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Male/Incidence/COX_H7_NYSTAGMUS.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111436**  
 > Cases: **125**  
 > Controls: **111311**
 <img src="/Disease/Figures/Female/Incidence/H7_NYSTAGMUS.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_H7_NYSTAGMUS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Incidence/COX_H7_NYSTAGMUS.csv" label="🔍 View full results" />

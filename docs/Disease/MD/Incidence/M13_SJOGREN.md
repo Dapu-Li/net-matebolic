@@ -13,7 +13,7 @@
 > Cases: **452**  
 > Controls: **212181**
 <img src="/Disease/Figures/ALL/Incidence/M13_SJOGREN.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_M13_SJOGREN.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_M13_SJOGREN.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100745**  
@@ -28,4 +28,4 @@
 > Cases: **402**  
 > Controls: **111486**
 <img src="/Disease/Figures/Female/Incidence/M13_SJOGREN.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_M13_SJOGREN.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Incidence/COX_M13_SJOGREN.csv" label="🔍 View full results" />

@@ -13,7 +13,7 @@
 > Cases: **108**  
 > Controls: **150605**
 <img src="/Disease/Figures/ALL/Incidence/K11_INTUSS.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_K11_INTUSS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_K11_INTUSS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **71592**  

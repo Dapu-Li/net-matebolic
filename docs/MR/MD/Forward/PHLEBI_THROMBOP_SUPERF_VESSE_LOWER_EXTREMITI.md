@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/PHLEBI_THROMBOP_SUPERF_VESSE_LOWER_EXTREMITI.csv"/>
+<CsvTableMRF src="/MR_Data/Forward/PHLEBI_THROMBOP_SUPERF_VESSE_LOWER_EXTREMITI.csv"/>

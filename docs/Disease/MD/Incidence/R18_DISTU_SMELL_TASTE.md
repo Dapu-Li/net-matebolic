@@ -13,7 +13,7 @@
 > Cases: **104**  
 > Controls: **200480**
 <img src="/Disease/Figures/ALL/Incidence/R18_DISTU_SMELL_TASTE.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_R18_DISTU_SMELL_TASTE.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_R18_DISTU_SMELL_TASTE.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **94609**  

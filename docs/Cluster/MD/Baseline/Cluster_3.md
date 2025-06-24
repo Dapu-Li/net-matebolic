@@ -9,15 +9,15 @@
 > Cases: **3655**  
 > Controls: **209096**
 <img src="/Cluster/Figures/Baseline/LG/Cluster_3.png" />
-<CsvTable src="/Cluster/Data/Baseline/LG/LG_Cluster_3.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Baseline/LG/LG_Cluster_3.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **5503**
 <img src="/Cluster/Figures/Baseline/Histogram/Cluster_3_ba.png" />
-<CsvTable src="/Cluster/Data/Baseline/Histogram/Cluster_3_ba.csv" label="🔍 View full results" />
+<CsvTableNumb src="/Cluster_Data/Baseline/Histogram/Cluster_3_ba.csv" label="🔍 View full results" />
         
 <img src="/Cluster/Figures/Baseline/ORD/Cluster_3.png" />
-<CsvTable src="/Cluster/Data/Baseline/ORD/ORD_Cluster_3.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster_Data/Baseline/ORD/ORD_Cluster_3.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - OTHER_CHRONIC_CYSTIT (14) - Other chronic cystitis, drug-induced

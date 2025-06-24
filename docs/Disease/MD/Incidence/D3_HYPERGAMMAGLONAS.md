@@ -13,7 +13,7 @@
 > Cases: **142**  
 > Controls: **212557**
 <img src="/Disease/Figures/ALL/Incidence/D3_HYPERGAMMAGLONAS.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_D3_HYPERGAMMAGLONAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_D3_HYPERGAMMAGLONAS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100727**  

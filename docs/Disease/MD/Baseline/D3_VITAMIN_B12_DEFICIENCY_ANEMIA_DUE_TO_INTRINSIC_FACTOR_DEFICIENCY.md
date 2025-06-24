@@ -13,7 +13,7 @@
 > Cases: **107**  
 > Controls: **212641**
 <img src="/Disease/Figures/ALL/Baseline/D3_VITAMIN_B12_DEFICIENCY_ANEMIA_DUE_TO_INTRINSIC_FACTOR_DEFICIENCY.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_D3_VITAMIN_B12_DEFICIENCY_ANEMIA_DUE_TO_INTRINSIC_FACTOR_DEFICIENCY.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_D3_VITAMIN_B12_DEFICIENCY_ANEMIA_DUE_TO_INTRINSIC_FACTOR_DEFICIENCY.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100754**  

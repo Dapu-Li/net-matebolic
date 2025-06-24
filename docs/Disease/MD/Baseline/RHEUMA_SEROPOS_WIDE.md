@@ -13,7 +13,7 @@
 > Cases: **138**  
 > Controls: **212607**
 <img src="/Disease/Figures/ALL/Baseline/RHEUMA_SEROPOS_WIDE.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_RHEUMA_SEROPOS_WIDE.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_RHEUMA_SEROPOS_WIDE.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100752**  
@@ -27,4 +27,4 @@
 > Cases: **103**  
 > Controls: **111890**
 <img src="/Disease/Figures/Female/Baseline/RHEUMA_SEROPOS_WIDE.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_RHEUMA_SEROPOS_WIDE.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Baseline/LG_RHEUMA_SEROPOS_WIDE.csv" label="🔍 View full results" />

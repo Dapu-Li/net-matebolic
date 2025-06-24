@@ -13,18 +13,18 @@
 > Cases: **1266**  
 > Controls: **210577**
 <img src="/Disease/Figures/ALL/Baseline/N14_RENALTUB.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_RENALTUB.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_N14_RENALTUB.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100354**  
 > Cases: **701**  
 > Controls: **99653**
 <img src="/Disease/Figures/Male/Baseline/N14_RENALTUB.png"/>
-<CsvTable src="/Disease/Data/Male/Baseline/LG_N14_RENALTUB.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Male/Baseline/LG_N14_RENALTUB.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111489**  
 > Cases: **565**  
 > Controls: **110924**
 <img src="/Disease/Figures/Female/Baseline/N14_RENALTUB.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_N14_RENALTUB.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Baseline/LG_N14_RENALTUB.csv" label="🔍 View full results" />

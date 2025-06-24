@@ -13,7 +13,7 @@
 > Cases: **138**  
 > Controls: **197337**
 <img src="/Disease/Figures/ALL/Incidence/L12_CHRONICULCEROFSKIN.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_L12_CHRONICULCEROFSKIN.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_L12_CHRONICULCEROFSKIN.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **93568**  

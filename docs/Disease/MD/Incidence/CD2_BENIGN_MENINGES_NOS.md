@@ -13,7 +13,7 @@
 > Cases: **174**  
 > Controls: **212533**
 <img src="/Disease/Figures/ALL/Incidence/CD2_BENIGN_MENINGES_NOS.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_CD2_BENIGN_MENINGES_NOS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_CD2_BENIGN_MENINGES_NOS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100743**  
@@ -28,4 +28,4 @@
 > Cases: **121**  
 > Controls: **111843**
 <img src="/Disease/Figures/Female/Incidence/CD2_BENIGN_MENINGES_NOS.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_CD2_BENIGN_MENINGES_NOS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Incidence/COX_CD2_BENIGN_MENINGES_NOS.csv" label="🔍 View full results" />

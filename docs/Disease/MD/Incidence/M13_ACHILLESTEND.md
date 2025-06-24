@@ -13,7 +13,7 @@
 > Cases: **166**  
 > Controls: **184291**
 <img src="/Disease/Figures/ALL/Incidence/M13_ACHILLESTEND.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_M13_ACHILLESTEND.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_M13_ACHILLESTEND.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **88595**  

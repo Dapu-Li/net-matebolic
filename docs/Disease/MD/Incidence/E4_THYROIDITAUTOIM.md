@@ -13,7 +13,7 @@
 > Cases: **125**  
 > Controls: **196718**
 <img src="/Disease/Figures/ALL/Incidence/E4_THYROIDITAUTOIM.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_E4_THYROIDITAUTOIM.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_E4_THYROIDITAUTOIM.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **97327**  
@@ -28,4 +28,4 @@
 > Cases: **112**  
 > Controls: **99404**
 <img src="/Disease/Figures/Female/Incidence/E4_THYROIDITAUTOIM.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_E4_THYROIDITAUTOIM.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Incidence/COX_E4_THYROIDITAUTOIM.csv" label="🔍 View full results" />

@@ -13,7 +13,7 @@
 > Cases: **177**  
 > Controls: **162196**
 <img src="/Disease/Figures/ALL/Incidence/C3_BILIARY_TRACT.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_C3_BILIARY_TRACT.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_C3_BILIARY_TRACT.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **75513**  

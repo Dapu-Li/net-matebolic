@@ -13,4 +13,4 @@
 > Cases: **1576**  
 > Controls: **110419**
 <img src="/Disease/Figures/ALL/Baseline/O15_PREG_OTHER_MAT_DISORD.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_PREG_OTHER_MAT_DISORD.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_O15_PREG_OTHER_MAT_DISORD.csv" label="🔍 View full results" />

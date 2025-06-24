@@ -13,4 +13,4 @@
 > Cases: **434**  
 > Controls: **111561**
 <img src="/Disease/Figures/ALL/Baseline/CD2_BENIGN_OVARY.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_OVARY.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_CD2_BENIGN_OVARY.csv" label="🔍 View full results" />

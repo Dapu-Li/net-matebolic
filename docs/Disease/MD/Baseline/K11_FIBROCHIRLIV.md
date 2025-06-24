@@ -13,7 +13,7 @@
 > Cases: **127**  
 > Controls: **205929**
 <img src="/Disease/Figures/ALL/Baseline/K11_FIBROCHIRLIV.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_K11_FIBROCHIRLIV.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_K11_FIBROCHIRLIV.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **97514**  

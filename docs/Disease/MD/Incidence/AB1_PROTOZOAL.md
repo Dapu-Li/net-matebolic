@@ -13,7 +13,7 @@
 > Cases: **122**  
 > Controls: **212568**
 <img src="/Disease/Figures/ALL/Incidence/AB1_PROTOZOAL.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_AB1_PROTOZOAL.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_AB1_PROTOZOAL.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100723**  

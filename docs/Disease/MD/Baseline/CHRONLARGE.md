@@ -13,7 +13,7 @@
 > Cases: **136**  
 > Controls: **199413**
 <img src="/Disease/Figures/ALL/Baseline/CHRONLARGE.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_CHRONLARGE.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_CHRONLARGE.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **95281**  

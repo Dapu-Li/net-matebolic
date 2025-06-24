@@ -13,7 +13,7 @@
 > Cases: **143**  
 > Controls: **212605**
 <img src="/Disease/Figures/ALL/Baseline/D3_ANAEMIA_B12_DEF.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_D3_ANAEMIA_B12_DEF.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_D3_ANAEMIA_B12_DEF.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100754**  
@@ -27,4 +27,4 @@
 > Cases: **105**  
 > Controls: **111889**
 <img src="/Disease/Figures/Female/Baseline/D3_ANAEMIA_B12_DEF.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_D3_ANAEMIA_B12_DEF.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/Female/Baseline/LG_D3_ANAEMIA_B12_DEF.csv" label="🔍 View full results" />

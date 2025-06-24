@@ -13,7 +13,7 @@
 > Cases: **124**  
 > Controls: **160161**
 <img src="/Disease/Figures/ALL/Baseline/K11_PULC.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_K11_PULC.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_K11_PULC.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **76932**  

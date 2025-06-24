@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/N14_FEMALEINFERT.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_N14_FEMALEINFERT.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/Baseline/IMP/IMP_N14_FEMALEINFERT.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/N14_FEMALEINFERT.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/N14_FEMALEINFERT.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/Baseline/EVA/N14_FEMALEINFERT.csv" label="🔍 View full results" />
 
 ---
 

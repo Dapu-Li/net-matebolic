@@ -13,7 +13,7 @@
 > Cases: **104**  
 > Controls: **212636**
 <img src="/Disease/Figures/ALL/Incidence/HLP_C3_NSCLC_ADENO.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_HLP_C3_NSCLC_ADENO.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_HLP_C3_NSCLC_ADENO.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100749**  

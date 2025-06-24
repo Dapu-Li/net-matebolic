@@ -13,4 +13,4 @@
 > Cases: **752**  
 > Controls: **110713**
 <img src="/Disease/Figures/ALL/Baseline/N14_ENDOMETRIOSIS_DEEP.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_ENDOMETRIOSIS_DEEP.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Baseline/LG_N14_ENDOMETRIOSIS_DEEP.csv" label="🔍 View full results" />

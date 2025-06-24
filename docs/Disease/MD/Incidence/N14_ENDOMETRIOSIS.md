@@ -13,4 +13,4 @@
 > Cases: **750**  
 > Controls: **82645**
 <img src="/Disease/Figures/ALL/Incidence/N14_ENDOMETRIOSIS.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_N14_ENDOMETRIOSIS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease_Data/ALL/Incidence/COX_N14_ENDOMETRIOSIS.csv" label="🔍 View full results" />

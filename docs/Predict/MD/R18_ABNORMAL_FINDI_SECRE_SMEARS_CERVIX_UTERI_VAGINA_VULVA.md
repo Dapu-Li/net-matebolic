@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/R18_ABNORMAL_FINDI_SECRE_SMEARS_CERVIX_UTERI_VAGINA_VULVA.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_R18_ABNORMAL_FINDI_SECRE_SMEARS_CERVIX_UTERI_VAGINA_VULVA.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/Baseline/IMP/IMP_R18_ABNORMAL_FINDI_SECRE_SMEARS_CERVIX_UTERI_VAGINA_VULVA.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/R18_ABNORMAL_FINDI_SECRE_SMEARS_CERVIX_UTERI_VAGINA_VULVA.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/R18_ABNORMAL_FINDI_SECRE_SMEARS_CERVIX_UTERI_VAGINA_VULVA.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/Baseline/EVA/R18_ABNORMAL_FINDI_SECRE_SMEARS_CERVIX_UTERI_VAGINA_VULVA.csv" label="🔍 View full results" />
 
 ---
 
@@ -24,11 +24,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/R18_ABNORMAL_FINDI_SECRE_SMEARS_CERVIX_UTERI_VAGINA_VULVA.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_R18_ABNORMAL_FINDI_SECRE_SMEARS_CERVIX_UTERI_VAGINA_VULVA.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict_Data/ALL/IMP/IMP_R18_ABNORMAL_FINDI_SECRE_SMEARS_CERVIX_UTERI_VAGINA_VULVA.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/R18_ABNORMAL_FINDI_SECRE_SMEARS_CERVIX_UTERI_VAGINA_VULVA.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/R18_ABNORMAL_FINDI_SECRE_SMEARS_CERVIX_UTERI_VAGINA_VULVA.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict_Data/ALL/EVA/R18_ABNORMAL_FINDI_SECRE_SMEARS_CERVIX_UTERI_VAGINA_VULVA.csv" label="🔍 View full results" />
 
 ---
 
