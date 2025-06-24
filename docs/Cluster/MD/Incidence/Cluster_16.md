@@ -9,15 +9,15 @@
 > Cases: **2231**  
 > Controls: **210520**
 <img src="/Cluster/Figures/Incidence/LG/Cluster_16.png" />
-<CsvTable src="/public/Cluster/Data/Incidence/LG/LG_Cluster_16.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Incidence/LG/LG_Cluster_16.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **10630**
 <img src="/Cluster/Figures/Incidence/Histogram/Cluster_16_in.png" />
-<CsvTable src="/public/Cluster/Data/Incidence/Histogram/Cluster_16_in.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Incidence/Histogram/Cluster_16_in.csv" label="🔍 View full results" />
 
 <img src="/Cluster/Figures/Incidence/ORD/Cluster_16.png" />
-<CsvTable src="/public/Cluster/Data/Incidence/ORD/ORD_Cluster_16.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Incidence/ORD/ORD_Cluster_16.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - KRA_PSY_ANYMENTAL_SUICID_PREG_NERV (15) - Any mental disorder, or suicide (or attempt), or psychic disorders complicating pregnancy, partum or puerperium or nerve system disorders

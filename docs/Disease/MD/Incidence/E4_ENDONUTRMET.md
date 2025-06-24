@@ -13,18 +13,18 @@
 > Cases: **58269**  
 > Controls: **138984**
 <img src="/Disease/Figures/ALL/Incidence/E4_ENDONUTRMET.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_E4_ENDONUTRMET.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_E4_ENDONUTRMET.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **93226**  
 > Cases: **28002**  
 > Controls: **65224**
 <img src="/Disease/Figures/Male/Incidence/E4_ENDONUTRMET.png"/>
-<CsvTable src="/public/Disease/Data/Male/Incidence/COX_E4_ENDONUTRMET.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Male/Incidence/COX_E4_ENDONUTRMET.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **104027**  
 > Cases: **30267**  
 > Controls: **73760**
 <img src="/Disease/Figures/Female/Incidence/E4_ENDONUTRMET.png"/>
-<CsvTable src="/public/Disease/Data/Female/Incidence/COX_E4_ENDONUTRMET.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Incidence/COX_E4_ENDONUTRMET.csv" label="🔍 View full results" />

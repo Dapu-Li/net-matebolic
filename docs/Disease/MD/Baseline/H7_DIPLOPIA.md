@@ -13,7 +13,7 @@
 > Cases: **167**  
 > Controls: **208536**
 <img src="/Disease/Figures/ALL/Baseline/H7_DIPLOPIA.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_H7_DIPLOPIA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_H7_DIPLOPIA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **98885**  

@@ -13,4 +13,4 @@
 > Cases: **635**  
 > Controls: **110926**
 <img src="/Disease/Figures/ALL/Incidence/CD2_BENIGN_OVARY.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_CD2_BENIGN_OVARY.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_CD2_BENIGN_OVARY.csv" label="🔍 View full results" />

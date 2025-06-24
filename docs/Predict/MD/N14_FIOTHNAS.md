@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/N14_FIOTHNAS.png" />
 
-<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_N14_FIOTHNAS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_N14_FIOTHNAS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/N14_FIOTHNAS.png" />
 
-<CsvTableROC src="/public/Predict/Data/Baseline/EVA/N14_FIOTHNAS.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/Baseline/EVA/N14_FIOTHNAS.csv" label="🔍 View full results" />
 
 ---
 

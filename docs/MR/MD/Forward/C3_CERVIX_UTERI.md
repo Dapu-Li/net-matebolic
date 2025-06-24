@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/C3_CERVIX_UTERI.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/C3_CERVIX_UTERI.csv"/>

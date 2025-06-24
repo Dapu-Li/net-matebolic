@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/AB1_PROTOZOAL.png" />
 
-<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_AB1_PROTOZOAL.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_AB1_PROTOZOAL.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/AB1_PROTOZOAL.png" />
 
-<CsvTableROC src="/public/Predict/Data/ALL/EVA/AB1_PROTOZOAL.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/ALL/EVA/AB1_PROTOZOAL.csv" label="🔍 View full results" />
 
 ---
 

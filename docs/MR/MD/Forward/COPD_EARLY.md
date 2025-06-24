@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/COPD_EARLY.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/COPD_EARLY.csv"/>

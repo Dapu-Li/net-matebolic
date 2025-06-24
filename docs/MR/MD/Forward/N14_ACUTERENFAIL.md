@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/N14_ACUTERENFAIL.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/N14_ACUTERENFAIL.csv"/>

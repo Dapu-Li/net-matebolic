@@ -13,7 +13,7 @@
 > Cases: **111**  
 > Controls: **204120**
 <img src="/Disease/Figures/ALL/Baseline/H7_XANTHELASMA.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_H7_XANTHELASMA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_H7_XANTHELASMA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **96990**  

@@ -13,4 +13,4 @@
 > Cases: **485**  
 > Controls: **108798**
 <img src="/Disease/Figures/ALL/Baseline/O15_MAT_CARE_MALPRESENT.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_O15_MAT_CARE_MALPRESENT.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_MAT_CARE_MALPRESENT.csv" label="🔍 View full results" />

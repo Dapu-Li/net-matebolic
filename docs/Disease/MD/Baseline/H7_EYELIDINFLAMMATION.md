@@ -13,7 +13,7 @@
 > Cases: **129**  
 > Controls: **204677**
 <img src="/Disease/Figures/ALL/Baseline/H7_EYELIDINFLAMMATION.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_H7_EYELIDINFLAMMATION.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_H7_EYELIDINFLAMMATION.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **97294**  

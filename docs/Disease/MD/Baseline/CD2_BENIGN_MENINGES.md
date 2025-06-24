@@ -13,7 +13,7 @@
 > Cases: **123**  
 > Controls: **212610**
 <img src="/Disease/Figures/ALL/Baseline/CD2_BENIGN_MENINGES.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_MENINGES.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_MENINGES.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100749**  

@@ -13,4 +13,4 @@
 > Cases: **320**  
 > Controls: **111675**
 <img src="/Disease/Figures/ALL/Baseline/CD2_INSITU_BREAST_NOS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_CD2_INSITU_BREAST_NOS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_CD2_INSITU_BREAST_NOS.csv" label="🔍 View full results" />

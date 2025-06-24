@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/O15_ABORT_SPONTAN.png" />
 
-<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_O15_ABORT_SPONTAN.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_O15_ABORT_SPONTAN.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/O15_ABORT_SPONTAN.png" />
 
-<CsvTableROC src="/public/Predict/Data/Baseline/EVA/O15_ABORT_SPONTAN.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/Baseline/EVA/O15_ABORT_SPONTAN.csv" label="🔍 View full results" />
 
 ---
 

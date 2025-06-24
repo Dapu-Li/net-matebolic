@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/O15_CONCEPT_ABNORM.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/O15_CONCEPT_ABNORM.csv"/>

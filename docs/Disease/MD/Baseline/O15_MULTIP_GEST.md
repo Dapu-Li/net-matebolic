@@ -13,4 +13,4 @@
 > Cases: **117**  
 > Controls: **108792**
 <img src="/Disease/Figures/ALL/Baseline/O15_MULTIP_GEST.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_O15_MULTIP_GEST.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_MULTIP_GEST.csv" label="🔍 View full results" />

@@ -13,7 +13,7 @@
 > Cases: **101**  
 > Controls: **162488**
 <img src="/Disease/Figures/ALL/Baseline/C3_ORALCAVITY.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_C3_ORALCAVITY.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_C3_ORALCAVITY.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **75649**  

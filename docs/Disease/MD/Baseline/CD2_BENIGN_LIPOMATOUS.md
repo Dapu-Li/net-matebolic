@@ -13,18 +13,18 @@
 > Cases: **2487**  
 > Controls: **210263**
 <img src="/Disease/Figures/ALL/Baseline/CD2_BENIGN_LIPOMATOUS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_LIPOMATOUS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_LIPOMATOUS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100755**  
 > Cases: **1298**  
 > Controls: **99457**
 <img src="/Disease/Figures/Male/Baseline/CD2_BENIGN_LIPOMATOUS.png"/>
-<CsvTable src="/public/Disease/Data/Male/Baseline/LG_CD2_BENIGN_LIPOMATOUS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Male/Baseline/LG_CD2_BENIGN_LIPOMATOUS.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111995**  
 > Cases: **1189**  
 > Controls: **110806**
 <img src="/Disease/Figures/Female/Baseline/CD2_BENIGN_LIPOMATOUS.png"/>
-<CsvTable src="/public/Disease/Data/Female/Baseline/LG_CD2_BENIGN_LIPOMATOUS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Baseline/LG_CD2_BENIGN_LIPOMATOUS.csv" label="🔍 View full results" />

@@ -13,4 +13,4 @@
 > Cases: **196**  
 > Controls: **87422**
 <img src="/Disease/Figures/ALL/Baseline/C3_OVARY.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_C3_OVARY.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_C3_OVARY.csv" label="🔍 View full results" />

@@ -13,4 +13,4 @@
 > Cases: **847**  
 > Controls: **86781**
 <img src="/Disease/Figures/ALL/Incidence/C3_CORPUS_UTERI.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_C3_CORPUS_UTERI.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_C3_CORPUS_UTERI.csv" label="🔍 View full results" />

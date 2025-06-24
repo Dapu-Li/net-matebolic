@@ -13,18 +13,18 @@
 > Cases: **2447**  
 > Controls: **210071**
 <img src="/Disease/Figures/ALL/Incidence/I9_LBBB.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_I9_LBBB.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_I9_LBBB.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100617**  
 > Cases: **1383**  
 > Controls: **99234**
 <img src="/Disease/Figures/Male/Incidence/I9_LBBB.png"/>
-<CsvTable src="/public/Disease/Data/Male/Incidence/COX_I9_LBBB.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Male/Incidence/COX_I9_LBBB.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111901**  
 > Cases: **1064**  
 > Controls: **110837**
 <img src="/Disease/Figures/Female/Incidence/I9_LBBB.png"/>
-<CsvTable src="/public/Disease/Data/Female/Incidence/COX_I9_LBBB.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Incidence/COX_I9_LBBB.csv" label="🔍 View full results" />

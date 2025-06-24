@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/F5_PTSD.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/F5_PTSD.csv"/>

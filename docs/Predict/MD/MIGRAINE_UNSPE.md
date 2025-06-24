@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/MIGRAINE_UNSPE.png" />
 
-<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_MIGRAINE_UNSPE.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_MIGRAINE_UNSPE.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/MIGRAINE_UNSPE.png" />
 
-<CsvTableROC src="/public/Predict/Data/Baseline/EVA/MIGRAINE_UNSPE.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/Baseline/EVA/MIGRAINE_UNSPE.csv" label="🔍 View full results" />
 
 ---
 
@@ -24,11 +24,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/MIGRAINE_UNSPE.png" />
 
-<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_MIGRAINE_UNSPE.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_MIGRAINE_UNSPE.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/MIGRAINE_UNSPE.png" />
 
-<CsvTableROC src="/public/Predict/Data/ALL/EVA/MIGRAINE_UNSPE.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/ALL/EVA/MIGRAINE_UNSPE.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,11 +36,11 @@
 
 <img src="/Predict/Figures/FYears/IMP/MIGRAINE_UNSPE.png" />
 
-<CsvTableIMP src="/public/Predict/Data/FYears/IMP/IMP_MIGRAINE_UNSPE.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/FYears/IMP/IMP_MIGRAINE_UNSPE.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/FYears/ROC/MIGRAINE_UNSPE.png" />
 
-<CsvTableROC src="/public/Predict/Data/FYears/EVA/MIGRAINE_UNSPE.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/FYears/EVA/MIGRAINE_UNSPE.csv" label="🔍 View full results" />
 
 ---
 
@@ -48,8 +48,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/MIGRAINE_UNSPE.png" />
 
-<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_MIGRAINE_UNSPE.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_MIGRAINE_UNSPE.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/MIGRAINE_UNSPE.png" />
 
-<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/MIGRAINE_UNSPE.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/OverFYears/EVA/MIGRAINE_UNSPE.csv" label="🔍 View full results" />

@@ -13,7 +13,7 @@
 > Cases: **239**  
 > Controls: **204637**
 <img src="/Disease/Figures/ALL/Baseline/H7_EPIPHORA.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_H7_EPIPHORA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_H7_EPIPHORA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **97243**  
@@ -27,4 +27,4 @@
 > Cases: **155**  
 > Controls: **107478**
 <img src="/Disease/Figures/Female/Baseline/H7_EPIPHORA.png"/>
-<CsvTable src="/public/Disease/Data/Female/Baseline/LG_H7_EPIPHORA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Baseline/LG_H7_EPIPHORA.csv" label="🔍 View full results" />

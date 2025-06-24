@@ -13,18 +13,18 @@
 > Cases: **6754**  
 > Controls: **194368**
 <img src="/Disease/Figures/ALL/Baseline/E4_LIPOPROT.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_E4_LIPOPROT.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_E4_LIPOPROT.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **95400**  
 > Cases: **4296**  
 > Controls: **91104**
 <img src="/Disease/Figures/Male/Baseline/E4_LIPOPROT.png"/>
-<CsvTable src="/public/Disease/Data/Male/Baseline/LG_E4_LIPOPROT.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Male/Baseline/LG_E4_LIPOPROT.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **105722**  
 > Cases: **2458**  
 > Controls: **103264**
 <img src="/Disease/Figures/Female/Baseline/E4_LIPOPROT.png"/>
-<CsvTable src="/public/Disease/Data/Female/Baseline/LG_E4_LIPOPROT.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Baseline/LG_E4_LIPOPROT.csv" label="🔍 View full results" />

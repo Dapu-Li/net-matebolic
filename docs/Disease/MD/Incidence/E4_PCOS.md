@@ -13,4 +13,4 @@
 > Cases: **107**  
 > Controls: **110195**
 <img src="/Disease/Figures/ALL/Incidence/E4_PCOS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_E4_PCOS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_E4_PCOS.csv" label="🔍 View full results" />

@@ -13,7 +13,7 @@
 > Cases: **130**  
 > Controls: **212540**
 <img src="/Disease/Figures/ALL/Incidence/INTERSTITIAL_CYSTIT_CHRONIC.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_INTERSTITIAL_CYSTIT_CHRONIC.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_INTERSTITIAL_CYSTIT_CHRONIC.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100747**  
@@ -28,4 +28,4 @@
 > Cases: **107**  
 > Controls: **111816**
 <img src="/Disease/Figures/Female/Incidence/INTERSTITIAL_CYSTIT_CHRONIC.png"/>
-<CsvTable src="/public/Disease/Data/Female/Incidence/COX_INTERSTITIAL_CYSTIT_CHRONIC.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Incidence/COX_INTERSTITIAL_CYSTIT_CHRONIC.csv" label="🔍 View full results" />

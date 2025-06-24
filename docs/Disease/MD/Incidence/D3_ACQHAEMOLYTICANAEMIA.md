@@ -13,7 +13,7 @@
 > Cases: **115**  
 > Controls: **212591**
 <img src="/Disease/Figures/ALL/Incidence/D3_ACQHAEMOLYTICANAEMIA.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_D3_ACQHAEMOLYTICANAEMIA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_D3_ACQHAEMOLYTICANAEMIA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100736**  

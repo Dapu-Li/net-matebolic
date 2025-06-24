@@ -9,15 +9,15 @@
 > Cases: **37835**  
 > Controls: **174916**
 <img src="/Cluster/Figures/Baseline/LG/Cluster_1.png" />
-<CsvTable src="/public/Cluster/Data/Baseline/LG/LG_Cluster_1.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Baseline/LG/LG_Cluster_1.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **59691**
 <img src="/Cluster/Figures/Baseline/Histogram/Cluster_1_ba.png" />
-<CsvTable src="/public/Cluster/Data/Baseline/Histogram/Cluster_1_ba.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Baseline/Histogram/Cluster_1_ba.csv" label="🔍 View full results" />
         
 <img src="/Cluster/Figures/Baseline/ORD/Cluster_1.png" />
-<CsvTable src="/public/Cluster/Data/Baseline/ORD/ORD_Cluster_1.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Baseline/ORD/ORD_Cluster_1.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - O15_PREG_DM (15) - Diabetes mellitus in pregnancy

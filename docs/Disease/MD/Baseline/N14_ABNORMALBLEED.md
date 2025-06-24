@@ -13,4 +13,4 @@
 > Cases: **1812**  
 > Controls: **83284**
 <img src="/Disease/Figures/ALL/Baseline/N14_ABNORMALBLEED.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_ABNORMALBLEED.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_ABNORMALBLEED.csv" label="🔍 View full results" />

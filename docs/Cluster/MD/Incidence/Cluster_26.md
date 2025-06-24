@@ -9,15 +9,15 @@
 > Cases: **15497**  
 > Controls: **197254**
 <img src="/Cluster/Figures/Incidence/LG/Cluster_26.png" />
-<CsvTable src="/public/Cluster/Data/Incidence/LG/LG_Cluster_26.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Incidence/LG/LG_Cluster_26.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **22937**
 <img src="/Cluster/Figures/Incidence/Histogram/Cluster_26_in.png" />
-<CsvTable src="/public/Cluster/Data/Incidence/Histogram/Cluster_26_in.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Incidence/Histogram/Cluster_26_in.csv" label="🔍 View full results" />
 
 <img src="/Cluster/Figures/Incidence/ORD/Cluster_26.png" />
-<CsvTable src="/public/Cluster/Data/Incidence/ORD/ORD_Cluster_26.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Incidence/ORD/ORD_Cluster_26.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - N14_HYDROCELE (14) - Hydrocele

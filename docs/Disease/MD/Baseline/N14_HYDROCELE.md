@@ -13,4 +13,4 @@
 > Cases: **389**  
 > Controls: **82716**
 <img src="/Disease/Figures/ALL/Baseline/N14_HYDROCELE.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_HYDROCELE.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_HYDROCELE.csv" label="🔍 View full results" />

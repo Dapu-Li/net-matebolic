@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/R18_RETEN_URINE.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/R18_RETEN_URINE.csv"/>

@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/C3_BASAL_CELL_CARCINOMA.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/C3_BASAL_CELL_CARCINOMA.csv"/>

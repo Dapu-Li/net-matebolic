@@ -13,4 +13,4 @@
 > Cases: **207**  
 > Controls: **108113**
 <img src="/Disease/Figures/ALL/Baseline/N14_SALPHOOPH.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_SALPHOOPH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_SALPHOOPH.csv" label="🔍 View full results" />

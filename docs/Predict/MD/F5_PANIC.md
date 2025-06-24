@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/F5_PANIC.png" />
 
-<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_F5_PANIC.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_F5_PANIC.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/F5_PANIC.png" />
 
-<CsvTableROC src="/public/Predict/Data/Baseline/EVA/F5_PANIC.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/Baseline/EVA/F5_PANIC.csv" label="🔍 View full results" />
 
 ---
 
@@ -24,11 +24,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/F5_PANIC.png" />
 
-<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_F5_PANIC.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_F5_PANIC.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/F5_PANIC.png" />
 
-<CsvTableROC src="/public/Predict/Data/ALL/EVA/F5_PANIC.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/ALL/EVA/F5_PANIC.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,11 +36,11 @@
 
 <img src="/Predict/Figures/FYears/IMP/F5_PANIC.png" />
 
-<CsvTableIMP src="/public/Predict/Data/FYears/IMP/IMP_F5_PANIC.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/FYears/IMP/IMP_F5_PANIC.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/FYears/ROC/F5_PANIC.png" />
 
-<CsvTableROC src="/public/Predict/Data/FYears/EVA/F5_PANIC.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/FYears/EVA/F5_PANIC.csv" label="🔍 View full results" />
 
 ---
 
@@ -48,8 +48,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/F5_PANIC.png" />
 
-<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_F5_PANIC.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_F5_PANIC.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/F5_PANIC.png" />
 
-<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/F5_PANIC.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/OverFYears/EVA/F5_PANIC.csv" label="🔍 View full results" />

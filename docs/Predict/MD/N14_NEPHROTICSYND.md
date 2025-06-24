@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/N14_NEPHROTICSYND.png" />
 
-<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_N14_NEPHROTICSYND.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_N14_NEPHROTICSYND.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/N14_NEPHROTICSYND.png" />
 
-<CsvTableROC src="/public/Predict/Data/ALL/EVA/N14_NEPHROTICSYND.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/ALL/EVA/N14_NEPHROTICSYND.csv" label="🔍 View full results" />
 
 ---
 

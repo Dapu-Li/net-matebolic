@@ -13,4 +13,4 @@
 > Cases: **511**  
 > Controls: **109532**
 <img src="/Disease/Figures/ALL/Incidence/N14_MENSIRREG.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_N14_MENSIRREG.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_N14_MENSIRREG.csv" label="🔍 View full results" />

@@ -13,4 +13,4 @@
 > Cases: **104**  
 > Controls: **75467**
 <img src="/Disease/Figures/ALL/Baseline/C3_TESTIS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_C3_TESTIS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_C3_TESTIS.csv" label="🔍 View full results" />

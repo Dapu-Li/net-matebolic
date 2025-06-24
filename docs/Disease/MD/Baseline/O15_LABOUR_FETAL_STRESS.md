@@ -13,4 +13,4 @@
 > Cases: **1560**  
 > Controls: **107556**
 <img src="/Disease/Figures/ALL/Baseline/O15_LABOUR_FETAL_STRESS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_O15_LABOUR_FETAL_STRESS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_LABOUR_FETAL_STRESS.csv" label="🔍 View full results" />

@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/CD2_BENIGN_SIGMOID_COLON.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/CD2_BENIGN_SIGMOID_COLON.csv"/>

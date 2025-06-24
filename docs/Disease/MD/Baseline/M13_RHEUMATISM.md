@@ -13,7 +13,7 @@
 > Cases: **289**  
 > Controls: **183307**
 <img src="/Disease/Figures/ALL/Baseline/M13_RHEUMATISM.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_M13_RHEUMATISM.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_M13_RHEUMATISM.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **87365**  
@@ -27,4 +27,4 @@
 > Cases: **251**  
 > Controls: **95980**
 <img src="/Disease/Figures/Female/Baseline/M13_RHEUMATISM.png"/>
-<CsvTable src="/public/Disease/Data/Female/Baseline/LG_M13_RHEUMATISM.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Baseline/LG_M13_RHEUMATISM.csv" label="🔍 View full results" />

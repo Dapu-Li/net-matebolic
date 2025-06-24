@@ -13,7 +13,7 @@
 > Cases: **114**  
 > Controls: **212607**
 <img src="/Disease/Figures/ALL/Baseline/AB1_SEXUAL_TRANSMISSION_NOS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_AB1_SEXUAL_TRANSMISSION_NOS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_AB1_SEXUAL_TRANSMISSION_NOS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100744**  

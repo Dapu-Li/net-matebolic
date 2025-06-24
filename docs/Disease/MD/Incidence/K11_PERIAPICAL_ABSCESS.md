@@ -13,18 +13,18 @@
 > Cases: **638**  
 > Controls: **211750**
 <img src="/Disease/Figures/ALL/Incidence/K11_PERIAPICAL_ABSCESS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_K11_PERIAPICAL_ABSCESS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_K11_PERIAPICAL_ABSCESS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100620**  
 > Cases: **289**  
 > Controls: **100331**
 <img src="/Disease/Figures/Male/Incidence/K11_PERIAPICAL_ABSCESS.png"/>
-<CsvTable src="/public/Disease/Data/Male/Incidence/COX_K11_PERIAPICAL_ABSCESS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Male/Incidence/COX_K11_PERIAPICAL_ABSCESS.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111768**  
 > Cases: **349**  
 > Controls: **111419**
 <img src="/Disease/Figures/Female/Incidence/K11_PERIAPICAL_ABSCESS.png"/>
-<CsvTable src="/public/Disease/Data/Female/Incidence/COX_K11_PERIAPICAL_ABSCESS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Incidence/COX_K11_PERIAPICAL_ABSCESS.csv" label="🔍 View full results" />

@@ -13,4 +13,4 @@
 > Cases: **900**  
 > Controls: **82645**
 <img src="/Disease/Figures/ALL/Incidence/N14_OTHNONINFVULV.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_N14_OTHNONINFVULV.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_N14_OTHNONINFVULV.csv" label="🔍 View full results" />

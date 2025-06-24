@@ -13,7 +13,7 @@
 > Cases: **145**  
 > Controls: **203370**
 <img src="/Disease/Figures/ALL/Incidence/H7_PERIPHRETINADEGEN.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_H7_PERIPHRETINADEGEN.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_H7_PERIPHRETINADEGEN.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **96324**  

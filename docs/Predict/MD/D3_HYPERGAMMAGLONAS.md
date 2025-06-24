@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/D3_HYPERGAMMAGLONAS.png" />
 
-<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_D3_HYPERGAMMAGLONAS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_D3_HYPERGAMMAGLONAS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/D3_HYPERGAMMAGLONAS.png" />
 
-<CsvTableROC src="/public/Predict/Data/ALL/EVA/D3_HYPERGAMMAGLONAS.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/ALL/EVA/D3_HYPERGAMMAGLONAS.csv" label="🔍 View full results" />
 
 ---
 

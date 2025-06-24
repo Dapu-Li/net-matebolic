@@ -13,4 +13,4 @@
 > Cases: **364**  
 > Controls: **111120**
 <img src="/Disease/Figures/ALL/Incidence/CD2_BENIGN_BREAST.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_CD2_BENIGN_BREAST.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_CD2_BENIGN_BREAST.csv" label="🔍 View full results" />

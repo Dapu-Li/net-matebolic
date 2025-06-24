@@ -13,7 +13,7 @@
 > Cases: **127**  
 > Controls: **162783**
 <img src="/Disease/Figures/ALL/Baseline/C3_RECTOSIGMOID_JUNCTION.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_C3_RECTOSIGMOID_JUNCTION.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_C3_RECTOSIGMOID_JUNCTION.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **75862**  

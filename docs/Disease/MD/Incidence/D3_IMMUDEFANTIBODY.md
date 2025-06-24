@@ -13,7 +13,7 @@
 > Cases: **142**  
 > Controls: **212586**
 <img src="/Disease/Figures/ALL/Incidence/D3_IMMUDEFANTIBODY.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_D3_IMMUDEFANTIBODY.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_D3_IMMUDEFANTIBODY.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100748**  

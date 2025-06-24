@@ -9,15 +9,15 @@
 > Cases: **16674**  
 > Controls: **196077**
 <img src="/Cluster/Figures/Baseline/LG/Cluster_5.png" />
-<CsvTable src="/public/Cluster/Data/Baseline/LG/LG_Cluster_5.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Baseline/LG/LG_Cluster_5.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **40510**
 <img src="/Cluster/Figures/Baseline/Histogram/Cluster_5_ba.png" />
-<CsvTable src="/public/Cluster/Data/Baseline/Histogram/Cluster_5_ba.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Baseline/Histogram/Cluster_5_ba.csv" label="🔍 View full results" />
         
 <img src="/Cluster/Figures/Baseline/ORD/Cluster_5.png" />
-<CsvTable src="/public/Cluster/Data/Baseline/ORD/ORD_Cluster_5.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Baseline/ORD/ORD_Cluster_5.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - M13_PSORIARTH (13) - Psoriatic arthropathies

@@ -13,4 +13,4 @@
 > Cases: **518**  
 > Controls: **108781**
 <img src="/Disease/Figures/ALL/Baseline/O15_FALSE_LAB.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_O15_FALSE_LAB.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_FALSE_LAB.csv" label="🔍 View full results" />

@@ -13,4 +13,4 @@
 > Cases: **1826**  
 > Controls: **84401**
 <img src="/Disease/Figures/ALL/Baseline/N14_OTHNONINFUTER.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_OTHNONINFUTER.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_OTHNONINFUTER.csv" label="🔍 View full results" />

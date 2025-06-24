@@ -13,4 +13,4 @@
 > Cases: **112**  
 > Controls: **108780**
 <img src="/Disease/Figures/ALL/Baseline/O15_PLAC_DISORD.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_O15_PLAC_DISORD.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_PLAC_DISORD.csv" label="🔍 View full results" />

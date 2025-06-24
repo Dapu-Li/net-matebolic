@@ -13,7 +13,7 @@
 > Cases: **284**  
 > Controls: **182990**
 <img src="/Disease/Figures/ALL/Incidence/M13_ENTESOPATHYFOOT.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_M13_ENTESOPATHYFOOT.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_M13_ENTESOPATHYFOOT.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **87339**  
@@ -28,4 +28,4 @@
 > Cases: **232**  
 > Controls: **95703**
 <img src="/Disease/Figures/Female/Incidence/M13_ENTESOPATHYFOOT.png"/>
-<CsvTable src="/public/Disease/Data/Female/Incidence/COX_M13_ENTESOPATHYFOOT.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Incidence/COX_M13_ENTESOPATHYFOOT.csv" label="🔍 View full results" />

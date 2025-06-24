@@ -13,4 +13,4 @@
 > Cases: **2512**  
 > Controls: **107553**
 <img src="/Disease/Figures/ALL/Baseline/O15_DELIV_PERIN_LACER.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_O15_DELIV_PERIN_LACER.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_DELIV_PERIN_LACER.csv" label="🔍 View full results" />

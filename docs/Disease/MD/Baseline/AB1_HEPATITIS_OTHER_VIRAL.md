@@ -13,7 +13,7 @@
 > Cases: **141**  
 > Controls: **212509**
 <img src="/Disease/Figures/ALL/Baseline/AB1_HEPATITIS_OTHER_VIRAL.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_AB1_HEPATITIS_OTHER_VIRAL.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_AB1_HEPATITIS_OTHER_VIRAL.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100702**  

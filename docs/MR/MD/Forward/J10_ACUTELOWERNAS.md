@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/J10_ACUTELOWERNAS.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/J10_ACUTELOWERNAS.csv"/>

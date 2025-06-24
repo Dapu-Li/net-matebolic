@@ -13,7 +13,7 @@
 > Cases: **160**  
 > Controls: **165429**
 <img src="/Disease/Figures/ALL/Incidence/E4_LACTONAS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_E4_LACTONAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_E4_LACTONAS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **75088**  
@@ -28,4 +28,4 @@
 > Cases: **118**  
 > Controls: **90383**
 <img src="/Disease/Figures/Female/Incidence/E4_LACTONAS.png"/>
-<CsvTable src="/public/Disease/Data/Female/Incidence/COX_E4_LACTONAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Incidence/COX_E4_LACTONAS.csv" label="🔍 View full results" />

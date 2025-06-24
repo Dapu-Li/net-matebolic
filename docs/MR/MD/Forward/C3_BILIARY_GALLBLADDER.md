@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/C3_BILIARY_GALLBLADDER.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/C3_BILIARY_GALLBLADDER.csv"/>

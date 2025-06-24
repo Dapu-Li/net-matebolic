@@ -13,7 +13,7 @@
 > Cases: **137**  
 > Controls: **204673**
 <img src="/Disease/Figures/ALL/Incidence/H8_HL_MIX_NAS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_H8_HL_MIX_NAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_H8_HL_MIX_NAS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **96476**  

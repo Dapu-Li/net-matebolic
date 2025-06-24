@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/DRUGADVERS_OSTEOPO.png" />
 
-<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_DRUGADVERS_OSTEOPO.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_DRUGADVERS_OSTEOPO.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/DRUGADVERS_OSTEOPO.png" />
 
-<CsvTableROC src="/public/Predict/Data/Baseline/EVA/DRUGADVERS_OSTEOPO.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/Baseline/EVA/DRUGADVERS_OSTEOPO.csv" label="🔍 View full results" />
 
 ---
 

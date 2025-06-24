@@ -13,7 +13,7 @@
 > Cases: **156**  
 > Controls: **198981**
 <img src="/Disease/Figures/ALL/Baseline/G6_BELLPA.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_G6_BELLPA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_G6_BELLPA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **95511**  

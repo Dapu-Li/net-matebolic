@@ -13,7 +13,7 @@
 > Cases: **128**  
 > Controls: **212623**
 <img src="/Disease/Figures/ALL/Baseline/RHEUMA_SEROPOS_OTH.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_RHEUMA_SEROPOS_OTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_RHEUMA_SEROPOS_OTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100756**  

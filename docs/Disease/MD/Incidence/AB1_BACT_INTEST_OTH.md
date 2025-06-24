@@ -13,18 +13,18 @@
 > Cases: **1462**  
 > Controls: **200930**
 <img src="/Disease/Figures/ALL/Incidence/AB1_BACT_INTEST_OTH.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_AB1_BACT_INTEST_OTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_AB1_BACT_INTEST_OTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **96253**  
 > Cases: **660**  
 > Controls: **95593**
 <img src="/Disease/Figures/Male/Incidence/AB1_BACT_INTEST_OTH.png"/>
-<CsvTable src="/public/Disease/Data/Male/Incidence/COX_AB1_BACT_INTEST_OTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Male/Incidence/COX_AB1_BACT_INTEST_OTH.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **106139**  
 > Cases: **802**  
 > Controls: **105337**
 <img src="/Disease/Figures/Female/Incidence/AB1_BACT_INTEST_OTH.png"/>
-<CsvTable src="/public/Disease/Data/Female/Incidence/COX_AB1_BACT_INTEST_OTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Incidence/COX_AB1_BACT_INTEST_OTH.csv" label="🔍 View full results" />

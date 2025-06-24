@@ -13,7 +13,7 @@
 > Cases: **123**  
 > Controls: **210522**
 <img src="/Disease/Figures/ALL/Incidence/H8_MYRINGNAS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_H8_MYRINGNAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_H8_MYRINGNAS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99727**  

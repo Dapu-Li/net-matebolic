@@ -13,7 +13,7 @@
 > Cases: **236**  
 > Controls: **202913**
 <img src="/Disease/Figures/ALL/Baseline/J10_VASOALLERRHIN.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_J10_VASOALLERRHIN.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_J10_VASOALLERRHIN.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **95410**  
@@ -27,4 +27,4 @@
 > Cases: **137**  
 > Controls: **107602**
 <img src="/Disease/Figures/Female/Baseline/J10_VASOALLERRHIN.png"/>
-<CsvTable src="/public/Disease/Data/Female/Baseline/LG_J10_VASOALLERRHIN.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Baseline/LG_J10_VASOALLERRHIN.csv" label="🔍 View full results" />

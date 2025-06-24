@@ -13,7 +13,7 @@
 > Cases: **201**  
 > Controls: **212550**
 <img src="/Disease/Figures/ALL/Baseline/CD2_BENIGN_SKIN_UPPERLIMB.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_SKIN_UPPERLIMB.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_SKIN_UPPERLIMB.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100756**  
@@ -27,4 +27,4 @@
 > Cases: **118**  
 > Controls: **111877**
 <img src="/Disease/Figures/Female/Baseline/CD2_BENIGN_SKIN_UPPERLIMB.png"/>
-<CsvTable src="/public/Disease/Data/Female/Baseline/LG_CD2_BENIGN_SKIN_UPPERLIMB.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Baseline/LG_CD2_BENIGN_SKIN_UPPERLIMB.csv" label="🔍 View full results" />

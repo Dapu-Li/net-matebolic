@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/O15_PREG_BIRTH_PUERP.png" />
 
-<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_O15_PREG_BIRTH_PUERP.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_O15_PREG_BIRTH_PUERP.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/O15_PREG_BIRTH_PUERP.png" />
 
-<CsvTableROC src="/public/Predict/Data/Baseline/EVA/O15_PREG_BIRTH_PUERP.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/Baseline/EVA/O15_PREG_BIRTH_PUERP.csv" label="🔍 View full results" />
 
 ---
 
@@ -24,11 +24,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/O15_PREG_BIRTH_PUERP.png" />
 
-<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_O15_PREG_BIRTH_PUERP.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_O15_PREG_BIRTH_PUERP.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/O15_PREG_BIRTH_PUERP.png" />
 
-<CsvTableROC src="/public/Predict/Data/ALL/EVA/O15_PREG_BIRTH_PUERP.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/ALL/EVA/O15_PREG_BIRTH_PUERP.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,11 +36,11 @@
 
 <img src="/Predict/Figures/FYears/IMP/O15_PREG_BIRTH_PUERP.png" />
 
-<CsvTableIMP src="/public/Predict/Data/FYears/IMP/IMP_O15_PREG_BIRTH_PUERP.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/FYears/IMP/IMP_O15_PREG_BIRTH_PUERP.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/FYears/ROC/O15_PREG_BIRTH_PUERP.png" />
 
-<CsvTableROC src="/public/Predict/Data/FYears/EVA/O15_PREG_BIRTH_PUERP.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/FYears/EVA/O15_PREG_BIRTH_PUERP.csv" label="🔍 View full results" />
 
 ---
 

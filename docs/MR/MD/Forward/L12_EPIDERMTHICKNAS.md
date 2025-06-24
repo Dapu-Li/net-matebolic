@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/L12_EPIDERMTHICKNAS.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/L12_EPIDERMTHICKNAS.csv"/>

@@ -13,7 +13,7 @@
 > Cases: **101**  
 > Controls: **209578**
 <img src="/Disease/Figures/ALL/Baseline/H7_IRIDOCYCLITIS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_H7_IRIDOCYCLITIS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_H7_IRIDOCYCLITIS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99401**  

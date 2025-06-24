@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/M13_ENTESOPATHYNAS.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/M13_ENTESOPATHYNAS.csv"/>

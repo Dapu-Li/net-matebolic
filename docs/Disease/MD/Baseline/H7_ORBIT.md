@@ -13,7 +13,7 @@
 > Cases: **105**  
 > Controls: **204321**
 <img src="/Disease/Figures/ALL/Baseline/H7_ORBIT.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_H7_ORBIT.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_H7_ORBIT.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **97090**  

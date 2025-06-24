@@ -13,7 +13,7 @@
 > Cases: **112**  
 > Controls: **212631**
 <img src="/Disease/Figures/ALL/Baseline/E4_HYPERCALCEMIA.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_E4_HYPERCALCEMIA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_E4_HYPERCALCEMIA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100752**  

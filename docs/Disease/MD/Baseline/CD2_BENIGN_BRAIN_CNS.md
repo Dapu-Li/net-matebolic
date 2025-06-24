@@ -13,7 +13,7 @@
 > Cases: **107**  
 > Controls: **212641**
 <img src="/Disease/Figures/ALL/Baseline/CD2_BENIGN_BRAIN_CNS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_BRAIN_CNS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_BRAIN_CNS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100754**  

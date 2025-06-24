@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/J10_PNEUMONISOLLIQ.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/J10_PNEUMONISOLLIQ.csv"/>

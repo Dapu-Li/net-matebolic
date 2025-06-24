@@ -13,4 +13,4 @@
 > Cases: **110**  
 > Controls: **111693**
 <img src="/Disease/Figures/ALL/Baseline/O15_PUERP_INFECT_OTHER.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_O15_PUERP_INFECT_OTHER.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_PUERP_INFECT_OTHER.csv" label="🔍 View full results" />

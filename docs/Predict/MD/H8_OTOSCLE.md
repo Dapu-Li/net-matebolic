@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/H8_OTOSCLE.png" />
 
-<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_H8_OTOSCLE.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_H8_OTOSCLE.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/H8_OTOSCLE.png" />
 
-<CsvTableROC src="/public/Predict/Data/Baseline/EVA/H8_OTOSCLE.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/Baseline/EVA/H8_OTOSCLE.csv" label="🔍 View full results" />
 
 ---
 

@@ -13,7 +13,7 @@
 > Cases: **189**  
 > Controls: **212428**
 <img src="/Disease/Figures/ALL/Incidence/CD2_BENIGN_MELANOCYTIC_UPPERLIMB.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_CD2_BENIGN_MELANOCYTIC_UPPERLIMB.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_CD2_BENIGN_MELANOCYTIC_UPPERLIMB.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100710**  
@@ -28,4 +28,4 @@
 > Cases: **107**  
 > Controls: **111800**
 <img src="/Disease/Figures/Female/Incidence/CD2_BENIGN_MELANOCYTIC_UPPERLIMB.png"/>
-<CsvTable src="/public/Disease/Data/Female/Incidence/COX_CD2_BENIGN_MELANOCYTIC_UPPERLIMB.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Incidence/COX_CD2_BENIGN_MELANOCYTIC_UPPERLIMB.csv" label="🔍 View full results" />

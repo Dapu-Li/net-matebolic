@@ -13,4 +13,4 @@
 > Cases: **390**  
 > Controls: **109067**
 <img src="/Disease/Figures/ALL/Baseline/N14_BREASTDISOTH.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_BREASTDISOTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_BREASTDISOTH.csv" label="🔍 View full results" />

@@ -13,7 +13,7 @@
 > Cases: **138**  
 > Controls: **212613**
 <img src="/Disease/Figures/ALL/Baseline/CD2_INSITU_MELANOMA.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_CD2_INSITU_MELANOMA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_CD2_INSITU_MELANOMA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100756**  

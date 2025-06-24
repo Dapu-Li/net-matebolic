@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/K11_HEPFAIL.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/K11_HEPFAIL.csv"/>

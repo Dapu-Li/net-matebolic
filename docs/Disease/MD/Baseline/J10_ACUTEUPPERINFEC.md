@@ -13,7 +13,7 @@
 > Cases: **221**  
 > Controls: **210724**
 <img src="/Disease/Figures/ALL/Baseline/J10_ACUTEUPPERINFEC.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_J10_ACUTEUPPERINFEC.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_J10_ACUTEUPPERINFEC.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99974**  
@@ -27,4 +27,4 @@
 > Cases: **139**  
 > Controls: **110832**
 <img src="/Disease/Figures/Female/Baseline/J10_ACUTEUPPERINFEC.png"/>
-<CsvTable src="/public/Disease/Data/Female/Baseline/LG_J10_ACUTEUPPERINFEC.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Baseline/LG_J10_ACUTEUPPERINFEC.csv" label="🔍 View full results" />

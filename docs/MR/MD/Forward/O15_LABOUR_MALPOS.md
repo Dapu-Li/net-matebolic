@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/O15_LABOUR_MALPOS.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/O15_LABOUR_MALPOS.csv"/>

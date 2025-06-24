@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/ABPA.png" />
 
-<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_ABPA.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_ABPA.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/ABPA.png" />
 
-<CsvTableROC src="/public/Predict/Data/ALL/EVA/ABPA.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/ALL/EVA/ABPA.csv" label="🔍 View full results" />
 
 ---
 

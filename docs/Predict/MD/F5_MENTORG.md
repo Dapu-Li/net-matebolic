@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/F5_MENTORG.png" />
 
-<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_F5_MENTORG.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_F5_MENTORG.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/F5_MENTORG.png" />
 
-<CsvTableROC src="/public/Predict/Data/ALL/EVA/F5_MENTORG.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/ALL/EVA/F5_MENTORG.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,8 +36,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/F5_MENTORG.png" />
 
-<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_F5_MENTORG.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_F5_MENTORG.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/F5_MENTORG.png" />
 
-<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/F5_MENTORG.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/OverFYears/EVA/F5_MENTORG.csv" label="🔍 View full results" />

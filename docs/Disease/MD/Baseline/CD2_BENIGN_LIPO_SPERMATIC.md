@@ -13,4 +13,4 @@
 > Cases: **181**  
 > Controls: **100575**
 <img src="/Disease/Figures/ALL/Baseline/CD2_BENIGN_LIPO_SPERMATIC.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_LIPO_SPERMATIC.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_LIPO_SPERMATIC.csv" label="🔍 View full results" />

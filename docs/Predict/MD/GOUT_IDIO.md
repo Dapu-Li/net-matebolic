@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/GOUT_IDIO.png" />
 
-<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_GOUT_IDIO.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_GOUT_IDIO.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/GOUT_IDIO.png" />
 
-<CsvTableROC src="/public/Predict/Data/ALL/EVA/GOUT_IDIO.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/ALL/EVA/GOUT_IDIO.csv" label="🔍 View full results" />
 
 ---
 

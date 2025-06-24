@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/DM_NEPHROPATHY.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/DM_NEPHROPATHY.csv"/>

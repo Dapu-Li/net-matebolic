@@ -13,4 +13,4 @@
 > Cases: **326**  
 > Controls: **111669**
 <img src="/Disease/Figures/ALL/Baseline/N14_FEMALE_GENITAL_LSIL.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_FEMALE_GENITAL_LSIL.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_FEMALE_GENITAL_LSIL.csv" label="🔍 View full results" />

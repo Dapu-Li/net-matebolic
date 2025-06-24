@@ -13,7 +13,7 @@
 > Cases: **131**  
 > Controls: **198548**
 <img src="/Disease/Figures/ALL/Baseline/L12_ULCERLOWLIMB.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_L12_ULCERLOWLIMB.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_L12_ULCERLOWLIMB.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **94277**  

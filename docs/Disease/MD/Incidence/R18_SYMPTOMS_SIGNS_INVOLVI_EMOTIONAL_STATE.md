@@ -13,18 +13,18 @@
 > Cases: **1389**  
 > Controls: **200480**
 <img src="/Disease/Figures/ALL/Incidence/R18_SYMPTOMS_SIGNS_INVOLVI_EMOTIONAL_STATE.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_R18_SYMPTOMS_SIGNS_INVOLVI_EMOTIONAL_STATE.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_R18_SYMPTOMS_SIGNS_INVOLVI_EMOTIONAL_STATE.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **95334**  
 > Cases: **773**  
 > Controls: **94561**
 <img src="/Disease/Figures/Male/Incidence/R18_SYMPTOMS_SIGNS_INVOLVI_EMOTIONAL_STATE.png"/>
-<CsvTable src="/public/Disease/Data/Male/Incidence/COX_R18_SYMPTOMS_SIGNS_INVOLVI_EMOTIONAL_STATE.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Male/Incidence/COX_R18_SYMPTOMS_SIGNS_INVOLVI_EMOTIONAL_STATE.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **106535**  
 > Cases: **616**  
 > Controls: **105919**
 <img src="/Disease/Figures/Female/Incidence/R18_SYMPTOMS_SIGNS_INVOLVI_EMOTIONAL_STATE.png"/>
-<CsvTable src="/public/Disease/Data/Female/Incidence/COX_R18_SYMPTOMS_SIGNS_INVOLVI_EMOTIONAL_STATE.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Incidence/COX_R18_SYMPTOMS_SIGNS_INVOLVI_EMOTIONAL_STATE.csv" label="🔍 View full results" />

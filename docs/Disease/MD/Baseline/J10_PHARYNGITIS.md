@@ -13,7 +13,7 @@
 > Cases: **212**  
 > Controls: **210848**
 <img src="/Disease/Figures/ALL/Baseline/J10_PHARYNGITIS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_J10_PHARYNGITIS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_J10_PHARYNGITIS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100047**  
@@ -27,4 +27,4 @@
 > Cases: **120**  
 > Controls: **110893**
 <img src="/Disease/Figures/Female/Baseline/J10_PHARYNGITIS.png"/>
-<CsvTable src="/public/Disease/Data/Female/Baseline/LG_J10_PHARYNGITIS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Baseline/LG_J10_PHARYNGITIS.csv" label="🔍 View full results" />

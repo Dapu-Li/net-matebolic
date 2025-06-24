@@ -13,7 +13,7 @@
 > Cases: **160**  
 > Controls: **212591**
 <img src="/Disease/Figures/ALL/Baseline/POLLENALLERG.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_POLLENALLERG.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_POLLENALLERG.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100756**  

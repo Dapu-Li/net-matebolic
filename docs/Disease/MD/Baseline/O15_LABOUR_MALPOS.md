@@ -13,4 +13,4 @@
 > Cases: **202**  
 > Controls: **107521**
 <img src="/Disease/Figures/ALL/Baseline/O15_LABOUR_MALPOS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_O15_LABOUR_MALPOS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_LABOUR_MALPOS.csv" label="🔍 View full results" />

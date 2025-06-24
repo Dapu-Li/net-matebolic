@@ -13,7 +13,7 @@
 > Cases: **124**  
 > Controls: **195225**
 <img src="/Disease/Figures/ALL/Baseline/E4_VIT_DEF.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_E4_VIT_DEF.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_E4_VIT_DEF.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **92829**  

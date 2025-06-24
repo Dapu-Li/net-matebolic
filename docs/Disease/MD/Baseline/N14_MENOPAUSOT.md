@@ -13,4 +13,4 @@
 > Cases: **366**  
 > Controls: **82785**
 <img src="/Disease/Figures/ALL/Baseline/N14_MENOPAUSOT.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_MENOPAUSOT.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_MENOPAUSOT.csv" label="🔍 View full results" />

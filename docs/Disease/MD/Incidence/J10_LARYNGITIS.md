@@ -13,7 +13,7 @@
 > Cases: **112**  
 > Controls: **210241**
 <img src="/Disease/Figures/ALL/Incidence/J10_LARYNGITIS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_J10_LARYNGITIS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_J10_LARYNGITIS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99736**  

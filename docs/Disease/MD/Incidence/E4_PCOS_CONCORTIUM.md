@@ -13,4 +13,4 @@
 > Cases: **616**  
 > Controls: **109382**
 <img src="/Disease/Figures/ALL/Incidence/E4_PCOS_CONCORTIUM.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_E4_PCOS_CONCORTIUM.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_E4_PCOS_CONCORTIUM.csv" label="🔍 View full results" />

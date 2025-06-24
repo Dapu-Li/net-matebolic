@@ -13,18 +13,18 @@
 > Cases: **551**  
 > Controls: **211564**
 <img src="/Disease/Figures/ALL/Incidence/L12_ERYTH_NAS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_L12_ERYTH_NAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_L12_ERYTH_NAS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100516**  
 > Cases: **261**  
 > Controls: **100255**
 <img src="/Disease/Figures/Male/Incidence/L12_ERYTH_NAS.png"/>
-<CsvTable src="/public/Disease/Data/Male/Incidence/COX_L12_ERYTH_NAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Male/Incidence/COX_L12_ERYTH_NAS.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111599**  
 > Cases: **290**  
 > Controls: **111309**
 <img src="/Disease/Figures/Female/Incidence/L12_ERYTH_NAS.png"/>
-<CsvTable src="/public/Disease/Data/Female/Incidence/COX_L12_ERYTH_NAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Incidence/COX_L12_ERYTH_NAS.csv" label="🔍 View full results" />

@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/CHRONSMALL.png" />
 
-<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_CHRONSMALL.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_CHRONSMALL.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/CHRONSMALL.png" />
 
-<CsvTableROC src="/public/Predict/Data/Baseline/EVA/CHRONSMALL.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/Baseline/EVA/CHRONSMALL.csv" label="🔍 View full results" />
 
 ---
 
@@ -24,11 +24,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/CHRONSMALL.png" />
 
-<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_CHRONSMALL.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_CHRONSMALL.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/CHRONSMALL.png" />
 
-<CsvTableROC src="/public/Predict/Data/ALL/EVA/CHRONSMALL.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/ALL/EVA/CHRONSMALL.csv" label="🔍 View full results" />
 
 ---
 
@@ -42,8 +42,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/CHRONSMALL.png" />
 
-<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_CHRONSMALL.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_CHRONSMALL.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/CHRONSMALL.png" />
 
-<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/CHRONSMALL.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/OverFYears/EVA/CHRONSMALL.csv" label="🔍 View full results" />

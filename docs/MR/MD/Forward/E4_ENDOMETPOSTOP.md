@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/E4_ENDOMETPOSTOP.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/E4_ENDOMETPOSTOP.csv"/>

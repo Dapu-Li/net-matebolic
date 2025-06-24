@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/C3_ORALCAVITY.png" />
 
-<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_C3_ORALCAVITY.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_C3_ORALCAVITY.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/C3_ORALCAVITY.png" />
 
-<CsvTableROC src="/public/Predict/Data/Baseline/EVA/C3_ORALCAVITY.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/Baseline/EVA/C3_ORALCAVITY.csv" label="🔍 View full results" />
 
 ---
 
@@ -24,11 +24,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/C3_ORALCAVITY.png" />
 
-<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_C3_ORALCAVITY.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_C3_ORALCAVITY.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/C3_ORALCAVITY.png" />
 
-<CsvTableROC src="/public/Predict/Data/ALL/EVA/C3_ORALCAVITY.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/ALL/EVA/C3_ORALCAVITY.csv" label="🔍 View full results" />
 
 ---
 
@@ -42,8 +42,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/C3_ORALCAVITY.png" />
 
-<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_C3_ORALCAVITY.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_C3_ORALCAVITY.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/C3_ORALCAVITY.png" />
 
-<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/C3_ORALCAVITY.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/OverFYears/EVA/C3_ORALCAVITY.csv" label="🔍 View full results" />

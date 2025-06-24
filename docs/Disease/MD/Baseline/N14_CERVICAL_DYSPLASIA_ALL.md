@@ -13,4 +13,4 @@
 > Cases: **945**  
 > Controls: **111050**
 <img src="/Disease/Figures/ALL/Baseline/N14_CERVICAL_DYSPLASIA_ALL.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_CERVICAL_DYSPLASIA_ALL.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_CERVICAL_DYSPLASIA_ALL.csv" label="🔍 View full results" />

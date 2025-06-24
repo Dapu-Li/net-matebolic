@@ -13,7 +13,7 @@
 > Cases: **202**  
 > Controls: **210446**
 <img src="/Disease/Figures/ALL/Baseline/J10_TONSILLITIS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_J10_TONSILLITIS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_J10_TONSILLITIS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99855**  
@@ -27,4 +27,4 @@
 > Cases: **113**  
 > Controls: **110680**
 <img src="/Disease/Figures/Female/Baseline/J10_TONSILLITIS.png"/>
-<CsvTable src="/public/Disease/Data/Female/Baseline/LG_J10_TONSILLITIS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Baseline/LG_J10_TONSILLITIS.csv" label="🔍 View full results" />

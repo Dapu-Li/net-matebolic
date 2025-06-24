@@ -13,18 +13,18 @@
 > Cases: **1234**  
 > Controls: **170221**
 <img src="/Disease/Figures/ALL/Incidence/R18_CARDIAC_MURMU_OTHER_CARDIAC_SOUNDS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_R18_CARDIAC_MURMU_OTHER_CARDIAC_SOUNDS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_R18_CARDIAC_MURMU_OTHER_CARDIAC_SOUNDS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **80114**  
 > Cases: **425**  
 > Controls: **79689**
 <img src="/Disease/Figures/Male/Incidence/R18_CARDIAC_MURMU_OTHER_CARDIAC_SOUNDS.png"/>
-<CsvTable src="/public/Disease/Data/Male/Incidence/COX_R18_CARDIAC_MURMU_OTHER_CARDIAC_SOUNDS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Male/Incidence/COX_R18_CARDIAC_MURMU_OTHER_CARDIAC_SOUNDS.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **91341**  
 > Cases: **809**  
 > Controls: **90532**
 <img src="/Disease/Figures/Female/Incidence/R18_CARDIAC_MURMU_OTHER_CARDIAC_SOUNDS.png"/>
-<CsvTable src="/public/Disease/Data/Female/Incidence/COX_R18_CARDIAC_MURMU_OTHER_CARDIAC_SOUNDS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Incidence/COX_R18_CARDIAC_MURMU_OTHER_CARDIAC_SOUNDS.csv" label="🔍 View full results" />

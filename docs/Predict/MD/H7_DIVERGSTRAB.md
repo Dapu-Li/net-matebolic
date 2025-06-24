@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/H7_DIVERGSTRAB.png" />
 
-<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_H7_DIVERGSTRAB.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_H7_DIVERGSTRAB.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/H7_DIVERGSTRAB.png" />
 
-<CsvTableROC src="/public/Predict/Data/Baseline/EVA/H7_DIVERGSTRAB.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/Baseline/EVA/H7_DIVERGSTRAB.csv" label="🔍 View full results" />
 
 ---
 
@@ -24,11 +24,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/H7_DIVERGSTRAB.png" />
 
-<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_H7_DIVERGSTRAB.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_H7_DIVERGSTRAB.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/H7_DIVERGSTRAB.png" />
 
-<CsvTableROC src="/public/Predict/Data/ALL/EVA/H7_DIVERGSTRAB.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/ALL/EVA/H7_DIVERGSTRAB.csv" label="🔍 View full results" />
 
 ---
 
@@ -42,8 +42,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/H7_DIVERGSTRAB.png" />
 
-<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_H7_DIVERGSTRAB.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_H7_DIVERGSTRAB.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/H7_DIVERGSTRAB.png" />
 
-<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/H7_DIVERGSTRAB.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/OverFYears/EVA/H7_DIVERGSTRAB.csv" label="🔍 View full results" />

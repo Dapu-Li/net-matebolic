@@ -13,7 +13,7 @@
 > Cases: **147**  
 > Controls: **148914**
 <img src="/Disease/Figures/ALL/Baseline/M13_CARTILAGE.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_M13_CARTILAGE.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_M13_CARTILAGE.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **73154**  

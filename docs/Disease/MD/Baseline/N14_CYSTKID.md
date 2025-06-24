@@ -13,14 +13,14 @@
 > Cases: **179**  
 > Controls: **211193**
 <img src="/Disease/Figures/ALL/Baseline/N14_CYSTKID.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_CYSTKID.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_CYSTKID.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99997**  
 > Cases: **104**  
 > Controls: **99893**
 <img src="/Disease/Figures/Male/Baseline/N14_CYSTKID.png"/>
-<CsvTable src="/public/Disease/Data/Male/Baseline/LG_N14_CYSTKID.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Male/Baseline/LG_N14_CYSTKID.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111375**  

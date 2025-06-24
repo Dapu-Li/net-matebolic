@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/C3_SMALL_INTESTINE.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/C3_SMALL_INTESTINE.csv"/>

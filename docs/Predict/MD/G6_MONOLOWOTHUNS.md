@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/G6_MONOLOWOTHUNS.png" />
 
-<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_G6_MONOLOWOTHUNS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_G6_MONOLOWOTHUNS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/G6_MONOLOWOTHUNS.png" />
 
-<CsvTableROC src="/public/Predict/Data/ALL/EVA/G6_MONOLOWOTHUNS.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/ALL/EVA/G6_MONOLOWOTHUNS.csv" label="🔍 View full results" />
 
 ---
 

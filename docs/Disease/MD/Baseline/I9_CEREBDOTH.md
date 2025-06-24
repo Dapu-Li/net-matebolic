@@ -13,14 +13,14 @@
 > Cases: **178**  
 > Controls: **204962**
 <img src="/Disease/Figures/ALL/Baseline/I9_CEREBDOTH.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_I9_CEREBDOTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_I9_CEREBDOTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **96523**  
 > Cases: **115**  
 > Controls: **96408**
 <img src="/Disease/Figures/Male/Baseline/I9_CEREBDOTH.png"/>
-<CsvTable src="/public/Disease/Data/Male/Baseline/LG_I9_CEREBDOTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Male/Baseline/LG_I9_CEREBDOTH.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **108617**  

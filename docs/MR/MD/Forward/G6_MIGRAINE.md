@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/G6_MIGRAINE.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/G6_MIGRAINE.csv"/>

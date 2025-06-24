@@ -13,7 +13,7 @@
 > Cases: **195**  
 > Controls: **212555**
 <img src="/Disease/Figures/ALL/Incidence/D3_PRIMTHROMBOPHILIA.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_D3_PRIMTHROMBOPHILIA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_D3_PRIMTHROMBOPHILIA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100756**  
@@ -28,4 +28,4 @@
 > Cases: **131**  
 > Controls: **111863**
 <img src="/Disease/Figures/Female/Incidence/D3_PRIMTHROMBOPHILIA.png"/>
-<CsvTable src="/public/Disease/Data/Female/Incidence/COX_D3_PRIMTHROMBOPHILIA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Incidence/COX_D3_PRIMTHROMBOPHILIA.csv" label="🔍 View full results" />

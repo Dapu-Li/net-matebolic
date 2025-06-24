@@ -13,4 +13,4 @@
 > Cases: **634**  
 > Controls: **83298**
 <img src="/Disease/Figures/ALL/Baseline/N14_OTHNONINFCERVIX.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_OTHNONINFCERVIX.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_OTHNONINFCERVIX.csv" label="🔍 View full results" />

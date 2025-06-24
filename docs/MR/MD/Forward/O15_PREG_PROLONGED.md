@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/O15_PREG_PROLONGED.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/O15_PREG_PROLONGED.csv"/>

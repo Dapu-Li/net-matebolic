@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/APPENDACUT_COMPLIC.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/APPENDACUT_COMPLIC.csv"/>

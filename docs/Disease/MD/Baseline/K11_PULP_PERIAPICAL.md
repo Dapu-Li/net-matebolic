@@ -13,18 +13,18 @@
 > Cases: **851**  
 > Controls: **205772**
 <img src="/Disease/Figures/ALL/Baseline/K11_PULP_PERIAPICAL.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_K11_PULP_PERIAPICAL.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_K11_PULP_PERIAPICAL.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **98018**  
 > Cases: **320**  
 > Controls: **97698**
 <img src="/Disease/Figures/Male/Baseline/K11_PULP_PERIAPICAL.png"/>
-<CsvTable src="/public/Disease/Data/Male/Baseline/LG_K11_PULP_PERIAPICAL.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Male/Baseline/LG_K11_PULP_PERIAPICAL.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **108605**  
 > Cases: **531**  
 > Controls: **108074**
 <img src="/Disease/Figures/Female/Baseline/K11_PULP_PERIAPICAL.png"/>
-<CsvTable src="/public/Disease/Data/Female/Baseline/LG_K11_PULP_PERIAPICAL.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Baseline/LG_K11_PULP_PERIAPICAL.csv" label="🔍 View full results" />

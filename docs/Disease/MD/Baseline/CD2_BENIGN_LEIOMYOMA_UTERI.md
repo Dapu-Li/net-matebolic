@@ -13,4 +13,4 @@
 > Cases: **4106**  
 > Controls: **107889**
 <img src="/Disease/Figures/ALL/Baseline/CD2_BENIGN_LEIOMYOMA_UTERI.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_LEIOMYOMA_UTERI.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_LEIOMYOMA_UTERI.csv" label="🔍 View full results" />

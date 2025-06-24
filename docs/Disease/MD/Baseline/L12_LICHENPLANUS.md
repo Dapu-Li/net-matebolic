@@ -13,7 +13,7 @@
 > Cases: **158**  
 > Controls: **209955**
 <img src="/Disease/Figures/ALL/Baseline/L12_LICHENPLANUS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_L12_LICHENPLANUS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_L12_LICHENPLANUS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99358**  
@@ -27,4 +27,4 @@
 > Cases: **110**  
 > Controls: **110645**
 <img src="/Disease/Figures/Female/Baseline/L12_LICHENPLANUS.png"/>
-<CsvTable src="/public/Disease/Data/Female/Baseline/LG_L12_LICHENPLANUS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Baseline/LG_L12_LICHENPLANUS.csv" label="🔍 View full results" />

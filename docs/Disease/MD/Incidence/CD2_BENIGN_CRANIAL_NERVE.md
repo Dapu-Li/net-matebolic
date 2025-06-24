@@ -13,7 +13,7 @@
 > Cases: **153**  
 > Controls: **212512**
 <img src="/Disease/Figures/ALL/Incidence/CD2_BENIGN_CRANIAL_NERVE.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_CD2_BENIGN_CRANIAL_NERVE.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_CD2_BENIGN_CRANIAL_NERVE.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100710**  

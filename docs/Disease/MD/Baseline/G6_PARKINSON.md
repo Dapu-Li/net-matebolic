@@ -13,7 +13,7 @@
 > Cases: **155**  
 > Controls: **212171**
 <img src="/Disease/Figures/ALL/Baseline/G6_PARKINSON.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_G6_PARKINSON.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_G6_PARKINSON.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100559**  

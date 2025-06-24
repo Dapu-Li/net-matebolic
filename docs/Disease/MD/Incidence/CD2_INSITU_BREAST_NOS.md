@@ -13,4 +13,4 @@
 > Cases: **309**  
 > Controls: **111366**
 <img src="/Disease/Figures/ALL/Incidence/CD2_INSITU_BREAST_NOS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_CD2_INSITU_BREAST_NOS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_CD2_INSITU_BREAST_NOS.csv" label="🔍 View full results" />

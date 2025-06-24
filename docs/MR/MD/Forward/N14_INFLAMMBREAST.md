@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/N14_INFLAMMBREAST.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/N14_INFLAMMBREAST.csv"/>

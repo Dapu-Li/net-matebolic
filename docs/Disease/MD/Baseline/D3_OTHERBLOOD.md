@@ -13,7 +13,7 @@
 > Cases: **140**  
 > Controls: **212607**
 <img src="/Disease/Figures/ALL/Baseline/D3_OTHERBLOOD.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_D3_OTHERBLOOD.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_D3_OTHERBLOOD.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100755**  

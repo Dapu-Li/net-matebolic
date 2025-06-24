@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/F5_CANNABIS.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/F5_CANNABIS.csv"/>

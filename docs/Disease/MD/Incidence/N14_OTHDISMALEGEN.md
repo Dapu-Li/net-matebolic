@@ -13,4 +13,4 @@
 > Cases: **1219**  
 > Controls: **81957**
 <img src="/Disease/Figures/ALL/Incidence/N14_OTHDISMALEGEN.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_N14_OTHDISMALEGEN.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_N14_OTHDISMALEGEN.csv" label="🔍 View full results" />

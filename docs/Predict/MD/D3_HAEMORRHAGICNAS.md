@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/D3_HAEMORRHAGICNAS.png" />
 
-<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_D3_HAEMORRHAGICNAS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_D3_HAEMORRHAGICNAS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/D3_HAEMORRHAGICNAS.png" />
 
-<CsvTableROC src="/public/Predict/Data/ALL/EVA/D3_HAEMORRHAGICNAS.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/ALL/EVA/D3_HAEMORRHAGICNAS.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,8 +36,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/D3_HAEMORRHAGICNAS.png" />
 
-<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_D3_HAEMORRHAGICNAS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_D3_HAEMORRHAGICNAS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/D3_HAEMORRHAGICNAS.png" />
 
-<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/D3_HAEMORRHAGICNAS.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/OverFYears/EVA/D3_HAEMORRHAGICNAS.csv" label="🔍 View full results" />

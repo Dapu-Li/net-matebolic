@@ -13,18 +13,18 @@
 > Cases: **1063**  
 > Controls: **211688**
 <img src="/Disease/Figures/ALL/Baseline/M13_ARTHTROSIS_COX_PRIM_ICD10.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_M13_ARTHTROSIS_COX_PRIM_ICD10.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_M13_ARTHTROSIS_COX_PRIM_ICD10.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100756**  
 > Cases: **469**  
 > Controls: **100287**
 <img src="/Disease/Figures/Male/Baseline/M13_ARTHTROSIS_COX_PRIM_ICD10.png"/>
-<CsvTable src="/public/Disease/Data/Male/Baseline/LG_M13_ARTHTROSIS_COX_PRIM_ICD10.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Male/Baseline/LG_M13_ARTHTROSIS_COX_PRIM_ICD10.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111995**  
 > Cases: **594**  
 > Controls: **111401**
 <img src="/Disease/Figures/Female/Baseline/M13_ARTHTROSIS_COX_PRIM_ICD10.png"/>
-<CsvTable src="/public/Disease/Data/Female/Baseline/LG_M13_ARTHTROSIS_COX_PRIM_ICD10.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Baseline/LG_M13_ARTHTROSIS_COX_PRIM_ICD10.csv" label="🔍 View full results" />

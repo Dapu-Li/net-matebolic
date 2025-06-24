@@ -9,15 +9,15 @@
 > Cases: **69139**  
 > Controls: **143612**
 <img src="/Cluster/Figures/Incidence/LG/Cluster_15.png" />
-<CsvTable src="/public/Cluster/Data/Incidence/LG/LG_Cluster_15.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Incidence/LG/LG_Cluster_15.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **100744**
 <img src="/Cluster/Figures/Incidence/Histogram/Cluster_15_in.png" />
-<CsvTable src="/public/Cluster/Data/Incidence/Histogram/Cluster_15_in.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Incidence/Histogram/Cluster_15_in.csv" label="🔍 View full results" />
 
 <img src="/Cluster/Figures/Incidence/ORD/Cluster_15.png" />
-<CsvTable src="/public/Cluster/Data/Incidence/ORD/ORD_Cluster_15.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Incidence/ORD/ORD_Cluster_15.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - N14_NEPHRITICNAS (14) - Unspecified nephritic syndrome

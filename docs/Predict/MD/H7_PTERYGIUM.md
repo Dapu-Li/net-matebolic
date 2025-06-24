@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/H7_PTERYGIUM.png" />
 
-<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_H7_PTERYGIUM.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_H7_PTERYGIUM.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/H7_PTERYGIUM.png" />
 
-<CsvTableROC src="/public/Predict/Data/ALL/EVA/H7_PTERYGIUM.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/ALL/EVA/H7_PTERYGIUM.csv" label="🔍 View full results" />
 
 ---
 

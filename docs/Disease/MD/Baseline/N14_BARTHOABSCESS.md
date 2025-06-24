@@ -13,4 +13,4 @@
 > Cases: **156**  
 > Controls: **108040**
 <img src="/Disease/Figures/ALL/Baseline/N14_BARTHOABSCESS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_BARTHOABSCESS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_BARTHOABSCESS.csv" label="🔍 View full results" />

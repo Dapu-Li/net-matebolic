@@ -13,7 +13,7 @@
 > Cases: **113**  
 > Controls: **163534**
 <img src="/Disease/Figures/ALL/Baseline/C3_SECONDARY_WITHOUT_SITESPEC.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_C3_SECONDARY_WITHOUT_SITESPEC.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_C3_SECONDARY_WITHOUT_SITESPEC.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **76095**  

@@ -13,7 +13,7 @@
 > Cases: **117**  
 > Controls: **212593**
 <img src="/Disease/Figures/ALL/Incidence/E4_DM2NASCOMP.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_E4_DM2NASCOMP.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_E4_DM2NASCOMP.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100730**  

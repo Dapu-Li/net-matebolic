@@ -13,7 +13,7 @@
 > Cases: **114**  
 > Controls: **182990**
 <img src="/Disease/Figures/ALL/Incidence/M13_FOREIGNBODY.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_M13_FOREIGNBODY.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_M13_FOREIGNBODY.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **87351**  

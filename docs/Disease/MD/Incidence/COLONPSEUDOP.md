@@ -13,14 +13,14 @@
 > Cases: **201**  
 > Controls: **199191**
 <img src="/Disease/Figures/ALL/Incidence/COLONPSEUDOP.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_COLONPSEUDOP.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_COLONPSEUDOP.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **95233**  
 > Cases: **124**  
 > Controls: **95109**
 <img src="/Disease/Figures/Male/Incidence/COLONPSEUDOP.png"/>
-<CsvTable src="/public/Disease/Data/Male/Incidence/COX_COLONPSEUDOP.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Male/Incidence/COX_COLONPSEUDOP.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **104159**  

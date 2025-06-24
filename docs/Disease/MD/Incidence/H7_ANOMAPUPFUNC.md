@@ -13,7 +13,7 @@
 > Cases: **158**  
 > Controls: **211419**
 <img src="/Disease/Figures/ALL/Incidence/H7_ANOMAPUPFUNC.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_H7_ANOMAPUPFUNC.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_H7_ANOMAPUPFUNC.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100187**  

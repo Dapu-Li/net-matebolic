@@ -13,4 +13,4 @@
 > Cases: **3274**  
 > Controls: **85042**
 <img src="/Disease/Figures/ALL/Baseline/N14_POSTMENBLEED.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_POSTMENBLEED.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_POSTMENBLEED.csv" label="🔍 View full results" />

@@ -13,4 +13,4 @@
 > Cases: **276**  
 > Controls: **107517**
 <img src="/Disease/Figures/ALL/Baseline/O15_LABOUR_UMBILICAL.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_O15_LABOUR_UMBILICAL.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_LABOUR_UMBILICAL.csv" label="🔍 View full results" />

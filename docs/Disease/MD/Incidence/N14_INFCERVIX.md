@@ -13,4 +13,4 @@
 > Cases: **166**  
 > Controls: **107973**
 <img src="/Disease/Figures/ALL/Incidence/N14_INFCERVIX.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_N14_INFCERVIX.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_N14_INFCERVIX.csv" label="🔍 View full results" />

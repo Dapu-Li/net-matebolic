@@ -13,7 +13,7 @@
 > Cases: **202**  
 > Controls: **192773**
 <img src="/Disease/Figures/ALL/Baseline/N14_TUBULOINTNEPHRNAS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_TUBULOINTNEPHRNAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_TUBULOINTNEPHRNAS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **89958**  
@@ -27,4 +27,4 @@
 > Cases: **157**  
 > Controls: **102860**
 <img src="/Disease/Figures/Female/Baseline/N14_TUBULOINTNEPHRNAS.png"/>
-<CsvTable src="/public/Disease/Data/Female/Baseline/LG_N14_TUBULOINTNEPHRNAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Baseline/LG_N14_TUBULOINTNEPHRNAS.csv" label="🔍 View full results" />

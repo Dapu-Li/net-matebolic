@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/G6_DRUGPOLY.png" />
 
-<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_G6_DRUGPOLY.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_G6_DRUGPOLY.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/G6_DRUGPOLY.png" />
 
-<CsvTableROC src="/public/Predict/Data/ALL/EVA/G6_DRUGPOLY.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/ALL/EVA/G6_DRUGPOLY.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,8 +36,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/G6_DRUGPOLY.png" />
 
-<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_G6_DRUGPOLY.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_G6_DRUGPOLY.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/G6_DRUGPOLY.png" />
 
-<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/G6_DRUGPOLY.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/OverFYears/EVA/G6_DRUGPOLY.csv" label="🔍 View full results" />

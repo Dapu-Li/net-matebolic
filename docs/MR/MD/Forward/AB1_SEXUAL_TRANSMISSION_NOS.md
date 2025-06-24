@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/AB1_SEXUAL_TRANSMISSION_NOS.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/AB1_SEXUAL_TRANSMISSION_NOS.csv"/>

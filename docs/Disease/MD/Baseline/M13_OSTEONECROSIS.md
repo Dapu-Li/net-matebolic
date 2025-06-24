@@ -13,7 +13,7 @@
 > Cases: **145**  
 > Controls: **197809**
 <img src="/Disease/Figures/ALL/Baseline/M13_OSTEONECROSIS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_M13_OSTEONECROSIS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_M13_OSTEONECROSIS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **96838**  

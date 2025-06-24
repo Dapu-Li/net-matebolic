@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/PRIM_COXARTHROSIS.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/PRIM_COXARTHROSIS.csv"/>

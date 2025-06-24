@@ -13,7 +13,7 @@
 > Cases: **115**  
 > Controls: **212635**
 <img src="/Disease/Figures/ALL/Baseline/DM_PERIPHATHERO.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_DM_PERIPHATHERO.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_DM_PERIPHATHERO.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100756**  

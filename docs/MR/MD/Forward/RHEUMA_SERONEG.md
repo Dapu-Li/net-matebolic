@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/RHEUMA_SERONEG.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/RHEUMA_SERONEG.csv"/>

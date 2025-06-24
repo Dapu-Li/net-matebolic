@@ -13,7 +13,7 @@
 > Cases: **171**  
 > Controls: **212243**
 <img src="/Disease/Figures/ALL/Incidence/H7_OPTICDISCOTH.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_H7_OPTICDISCOTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_H7_OPTICDISCOTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100592**  

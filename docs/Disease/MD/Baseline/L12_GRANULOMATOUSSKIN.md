@@ -13,7 +13,7 @@
 > Cases: **170**  
 > Controls: **197613**
 <img src="/Disease/Figures/ALL/Baseline/L12_GRANULOMATOUSSKIN.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_L12_GRANULOMATOUSSKIN.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_L12_GRANULOMATOUSSKIN.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **93681**  
@@ -27,4 +27,4 @@
 > Cases: **101**  
 > Controls: **104001**
 <img src="/Disease/Figures/Female/Baseline/L12_GRANULOMATOUSSKIN.png"/>
-<CsvTable src="/public/Disease/Data/Female/Baseline/LG_L12_GRANULOMATOUSSKIN.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Baseline/LG_L12_GRANULOMATOUSSKIN.csv" label="🔍 View full results" />

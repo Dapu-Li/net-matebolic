@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/O15_AMNIOT_OTHER.png" />
 
-<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_O15_AMNIOT_OTHER.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_O15_AMNIOT_OTHER.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/O15_AMNIOT_OTHER.png" />
 
-<CsvTableROC src="/public/Predict/Data/Baseline/EVA/O15_AMNIOT_OTHER.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/Baseline/EVA/O15_AMNIOT_OTHER.csv" label="🔍 View full results" />
 
 ---
 

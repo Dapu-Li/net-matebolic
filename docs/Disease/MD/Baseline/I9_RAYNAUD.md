@@ -13,7 +13,7 @@
 > Cases: **197**  
 > Controls: **212553**
 <img src="/Disease/Figures/ALL/Baseline/I9_RAYNAUD.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_I9_RAYNAUD.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_I9_RAYNAUD.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100755**  
@@ -27,4 +27,4 @@
 > Cases: **153**  
 > Controls: **111842**
 <img src="/Disease/Figures/Female/Baseline/I9_RAYNAUD.png"/>
-<CsvTable src="/public/Disease/Data/Female/Baseline/LG_I9_RAYNAUD.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Baseline/LG_I9_RAYNAUD.csv" label="🔍 View full results" />

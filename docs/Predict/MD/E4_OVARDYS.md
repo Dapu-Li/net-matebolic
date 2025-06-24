@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/E4_OVARDYS.png" />
 
-<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_E4_OVARDYS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_E4_OVARDYS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/E4_OVARDYS.png" />
 
-<CsvTableROC src="/public/Predict/Data/ALL/EVA/E4_OVARDYS.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/ALL/EVA/E4_OVARDYS.csv" label="🔍 View full results" />
 
 ---
 

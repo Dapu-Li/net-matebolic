@@ -14,10 +14,10 @@
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **2863**
 <img src="/Cluster/Figures/Incidence/Histogram/Cluster_10_in.png" />
-<CsvTable src="/public/Cluster/Data/Incidence/Histogram/Cluster_10_in.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Incidence/Histogram/Cluster_10_in.csv" label="🔍 View full results" />
 
 <img src="/Cluster/Figures/Incidence/ORD/Cluster_10.png" />
-<CsvTable src="/public/Cluster/Data/Incidence/ORD/ORD_Cluster_10.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Incidence/ORD/ORD_Cluster_10.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - L12_NONIONRADISKINNAS (12) - Other and unspecified skin changes due to chronic exposure to nonionizing radiation

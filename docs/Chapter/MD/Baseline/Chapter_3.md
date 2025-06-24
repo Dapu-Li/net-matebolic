@@ -11,12 +11,12 @@
 > Cases: **6077**  
 > Controls: **206674**
 <img src="/Chapter/Figures/Baseline/LG/Chapter_3.png"/>
-<CsvTable src="/public/Chapter/Data/Baseline/LG/LG_Chapter_3.csv" label="🔍 View full results" />
+<CsvTable src="/Chapter/Data/Baseline/LG/LG_Chapter_3.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **6876**
 <img src="/Chapter/Figures/Baseline/Histogram/Chapter_3_ba.png"/>
-<CsvTable src="/public/Chapter/Data/Baseline/Histogram/Chapter_3_ba.csv" label="🔍 View full results" />
+<CsvTable src="/Chapter/Data/Baseline/Histogram/Chapter_3_ba.csv" label="🔍 View full results" />
         
 <img src="/Chapter/Figures/Baseline/ORD/Chapter_3.png"/>
-<CsvTable src="/public/Chapter/Data/Baseline/ORD/ORD_Chapter_3.csv" label="🔍 View full results" />
+<CsvTable src="/Chapter/Data/Baseline/ORD/ORD_Chapter_3.csv" label="🔍 View full results" />

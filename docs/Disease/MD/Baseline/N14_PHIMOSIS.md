@@ -13,4 +13,4 @@
 > Cases: **589**  
 > Controls: **83055**
 <img src="/Disease/Figures/ALL/Baseline/N14_PHIMOSIS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_PHIMOSIS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_PHIMOSIS.csv" label="🔍 View full results" />

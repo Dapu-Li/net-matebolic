@@ -13,7 +13,7 @@
 > Cases: **110**  
 > Controls: **210406**
 <img src="/Disease/Figures/ALL/Incidence/PD2ND.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_PD2ND.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_PD2ND.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99417**  

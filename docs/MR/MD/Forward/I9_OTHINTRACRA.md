@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/I9_OTHINTRACRA.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/I9_OTHINTRACRA.csv"/>

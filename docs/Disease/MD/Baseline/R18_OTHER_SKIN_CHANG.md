@@ -13,7 +13,7 @@
 > Cases: **106**  
 > Controls: **206731**
 <img src="/Disease/Figures/ALL/Baseline/R18_OTHER_SKIN_CHANG.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_R18_OTHER_SKIN_CHANG.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_R18_OTHER_SKIN_CHANG.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **98043**  

@@ -13,4 +13,4 @@
 > Cases: **666**  
 > Controls: **108967**
 <img src="/Disease/Figures/ALL/Baseline/N14_LUMPNASBREAST.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_LUMPNASBREAST.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_LUMPNASBREAST.csv" label="🔍 View full results" />

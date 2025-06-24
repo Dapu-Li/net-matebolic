@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/F5_CANNABIS.png" />
 
-<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_F5_CANNABIS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_F5_CANNABIS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/F5_CANNABIS.png" />
 
-<CsvTableROC src="/public/Predict/Data/ALL/EVA/F5_CANNABIS.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/ALL/EVA/F5_CANNABIS.csv" label="🔍 View full results" />
 
 ---
 

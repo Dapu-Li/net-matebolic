@@ -13,4 +13,4 @@
 > Cases: **281**  
 > Controls: **83347**
 <img src="/Disease/Figures/ALL/Baseline/N14_POSTMENATRVAG.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_POSTMENATRVAG.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_POSTMENATRVAG.csv" label="🔍 View full results" />

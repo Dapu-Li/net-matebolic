@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/H8_NONSUPPNAS.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/H8_NONSUPPNAS.csv"/>

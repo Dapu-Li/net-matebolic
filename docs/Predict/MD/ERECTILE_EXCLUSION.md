@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/ERECTILE_EXCLUSION.png" />
 
-<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_ERECTILE_EXCLUSION.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_ERECTILE_EXCLUSION.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/ERECTILE_EXCLUSION.png" />
 
-<CsvTableROC src="/public/Predict/Data/ALL/EVA/ERECTILE_EXCLUSION.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/ALL/EVA/ERECTILE_EXCLUSION.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,8 +36,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/ERECTILE_EXCLUSION.png" />
 
-<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_ERECTILE_EXCLUSION.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_ERECTILE_EXCLUSION.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/ERECTILE_EXCLUSION.png" />
 
-<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/ERECTILE_EXCLUSION.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/OverFYears/EVA/ERECTILE_EXCLUSION.csv" label="🔍 View full results" />

@@ -13,4 +13,4 @@
 > Cases: **116**  
 > Controls: **86781**
 <img src="/Disease/Figures/ALL/Incidence/C3_FEMALE_GENITAL_NAS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_C3_FEMALE_GENITAL_NAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_C3_FEMALE_GENITAL_NAS.csv" label="🔍 View full results" />

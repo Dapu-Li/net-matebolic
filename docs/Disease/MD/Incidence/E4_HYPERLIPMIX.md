@@ -13,7 +13,7 @@
 > Cases: **152**  
 > Controls: **165429**
 <img src="/Disease/Figures/ALL/Incidence/E4_HYPERLIPMIX.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_E4_HYPERLIPMIX.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_E4_HYPERLIPMIX.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **75132**  

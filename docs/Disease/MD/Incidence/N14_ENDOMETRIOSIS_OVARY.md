@@ -13,4 +13,4 @@
 > Cases: **140**  
 > Controls: **82645**
 <img src="/Disease/Figures/ALL/Incidence/N14_ENDOMETRIOSIS_OVARY.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_N14_ENDOMETRIOSIS_OVARY.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_N14_ENDOMETRIOSIS_OVARY.csv" label="🔍 View full results" />

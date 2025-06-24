@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/C3_BRONCHUS_LUNG.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/C3_BRONCHUS_LUNG.csv"/>

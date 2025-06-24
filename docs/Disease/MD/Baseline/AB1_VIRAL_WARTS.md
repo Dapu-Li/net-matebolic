@@ -13,7 +13,7 @@
 > Cases: **219**  
 > Controls: **211482**
 <img src="/Disease/Figures/ALL/Baseline/AB1_VIRAL_WARTS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_AB1_VIRAL_WARTS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_AB1_VIRAL_WARTS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100276**  
@@ -27,4 +27,4 @@
 > Cases: **120**  
 > Controls: **111305**
 <img src="/Disease/Figures/Female/Baseline/AB1_VIRAL_WARTS.png"/>
-<CsvTable src="/public/Disease/Data/Female/Baseline/LG_AB1_VIRAL_WARTS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Baseline/LG_AB1_VIRAL_WARTS.csv" label="🔍 View full results" />

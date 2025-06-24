@@ -13,7 +13,7 @@
 > Cases: **226**  
 > Controls: **211714**
 <img src="/Disease/Figures/ALL/Baseline/ALLERG_RHINITIS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_ALLERG_RHINITIS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_ALLERG_RHINITIS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100438**  
@@ -27,4 +27,4 @@
 > Cases: **133**  
 > Controls: **111369**
 <img src="/Disease/Figures/Female/Baseline/ALLERG_RHINITIS.png"/>
-<CsvTable src="/public/Disease/Data/Female/Baseline/LG_ALLERG_RHINITIS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Baseline/LG_ALLERG_RHINITIS.csv" label="🔍 View full results" />

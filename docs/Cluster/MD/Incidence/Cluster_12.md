@@ -9,15 +9,15 @@
 > Cases: **28501**  
 > Controls: **184250**
 <img src="/Cluster/Figures/Incidence/LG/Cluster_12.png" />
-<CsvTable src="/public/Cluster/Data/Incidence/LG/LG_Cluster_12.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Incidence/LG/LG_Cluster_12.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **50504**
 <img src="/Cluster/Figures/Incidence/Histogram/Cluster_12_in.png" />
-<CsvTable src="/public/Cluster/Data/Incidence/Histogram/Cluster_12_in.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Incidence/Histogram/Cluster_12_in.csv" label="🔍 View full results" />
 
 <img src="/Cluster/Figures/Incidence/ORD/Cluster_12.png" />
-<CsvTable src="/public/Cluster/Data/Incidence/ORD/ORD_Cluster_12.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Incidence/ORD/ORD_Cluster_12.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - M13_OTHERJOINT (13) - Other joint disorders

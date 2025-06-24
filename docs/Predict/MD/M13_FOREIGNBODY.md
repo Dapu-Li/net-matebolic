@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/M13_FOREIGNBODY.png" />
 
-<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_M13_FOREIGNBODY.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_M13_FOREIGNBODY.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/M13_FOREIGNBODY.png" />
 
-<CsvTableROC src="/public/Predict/Data/ALL/EVA/M13_FOREIGNBODY.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/ALL/EVA/M13_FOREIGNBODY.csv" label="🔍 View full results" />
 
 ---
 

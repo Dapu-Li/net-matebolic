@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/O15_POSTPART_HAEMORRH_ANATOMY.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/O15_POSTPART_HAEMORRH_ANATOMY.csv"/>

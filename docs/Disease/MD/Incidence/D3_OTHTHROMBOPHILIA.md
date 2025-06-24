@@ -13,7 +13,7 @@
 > Cases: **121**  
 > Controls: **212628**
 <img src="/Disease/Figures/ALL/Incidence/D3_OTHTHROMBOPHILIA.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_D3_OTHTHROMBOPHILIA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_D3_OTHTHROMBOPHILIA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100754**  

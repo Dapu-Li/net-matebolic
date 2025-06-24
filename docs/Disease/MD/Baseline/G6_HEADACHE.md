@@ -13,7 +13,7 @@
 > Cases: **162**  
 > Controls: **199212**
 <img src="/Disease/Figures/ALL/Baseline/G6_HEADACHE.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_G6_HEADACHE.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_G6_HEADACHE.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **93808**  

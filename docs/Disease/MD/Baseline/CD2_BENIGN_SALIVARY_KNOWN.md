@@ -13,7 +13,7 @@
 > Cases: **109**  
 > Controls: **212641**
 <img src="/Disease/Figures/ALL/Baseline/CD2_BENIGN_SALIVARY_KNOWN.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_SALIVARY_KNOWN.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_SALIVARY_KNOWN.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100755**  

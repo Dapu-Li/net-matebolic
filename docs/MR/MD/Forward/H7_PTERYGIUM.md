@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/H7_PTERYGIUM.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/H7_PTERYGIUM.csv"/>

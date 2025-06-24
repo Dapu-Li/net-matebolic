@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/C3_DLBCL.png" />
 
-<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_C3_DLBCL.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_C3_DLBCL.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/C3_DLBCL.png" />
 
-<CsvTableROC src="/public/Predict/Data/ALL/EVA/C3_DLBCL.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/ALL/EVA/C3_DLBCL.csv" label="🔍 View full results" />
 
 ---
 
@@ -30,11 +30,11 @@
 
 <img src="/Predict/Figures/FYears/IMP/C3_DLBCL.png" />
 
-<CsvTableIMP src="/public/Predict/Data/FYears/IMP/IMP_C3_DLBCL.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/FYears/IMP/IMP_C3_DLBCL.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/FYears/ROC/C3_DLBCL.png" />
 
-<CsvTableROC src="/public/Predict/Data/FYears/EVA/C3_DLBCL.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/FYears/EVA/C3_DLBCL.csv" label="🔍 View full results" />
 
 ---
 
@@ -42,8 +42,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/C3_DLBCL.png" />
 
-<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_C3_DLBCL.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_C3_DLBCL.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/C3_DLBCL.png" />
 
-<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/C3_DLBCL.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/OverFYears/EVA/C3_DLBCL.csv" label="🔍 View full results" />

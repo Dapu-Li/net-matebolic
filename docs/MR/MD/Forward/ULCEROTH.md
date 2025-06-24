@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/ULCEROTH.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/ULCEROTH.csv"/>

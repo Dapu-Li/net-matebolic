@@ -13,4 +13,4 @@
 > Cases: **102**  
 > Controls: **100612**
 <img src="/Disease/Figures/ALL/Incidence/ERECTILE_EXCLUSION.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_ERECTILE_EXCLUSION.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_ERECTILE_EXCLUSION.csv" label="🔍 View full results" />

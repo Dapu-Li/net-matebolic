@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/M13_DEQUERVAIN.png" />
 
-<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_M13_DEQUERVAIN.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_M13_DEQUERVAIN.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/M13_DEQUERVAIN.png" />
 
-<CsvTableROC src="/public/Predict/Data/Baseline/EVA/M13_DEQUERVAIN.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/Baseline/EVA/M13_DEQUERVAIN.csv" label="🔍 View full results" />
 
 ---
 
@@ -24,11 +24,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/M13_DEQUERVAIN.png" />
 
-<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_M13_DEQUERVAIN.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_M13_DEQUERVAIN.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/M13_DEQUERVAIN.png" />
 
-<CsvTableROC src="/public/Predict/Data/ALL/EVA/M13_DEQUERVAIN.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/ALL/EVA/M13_DEQUERVAIN.csv" label="🔍 View full results" />
 
 ---
 

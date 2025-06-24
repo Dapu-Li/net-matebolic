@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/PD_DEMENTIA.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/PD_DEMENTIA.csv"/>

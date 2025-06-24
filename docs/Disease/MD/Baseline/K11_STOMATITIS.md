@@ -13,7 +13,7 @@
 > Cases: **126**  
 > Controls: **212625**
 <img src="/Disease/Figures/ALL/Baseline/K11_STOMATITIS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_K11_STOMATITIS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_K11_STOMATITIS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100756**  

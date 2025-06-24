@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/CD2_INSITU_BLADDER.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/CD2_INSITU_BLADDER.csv"/>

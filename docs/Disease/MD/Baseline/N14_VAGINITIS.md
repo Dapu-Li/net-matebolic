@@ -13,4 +13,4 @@
 > Cases: **214**  
 > Controls: **108164**
 <img src="/Disease/Figures/ALL/Baseline/N14_VAGINITIS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_VAGINITIS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_VAGINITIS.csv" label="🔍 View full results" />

@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/H7_CHORSCAR.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/H7_CHORSCAR.csv"/>

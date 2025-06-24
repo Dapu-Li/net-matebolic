@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/O15_PRE_OR_ECLAMPSIA.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/O15_PRE_OR_ECLAMPSIA.csv"/>

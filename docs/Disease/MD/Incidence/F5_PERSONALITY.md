@@ -13,7 +13,7 @@
 > Cases: **162**  
 > Controls: **212488**
 <img src="/Disease/Figures/ALL/Incidence/F5_PERSONALITY.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_F5_PERSONALITY.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_F5_PERSONALITY.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100714**  

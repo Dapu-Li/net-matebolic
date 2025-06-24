@@ -13,7 +13,7 @@
 > Cases: **185**  
 > Controls: **206472**
 <img src="/Disease/Figures/ALL/Baseline/R18_ABNORMALITI_GAIT_MOBIL.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_R18_ABNORMALITI_GAIT_MOBIL.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_R18_ABNORMALITI_GAIT_MOBIL.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **97809**  

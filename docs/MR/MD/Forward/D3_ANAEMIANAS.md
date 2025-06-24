@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/D3_ANAEMIANAS.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/D3_ANAEMIANAS.csv"/>

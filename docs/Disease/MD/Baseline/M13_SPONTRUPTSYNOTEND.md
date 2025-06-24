@@ -13,7 +13,7 @@
 > Cases: **156**  
 > Controls: **183299**
 <img src="/Disease/Figures/ALL/Baseline/M13_SPONTRUPTSYNOTEND.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_M13_SPONTRUPTSYNOTEND.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_M13_SPONTRUPTSYNOTEND.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **87527**  

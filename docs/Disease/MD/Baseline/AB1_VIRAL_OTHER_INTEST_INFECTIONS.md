@@ -13,7 +13,7 @@
 > Cases: **128**  
 > Controls: **201661**
 <img src="/Disease/Figures/ALL/Baseline/AB1_VIRAL_OTHER_INTEST_INFECTIONS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_AB1_VIRAL_OTHER_INTEST_INFECTIONS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_AB1_VIRAL_OTHER_INTEST_INFECTIONS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **95954**  

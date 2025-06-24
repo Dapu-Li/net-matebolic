@@ -13,7 +13,7 @@
 > Cases: **114**  
 > Controls: **212637**
 <img src="/Disease/Figures/ALL/Baseline/F5_PANIC.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_F5_PANIC.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_F5_PANIC.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100756**  

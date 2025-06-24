@@ -13,18 +13,18 @@
 > Cases: **238**  
 > Controls: **212443**
 <img src="/Disease/Figures/ALL/Incidence/D3_IMMUNEMECHANISMOTHER.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_D3_IMMUNEMECHANISMOTHER.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_D3_IMMUNEMECHANISMOTHER.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100719**  
 > Cases: **122**  
 > Controls: **100597**
 <img src="/Disease/Figures/Male/Incidence/D3_IMMUNEMECHANISMOTHER.png"/>
-<CsvTable src="/public/Disease/Data/Male/Incidence/COX_D3_IMMUNEMECHANISMOTHER.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Male/Incidence/COX_D3_IMMUNEMECHANISMOTHER.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111962**  
 > Cases: **116**  
 > Controls: **111846**
 <img src="/Disease/Figures/Female/Incidence/D3_IMMUNEMECHANISMOTHER.png"/>
-<CsvTable src="/public/Disease/Data/Female/Incidence/COX_D3_IMMUNEMECHANISMOTHER.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Incidence/COX_D3_IMMUNEMECHANISMOTHER.csv" label="🔍 View full results" />

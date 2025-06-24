@@ -13,7 +13,7 @@
 > Cases: **109**  
 > Controls: **212628**
 <img src="/Disease/Figures/ALL/Incidence/OTHER_MIGRAINE.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_OTHER_MIGRAINE.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_OTHER_MIGRAINE.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100751**  

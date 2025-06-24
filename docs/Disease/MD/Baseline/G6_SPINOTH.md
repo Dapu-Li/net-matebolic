@@ -13,7 +13,7 @@
 > Cases: **117**  
 > Controls: **208535**
 <img src="/Disease/Figures/ALL/Baseline/G6_SPINOTH.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_G6_SPINOTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_G6_SPINOTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **98769**  

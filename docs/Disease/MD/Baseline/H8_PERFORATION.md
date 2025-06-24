@@ -13,18 +13,18 @@
 > Cases: **355**  
 > Controls: **210841**
 <img src="/Disease/Figures/ALL/Baseline/H8_PERFORATION.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_H8_PERFORATION.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_H8_PERFORATION.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100002**  
 > Cases: **179**  
 > Controls: **99823**
 <img src="/Disease/Figures/Male/Baseline/H8_PERFORATION.png"/>
-<CsvTable src="/public/Disease/Data/Male/Baseline/LG_H8_PERFORATION.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Male/Baseline/LG_H8_PERFORATION.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111194**  
 > Cases: **176**  
 > Controls: **111018**
 <img src="/Disease/Figures/Female/Baseline/H8_PERFORATION.png"/>
-<CsvTable src="/public/Disease/Data/Female/Baseline/LG_H8_PERFORATION.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Baseline/LG_H8_PERFORATION.csv" label="🔍 View full results" />

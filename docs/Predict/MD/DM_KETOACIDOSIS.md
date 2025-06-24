@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/DM_KETOACIDOSIS.png" />
 
-<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_DM_KETOACIDOSIS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_DM_KETOACIDOSIS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/DM_KETOACIDOSIS.png" />
 
-<CsvTableROC src="/public/Predict/Data/ALL/EVA/DM_KETOACIDOSIS.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/ALL/EVA/DM_KETOACIDOSIS.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,8 +36,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/DM_KETOACIDOSIS.png" />
 
-<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_DM_KETOACIDOSIS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_DM_KETOACIDOSIS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/DM_KETOACIDOSIS.png" />
 
-<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/DM_KETOACIDOSIS.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/OverFYears/EVA/DM_KETOACIDOSIS.csv" label="🔍 View full results" />

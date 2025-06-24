@@ -13,4 +13,4 @@
 > Cases: **101**  
 > Controls: **86877**
 <img src="/Disease/Figures/ALL/Baseline/C3_CERVIX_UTERI.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_C3_CERVIX_UTERI.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_C3_CERVIX_UTERI.csv" label="🔍 View full results" />

@@ -13,4 +13,4 @@
 > Cases: **63**  
 > Controls: **111932**
 <img src="/Disease/Figures/ALL/Baseline/CD2_INSITU_GENITAL.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_CD2_INSITU_GENITAL.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_CD2_INSITU_GENITAL.csv" label="🔍 View full results" />

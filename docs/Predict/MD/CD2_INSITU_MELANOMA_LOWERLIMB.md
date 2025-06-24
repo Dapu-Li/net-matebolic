@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/CD2_INSITU_MELANOMA_LOWERLIMB.png" />
 
-<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_CD2_INSITU_MELANOMA_LOWERLIMB.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_CD2_INSITU_MELANOMA_LOWERLIMB.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/CD2_INSITU_MELANOMA_LOWERLIMB.png" />
 
-<CsvTableROC src="/public/Predict/Data/ALL/EVA/CD2_INSITU_MELANOMA_LOWERLIMB.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/ALL/EVA/CD2_INSITU_MELANOMA_LOWERLIMB.csv" label="🔍 View full results" />
 
 ---
 

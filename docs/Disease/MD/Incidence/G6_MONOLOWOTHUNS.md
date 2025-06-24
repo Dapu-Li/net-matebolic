@@ -13,7 +13,7 @@
 > Cases: **111**  
 > Controls: **198417**
 <img src="/Disease/Figures/ALL/Incidence/G6_MONOLOWOTHUNS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_G6_MONOLOWOTHUNS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_G6_MONOLOWOTHUNS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **95191**  

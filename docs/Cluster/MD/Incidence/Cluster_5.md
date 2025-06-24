@@ -9,15 +9,15 @@
 > Cases: **7571**  
 > Controls: **205180**
 <img src="/Cluster/Figures/Incidence/LG/Cluster_5.png" />
-<CsvTable src="/public/Cluster/Data/Incidence/LG/LG_Cluster_5.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Incidence/LG/LG_Cluster_5.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **16444**
 <img src="/Cluster/Figures/Incidence/Histogram/Cluster_5_in.png" />
-<CsvTable src="/public/Cluster/Data/Incidence/Histogram/Cluster_5_in.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Incidence/Histogram/Cluster_5_in.csv" label="🔍 View full results" />
 
 <img src="/Cluster/Figures/Incidence/ORD/Cluster_5.png" />
-<CsvTable src="/public/Cluster/Data/Incidence/ORD/ORD_Cluster_5.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Incidence/ORD/ORD_Cluster_5.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - M13_PATHODISLOCATIO (13) - Pathological/recurrent dislocation and subluxation of joint, not elsewhere classified

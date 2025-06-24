@@ -13,7 +13,7 @@
 > Cases: **192**  
 > Controls: **212553**
 <img src="/Disease/Figures/ALL/Baseline/CD2_BENIGN_ENDOCRINE_OTH.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_ENDOCRINE_OTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_ENDOCRINE_OTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100753**  
@@ -27,4 +27,4 @@
 > Cases: **121**  
 > Controls: **111871**
 <img src="/Disease/Figures/Female/Baseline/CD2_BENIGN_ENDOCRINE_OTH.png"/>
-<CsvTable src="/public/Disease/Data/Female/Baseline/LG_CD2_BENIGN_ENDOCRINE_OTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Baseline/LG_CD2_BENIGN_ENDOCRINE_OTH.csv" label="🔍 View full results" />

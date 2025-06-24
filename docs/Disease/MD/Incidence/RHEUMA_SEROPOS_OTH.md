@@ -13,18 +13,18 @@
 > Cases: **456**  
 > Controls: **212167**
 <img src="/Disease/Figures/ALL/Incidence/RHEUMA_SEROPOS_OTH.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_RHEUMA_SEROPOS_OTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_RHEUMA_SEROPOS_OTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100726**  
 > Cases: **142**  
 > Controls: **100584**
 <img src="/Disease/Figures/Male/Incidence/RHEUMA_SEROPOS_OTH.png"/>
-<CsvTable src="/public/Disease/Data/Male/Incidence/COX_RHEUMA_SEROPOS_OTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Male/Incidence/COX_RHEUMA_SEROPOS_OTH.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111897**  
 > Cases: **314**  
 > Controls: **111583**
 <img src="/Disease/Figures/Female/Incidence/RHEUMA_SEROPOS_OTH.png"/>
-<CsvTable src="/public/Disease/Data/Female/Incidence/COX_RHEUMA_SEROPOS_OTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Incidence/COX_RHEUMA_SEROPOS_OTH.csv" label="🔍 View full results" />

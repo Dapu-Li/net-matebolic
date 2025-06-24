@@ -9,15 +9,15 @@
 > Cases: **663**  
 > Controls: **212088**
 <img src="/Cluster/Figures/Incidence/LG/Cluster_20.png" />
-<CsvTable src="/public/Cluster/Data/Incidence/LG/LG_Cluster_20.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Incidence/LG/LG_Cluster_20.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **5642**
 <img src="/Cluster/Figures/Incidence/Histogram/Cluster_20_in.png" />
-<CsvTable src="/public/Cluster/Data/Incidence/Histogram/Cluster_20_in.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Incidence/Histogram/Cluster_20_in.csv" label="🔍 View full results" />
 
 <img src="/Cluster/Figures/Incidence/ORD/Cluster_20.png" />
-<CsvTable src="/public/Cluster/Data/Incidence/ORD/ORD_Cluster_20.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Incidence/ORD/ORD_Cluster_20.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - M13_OSTEOPATHYINOTH (13) - Osteopathy in diseases classified elsewhere

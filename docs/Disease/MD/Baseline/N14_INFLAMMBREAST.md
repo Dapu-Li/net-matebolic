@@ -13,4 +13,4 @@
 > Cases: **161**  
 > Controls: **108759**
 <img src="/Disease/Figures/ALL/Baseline/N14_INFLAMMBREAST.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_INFLAMMBREAST.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_INFLAMMBREAST.csv" label="🔍 View full results" />

@@ -13,7 +13,7 @@
 > Cases: **201**  
 > Controls: **210140**
 <img src="/Disease/Figures/ALL/Incidence/K11_OTHAPPEND.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_K11_OTHAPPEND.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_K11_OTHAPPEND.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99593**  
@@ -28,4 +28,4 @@
 > Cases: **115**  
 > Controls: **110633**
 <img src="/Disease/Figures/Female/Incidence/K11_OTHAPPEND.png"/>
-<CsvTable src="/public/Disease/Data/Female/Incidence/COX_K11_OTHAPPEND.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Incidence/COX_K11_OTHAPPEND.csv" label="🔍 View full results" />

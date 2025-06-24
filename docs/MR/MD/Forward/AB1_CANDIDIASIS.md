@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/AB1_CANDIDIASIS.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/AB1_CANDIDIASIS.csv"/>

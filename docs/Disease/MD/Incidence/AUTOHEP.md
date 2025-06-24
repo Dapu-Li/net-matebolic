@@ -13,7 +13,7 @@
 > Cases: **138**  
 > Controls: **212581**
 <img src="/Disease/Figures/ALL/Incidence/AUTOHEP.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_AUTOHEP.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_AUTOHEP.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100748**  
@@ -28,4 +28,4 @@
 > Cases: **114**  
 > Controls: **111857**
 <img src="/Disease/Figures/Female/Incidence/AUTOHEP.png"/>
-<CsvTable src="/public/Disease/Data/Female/Incidence/COX_AUTOHEP.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Incidence/COX_AUTOHEP.csv" label="🔍 View full results" />

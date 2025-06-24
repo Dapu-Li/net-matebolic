@@ -13,7 +13,7 @@
 > Cases: **150**  
 > Controls: **212572**
 <img src="/Disease/Figures/ALL/Baseline/D3_SARCOIDOSIS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_D3_SARCOIDOSIS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_D3_SARCOIDOSIS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100743**  

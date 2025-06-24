@@ -13,7 +13,7 @@
 > Cases: **103**  
 > Controls: **212630**
 <img src="/Disease/Figures/ALL/Baseline/M13_NECROVASC.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_M13_NECROVASC.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_M13_NECROVASC.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100750**  

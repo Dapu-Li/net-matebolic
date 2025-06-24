@@ -13,4 +13,4 @@
 > Cases: **119**  
 > Controls: **105122**
 <img src="/Disease/Figures/ALL/Incidence/O15_PREG_BIRTH_PUERP.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_O15_PREG_BIRTH_PUERP.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_O15_PREG_BIRTH_PUERP.csv" label="🔍 View full results" />

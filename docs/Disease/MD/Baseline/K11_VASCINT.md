@@ -13,7 +13,7 @@
 > Cases: **144**  
 > Controls: **151949**
 <img src="/Disease/Figures/ALL/Baseline/K11_VASCINT.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_K11_VASCINT.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_K11_VASCINT.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **72278**  

@@ -13,7 +13,7 @@
 > Cases: **193**  
 > Controls: **205437**
 <img src="/Disease/Figures/ALL/Incidence/L12_NAIL_INGROW.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_L12_NAIL_INGROW.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_L12_NAIL_INGROW.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **97300**  

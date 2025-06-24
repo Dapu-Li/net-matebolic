@@ -13,7 +13,7 @@
 > Cases: **158**  
 > Controls: **212593**
 <img src="/Disease/Figures/ALL/Baseline/CD2_BENIGN_MELANOCYTIC_SCALPNECK.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_MELANOCYTIC_SCALPNECK.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_MELANOCYTIC_SCALPNECK.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100756**  

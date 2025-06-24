@@ -13,7 +13,7 @@
 > Cases: **119**  
 > Controls: **212632**
 <img src="/Disease/Figures/ALL/Baseline/TRIGONITIS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_TRIGONITIS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_TRIGONITIS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100756**  
@@ -27,4 +27,4 @@
 > Cases: **110**  
 > Controls: **111885**
 <img src="/Disease/Figures/Female/Baseline/TRIGONITIS.png"/>
-<CsvTable src="/public/Disease/Data/Female/Baseline/LG_TRIGONITIS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Baseline/LG_TRIGONITIS.csv" label="🔍 View full results" />

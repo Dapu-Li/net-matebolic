@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/N14_FEMALE_GENITAL_LSIL.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/N14_FEMALE_GENITAL_LSIL.csv"/>

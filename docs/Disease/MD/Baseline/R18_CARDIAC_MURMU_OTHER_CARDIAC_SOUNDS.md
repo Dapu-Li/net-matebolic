@@ -13,7 +13,7 @@
 > Cases: **195**  
 > Controls: **171455**
 <img src="/Disease/Figures/ALL/Baseline/R18_CARDIAC_MURMU_OTHER_CARDIAC_SOUNDS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_R18_CARDIAC_MURMU_OTHER_CARDIAC_SOUNDS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_R18_CARDIAC_MURMU_OTHER_CARDIAC_SOUNDS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **80165**  
@@ -27,4 +27,4 @@
 > Cases: **144**  
 > Controls: **91341**
 <img src="/Disease/Figures/Female/Baseline/R18_CARDIAC_MURMU_OTHER_CARDIAC_SOUNDS.png"/>
-<CsvTable src="/public/Disease/Data/Female/Baseline/LG_R18_CARDIAC_MURMU_OTHER_CARDIAC_SOUNDS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Baseline/LG_R18_CARDIAC_MURMU_OTHER_CARDIAC_SOUNDS.csv" label="🔍 View full results" />

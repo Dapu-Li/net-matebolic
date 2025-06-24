@@ -13,7 +13,7 @@
 > Cases: **100**  
 > Controls: **128284**
 <img src="/Disease/Figures/ALL/Baseline/AB1_SEPSIS_FUNGAL_IMPL.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_AB1_SEPSIS_FUNGAL_IMPL.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_AB1_SEPSIS_FUNGAL_IMPL.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **60153**  

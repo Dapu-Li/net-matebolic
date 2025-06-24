@@ -13,7 +13,7 @@
 > Cases: **104**  
 > Controls: **194836**
 <img src="/Disease/Figures/ALL/Incidence/E4_OBESITYXTRMALV.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_E4_OBESITYXTRMALV.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_E4_OBESITYXTRMALV.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **92712**  

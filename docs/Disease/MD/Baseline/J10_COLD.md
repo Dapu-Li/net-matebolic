@@ -13,7 +13,7 @@
 > Cases: **107**  
 > Controls: **210455**
 <img src="/Disease/Figures/ALL/Baseline/J10_COLD.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_J10_COLD.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_J10_COLD.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99822**  

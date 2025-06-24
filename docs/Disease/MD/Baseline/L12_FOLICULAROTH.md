@@ -13,7 +13,7 @@
 > Cases: **145**  
 > Controls: **205633**
 <img src="/Disease/Figures/ALL/Baseline/L12_FOLICULAROTH.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_L12_FOLICULAROTH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_L12_FOLICULAROTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **97364**  

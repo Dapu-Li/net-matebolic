@@ -13,7 +13,7 @@
 > Cases: **185**  
 > Controls: **183655**
 <img src="/Disease/Figures/ALL/Baseline/M13_BURSOPATHY.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_M13_BURSOPATHY.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_M13_BURSOPATHY.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **87656**  

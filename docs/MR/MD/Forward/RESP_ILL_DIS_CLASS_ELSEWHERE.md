@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/RESP_ILL_DIS_CLASS_ELSEWHERE.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/RESP_ILL_DIS_CLASS_ELSEWHERE.csv"/>

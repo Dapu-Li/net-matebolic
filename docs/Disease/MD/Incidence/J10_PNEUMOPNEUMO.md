@@ -13,7 +13,7 @@
 > Cases: **187**  
 > Controls: **196153**
 <img src="/Disease/Figures/ALL/Incidence/J10_PNEUMOPNEUMO.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_J10_PNEUMOPNEUMO.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_J10_PNEUMOPNEUMO.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **91682**  

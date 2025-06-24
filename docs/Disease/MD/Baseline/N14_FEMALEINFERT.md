@@ -13,4 +13,4 @@
 > Cases: **522**  
 > Controls: **82660**
 <img src="/Disease/Figures/ALL/Baseline/N14_FEMALEINFERT.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_FEMALEINFERT.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_FEMALEINFERT.csv" label="🔍 View full results" />

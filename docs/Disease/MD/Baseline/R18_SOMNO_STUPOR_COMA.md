@@ -13,7 +13,7 @@
 > Cases: **127**  
 > Controls: **201253**
 <img src="/Disease/Figures/ALL/Baseline/R18_SOMNO_STUPOR_COMA.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_R18_SOMNO_STUPOR_COMA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_R18_SOMNO_STUPOR_COMA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **95032**  

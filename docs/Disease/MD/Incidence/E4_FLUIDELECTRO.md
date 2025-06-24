@@ -13,18 +13,18 @@
 > Cases: **10403**  
 > Controls: **165429**
 <img src="/Disease/Figures/ALL/Incidence/E4_FLUIDELECTRO.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_E4_FLUIDELECTRO.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_E4_FLUIDELECTRO.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **80301**  
 > Cases: **5255**  
 > Controls: **75046**
 <img src="/Disease/Figures/Male/Incidence/E4_FLUIDELECTRO.png"/>
-<CsvTable src="/public/Disease/Data/Male/Incidence/COX_E4_FLUIDELECTRO.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Male/Incidence/COX_E4_FLUIDELECTRO.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **95531**  
 > Cases: **5148**  
 > Controls: **90383**
 <img src="/Disease/Figures/Female/Incidence/E4_FLUIDELECTRO.png"/>
-<CsvTable src="/public/Disease/Data/Female/Incidence/COX_E4_FLUIDELECTRO.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Incidence/COX_E4_FLUIDELECTRO.csv" label="🔍 View full results" />

@@ -13,7 +13,7 @@
 > Cases: **110**  
 > Controls: **197533**
 <img src="/Disease/Figures/ALL/Baseline/L12_GRANULOMASKINNAS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_L12_GRANULOMASKINNAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_L12_GRANULOMASKINNAS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **93638**  

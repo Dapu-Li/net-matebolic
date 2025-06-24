@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/J10_ARDS.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/J10_ARDS.csv"/>

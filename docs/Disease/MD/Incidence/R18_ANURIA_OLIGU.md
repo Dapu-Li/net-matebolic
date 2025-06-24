@@ -13,7 +13,7 @@
 > Cases: **135**  
 > Controls: **187589**
 <img src="/Disease/Figures/ALL/Incidence/R18_ANURIA_OLIGU.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_R18_ANURIA_OLIGU.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_R18_ANURIA_OLIGU.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **85439**  

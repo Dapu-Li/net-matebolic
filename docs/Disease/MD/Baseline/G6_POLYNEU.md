@@ -13,14 +13,14 @@
 > Cases: **234**  
 > Controls: **212492**
 <img src="/Disease/Figures/ALL/Baseline/G6_POLYNEU.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_G6_POLYNEU.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_G6_POLYNEU.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100746**  
 > Cases: **141**  
 > Controls: **100605**
 <img src="/Disease/Figures/Male/Baseline/G6_POLYNEU.png"/>
-<CsvTable src="/public/Disease/Data/Male/Baseline/LG_G6_POLYNEU.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Male/Baseline/LG_G6_POLYNEU.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111980**  

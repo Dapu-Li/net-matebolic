@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/public/MR/Data/Forward/J10_PLEUREFFUSION.csv"/>
+<CsvTableMRF src="/MR/Data/Forward/J10_PLEUREFFUSION.csv"/>

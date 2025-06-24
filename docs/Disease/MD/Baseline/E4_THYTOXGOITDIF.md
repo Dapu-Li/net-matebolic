@@ -13,7 +13,7 @@
 > Cases: **118**  
 > Controls: **197041**
 <img src="/Disease/Figures/ALL/Baseline/E4_THYTOXGOITDIF.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_E4_THYTOXGOITDIF.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_E4_THYTOXGOITDIF.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **97406**  

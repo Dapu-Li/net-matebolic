@@ -13,14 +13,14 @@
 > Cases: **219**  
 > Controls: **212452**
 <img src="/Disease/Figures/ALL/Baseline/N14_RENFAILNAS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_RENFAILNAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_RENFAILNAS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100722**  
 > Cases: **149**  
 > Controls: **100573**
 <img src="/Disease/Figures/Male/Baseline/N14_RENFAILNAS.png"/>
-<CsvTable src="/public/Disease/Data/Male/Baseline/LG_N14_RENFAILNAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Male/Baseline/LG_N14_RENFAILNAS.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111949**  

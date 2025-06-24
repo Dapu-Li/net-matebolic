@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/AB1_SEXUAL_TRANSMISSION.png" />
 
-<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_AB1_SEXUAL_TRANSMISSION.csv" label="🔍 View full results" />
+<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_AB1_SEXUAL_TRANSMISSION.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/AB1_SEXUAL_TRANSMISSION.png" />
 
-<CsvTableROC src="/public/Predict/Data/Baseline/EVA/AB1_SEXUAL_TRANSMISSION.csv" label="🔍 View full results" />
+<CsvTableROC src="/Predict/Data/Baseline/EVA/AB1_SEXUAL_TRANSMISSION.csv" label="🔍 View full results" />
 
 ---
 

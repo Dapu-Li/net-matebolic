@@ -9,15 +9,15 @@
 > Cases: **2373**  
 > Controls: **210378**
 <img src="/Cluster/Figures/Incidence/LG/Cluster_6.png" />
-<CsvTable src="/public/Cluster/Data/Incidence/LG/LG_Cluster_6.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Incidence/LG/LG_Cluster_6.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **21134**
 <img src="/Cluster/Figures/Incidence/Histogram/Cluster_6_in.png" />
-<CsvTable src="/public/Cluster/Data/Incidence/Histogram/Cluster_6_in.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Incidence/Histogram/Cluster_6_in.csv" label="🔍 View full results" />
 
 <img src="/Cluster/Figures/Incidence/ORD/Cluster_6.png" />
-<CsvTable src="/public/Cluster/Data/Incidence/ORD/ORD_Cluster_6.csv" label="🔍 View full results" />
+<CsvTable src="/Cluster/Data/Incidence/ORD/ORD_Cluster_6.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - N14_HYPERTROPHYBREAST (14) - Hypertrophy of breast

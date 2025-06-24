@@ -13,7 +13,7 @@
 > Cases: **103**  
 > Controls: **198658**
 <img src="/Disease/Figures/ALL/Baseline/G6_MONOOTHUNS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_G6_MONOOTHUNS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_G6_MONOOTHUNS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **95345**  

@@ -13,14 +13,14 @@
 > Cases: **373**  
 > Controls: **173522**
 <img src="/Disease/Figures/ALL/Baseline/HERING_BILATERAL.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_HERING_BILATERAL.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_HERING_BILATERAL.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **78942**  
 > Cases: **362**  
 > Controls: **78580**
 <img src="/Disease/Figures/Male/Baseline/HERING_BILATERAL.png"/>
-<CsvTable src="/public/Disease/Data/Male/Baseline/LG_HERING_BILATERAL.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Male/Baseline/LG_HERING_BILATERAL.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **94953**  

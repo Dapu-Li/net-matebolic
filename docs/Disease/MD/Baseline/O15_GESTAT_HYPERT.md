@@ -13,4 +13,4 @@
 > Cases: **222**  
 > Controls: **111335**
 <img src="/Disease/Figures/ALL/Baseline/O15_GESTAT_HYPERT.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_O15_GESTAT_HYPERT.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_GESTAT_HYPERT.csv" label="🔍 View full results" />

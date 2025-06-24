@@ -13,7 +13,7 @@
 > Cases: **187**  
 > Controls: **166880**
 <img src="/Disease/Figures/ALL/Baseline/C3_SECONDARY_NAS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_C3_SECONDARY_NAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_C3_SECONDARY_NAS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **77949**  
@@ -27,4 +27,4 @@
 > Cases: **118**  
 > Controls: **89000**
 <img src="/Disease/Figures/Female/Baseline/C3_SECONDARY_NAS.png"/>
-<CsvTable src="/public/Disease/Data/Female/Baseline/LG_C3_SECONDARY_NAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Baseline/LG_C3_SECONDARY_NAS.csv" label="🔍 View full results" />

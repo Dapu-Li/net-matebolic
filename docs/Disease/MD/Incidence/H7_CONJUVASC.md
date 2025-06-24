@@ -13,7 +13,7 @@
 > Cases: **162**  
 > Controls: **211614**
 <img src="/Disease/Figures/ALL/Incidence/H7_CONJUVASC.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_H7_CONJUVASC.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_H7_CONJUVASC.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100284**  

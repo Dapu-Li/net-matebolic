@@ -13,4 +13,4 @@
 > Cases: **118**  
 > Controls: **110385**
 <img src="/Disease/Figures/ALL/Baseline/O15_EXCESS_VOMIT_PREG.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_O15_EXCESS_VOMIT_PREG.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_EXCESS_VOMIT_PREG.csv" label="🔍 View full results" />

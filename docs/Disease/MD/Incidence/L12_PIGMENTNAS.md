@@ -13,7 +13,7 @@
 > Cases: **194**  
 > Controls: **197337**
 <img src="/Disease/Figures/ALL/Incidence/L12_PIGMENTNAS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_L12_PIGMENTNAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_L12_PIGMENTNAS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **93570**  
@@ -28,4 +28,4 @@
 > Cases: **120**  
 > Controls: **103841**
 <img src="/Disease/Figures/Female/Incidence/L12_PIGMENTNAS.png"/>
-<CsvTable src="/public/Disease/Data/Female/Incidence/COX_L12_PIGMENTNAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Incidence/COX_L12_PIGMENTNAS.csv" label="🔍 View full results" />

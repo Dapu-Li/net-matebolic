@@ -13,4 +13,4 @@
 > Cases: **125**  
 > Controls: **108784**
 <img src="/Disease/Figures/ALL/Baseline/O15_AMNIOT_OTHER.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_O15_AMNIOT_OTHER.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_AMNIOT_OTHER.csv" label="🔍 View full results" />

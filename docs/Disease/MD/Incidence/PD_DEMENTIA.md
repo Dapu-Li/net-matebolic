@@ -13,14 +13,14 @@
 > Cases: **211**  
 > Controls: **210474**
 <img src="/Disease/Figures/ALL/Incidence/PD_DEMENTIA.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_PD_DEMENTIA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Incidence/COX_PD_DEMENTIA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99542**  
 > Cases: **152**  
 > Controls: **99390**
 <img src="/Disease/Figures/Male/Incidence/PD_DEMENTIA.png"/>
-<CsvTable src="/public/Disease/Data/Male/Incidence/COX_PD_DEMENTIA.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Male/Incidence/COX_PD_DEMENTIA.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111143**  

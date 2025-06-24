@@ -13,18 +13,18 @@
 > Cases: **755**  
 > Controls: **206369**
 <img src="/Disease/Figures/ALL/Baseline/K11_DISORD_TEETH.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_K11_DISORD_TEETH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_K11_DISORD_TEETH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **98320**  
 > Cases: **310**  
 > Controls: **98010**
 <img src="/Disease/Figures/Male/Baseline/K11_DISORD_TEETH.png"/>
-<CsvTable src="/public/Disease/Data/Male/Baseline/LG_K11_DISORD_TEETH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Male/Baseline/LG_K11_DISORD_TEETH.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **108804**  
 > Cases: **445**  
 > Controls: **108359**
 <img src="/Disease/Figures/Female/Baseline/K11_DISORD_TEETH.png"/>
-<CsvTable src="/public/Disease/Data/Female/Baseline/LG_K11_DISORD_TEETH.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/Female/Baseline/LG_K11_DISORD_TEETH.csv" label="🔍 View full results" />

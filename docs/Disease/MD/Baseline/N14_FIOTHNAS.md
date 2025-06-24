@@ -13,4 +13,4 @@
 > Cases: **448**  
 > Controls: **82658**
 <img src="/Disease/Figures/ALL/Baseline/N14_FIOTHNAS.png"/>
-<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_FIOTHNAS.csv" label="🔍 View full results" />
+<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_FIOTHNAS.csv" label="🔍 View full results" />
