@@ -13,7 +13,7 @@
 > Cases: **135**  
 > Controls: **183579**
 <img src="/Disease/Figures/ALL/Baseline/M13_TROCHANTERICBURSITIS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_M13_TROCHANTERICBURSITIS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_M13_TROCHANTERICBURSITIS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **87422**  
@@ -27,4 +27,4 @@
 > Cases: **111**  
 > Controls: **96181**
 <img src="/Disease/Figures/Female/Baseline/M13_TROCHANTERICBURSITIS.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_M13_TROCHANTERICBURSITIS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Baseline/LG_M13_TROCHANTERICBURSITIS.csv" label="🔍 View full results" />

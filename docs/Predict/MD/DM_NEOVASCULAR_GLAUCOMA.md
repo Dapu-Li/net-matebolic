@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/DM_NEOVASCULAR_GLAUCOMA.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_DM_NEOVASCULAR_GLAUCOMA.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_DM_NEOVASCULAR_GLAUCOMA.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/DM_NEOVASCULAR_GLAUCOMA.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/DM_NEOVASCULAR_GLAUCOMA.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/DM_NEOVASCULAR_GLAUCOMA.csv" label="🔍 View full results" />
 
 ---
 

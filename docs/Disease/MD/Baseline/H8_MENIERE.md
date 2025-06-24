@@ -13,7 +13,7 @@
 > Cases: **119**  
 > Controls: **210805**
 <img src="/Disease/Figures/ALL/Baseline/H8_MENIERE.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_H8_MENIERE.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_H8_MENIERE.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100050**  

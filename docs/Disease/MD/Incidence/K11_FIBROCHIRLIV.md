@@ -13,18 +13,18 @@
 > Cases: **794**  
 > Controls: **205135**
 <img src="/Disease/Figures/ALL/Incidence/K11_FIBROCHIRLIV.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_K11_FIBROCHIRLIV.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_K11_FIBROCHIRLIV.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **97448**  
 > Cases: **430**  
 > Controls: **97018**
 <img src="/Disease/Figures/Male/Incidence/K11_FIBROCHIRLIV.png"/>
-<CsvTable src="/Disease/Data/Male/Incidence/COX_K11_FIBROCHIRLIV.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Male/Incidence/COX_K11_FIBROCHIRLIV.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **108481**  
 > Cases: **364**  
 > Controls: **108117**
 <img src="/Disease/Figures/Female/Incidence/K11_FIBROCHIRLIV.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_K11_FIBROCHIRLIV.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Incidence/COX_K11_FIBROCHIRLIV.csv" label="🔍 View full results" />

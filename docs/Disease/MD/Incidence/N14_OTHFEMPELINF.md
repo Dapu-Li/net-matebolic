@@ -13,4 +13,4 @@
 > Cases: **897**  
 > Controls: **107973**
 <img src="/Disease/Figures/ALL/Incidence/N14_OTHFEMPELINF.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_N14_OTHFEMPELINF.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_N14_OTHFEMPELINF.csv" label="🔍 View full results" />

@@ -13,7 +13,7 @@
 > Cases: **155**  
 > Controls: **212567**
 <img src="/Disease/Figures/ALL/Incidence/CD2_INSITU_SKIN_LOWERLIMB.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_CD2_INSITU_SKIN_LOWERLIMB.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_CD2_INSITU_SKIN_LOWERLIMB.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100744**  
@@ -28,4 +28,4 @@
 > Cases: **109**  
 > Controls: **111869**
 <img src="/Disease/Figures/Female/Incidence/CD2_INSITU_SKIN_LOWERLIMB.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_CD2_INSITU_SKIN_LOWERLIMB.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Incidence/COX_CD2_INSITU_SKIN_LOWERLIMB.csv" label="🔍 View full results" />

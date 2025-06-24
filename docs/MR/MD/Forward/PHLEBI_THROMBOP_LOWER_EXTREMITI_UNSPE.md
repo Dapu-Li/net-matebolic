@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/PHLEBI_THROMBOP_LOWER_EXTREMITI_UNSPE.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/PHLEBI_THROMBOP_LOWER_EXTREMITI_UNSPE.csv"/>

@@ -13,18 +13,18 @@
 > Cases: **798**  
 > Controls: **199439**
 <img src="/Disease/Figures/ALL/Baseline/M13_OTHERBONE.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_M13_OTHERBONE.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_M13_OTHERBONE.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **97844**  
 > Cases: **350**  
 > Controls: **97494**
 <img src="/Disease/Figures/Male/Baseline/M13_OTHERBONE.png"/>
-<CsvTable src="/Disease/Data/Male/Baseline/LG_M13_OTHERBONE.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Male/Baseline/LG_M13_OTHERBONE.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **102393**  
 > Cases: **448**  
 > Controls: **101945**
 <img src="/Disease/Figures/Female/Baseline/M13_OTHERBONE.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_M13_OTHERBONE.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Baseline/LG_M13_OTHERBONE.csv" label="🔍 View full results" />

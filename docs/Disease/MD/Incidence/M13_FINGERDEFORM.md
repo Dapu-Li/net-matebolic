@@ -13,7 +13,7 @@
 > Cases: **103**  
 > Controls: **148317**
 <img src="/Disease/Figures/ALL/Incidence/M13_FINGERDEFORM.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_M13_FINGERDEFORM.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_M13_FINGERDEFORM.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **72810**  

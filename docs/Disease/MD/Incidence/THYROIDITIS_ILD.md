@@ -13,7 +13,7 @@
 > Cases: **178**  
 > Controls: **212493**
 <img src="/Disease/Figures/ALL/Incidence/THYROIDITIS_ILD.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_THYROIDITIS_ILD.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_THYROIDITIS_ILD.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100745**  
@@ -28,4 +28,4 @@
 > Cases: **151**  
 > Controls: **111775**
 <img src="/Disease/Figures/Female/Incidence/THYROIDITIS_ILD.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_THYROIDITIS_ILD.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Incidence/COX_THYROIDITIS_ILD.csv" label="🔍 View full results" />

@@ -13,7 +13,7 @@
 > Cases: **301**  
 > Controls: **197337**
 <img src="/Disease/Figures/ALL/Incidence/L12_LICHENSCLERATROPH.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_L12_LICHENSCLERATROPH.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_L12_LICHENSCLERATROPH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **93524**  
@@ -28,4 +28,4 @@
 > Cases: **273**  
 > Controls: **103841**
 <img src="/Disease/Figures/Female/Incidence/L12_LICHENSCLERATROPH.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_L12_LICHENSCLERATROPH.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Incidence/COX_L12_LICHENSCLERATROPH.csv" label="🔍 View full results" />

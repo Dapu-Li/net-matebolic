@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/G6_XTRAPYR.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/G6_XTRAPYR.csv"/>

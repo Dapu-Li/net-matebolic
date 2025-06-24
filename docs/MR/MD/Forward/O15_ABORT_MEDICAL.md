@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/O15_ABORT_MEDICAL.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/O15_ABORT_MEDICAL.csv"/>

@@ -13,14 +13,14 @@
 > Cases: **176**  
 > Controls: **203219**
 <img src="/Disease/Figures/ALL/Baseline/L12_PILONIDALCYST.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_L12_PILONIDALCYST.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_L12_PILONIDALCYST.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **95695**  
 > Cases: **124**  
 > Controls: **95571**
 <img src="/Disease/Figures/Male/Baseline/L12_PILONIDALCYST.png"/>
-<CsvTable src="/Disease/Data/Male/Baseline/LG_L12_PILONIDALCYST.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Male/Baseline/LG_L12_PILONIDALCYST.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **107700**  

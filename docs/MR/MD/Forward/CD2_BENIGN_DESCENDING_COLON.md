@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/CD2_BENIGN_DESCENDING_COLON.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/CD2_BENIGN_DESCENDING_COLON.csv"/>

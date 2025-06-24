@@ -13,7 +13,7 @@
 > Cases: **108**  
 > Controls: **196598**
 <img src="/Disease/Figures/ALL/Baseline/J10_PNEUMOBACTEROTH.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_J10_PNEUMOBACTEROTH.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_J10_PNEUMOBACTEROTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **91929**  

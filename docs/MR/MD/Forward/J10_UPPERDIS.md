@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/J10_UPPERDIS.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/J10_UPPERDIS.csv"/>

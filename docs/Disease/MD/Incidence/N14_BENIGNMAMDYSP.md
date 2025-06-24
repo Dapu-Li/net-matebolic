@@ -13,4 +13,4 @@
 > Cases: **458**  
 > Controls: **108607**
 <img src="/Disease/Figures/ALL/Incidence/N14_BENIGNMAMDYSP.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_N14_BENIGNMAMDYSP.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_N14_BENIGNMAMDYSP.csv" label="🔍 View full results" />

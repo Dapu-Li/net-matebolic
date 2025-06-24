@@ -13,7 +13,7 @@
 > Cases: **184**  
 > Controls: **212060**
 <img src="/Disease/Figures/ALL/Incidence/F5_DELUSIO.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_F5_DELUSIO.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_F5_DELUSIO.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100456**  
@@ -28,4 +28,4 @@
 > Cases: **101**  
 > Controls: **111687**
 <img src="/Disease/Figures/Female/Incidence/F5_DELUSIO.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_F5_DELUSIO.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Incidence/COX_F5_DELUSIO.csv" label="🔍 View full results" />

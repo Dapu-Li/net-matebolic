@@ -13,7 +13,7 @@
 > Cases: **105**  
 > Controls: **212639**
 <img src="/Disease/Figures/ALL/Incidence/D3_INFARCTSPLEEN.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_D3_INFARCTSPLEEN.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_D3_INFARCTSPLEEN.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100752**  

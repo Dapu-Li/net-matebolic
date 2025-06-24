@@ -13,4 +13,4 @@
 > Cases: **838**  
 > Controls: **111133**
 <img src="/Disease/Figures/ALL/Baseline/O15_OTHER_MATERN_DIS_ELSEWHERE.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_OTHER_MATERN_DIS_ELSEWHERE.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_O15_OTHER_MATERN_DIS_ELSEWHERE.csv" label="🔍 View full results" />

@@ -13,18 +13,18 @@
 > Cases: **307**  
 > Controls: **163230**
 <img src="/Disease/Figures/ALL/Baseline/C3_RECTUM.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_C3_RECTUM.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_C3_RECTUM.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **76280**  
 > Cases: **194**  
 > Controls: **76086**
 <img src="/Disease/Figures/Male/Baseline/C3_RECTUM.png"/>
-<CsvTable src="/Disease/Data/Male/Baseline/LG_C3_RECTUM.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Male/Baseline/LG_C3_RECTUM.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **87257**  
 > Cases: **113**  
 > Controls: **87144**
 <img src="/Disease/Figures/Female/Baseline/C3_RECTUM.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_C3_RECTUM.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Baseline/LG_C3_RECTUM.csv" label="🔍 View full results" />

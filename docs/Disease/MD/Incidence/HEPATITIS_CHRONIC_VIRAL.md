@@ -13,14 +13,14 @@
 > Cases: **207**  
 > Controls: **212431**
 <img src="/Disease/Figures/ALL/Incidence/HEPATITIS_CHRONIC_VIRAL.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_HEPATITIS_CHRONIC_VIRAL.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_HEPATITIS_CHRONIC_VIRAL.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100690**  
 > Cases: **129**  
 > Controls: **100561**
 <img src="/Disease/Figures/Male/Incidence/HEPATITIS_CHRONIC_VIRAL.png"/>
-<CsvTable src="/Disease/Data/Male/Incidence/COX_HEPATITIS_CHRONIC_VIRAL.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Male/Incidence/COX_HEPATITIS_CHRONIC_VIRAL.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111948**  

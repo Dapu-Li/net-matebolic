@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/ALCOHOLACUTE10.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_ALCOHOLACUTE10.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_ALCOHOLACUTE10.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/ALCOHOLACUTE10.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/ALCOHOLACUTE10.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/Baseline/EVA/ALCOHOLACUTE10.csv" label="🔍 View full results" />
 
 ---
 
@@ -24,11 +24,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/ALCOHOLACUTE10.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_ALCOHOLACUTE10.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_ALCOHOLACUTE10.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/ALCOHOLACUTE10.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/ALCOHOLACUTE10.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/ALCOHOLACUTE10.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,11 +36,11 @@
 
 <img src="/Predict/Figures/FYears/IMP/ALCOHOLACUTE10.png" />
 
-<CsvTableIMP src="/Predict/Data/FYears/IMP/IMP_ALCOHOLACUTE10.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/FYears/IMP/IMP_ALCOHOLACUTE10.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/FYears/ROC/ALCOHOLACUTE10.png" />
 
-<CsvTableROC src="/Predict/Data/FYears/EVA/ALCOHOLACUTE10.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/FYears/EVA/ALCOHOLACUTE10.csv" label="🔍 View full results" />
 
 ---
 
@@ -48,8 +48,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/ALCOHOLACUTE10.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_ALCOHOLACUTE10.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_ALCOHOLACUTE10.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/ALCOHOLACUTE10.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/ALCOHOLACUTE10.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/ALCOHOLACUTE10.csv" label="🔍 View full results" />

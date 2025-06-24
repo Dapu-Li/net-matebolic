@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/O15_HYPTENSPREG.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/O15_HYPTENSPREG.csv"/>

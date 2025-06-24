@@ -13,7 +13,7 @@
 > Cases: **166**  
 > Controls: **212483**
 <img src="/Disease/Figures/ALL/Incidence/KRA_PSY_PERSON.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_KRA_PSY_PERSON.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_KRA_PSY_PERSON.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100713**  

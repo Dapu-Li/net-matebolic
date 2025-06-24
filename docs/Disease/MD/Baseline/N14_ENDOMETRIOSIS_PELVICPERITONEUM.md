@@ -13,4 +13,4 @@
 > Cases: **347**  
 > Controls: **82744**
 <img src="/Disease/Figures/ALL/Baseline/N14_ENDOMETRIOSIS_PELVICPERITONEUM.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_ENDOMETRIOSIS_PELVICPERITONEUM.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_ENDOMETRIOSIS_PELVICPERITONEUM.csv" label="🔍 View full results" />

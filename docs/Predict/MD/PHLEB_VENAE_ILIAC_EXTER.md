@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/PHLEB_VENAE_ILIAC_EXTER.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_PHLEB_VENAE_ILIAC_EXTER.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_PHLEB_VENAE_ILIAC_EXTER.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/PHLEB_VENAE_ILIAC_EXTER.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/PHLEB_VENAE_ILIAC_EXTER.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/Baseline/EVA/PHLEB_VENAE_ILIAC_EXTER.csv" label="🔍 View full results" />
 
 ---
 
@@ -24,11 +24,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/PHLEB_VENAE_ILIAC_EXTER.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_PHLEB_VENAE_ILIAC_EXTER.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_PHLEB_VENAE_ILIAC_EXTER.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/PHLEB_VENAE_ILIAC_EXTER.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/PHLEB_VENAE_ILIAC_EXTER.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/PHLEB_VENAE_ILIAC_EXTER.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,11 +36,11 @@
 
 <img src="/Predict/Figures/FYears/IMP/PHLEB_VENAE_ILIAC_EXTER.png" />
 
-<CsvTableIMP src="/Predict/Data/FYears/IMP/IMP_PHLEB_VENAE_ILIAC_EXTER.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/FYears/IMP/IMP_PHLEB_VENAE_ILIAC_EXTER.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/FYears/ROC/PHLEB_VENAE_ILIAC_EXTER.png" />
 
-<CsvTableROC src="/Predict/Data/FYears/EVA/PHLEB_VENAE_ILIAC_EXTER.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/FYears/EVA/PHLEB_VENAE_ILIAC_EXTER.csv" label="🔍 View full results" />
 
 ---
 
@@ -48,8 +48,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/PHLEB_VENAE_ILIAC_EXTER.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_PHLEB_VENAE_ILIAC_EXTER.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_PHLEB_VENAE_ILIAC_EXTER.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/PHLEB_VENAE_ILIAC_EXTER.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/PHLEB_VENAE_ILIAC_EXTER.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/PHLEB_VENAE_ILIAC_EXTER.csv" label="🔍 View full results" />

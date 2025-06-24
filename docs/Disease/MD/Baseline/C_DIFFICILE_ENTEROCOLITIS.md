@@ -13,7 +13,7 @@
 > Cases: **108**  
 > Controls: **211062**
 <img src="/Disease/Figures/ALL/Baseline/C_DIFFICILE_ENTEROCOLITIS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_C_DIFFICILE_ENTEROCOLITIS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_C_DIFFICILE_ENTEROCOLITIS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100030**  

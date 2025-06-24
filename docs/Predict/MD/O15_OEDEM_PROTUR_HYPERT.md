@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/O15_OEDEM_PROTUR_HYPERT.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_O15_OEDEM_PROTUR_HYPERT.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_O15_OEDEM_PROTUR_HYPERT.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/O15_OEDEM_PROTUR_HYPERT.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/O15_OEDEM_PROTUR_HYPERT.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/Baseline/EVA/O15_OEDEM_PROTUR_HYPERT.csv" label="🔍 View full results" />
 
 ---
 

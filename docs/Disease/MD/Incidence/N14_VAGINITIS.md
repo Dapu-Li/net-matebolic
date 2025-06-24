@@ -13,4 +13,4 @@
 > Cases: **191**  
 > Controls: **107973**
 <img src="/Disease/Figures/ALL/Incidence/N14_VAGINITIS.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_N14_VAGINITIS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_N14_VAGINITIS.csv" label="🔍 View full results" />

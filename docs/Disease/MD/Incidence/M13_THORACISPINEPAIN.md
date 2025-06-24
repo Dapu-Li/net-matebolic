@@ -13,7 +13,7 @@
 > Cases: **226**  
 > Controls: **184426**
 <img src="/Disease/Figures/ALL/Incidence/M13_THORACISPINEPAIN.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_M13_THORACISPINEPAIN.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_M13_THORACISPINEPAIN.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **88660**  
@@ -28,4 +28,4 @@
 > Cases: **151**  
 > Controls: **95841**
 <img src="/Disease/Figures/Female/Incidence/M13_THORACISPINEPAIN.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_M13_THORACISPINEPAIN.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Incidence/COX_M13_THORACISPINEPAIN.csv" label="🔍 View full results" />

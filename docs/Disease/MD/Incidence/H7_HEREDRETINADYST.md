@@ -13,7 +13,7 @@
 > Cases: **138**  
 > Controls: **203370**
 <img src="/Disease/Figures/ALL/Incidence/H7_HEREDRETINADYST.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_H7_HEREDRETINADYST.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_H7_HEREDRETINADYST.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **96322**  

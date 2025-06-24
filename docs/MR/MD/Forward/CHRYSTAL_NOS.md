@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/CHRYSTAL_NOS.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/CHRYSTAL_NOS.csv"/>

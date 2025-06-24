@@ -13,7 +13,7 @@
 > Cases: **139**  
 > Controls: **162196**
 <img src="/Disease/Figures/ALL/Incidence/C3_ANUS_ANALCANAL.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_C3_ANUS_ANALCANAL.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_C3_ANUS_ANALCANAL.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **75468**  

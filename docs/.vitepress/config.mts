@@ -16,8 +16,8 @@ export default defineConfig({
           { text: 'Chapter', link: '/Chapter/Baseline_Overview/' },
           { text: 'Cluster', link: '/Cluster/Baseline_Overview/' },
           { text: 'Predict and Diagnose', link: '/Predict/Overview/' },
-          { text: 'Mendelian Randomization', link: '/MR/Forward_Overview/' },
-          { text: 'Sensitivity Analysis', link: '/Sensitive/Baseline_Overview/' }
+          { text: 'Mendelian Randomization', link: '/MR/Forward_Overview/' }
+          //{ text: 'Sensitivity Analysis', link: '/Sensitive/Baseline_Overview/' }
         ]
       }
     ],

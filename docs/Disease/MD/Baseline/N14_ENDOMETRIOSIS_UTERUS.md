@@ -13,4 +13,4 @@
 > Cases: **702**  
 > Controls: **83090**
 <img src="/Disease/Figures/ALL/Baseline/N14_ENDOMETRIOSIS_UTERUS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_ENDOMETRIOSIS_UTERUS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_ENDOMETRIOSIS_UTERUS.csv" label="🔍 View full results" />

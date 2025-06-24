@@ -13,7 +13,7 @@
 > Cases: **155**  
 > Controls: **212542**
 <img src="/Disease/Figures/ALL/Incidence/L12_BULLOUS.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_L12_BULLOUS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_L12_BULLOUS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100725**  

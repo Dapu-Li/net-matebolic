@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/I9_CARDMYOHYP.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_I9_CARDMYOHYP.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_I9_CARDMYOHYP.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/I9_CARDMYOHYP.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/I9_CARDMYOHYP.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/I9_CARDMYOHYP.csv" label="🔍 View full results" />
 
 ---
 

@@ -13,7 +13,7 @@
 > Cases: **219**  
 > Controls: **211564**
 <img src="/Disease/Figures/ALL/Incidence/L12_URTICA_NAS.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_L12_URTICA_NAS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_L12_URTICA_NAS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100333**  
@@ -28,4 +28,4 @@
 > Cases: **141**  
 > Controls: **111309**
 <img src="/Disease/Figures/Female/Incidence/L12_URTICA_NAS.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_L12_URTICA_NAS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Incidence/COX_L12_URTICA_NAS.csv" label="🔍 View full results" />

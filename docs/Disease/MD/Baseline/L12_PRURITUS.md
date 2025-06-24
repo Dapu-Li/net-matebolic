@@ -13,7 +13,7 @@
 > Cases: **201**  
 > Controls: **208771**
 <img src="/Disease/Figures/ALL/Baseline/L12_PRURITUS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_L12_PRURITUS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_L12_PRURITUS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **98911**  
@@ -27,4 +27,4 @@
 > Cases: **128**  
 > Controls: **109933**
 <img src="/Disease/Figures/Female/Baseline/L12_PRURITUS.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_L12_PRURITUS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Baseline/LG_L12_PRURITUS.csv" label="🔍 View full results" />

@@ -13,7 +13,7 @@
 > Cases: **159**  
 > Controls: **212537**
 <img src="/Disease/Figures/ALL/Incidence/AB1_SEQULEAE_OF_INFECTIONS_AND_PARASITES.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_AB1_SEQULEAE_OF_INFECTIONS_AND_PARASITES.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_AB1_SEQULEAE_OF_INFECTIONS_AND_PARASITES.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100731**  

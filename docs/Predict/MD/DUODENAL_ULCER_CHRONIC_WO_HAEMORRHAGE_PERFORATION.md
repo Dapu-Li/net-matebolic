@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/DUODENAL_ULCER_CHRONIC_WO_HAEMORRHAGE_PERFORATION.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_DUODENAL_ULCER_CHRONIC_WO_HAEMORRHAGE_PERFORATION.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_DUODENAL_ULCER_CHRONIC_WO_HAEMORRHAGE_PERFORATION.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/DUODENAL_ULCER_CHRONIC_WO_HAEMORRHAGE_PERFORATION.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/DUODENAL_ULCER_CHRONIC_WO_HAEMORRHAGE_PERFORATION.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/Baseline/EVA/DUODENAL_ULCER_CHRONIC_WO_HAEMORRHAGE_PERFORATION.csv" label="🔍 View full results" />
 
 ---
 

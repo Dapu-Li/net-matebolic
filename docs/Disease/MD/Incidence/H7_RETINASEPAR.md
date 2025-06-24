@@ -13,7 +13,7 @@
 > Cases: **173**  
 > Controls: **203370**
 <img src="/Disease/Figures/ALL/Incidence/H7_RETINASEPAR.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_H7_RETINASEPAR.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_H7_RETINASEPAR.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **96335**  
@@ -28,4 +28,4 @@
 > Cases: **102**  
 > Controls: **107106**
 <img src="/Disease/Figures/Female/Incidence/H7_RETINASEPAR.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_H7_RETINASEPAR.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Incidence/COX_H7_RETINASEPAR.csv" label="🔍 View full results" />

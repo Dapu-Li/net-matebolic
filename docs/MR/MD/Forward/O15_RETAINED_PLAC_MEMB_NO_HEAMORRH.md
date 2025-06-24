@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/O15_RETAINED_PLAC_MEMB_NO_HEAMORRH.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/O15_RETAINED_PLAC_MEMB_NO_HEAMORRH.csv"/>

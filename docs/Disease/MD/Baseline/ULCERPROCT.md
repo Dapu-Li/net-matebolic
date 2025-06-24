@@ -13,7 +13,7 @@
 > Cases: **103**  
 > Controls: **199471**
 <img src="/Disease/Figures/ALL/Baseline/ULCERPROCT.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_ULCERPROCT.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_ULCERPROCT.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **95306**  

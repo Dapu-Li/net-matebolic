@@ -13,7 +13,7 @@
 > Cases: **117**  
 > Controls: **184609**
 <img src="/Disease/Figures/ALL/Baseline/M13_SACROCOGG.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_M13_SACROCOGG.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_M13_SACROCOGG.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **88648**  

@@ -13,4 +13,4 @@
 > Cases: **611**  
 > Controls: **107550**
 <img src="/Disease/Figures/ALL/Baseline/O15_POSTPART_HEAMORRH.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_POSTPART_HEAMORRH.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_O15_POSTPART_HEAMORRH.csv" label="🔍 View full results" />

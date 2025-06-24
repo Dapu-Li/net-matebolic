@@ -13,7 +13,7 @@
 > Cases: **182**  
 > Controls: **183477**
 <img src="/Disease/Figures/ALL/Baseline/M13_DISSYNOTENDNAS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_M13_DISSYNOTENDNAS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_M13_DISSYNOTENDNAS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **87595**  

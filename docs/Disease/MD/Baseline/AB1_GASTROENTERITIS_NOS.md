@@ -13,7 +13,7 @@
 > Cases: **149**  
 > Controls: **209960**
 <img src="/Disease/Figures/ALL/Baseline/AB1_GASTROENTERITIS_NOS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_AB1_GASTROENTERITIS_NOS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_AB1_GASTROENTERITIS_NOS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99524**  

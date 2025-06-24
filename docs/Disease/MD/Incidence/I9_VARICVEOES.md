@@ -13,18 +13,18 @@
 > Cases: **374**  
 > Controls: **212282**
 <img src="/Disease/Figures/ALL/Incidence/I9_VARICVEOES.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_I9_VARICVEOES.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_I9_VARICVEOES.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100696**  
 > Cases: **230**  
 > Controls: **100466**
 <img src="/Disease/Figures/Male/Incidence/I9_VARICVEOES.png"/>
-<CsvTable src="/Disease/Data/Male/Incidence/COX_I9_VARICVEOES.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Male/Incidence/COX_I9_VARICVEOES.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111960**  
 > Cases: **144**  
 > Controls: **111816**
 <img src="/Disease/Figures/Female/Incidence/I9_VARICVEOES.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_I9_VARICVEOES.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Incidence/COX_I9_VARICVEOES.csv" label="🔍 View full results" />

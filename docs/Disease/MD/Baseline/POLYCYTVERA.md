@@ -13,7 +13,7 @@
 > Cases: **118**  
 > Controls: **162187**
 <img src="/Disease/Figures/ALL/Baseline/POLYCYTVERA.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_POLYCYTVERA.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_POLYCYTVERA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **75489**  

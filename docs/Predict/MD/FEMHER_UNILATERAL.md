@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/FEMHER_UNILATERAL.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_FEMHER_UNILATERAL.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_FEMHER_UNILATERAL.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/FEMHER_UNILATERAL.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/FEMHER_UNILATERAL.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/Baseline/EVA/FEMHER_UNILATERAL.csv" label="🔍 View full results" />
 
 ---
 
@@ -24,11 +24,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/FEMHER_UNILATERAL.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_FEMHER_UNILATERAL.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_FEMHER_UNILATERAL.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/FEMHER_UNILATERAL.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/FEMHER_UNILATERAL.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/FEMHER_UNILATERAL.csv" label="🔍 View full results" />
 
 ---
 
@@ -42,8 +42,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/FEMHER_UNILATERAL.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_FEMHER_UNILATERAL.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_FEMHER_UNILATERAL.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/FEMHER_UNILATERAL.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/FEMHER_UNILATERAL.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/FEMHER_UNILATERAL.csv" label="🔍 View full results" />

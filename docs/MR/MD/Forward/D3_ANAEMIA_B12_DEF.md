@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/D3_ANAEMIA_B12_DEF.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/D3_ANAEMIA_B12_DEF.csv"/>

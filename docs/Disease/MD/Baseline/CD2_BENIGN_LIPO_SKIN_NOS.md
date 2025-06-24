@@ -13,7 +13,7 @@
 > Cases: **178**  
 > Controls: **212573**
 <img src="/Disease/Figures/ALL/Baseline/CD2_BENIGN_LIPO_SKIN_NOS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_LIPO_SKIN_NOS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_LIPO_SKIN_NOS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100756**  
@@ -27,4 +27,4 @@
 > Cases: **101**  
 > Controls: **111894**
 <img src="/Disease/Figures/Female/Baseline/CD2_BENIGN_LIPO_SKIN_NOS.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_CD2_BENIGN_LIPO_SKIN_NOS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Baseline/LG_CD2_BENIGN_LIPO_SKIN_NOS.csv" label="🔍 View full results" />

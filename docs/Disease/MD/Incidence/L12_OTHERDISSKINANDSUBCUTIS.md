@@ -13,18 +13,18 @@
 > Cases: **3764**  
 > Controls: **197337**
 <img src="/Disease/Figures/ALL/Incidence/L12_OTHERDISSKINANDSUBCUTIS.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_L12_OTHERDISSKINANDSUBCUTIS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_L12_OTHERDISSKINANDSUBCUTIS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **95464**  
 > Cases: **1968**  
 > Controls: **93496**
 <img src="/Disease/Figures/Male/Incidence/L12_OTHERDISSKINANDSUBCUTIS.png"/>
-<CsvTable src="/Disease/Data/Male/Incidence/COX_L12_OTHERDISSKINANDSUBCUTIS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Male/Incidence/COX_L12_OTHERDISSKINANDSUBCUTIS.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **105637**  
 > Cases: **1796**  
 > Controls: **103841**
 <img src="/Disease/Figures/Female/Incidence/L12_OTHERDISSKINANDSUBCUTIS.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_L12_OTHERDISSKINANDSUBCUTIS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Incidence/COX_L12_OTHERDISSKINANDSUBCUTIS.csv" label="🔍 View full results" />

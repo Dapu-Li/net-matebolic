@@ -13,7 +13,7 @@
 > Cases: **205**  
 > Controls: **209226**
 <img src="/Disease/Figures/ALL/Incidence/H7_KERATITISOTH.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_H7_KERATITISOTH.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_H7_KERATITISOTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99280**  
@@ -28,4 +28,4 @@
 > Cases: **117**  
 > Controls: **110034**
 <img src="/Disease/Figures/Female/Incidence/H7_KERATITISOTH.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_H7_KERATITISOTH.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Incidence/COX_H7_KERATITISOTH.csv" label="🔍 View full results" />

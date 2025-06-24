@@ -13,4 +13,4 @@
 > Cases: **49**  
 > Controls: **111883**
 <img src="/Disease/Figures/ALL/Incidence/CD2_INSITU_GENITAL.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_CD2_INSITU_GENITAL.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_CD2_INSITU_GENITAL.csv" label="🔍 View full results" />

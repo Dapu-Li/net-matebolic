@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/J10_BRONCHNAS.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/J10_BRONCHNAS.csv"/>

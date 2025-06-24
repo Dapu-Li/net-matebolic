@@ -13,18 +13,18 @@
 > Cases: **594**  
 > Controls: **204083**
 <img src="/Disease/Figures/ALL/Incidence/H7_EYELIDINFLAMMATION.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_H7_EYELIDINFLAMMATION.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_H7_EYELIDINFLAMMATION.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **97231**  
 > Cases: **287**  
 > Controls: **96944**
 <img src="/Disease/Figures/Male/Incidence/H7_EYELIDINFLAMMATION.png"/>
-<CsvTable src="/Disease/Data/Male/Incidence/COX_H7_EYELIDINFLAMMATION.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Male/Incidence/COX_H7_EYELIDINFLAMMATION.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **107446**  
 > Cases: **307**  
 > Controls: **107139**
 <img src="/Disease/Figures/Female/Incidence/H7_EYELIDINFLAMMATION.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_H7_EYELIDINFLAMMATION.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Incidence/COX_H7_EYELIDINFLAMMATION.csv" label="🔍 View full results" />

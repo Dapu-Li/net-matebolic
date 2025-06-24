@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/K11_EMBIMPACT_TEETH.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/K11_EMBIMPACT_TEETH.csv"/>

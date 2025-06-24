@@ -13,7 +13,7 @@
 > Cases: **137**  
 > Controls: **203630**
 <img src="/Disease/Figures/ALL/Incidence/I9_AORTDIS.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_I9_AORTDIS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_I9_AORTDIS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **95505**  

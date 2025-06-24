@@ -13,18 +13,18 @@
 > Cases: **347**  
 > Controls: **210664**
 <img src="/Disease/Figures/ALL/Incidence/H7_VITROPACIT.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_H7_VITROPACIT.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_H7_VITROPACIT.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99928**  
 > Cases: **152**  
 > Controls: **99776**
 <img src="/Disease/Figures/Male/Incidence/H7_VITROPACIT.png"/>
-<CsvTable src="/Disease/Data/Male/Incidence/COX_H7_VITROPACIT.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Male/Incidence/COX_H7_VITROPACIT.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111083**  
 > Cases: **195**  
 > Controls: **110888**
 <img src="/Disease/Figures/Female/Incidence/H7_VITROPACIT.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_H7_VITROPACIT.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Incidence/COX_H7_VITROPACIT.csv" label="🔍 View full results" />

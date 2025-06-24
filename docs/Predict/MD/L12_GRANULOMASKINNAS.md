@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/L12_GRANULOMASKINNAS.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_L12_GRANULOMASKINNAS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_L12_GRANULOMASKINNAS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/L12_GRANULOMASKINNAS.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/L12_GRANULOMASKINNAS.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/Baseline/EVA/L12_GRANULOMASKINNAS.csv" label="🔍 View full results" />
 
 ---
 
@@ -24,11 +24,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/L12_GRANULOMASKINNAS.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_L12_GRANULOMASKINNAS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_L12_GRANULOMASKINNAS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/L12_GRANULOMASKINNAS.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/L12_GRANULOMASKINNAS.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/L12_GRANULOMASKINNAS.csv" label="🔍 View full results" />
 
 ---
 
@@ -42,8 +42,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/L12_GRANULOMASKINNAS.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_L12_GRANULOMASKINNAS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_L12_GRANULOMASKINNAS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/L12_GRANULOMASKINNAS.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/L12_GRANULOMASKINNAS.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/L12_GRANULOMASKINNAS.csv" label="🔍 View full results" />

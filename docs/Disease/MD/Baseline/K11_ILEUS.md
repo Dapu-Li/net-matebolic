@@ -13,18 +13,18 @@
 > Cases: **737**  
 > Controls: **154306**
 <img src="/Disease/Figures/ALL/Baseline/K11_ILEUS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_K11_ILEUS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_K11_ILEUS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **73634**  
 > Cases: **314**  
 > Controls: **73320**
 <img src="/Disease/Figures/Male/Baseline/K11_ILEUS.png"/>
-<CsvTable src="/Disease/Data/Male/Baseline/LG_K11_ILEUS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Male/Baseline/LG_K11_ILEUS.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **81409**  
 > Cases: **423**  
 > Controls: **80986**
 <img src="/Disease/Figures/Female/Baseline/K11_ILEUS.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_K11_ILEUS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Baseline/LG_K11_ILEUS.csv" label="🔍 View full results" />

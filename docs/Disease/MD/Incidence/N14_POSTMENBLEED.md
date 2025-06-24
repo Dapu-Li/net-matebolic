@@ -13,4 +13,4 @@
 > Cases: **2397**  
 > Controls: **82645**
 <img src="/Disease/Figures/ALL/Incidence/N14_POSTMENBLEED.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_N14_POSTMENBLEED.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_N14_POSTMENBLEED.csv" label="🔍 View full results" />

@@ -13,7 +13,7 @@
 > Cases: **110**  
 > Controls: **212572**
 <img src="/Disease/Figures/ALL/Incidence/CD2_BENIGN_DUODENUM.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_CD2_BENIGN_DUODENUM.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_CD2_BENIGN_DUODENUM.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100719**  

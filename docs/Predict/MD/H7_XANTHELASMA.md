@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/H7_XANTHELASMA.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_H7_XANTHELASMA.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_H7_XANTHELASMA.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/H7_XANTHELASMA.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/H7_XANTHELASMA.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/Baseline/EVA/H7_XANTHELASMA.csv" label="🔍 View full results" />
 
 ---
 

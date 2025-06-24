@@ -13,4 +13,4 @@
 > Cases: **553**  
 > Controls: **83117**
 <img src="/Disease/Figures/ALL/Baseline/N14_OTHNONINFVAG.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_OTHNONINFVAG.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_OTHNONINFVAG.csv" label="🔍 View full results" />

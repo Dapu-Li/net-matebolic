@@ -13,4 +13,4 @@
 > Cases: **857**  
 > Controls: **111138**
 <img src="/Disease/Figures/ALL/Baseline/O15_OBSTET_NAS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_OBSTET_NAS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_O15_OBSTET_NAS.csv" label="🔍 View full results" />

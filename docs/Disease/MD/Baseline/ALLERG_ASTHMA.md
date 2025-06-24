@@ -13,7 +13,7 @@
 > Cases: **114**  
 > Controls: **192218**
 <img src="/Disease/Figures/ALL/Baseline/ALLERG_ASTHMA.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_ALLERG_ASTHMA.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_ALLERG_ASTHMA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **92381**  

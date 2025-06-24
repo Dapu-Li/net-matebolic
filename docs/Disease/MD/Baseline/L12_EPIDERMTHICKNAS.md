@@ -13,7 +13,7 @@
 > Cases: **134**  
 > Controls: **197865**
 <img src="/Disease/Figures/ALL/Baseline/L12_EPIDERMTHICKNAS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_L12_EPIDERMTHICKNAS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_L12_EPIDERMTHICKNAS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **93835**  

@@ -13,7 +13,7 @@
 > Cases: **100**  
 > Controls: **173180**
 <img src="/Disease/Figures/ALL/Baseline/K11_OTHABDHER.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_K11_OTHABDHER.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_K11_OTHABDHER.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **78091**  

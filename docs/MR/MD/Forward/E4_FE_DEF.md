@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/E4_FE_DEF.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/E4_FE_DEF.csv"/>

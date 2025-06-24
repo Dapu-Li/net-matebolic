@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/DRY_AMD.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/DRY_AMD.csv"/>

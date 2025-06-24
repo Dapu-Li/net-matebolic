@@ -13,7 +13,7 @@
 > Cases: **196**  
 > Controls: **204673**
 <img src="/Disease/Figures/ALL/Incidence/H8_OTALGIA.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_H8_OTALGIA.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_H8_OTALGIA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **96485**  
@@ -28,4 +28,4 @@
 > Cases: **115**  
 > Controls: **108269**
 <img src="/Disease/Figures/Female/Incidence/H8_OTALGIA.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_H8_OTALGIA.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Incidence/COX_H8_OTALGIA.csv" label="🔍 View full results" />

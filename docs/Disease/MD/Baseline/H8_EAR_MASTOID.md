@@ -13,18 +13,18 @@
 > Cases: **2438**  
 > Controls: **210310**
 <img src="/Disease/Figures/ALL/Baseline/H8_EAR_MASTOID.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_H8_EAR_MASTOID.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_H8_EAR_MASTOID.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100754**  
 > Cases: **1169**  
 > Controls: **99585**
 <img src="/Disease/Figures/Male/Baseline/H8_EAR_MASTOID.png"/>
-<CsvTable src="/Disease/Data/Male/Baseline/LG_H8_EAR_MASTOID.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Male/Baseline/LG_H8_EAR_MASTOID.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111994**  
 > Cases: **1269**  
 > Controls: **110725**
 <img src="/Disease/Figures/Female/Baseline/H8_EAR_MASTOID.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_H8_EAR_MASTOID.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Baseline/LG_H8_EAR_MASTOID.csv" label="🔍 View full results" />

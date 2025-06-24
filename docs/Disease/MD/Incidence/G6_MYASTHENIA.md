@@ -13,7 +13,7 @@
 > Cases: **123**  
 > Controls: **212197**
 <img src="/Disease/Figures/ALL/Incidence/G6_MYASTHENIA.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_G6_MYASTHENIA.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_G6_MYASTHENIA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100513**  

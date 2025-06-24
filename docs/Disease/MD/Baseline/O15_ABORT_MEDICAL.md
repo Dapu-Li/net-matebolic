@@ -13,4 +13,4 @@
 > Cases: **520**  
 > Controls: **110210**
 <img src="/Disease/Figures/ALL/Baseline/O15_ABORT_MEDICAL.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_ABORT_MEDICAL.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_O15_ABORT_MEDICAL.csv" label="🔍 View full results" />

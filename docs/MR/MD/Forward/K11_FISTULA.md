@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/K11_FISTULA.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/K11_FISTULA.csv"/>

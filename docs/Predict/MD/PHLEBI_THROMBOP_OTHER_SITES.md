@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/PHLEBI_THROMBOP_OTHER_SITES.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_PHLEBI_THROMBOP_OTHER_SITES.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_PHLEBI_THROMBOP_OTHER_SITES.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/PHLEBI_THROMBOP_OTHER_SITES.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/PHLEBI_THROMBOP_OTHER_SITES.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/PHLEBI_THROMBOP_OTHER_SITES.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,8 +36,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/PHLEBI_THROMBOP_OTHER_SITES.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_PHLEBI_THROMBOP_OTHER_SITES.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_PHLEBI_THROMBOP_OTHER_SITES.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/PHLEBI_THROMBOP_OTHER_SITES.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/PHLEBI_THROMBOP_OTHER_SITES.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/PHLEBI_THROMBOP_OTHER_SITES.csv" label="🔍 View full results" />

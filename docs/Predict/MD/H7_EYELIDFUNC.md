@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/H7_EYELIDFUNC.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_H7_EYELIDFUNC.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_H7_EYELIDFUNC.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/H7_EYELIDFUNC.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/H7_EYELIDFUNC.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/H7_EYELIDFUNC.csv" label="🔍 View full results" />
 
 ---
 

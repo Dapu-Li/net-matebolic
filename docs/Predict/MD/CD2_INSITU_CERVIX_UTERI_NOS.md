@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/CD2_INSITU_CERVIX_UTERI_NOS.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_CD2_INSITU_CERVIX_UTERI_NOS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_CD2_INSITU_CERVIX_UTERI_NOS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/CD2_INSITU_CERVIX_UTERI_NOS.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/CD2_INSITU_CERVIX_UTERI_NOS.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/Baseline/EVA/CD2_INSITU_CERVIX_UTERI_NOS.csv" label="🔍 View full results" />
 
 ---
 

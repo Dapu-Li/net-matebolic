@@ -9,15 +9,15 @@
 > Cases: **3077**  
 > Controls: **209674**
 <img src="/Cluster/Figures/Baseline/LG/Cluster_7.png" />
-<CsvTable src="/Cluster/Data/Baseline/LG/LG_Cluster_7.csv" label="🔍 View full results" />
+<CsvTable src="/public/Cluster/Data/Baseline/LG/LG_Cluster_7.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **11687**
 <img src="/Cluster/Figures/Baseline/Histogram/Cluster_7_ba.png" />
-<CsvTable src="/Cluster/Data/Baseline/Histogram/Cluster_7_ba.csv" label="🔍 View full results" />
+<CsvTable src="/public/Cluster/Data/Baseline/Histogram/Cluster_7_ba.csv" label="🔍 View full results" />
         
 <img src="/Cluster/Figures/Baseline/ORD/Cluster_7.png" />
-<CsvTable src="/Cluster/Data/Baseline/ORD/ORD_Cluster_7.csv" label="🔍 View full results" />
+<CsvTable src="/public/Cluster/Data/Baseline/ORD/ORD_Cluster_7.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - N14_NEUROMUSCDYSBLADD (14) - Neuromuscular dysfunction of bladder

@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/J10_PLEURAL_PLAQUE_WITHOUT_ASBESTOS.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_J10_PLEURAL_PLAQUE_WITHOUT_ASBESTOS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_J10_PLEURAL_PLAQUE_WITHOUT_ASBESTOS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/J10_PLEURAL_PLAQUE_WITHOUT_ASBESTOS.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/J10_PLEURAL_PLAQUE_WITHOUT_ASBESTOS.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/J10_PLEURAL_PLAQUE_WITHOUT_ASBESTOS.csv" label="🔍 View full results" />
 
 ---
 
@@ -30,11 +30,11 @@
 
 <img src="/Predict/Figures/FYears/IMP/J10_PLEURAL_PLAQUE_WITHOUT_ASBESTOS.png" />
 
-<CsvTableIMP src="/Predict/Data/FYears/IMP/IMP_J10_PLEURAL_PLAQUE_WITHOUT_ASBESTOS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/FYears/IMP/IMP_J10_PLEURAL_PLAQUE_WITHOUT_ASBESTOS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/FYears/ROC/J10_PLEURAL_PLAQUE_WITHOUT_ASBESTOS.png" />
 
-<CsvTableROC src="/Predict/Data/FYears/EVA/J10_PLEURAL_PLAQUE_WITHOUT_ASBESTOS.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/FYears/EVA/J10_PLEURAL_PLAQUE_WITHOUT_ASBESTOS.csv" label="🔍 View full results" />
 
 ---
 
@@ -42,8 +42,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/J10_PLEURAL_PLAQUE_WITHOUT_ASBESTOS.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_J10_PLEURAL_PLAQUE_WITHOUT_ASBESTOS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_J10_PLEURAL_PLAQUE_WITHOUT_ASBESTOS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/J10_PLEURAL_PLAQUE_WITHOUT_ASBESTOS.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/J10_PLEURAL_PLAQUE_WITHOUT_ASBESTOS.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/J10_PLEURAL_PLAQUE_WITHOUT_ASBESTOS.csv" label="🔍 View full results" />

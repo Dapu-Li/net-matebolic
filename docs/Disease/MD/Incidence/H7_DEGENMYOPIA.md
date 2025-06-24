@@ -13,7 +13,7 @@
 > Cases: **139**  
 > Controls: **210664**
 <img src="/Disease/Figures/ALL/Incidence/H7_DEGENMYOPIA.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_H7_DEGENMYOPIA.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_H7_DEGENMYOPIA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99842**  

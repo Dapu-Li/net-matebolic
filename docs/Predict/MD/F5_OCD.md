@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/F5_OCD.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_F5_OCD.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_F5_OCD.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/F5_OCD.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/F5_OCD.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/F5_OCD.csv" label="🔍 View full results" />
 
 ---
 

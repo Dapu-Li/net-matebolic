@@ -13,7 +13,7 @@
 > Cases: **126**  
 > Controls: **212624**
 <img src="/Disease/Figures/ALL/Baseline/F5_SOMATOFORM.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_F5_SOMATOFORM.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_F5_SOMATOFORM.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100755**  

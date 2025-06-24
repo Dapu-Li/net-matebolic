@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/AUTOHEP.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/AUTOHEP.csv"/>

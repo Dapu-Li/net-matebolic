@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/DRUGADVERS_OSTEOPO.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/DRUGADVERS_OSTEOPO.csv"/>

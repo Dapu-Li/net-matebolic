@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/D3_OTHERWHITECELL.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/D3_OTHERWHITECELL.csv"/>

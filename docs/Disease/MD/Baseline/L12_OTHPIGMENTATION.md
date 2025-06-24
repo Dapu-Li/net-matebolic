@@ -13,7 +13,7 @@
 > Cases: **177**  
 > Controls: **197884**
 <img src="/Disease/Figures/ALL/Baseline/L12_OTHPIGMENTATION.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_L12_OTHPIGMENTATION.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_L12_OTHPIGMENTATION.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **93794**  
@@ -27,4 +27,4 @@
 > Cases: **105**  
 > Controls: **104162**
 <img src="/Disease/Figures/Female/Baseline/L12_OTHPIGMENTATION.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_L12_OTHPIGMENTATION.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Baseline/LG_L12_OTHPIGMENTATION.csv" label="🔍 View full results" />

@@ -13,7 +13,7 @@
 > Cases: **119**  
 > Controls: **210048**
 <img src="/Disease/Figures/ALL/Incidence/M13_OSTEOCHONDROPATHY.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_M13_OSTEOCHONDROPATHY.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_M13_OSTEOCHONDROPATHY.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99627**  

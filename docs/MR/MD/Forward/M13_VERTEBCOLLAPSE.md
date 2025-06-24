@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/M13_VERTEBCOLLAPSE.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/M13_VERTEBCOLLAPSE.csv"/>

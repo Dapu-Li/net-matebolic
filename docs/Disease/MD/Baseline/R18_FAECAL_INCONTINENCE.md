@@ -13,7 +13,7 @@
 > Cases: **305**  
 > Controls: **165660**
 <img src="/Disease/Figures/ALL/Baseline/R18_FAECAL_INCONTINENCE.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_R18_FAECAL_INCONTINENCE.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_R18_FAECAL_INCONTINENCE.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **81998**  
@@ -27,4 +27,4 @@
 > Cases: **235**  
 > Controls: **83732**
 <img src="/Disease/Figures/Female/Baseline/R18_FAECAL_INCONTINENCE.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_R18_FAECAL_INCONTINENCE.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Baseline/LG_R18_FAECAL_INCONTINENCE.csv" label="🔍 View full results" />

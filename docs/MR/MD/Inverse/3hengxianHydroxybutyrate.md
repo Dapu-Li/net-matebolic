@@ -18,4 +18,4 @@
 ## 📊 Data Table
 
 
-<CsvTableMRI src="/MR/Data/Inverse/3hengxianHydroxybutyrate.csv"/>
+<CsvTableMRI src="/public/MR/Data/Inverse/3hengxianHydroxybutyrate.csv"/>

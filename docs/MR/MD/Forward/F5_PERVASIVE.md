@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/F5_PERVASIVE.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/F5_PERVASIVE.csv"/>

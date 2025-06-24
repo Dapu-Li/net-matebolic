@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/HLP_C3_NSCLC_ADENO.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_HLP_C3_NSCLC_ADENO.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_HLP_C3_NSCLC_ADENO.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/HLP_C3_NSCLC_ADENO.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/HLP_C3_NSCLC_ADENO.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/HLP_C3_NSCLC_ADENO.csv" label="🔍 View full results" />
 
 ---
 

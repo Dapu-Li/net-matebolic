@@ -13,4 +13,4 @@
 > Cases: **116**  
 > Controls: **108788**
 <img src="/Disease/Figures/ALL/Baseline/O15_MATERN_CARE_FETAL_ABNORM.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_MATERN_CARE_FETAL_ABNORM.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_O15_MATERN_CARE_FETAL_ABNORM.csv" label="🔍 View full results" />

@@ -13,7 +13,7 @@
 > Cases: **138**  
 > Controls: **200613**
 <img src="/Disease/Figures/ALL/Incidence/J10_PERITONSABSC.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_J10_PERITONSABSC.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_J10_PERITONSABSC.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **94276**  

@@ -13,7 +13,7 @@
 > Cases: **242**  
 > Controls: **212496**
 <img src="/Disease/Figures/ALL/Baseline/F5_BIPO.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_F5_BIPO.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_F5_BIPO.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100752**  
@@ -27,4 +27,4 @@
 > Cases: **148**  
 > Controls: **111838**
 <img src="/Disease/Figures/Female/Baseline/F5_BIPO.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_F5_BIPO.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Baseline/LG_F5_BIPO.csv" label="🔍 View full results" />

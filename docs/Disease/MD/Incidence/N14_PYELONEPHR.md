@@ -13,7 +13,7 @@
 > Cases: **138**  
 > Controls: **191966**
 <img src="/Disease/Figures/ALL/Incidence/N14_PYELONEPHR.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_N14_PYELONEPHR.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_N14_PYELONEPHR.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **89694**  

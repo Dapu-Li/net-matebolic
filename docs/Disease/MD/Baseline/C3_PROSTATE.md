@@ -13,4 +13,4 @@
 > Cases: **1046**  
 > Controls: **81186**
 <img src="/Disease/Figures/ALL/Baseline/C3_PROSTATE.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_C3_PROSTATE.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_C3_PROSTATE.csv" label="🔍 View full results" />

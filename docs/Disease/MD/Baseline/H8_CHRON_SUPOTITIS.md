@@ -13,7 +13,7 @@
 > Cases: **102**  
 > Controls: **210594**
 <img src="/Disease/Figures/ALL/Baseline/H8_CHRON_SUPOTITIS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_H8_CHRON_SUPOTITIS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_H8_CHRON_SUPOTITIS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99766**  

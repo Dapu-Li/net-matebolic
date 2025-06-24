@@ -13,4 +13,4 @@
 > Cases: **730**  
 > Controls: **82785**
 <img src="/Disease/Figures/ALL/Baseline/N14_DYSPLACERVUT.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_DYSPLACERVUT.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_DYSPLACERVUT.csv" label="🔍 View full results" />

@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/M13_BURSOPATHY.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/M13_BURSOPATHY.csv"/>

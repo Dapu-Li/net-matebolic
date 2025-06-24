@@ -13,4 +13,4 @@
 > Cases: **145**  
 > Controls: **111850**
 <img src="/Disease/Figures/ALL/Baseline/CD2_BENIGN_UTERUS_OTH.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_UTERUS_OTH.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_UTERUS_OTH.csv" label="🔍 View full results" />

@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/O15_LABOUR_FETAL_STRESS.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/O15_LABOUR_FETAL_STRESS.csv"/>

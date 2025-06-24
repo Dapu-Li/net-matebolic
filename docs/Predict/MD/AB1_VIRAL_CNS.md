@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/AB1_VIRAL_CNS.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_AB1_VIRAL_CNS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_AB1_VIRAL_CNS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/AB1_VIRAL_CNS.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/AB1_VIRAL_CNS.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/AB1_VIRAL_CNS.csv" label="🔍 View full results" />
 
 ---
 

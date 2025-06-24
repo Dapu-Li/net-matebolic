@@ -13,18 +13,18 @@
 > Cases: **2668**  
 > Controls: **209614**
 <img src="/Disease/Figures/ALL/Incidence/D3_AGRANULOCYTOSIS.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_D3_AGRANULOCYTOSIS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_D3_AGRANULOCYTOSIS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100594**  
 > Cases: **1231**  
 > Controls: **99363**
 <img src="/Disease/Figures/Male/Incidence/D3_AGRANULOCYTOSIS.png"/>
-<CsvTable src="/Disease/Data/Male/Incidence/COX_D3_AGRANULOCYTOSIS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Male/Incidence/COX_D3_AGRANULOCYTOSIS.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111688**  
 > Cases: **1437**  
 > Controls: **110251**
 <img src="/Disease/Figures/Female/Incidence/D3_AGRANULOCYTOSIS.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_D3_AGRANULOCYTOSIS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Incidence/COX_D3_AGRANULOCYTOSIS.csv" label="🔍 View full results" />

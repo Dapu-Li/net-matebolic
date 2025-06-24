@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/N14_ENDOMETRIOSIS_PELVICPERITONEUM.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/N14_ENDOMETRIOSIS_PELVICPERITONEUM.csv"/>

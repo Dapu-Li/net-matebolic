@@ -13,4 +13,4 @@
 > Cases: **310**  
 > Controls: **111685**
 <img src="/Disease/Figures/ALL/Baseline/N14_CERVICAL_LSIL.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_CERVICAL_LSIL.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_CERVICAL_LSIL.csv" label="🔍 View full results" />

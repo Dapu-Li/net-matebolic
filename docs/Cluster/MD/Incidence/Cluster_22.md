@@ -9,15 +9,15 @@
 > Cases: **39629**  
 > Controls: **173122**
 <img src="/Cluster/Figures/Incidence/LG/Cluster_22.png" />
-<CsvTable src="/Cluster/Data/Incidence/LG/LG_Cluster_22.csv" label="🔍 View full results" />
+<CsvTable src="/public/Cluster/Data/Incidence/LG/LG_Cluster_22.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **63924**
 <img src="/Cluster/Figures/Incidence/Histogram/Cluster_22_in.png" />
-<CsvTable src="/Cluster/Data/Incidence/Histogram/Cluster_22_in.csv" label="🔍 View full results" />
+<CsvTable src="/public/Cluster/Data/Incidence/Histogram/Cluster_22_in.csv" label="🔍 View full results" />
 
 <img src="/Cluster/Figures/Incidence/ORD/Cluster_22.png" />
-<CsvTable src="/Cluster/Data/Incidence/ORD/ORD_Cluster_22.csv" label="🔍 View full results" />
+<CsvTable src="/public/Cluster/Data/Incidence/ORD/ORD_Cluster_22.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - N14_UROLITHIASIS (14) - Urolithiasis

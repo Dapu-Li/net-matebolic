@@ -13,7 +13,7 @@
 > Cases: **156**  
 > Controls: **212583**
 <img src="/Disease/Figures/ALL/Baseline/D3_THROMBOCYTOPENIANAS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_D3_THROMBOCYTOPENIANAS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_D3_THROMBOCYTOPENIANAS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100751**  

@@ -13,4 +13,4 @@
 > Cases: **641**  
 > Controls: **86781**
 <img src="/Disease/Figures/ALL/Incidence/C3_OVARY.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_C3_OVARY.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_C3_OVARY.csv" label="🔍 View full results" />

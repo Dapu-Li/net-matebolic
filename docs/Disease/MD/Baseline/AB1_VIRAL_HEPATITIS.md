@@ -13,14 +13,14 @@
 > Cases: **181**  
 > Controls: **212550**
 <img src="/Disease/Figures/ALL/Baseline/AB1_VIRAL_HEPATITIS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_AB1_VIRAL_HEPATITIS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_AB1_VIRAL_HEPATITIS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100745**  
 > Cases: **107**  
 > Controls: **100638**
 <img src="/Disease/Figures/Male/Baseline/AB1_VIRAL_HEPATITIS.png"/>
-<CsvTable src="/Disease/Data/Male/Baseline/LG_AB1_VIRAL_HEPATITIS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Male/Baseline/LG_AB1_VIRAL_HEPATITIS.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111986**  

@@ -13,7 +13,7 @@
 > Cases: **100**  
 > Controls: **212638**
 <img src="/Disease/Figures/ALL/Baseline/HEPATITIS_CHRONIC_VIRAL.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_HEPATITIS_CHRONIC_VIRAL.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_HEPATITIS_CHRONIC_VIRAL.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100751**  

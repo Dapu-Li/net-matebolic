@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/DM_HYPOGLYC.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_DM_HYPOGLYC.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_DM_HYPOGLYC.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/DM_HYPOGLYC.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/DM_HYPOGLYC.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/DM_HYPOGLYC.csv" label="🔍 View full results" />
 
 ---
 
@@ -30,11 +30,11 @@
 
 <img src="/Predict/Figures/FYears/IMP/DM_HYPOGLYC.png" />
 
-<CsvTableIMP src="/Predict/Data/FYears/IMP/IMP_DM_HYPOGLYC.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/FYears/IMP/IMP_DM_HYPOGLYC.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/FYears/ROC/DM_HYPOGLYC.png" />
 
-<CsvTableROC src="/Predict/Data/FYears/EVA/DM_HYPOGLYC.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/FYears/EVA/DM_HYPOGLYC.csv" label="🔍 View full results" />
 
 ---
 
@@ -42,8 +42,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/DM_HYPOGLYC.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_DM_HYPOGLYC.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_DM_HYPOGLYC.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/DM_HYPOGLYC.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/DM_HYPOGLYC.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/DM_HYPOGLYC.csv" label="🔍 View full results" />

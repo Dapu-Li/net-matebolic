@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/COLITCOLLAG.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_COLITCOLLAG.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_COLITCOLLAG.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/COLITCOLLAG.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/COLITCOLLAG.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/COLITCOLLAG.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,8 +36,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/COLITCOLLAG.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_COLITCOLLAG.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_COLITCOLLAG.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/COLITCOLLAG.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/COLITCOLLAG.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/COLITCOLLAG.csv" label="🔍 View full results" />

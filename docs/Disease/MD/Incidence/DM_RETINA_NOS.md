@@ -13,14 +13,14 @@
 > Cases: **193**  
 > Controls: **212535**
 <img src="/Disease/Figures/ALL/Incidence/DM_RETINA_NOS.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_DM_RETINA_NOS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_DM_RETINA_NOS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100746**  
 > Cases: **102**  
 > Controls: **100644**
 <img src="/Disease/Figures/Male/Incidence/DM_RETINA_NOS.png"/>
-<CsvTable src="/Disease/Data/Male/Incidence/COX_DM_RETINA_NOS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Male/Incidence/COX_DM_RETINA_NOS.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111982**  

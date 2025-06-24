@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/N14_FEMALE_GENITAL_DYSPLASIA_NOS.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_N14_FEMALE_GENITAL_DYSPLASIA_NOS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_N14_FEMALE_GENITAL_DYSPLASIA_NOS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/N14_FEMALE_GENITAL_DYSPLASIA_NOS.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/N14_FEMALE_GENITAL_DYSPLASIA_NOS.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/Baseline/EVA/N14_FEMALE_GENITAL_DYSPLASIA_NOS.csv" label="🔍 View full results" />
 
 ---
 

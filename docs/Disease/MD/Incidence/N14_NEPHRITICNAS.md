@@ -13,7 +13,7 @@
 > Cases: **147**  
 > Controls: **212540**
 <img src="/Disease/Figures/ALL/Incidence/N14_NEPHRITICNAS.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_N14_NEPHRITICNAS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_N14_NEPHRITICNAS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100721**  

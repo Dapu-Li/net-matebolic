@@ -13,4 +13,4 @@
 > Cases: **344**  
 > Controls: **82877**
 <img src="/Disease/Figures/ALL/Baseline/N14_PROSTAOTH.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_PROSTAOTH.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_PROSTAOTH.csv" label="🔍 View full results" />

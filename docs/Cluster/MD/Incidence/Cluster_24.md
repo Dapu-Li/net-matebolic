@@ -9,15 +9,15 @@
 > Cases: **2427**  
 > Controls: **210324**
 <img src="/Cluster/Figures/Incidence/LG/Cluster_24.png" />
-<CsvTable src="/Cluster/Data/Incidence/LG/LG_Cluster_24.csv" label="🔍 View full results" />
+<CsvTable src="/public/Cluster/Data/Incidence/LG/LG_Cluster_24.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **8040**
 <img src="/Cluster/Figures/Incidence/Histogram/Cluster_24_in.png" />
-<CsvTable src="/Cluster/Data/Incidence/Histogram/Cluster_24_in.csv" label="🔍 View full results" />
+<CsvTable src="/public/Cluster/Data/Incidence/Histogram/Cluster_24_in.csv" label="🔍 View full results" />
 
 <img src="/Cluster/Figures/Incidence/ORD/Cluster_24.png" />
-<CsvTable src="/Cluster/Data/Incidence/ORD/ORD_Cluster_24.csv" label="🔍 View full results" />
+<CsvTable src="/public/Cluster/Data/Incidence/ORD/ORD_Cluster_24.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - M13_ENTESOPATHYNAS (13) - Other/unspecified enthesopathies, not elsewhere classified

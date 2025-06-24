@@ -13,7 +13,7 @@
 > Cases: **115**  
 > Controls: **212139**
 <img src="/Disease/Figures/ALL/Baseline/ILD.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_ILD.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_ILD.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100553**  

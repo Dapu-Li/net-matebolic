@@ -13,4 +13,4 @@
 > Cases: **13676**  
 > Controls: **81957**
 <img src="/Disease/Figures/ALL/Incidence/N14_MALEGEN.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_N14_MALEGEN.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_N14_MALEGEN.csv" label="🔍 View full results" />

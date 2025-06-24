@@ -13,7 +13,7 @@
 > Cases: **119**  
 > Controls: **208214**
 <img src="/Disease/Figures/ALL/Baseline/H7_VISUDISTURBSUB.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_H7_VISUDISTURBSUB.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_H7_VISUDISTURBSUB.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **98601**  

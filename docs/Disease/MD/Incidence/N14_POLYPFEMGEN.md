@@ -13,4 +13,4 @@
 > Cases: **2774**  
 > Controls: **82645**
 <img src="/Disease/Figures/ALL/Incidence/N14_POLYPFEMGEN.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_N14_POLYPFEMGEN.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_N14_POLYPFEMGEN.csv" label="🔍 View full results" />

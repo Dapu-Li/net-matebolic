@@ -9,15 +9,15 @@
 > Cases: **393**  
 > Controls: **212358**
 <img src="/Cluster/Figures/Incidence/LG/Cluster_2.png" />
-<CsvTable src="/Cluster/Data/Incidence/LG/LG_Cluster_2.csv" label="🔍 View full results" />
+<CsvTable src="/public/Cluster/Data/Incidence/LG/LG_Cluster_2.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **1904**
 <img src="/Cluster/Figures/Incidence/Histogram/Cluster_2_in.png" />
-<CsvTable src="/Cluster/Data/Incidence/Histogram/Cluster_2_in.csv" label="🔍 View full results" />
+<CsvTable src="/public/Cluster/Data/Incidence/Histogram/Cluster_2_in.csv" label="🔍 View full results" />
 
 <img src="/Cluster/Figures/Incidence/ORD/Cluster_2.png" />
-<CsvTable src="/Cluster/Data/Incidence/ORD/ORD_Cluster_2.csv" label="🔍 View full results" />
+<CsvTable src="/public/Cluster/Data/Incidence/ORD/ORD_Cluster_2.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - H7_ANOMAPUPFUNC (7) - Anomalies of pupillary function

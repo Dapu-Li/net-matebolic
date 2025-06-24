@@ -13,7 +13,7 @@
 > Cases: **166**  
 > Controls: **204527**
 <img src="/Disease/Figures/ALL/Incidence/H8_ACOUSNERVDIS.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_H8_ACOUSNERVDIS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_H8_ACOUSNERVDIS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **96413**  

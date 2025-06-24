@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/L12_PSORI_VULG.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_L12_PSORI_VULG.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_L12_PSORI_VULG.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/L12_PSORI_VULG.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/L12_PSORI_VULG.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/L12_PSORI_VULG.csv" label="🔍 View full results" />
 
 ---
 

@@ -13,7 +13,7 @@
 > Cases: **161**  
 > Controls: **165222**
 <img src="/Disease/Figures/ALL/Baseline/R18_ASCITES.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_R18_ASCITES.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_R18_ASCITES.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **81993**  

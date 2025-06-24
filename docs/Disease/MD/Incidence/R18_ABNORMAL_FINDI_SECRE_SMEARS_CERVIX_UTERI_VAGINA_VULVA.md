@@ -13,7 +13,7 @@
 > Cases: **109**  
 > Controls: **211426**
 <img src="/Disease/Figures/ALL/Incidence/R18_ABNORMAL_FINDI_SECRE_SMEARS_CERVIX_UTERI_VAGINA_VULVA.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_R18_ABNORMAL_FINDI_SECRE_SMEARS_CERVIX_UTERI_VAGINA_VULVA.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_R18_ABNORMAL_FINDI_SECRE_SMEARS_CERVIX_UTERI_VAGINA_VULVA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100476**  
@@ -28,4 +28,4 @@
 > Cases: **109**  
 > Controls: **110950**
 <img src="/Disease/Figures/Female/Incidence/R18_ABNORMAL_FINDI_SECRE_SMEARS_CERVIX_UTERI_VAGINA_VULVA.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_R18_ABNORMAL_FINDI_SECRE_SMEARS_CERVIX_UTERI_VAGINA_VULVA.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Incidence/COX_R18_ABNORMAL_FINDI_SECRE_SMEARS_CERVIX_UTERI_VAGINA_VULVA.csv" label="🔍 View full results" />

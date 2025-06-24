@@ -13,4 +13,4 @@
 > Cases: **1661**  
 > Controls: **107973**
 <img src="/Disease/Figures/ALL/Incidence/N14_FEMALEGENINF.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_N14_FEMALEGENINF.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_N14_FEMALEGENINF.csv" label="🔍 View full results" />

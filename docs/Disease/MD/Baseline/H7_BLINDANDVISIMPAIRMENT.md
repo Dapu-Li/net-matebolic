@@ -13,7 +13,7 @@
 > Cases: **119**  
 > Controls: **209116**
 <img src="/Disease/Figures/ALL/Baseline/H7_BLINDANDVISIMPAIRMENT.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_H7_BLINDANDVISIMPAIRMENT.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_H7_BLINDANDVISIMPAIRMENT.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99131**  

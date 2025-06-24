@@ -13,7 +13,7 @@
 > Cases: **109**  
 > Controls: **205602**
 <img src="/Disease/Figures/ALL/Baseline/H7_STRABNAS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_H7_STRABNAS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_H7_STRABNAS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **97915**  

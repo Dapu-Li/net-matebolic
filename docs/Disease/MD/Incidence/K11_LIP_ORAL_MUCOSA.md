@@ -13,18 +13,18 @@
 > Cases: **1767**  
 > Controls: **210258**
 <img src="/Disease/Figures/ALL/Incidence/K11_LIP_ORAL_MUCOSA.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_K11_LIP_ORAL_MUCOSA.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_K11_LIP_ORAL_MUCOSA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100432**  
 > Cases: **758**  
 > Controls: **99674**
 <img src="/Disease/Figures/Male/Incidence/K11_LIP_ORAL_MUCOSA.png"/>
-<CsvTable src="/Disease/Data/Male/Incidence/COX_K11_LIP_ORAL_MUCOSA.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Male/Incidence/COX_K11_LIP_ORAL_MUCOSA.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111593**  
 > Cases: **1009**  
 > Controls: **110584**
 <img src="/Disease/Figures/Female/Incidence/K11_LIP_ORAL_MUCOSA.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_K11_LIP_ORAL_MUCOSA.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Incidence/COX_K11_LIP_ORAL_MUCOSA.csv" label="🔍 View full results" />

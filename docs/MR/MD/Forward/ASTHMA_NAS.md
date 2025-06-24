@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/ASTHMA_NAS.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/ASTHMA_NAS.csv"/>

@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/CD2_BENIGN_THYROID.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_CD2_BENIGN_THYROID.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_CD2_BENIGN_THYROID.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/CD2_BENIGN_THYROID.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/CD2_BENIGN_THYROID.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/CD2_BENIGN_THYROID.csv" label="🔍 View full results" />
 
 ---
 

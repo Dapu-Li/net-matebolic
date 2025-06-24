@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/IBD_BACT_INTEST_INFECTIONS.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_IBD_BACT_INTEST_INFECTIONS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_IBD_BACT_INTEST_INFECTIONS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/IBD_BACT_INTEST_INFECTIONS.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/IBD_BACT_INTEST_INFECTIONS.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/Baseline/EVA/IBD_BACT_INTEST_INFECTIONS.csv" label="🔍 View full results" />
 
 ---
 
@@ -24,11 +24,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/IBD_BACT_INTEST_INFECTIONS.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_IBD_BACT_INTEST_INFECTIONS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_IBD_BACT_INTEST_INFECTIONS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/IBD_BACT_INTEST_INFECTIONS.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/IBD_BACT_INTEST_INFECTIONS.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/IBD_BACT_INTEST_INFECTIONS.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,11 +36,11 @@
 
 <img src="/Predict/Figures/FYears/IMP/IBD_BACT_INTEST_INFECTIONS.png" />
 
-<CsvTableIMP src="/Predict/Data/FYears/IMP/IMP_IBD_BACT_INTEST_INFECTIONS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/FYears/IMP/IMP_IBD_BACT_INTEST_INFECTIONS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/FYears/ROC/IBD_BACT_INTEST_INFECTIONS.png" />
 
-<CsvTableROC src="/Predict/Data/FYears/EVA/IBD_BACT_INTEST_INFECTIONS.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/FYears/EVA/IBD_BACT_INTEST_INFECTIONS.csv" label="🔍 View full results" />
 
 ---
 
@@ -48,8 +48,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/IBD_BACT_INTEST_INFECTIONS.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_IBD_BACT_INTEST_INFECTIONS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_IBD_BACT_INTEST_INFECTIONS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/IBD_BACT_INTEST_INFECTIONS.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/IBD_BACT_INTEST_INFECTIONS.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/IBD_BACT_INTEST_INFECTIONS.csv" label="🔍 View full results" />

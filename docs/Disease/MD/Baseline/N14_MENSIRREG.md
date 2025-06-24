@@ -13,4 +13,4 @@
 > Cases: **1941**  
 > Controls: **110043**
 <img src="/Disease/Figures/ALL/Baseline/N14_MENSIRREG.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_MENSIRREG.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_MENSIRREG.csv" label="🔍 View full results" />

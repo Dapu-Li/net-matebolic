@@ -13,7 +13,7 @@
 > Cases: **125**  
 > Controls: **198417**
 <img src="/Disease/Figures/ALL/Incidence/G6_CRAINOTH.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_G6_CRAINOTH.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_G6_CRAINOTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **95202**  

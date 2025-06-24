@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/D3_WHITEBLOODCELLNAS.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/D3_WHITEBLOODCELLNAS.csv"/>

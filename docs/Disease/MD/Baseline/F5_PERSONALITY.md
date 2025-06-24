@@ -13,7 +13,7 @@
 > Cases: **100**  
 > Controls: **212650**
 <img src="/Disease/Figures/ALL/Baseline/F5_PERSONALITY.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_F5_PERSONALITY.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_F5_PERSONALITY.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100755**  

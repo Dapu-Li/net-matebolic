@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/PD2ND.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_PD2ND.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_PD2ND.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/PD2ND.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/PD2ND.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/PD2ND.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,8 +36,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/PD2ND.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_PD2ND.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_PD2ND.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/PD2ND.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/PD2ND.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/PD2ND.csv" label="🔍 View full results" />

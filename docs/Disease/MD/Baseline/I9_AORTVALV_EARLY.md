@@ -13,7 +13,7 @@
 > Cases: **112**  
 > Controls: **119250**
 <img src="/Disease/Figures/ALL/Baseline/I9_AORTVALV_EARLY.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_I9_AORTVALV_EARLY.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_I9_AORTVALV_EARLY.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **56186**  

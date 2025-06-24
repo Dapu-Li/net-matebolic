@@ -13,7 +13,7 @@
 > Cases: **179**  
 > Controls: **212564**
 <img src="/Disease/Figures/ALL/Baseline/N14_RECURANDPERHEAMATUR.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_RECURANDPERHEAMATUR.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_RECURANDPERHEAMATUR.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100753**  

@@ -13,7 +13,7 @@
 > Cases: **178**  
 > Controls: **204976**
 <img src="/Disease/Figures/ALL/Baseline/AB1_BACTINF_NOS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_AB1_BACTINF_NOS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_AB1_BACTINF_NOS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **96565**  

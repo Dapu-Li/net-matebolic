@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/H8_EXTERNAL.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/H8_EXTERNAL.csv"/>

@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/D3_ACUTEPOSTBLEEDANAEMIA.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/D3_ACUTEPOSTBLEEDANAEMIA.csv"/>

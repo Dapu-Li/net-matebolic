@@ -13,7 +13,7 @@
 > Cases: **120**  
 > Controls: **212570**
 <img src="/Disease/Figures/ALL/Incidence/CHIRBIL_PRIM.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_CHIRBIL_PRIM.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_CHIRBIL_PRIM.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100742**  
@@ -28,4 +28,4 @@
 > Cases: **102**  
 > Controls: **111846**
 <img src="/Disease/Figures/Female/Incidence/CHIRBIL_PRIM.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_CHIRBIL_PRIM.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Incidence/COX_CHIRBIL_PRIM.csv" label="🔍 View full results" />

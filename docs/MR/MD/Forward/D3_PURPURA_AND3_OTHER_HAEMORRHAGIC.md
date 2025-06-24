@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/D3_PURPURA_AND3_OTHER_HAEMORRHAGIC.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/D3_PURPURA_AND3_OTHER_HAEMORRHAGIC.csv"/>

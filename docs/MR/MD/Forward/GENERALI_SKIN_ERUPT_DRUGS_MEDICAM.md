@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/GENERALI_SKIN_ERUPT_DRUGS_MEDICAM.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/GENERALI_SKIN_ERUPT_DRUGS_MEDICAM.csv"/>

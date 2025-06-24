@@ -13,7 +13,7 @@
 > Cases: **182**  
 > Controls: **207746**
 <img src="/Disease/Figures/ALL/Baseline/H7_GLAUCSUSP.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_H7_GLAUCSUSP.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_H7_GLAUCSUSP.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **98402**  

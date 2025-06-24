@@ -13,4 +13,4 @@
 > Cases: **258**  
 > Controls: **82412**
 <img src="/Disease/Figures/ALL/Baseline/N14_ORHCEPINDIDYMITIS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_N14_ORHCEPINDIDYMITIS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_N14_ORHCEPINDIDYMITIS.csv" label="🔍 View full results" />

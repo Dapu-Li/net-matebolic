@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/E4_DM1OPTH.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_E4_DM1OPTH.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_E4_DM1OPTH.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/E4_DM1OPTH.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/E4_DM1OPTH.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/E4_DM1OPTH.csv" label="🔍 View full results" />
 
 ---
 

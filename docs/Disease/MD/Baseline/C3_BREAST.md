@@ -13,4 +13,4 @@
 > Cases: **2754**  
 > Controls: **91693**
 <img src="/Disease/Figures/ALL/Baseline/C3_BREAST.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_C3_BREAST.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_C3_BREAST.csv" label="🔍 View full results" />

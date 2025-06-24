@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/PRIM_KNEEARTHROSIS.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/PRIM_KNEEARTHROSIS.csv"/>

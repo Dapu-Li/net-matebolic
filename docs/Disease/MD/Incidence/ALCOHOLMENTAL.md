@@ -13,18 +13,18 @@
 > Cases: **3021**  
 > Controls: **208621**
 <img src="/Disease/Figures/ALL/Incidence/ALCOHOLMENTAL.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_ALCOHOLMENTAL.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_ALCOHOLMENTAL.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99957**  
 > Cases: **2147**  
 > Controls: **97810**
 <img src="/Disease/Figures/Male/Incidence/ALCOHOLMENTAL.png"/>
-<CsvTable src="/Disease/Data/Male/Incidence/COX_ALCOHOLMENTAL.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Male/Incidence/COX_ALCOHOLMENTAL.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111685**  
 > Cases: **874**  
 > Controls: **110811**
 <img src="/Disease/Figures/Female/Incidence/ALCOHOLMENTAL.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_ALCOHOLMENTAL.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Incidence/COX_ALCOHOLMENTAL.csv" label="🔍 View full results" />

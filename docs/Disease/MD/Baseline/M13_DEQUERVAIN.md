@@ -13,7 +13,7 @@
 > Cases: **100**  
 > Controls: **183126**
 <img src="/Disease/Figures/ALL/Baseline/M13_DEQUERVAIN.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_M13_DEQUERVAIN.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_M13_DEQUERVAIN.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **87326**  

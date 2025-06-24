@@ -13,7 +13,7 @@
 > Cases: **150**  
 > Controls: **148832**
 <img src="/Disease/Figures/ALL/Baseline/M13_PSORIARTH.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_M13_PSORIARTH.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_M13_PSORIARTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **73075**  

@@ -13,7 +13,7 @@
 > Cases: **199**  
 > Controls: **212478**
 <img src="/Disease/Figures/ALL/Incidence/PHLEBI_THROMBOP_LOWER_EXTREMITI_UNSPE.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_PHLEBI_THROMBOP_LOWER_EXTREMITI_UNSPE.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_PHLEBI_THROMBOP_LOWER_EXTREMITI_UNSPE.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100714**  
@@ -28,4 +28,4 @@
 > Cases: **100**  
 > Controls: **111863**
 <img src="/Disease/Figures/Female/Incidence/PHLEBI_THROMBOP_LOWER_EXTREMITI_UNSPE.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_PHLEBI_THROMBOP_LOWER_EXTREMITI_UNSPE.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Incidence/COX_PHLEBI_THROMBOP_LOWER_EXTREMITI_UNSPE.csv" label="🔍 View full results" />

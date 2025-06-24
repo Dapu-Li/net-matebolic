@@ -13,7 +13,7 @@
 > Cases: **126**  
 > Controls: **212596**
 <img src="/Disease/Figures/ALL/Incidence/CD2_INSITU_MELANOMA_TRUNK.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_CD2_INSITU_MELANOMA_TRUNK.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_CD2_INSITU_MELANOMA_TRUNK.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100745**  

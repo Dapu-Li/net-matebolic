@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/E4_AMYL_ORGAN.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/E4_AMYL_ORGAN.csv"/>

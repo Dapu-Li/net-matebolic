@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/L12_ABSCESS_CUT.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/L12_ABSCESS_CUT.csv"/>

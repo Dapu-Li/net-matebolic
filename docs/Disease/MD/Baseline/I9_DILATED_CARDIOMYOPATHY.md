@@ -13,14 +13,14 @@
 > Cases: **133**  
 > Controls: **212550**
 <img src="/Disease/Figures/ALL/Baseline/I9_DILATED_CARDIOMYOPATHY.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_I9_DILATED_CARDIOMYOPATHY.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_I9_DILATED_CARDIOMYOPATHY.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100721**  
 > Cases: **104**  
 > Controls: **100617**
 <img src="/Disease/Figures/Male/Baseline/I9_DILATED_CARDIOMYOPATHY.png"/>
-<CsvTable src="/Disease/Data/Male/Baseline/LG_I9_DILATED_CARDIOMYOPATHY.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Male/Baseline/LG_I9_DILATED_CARDIOMYOPATHY.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111962**  

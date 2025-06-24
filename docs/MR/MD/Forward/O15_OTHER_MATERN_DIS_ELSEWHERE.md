@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/O15_OTHER_MATERN_DIS_ELSEWHERE.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/O15_OTHER_MATERN_DIS_ELSEWHERE.csv"/>

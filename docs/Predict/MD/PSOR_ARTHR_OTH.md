@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/PSOR_ARTHR_OTH.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_PSOR_ARTHR_OTH.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_PSOR_ARTHR_OTH.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/PSOR_ARTHR_OTH.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/PSOR_ARTHR_OTH.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/Baseline/EVA/PSOR_ARTHR_OTH.csv" label="🔍 View full results" />
 
 ---
 
@@ -24,11 +24,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/PSOR_ARTHR_OTH.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_PSOR_ARTHR_OTH.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_PSOR_ARTHR_OTH.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/PSOR_ARTHR_OTH.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/PSOR_ARTHR_OTH.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/PSOR_ARTHR_OTH.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,11 +36,11 @@
 
 <img src="/Predict/Figures/FYears/IMP/PSOR_ARTHR_OTH.png" />
 
-<CsvTableIMP src="/Predict/Data/FYears/IMP/IMP_PSOR_ARTHR_OTH.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/FYears/IMP/IMP_PSOR_ARTHR_OTH.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/FYears/ROC/PSOR_ARTHR_OTH.png" />
 
-<CsvTableROC src="/Predict/Data/FYears/EVA/PSOR_ARTHR_OTH.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/FYears/EVA/PSOR_ARTHR_OTH.csv" label="🔍 View full results" />
 
 ---
 
@@ -48,8 +48,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/PSOR_ARTHR_OTH.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_PSOR_ARTHR_OTH.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_PSOR_ARTHR_OTH.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/PSOR_ARTHR_OTH.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/PSOR_ARTHR_OTH.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/PSOR_ARTHR_OTH.csv" label="🔍 View full results" />

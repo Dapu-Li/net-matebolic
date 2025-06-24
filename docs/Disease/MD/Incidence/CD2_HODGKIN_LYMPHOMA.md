@@ -13,7 +13,7 @@
 > Cases: **136**  
 > Controls: **212515**
 <img src="/Disease/Figures/ALL/Incidence/CD2_HODGKIN_LYMPHOMA.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_CD2_HODGKIN_LYMPHOMA.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_CD2_HODGKIN_LYMPHOMA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100705**  

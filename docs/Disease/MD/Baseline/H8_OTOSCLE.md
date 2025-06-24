@@ -13,7 +13,7 @@
 > Cases: **107**  
 > Controls: **210376**
 <img src="/Disease/Figures/ALL/Baseline/H8_OTOSCLE.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_H8_OTOSCLE.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_H8_OTOSCLE.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99872**  

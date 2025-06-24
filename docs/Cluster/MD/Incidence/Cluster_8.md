@@ -9,15 +9,15 @@
 > Cases: **15518**  
 > Controls: **197233**
 <img src="/Cluster/Figures/Incidence/LG/Cluster_8.png" />
-<CsvTable src="/Cluster/Data/Incidence/LG/LG_Cluster_8.csv" label="🔍 View full results" />
+<CsvTable src="/public/Cluster/Data/Incidence/LG/LG_Cluster_8.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **26767**
 <img src="/Cluster/Figures/Incidence/Histogram/Cluster_8_in.png" />
-<CsvTable src="/Cluster/Data/Incidence/Histogram/Cluster_8_in.csv" label="🔍 View full results" />
+<CsvTable src="/public/Cluster/Data/Incidence/Histogram/Cluster_8_in.csv" label="🔍 View full results" />
 
 <img src="/Cluster/Figures/Incidence/ORD/Cluster_8.png" />
-<CsvTable src="/Cluster/Data/Incidence/ORD/ORD_Cluster_8.csv" label="🔍 View full results" />
+<CsvTable src="/public/Cluster/Data/Incidence/ORD/ORD_Cluster_8.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - O15_PREG_BIRTH_PUERP (15) - Pregnancy, childbirth and the puerperium

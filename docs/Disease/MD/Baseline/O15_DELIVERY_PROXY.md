@@ -13,4 +13,4 @@
 > Cases: **3134**  
 > Controls: **108861**
 <img src="/Disease/Figures/ALL/Baseline/O15_DELIVERY_PROXY.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_DELIVERY_PROXY.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_O15_DELIVERY_PROXY.csv" label="🔍 View full results" />

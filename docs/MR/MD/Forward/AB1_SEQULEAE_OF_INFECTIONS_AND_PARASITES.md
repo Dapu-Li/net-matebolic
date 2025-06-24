@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/AB1_SEQULEAE_OF_INFECTIONS_AND_PARASITES.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/AB1_SEQULEAE_OF_INFECTIONS_AND_PARASITES.csv"/>

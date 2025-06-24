@@ -13,7 +13,7 @@
 > Cases: **128**  
 > Controls: **181899**
 <img src="/Disease/Figures/ALL/Baseline/J10_BRONCH.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_J10_BRONCH.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_J10_BRONCH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **86901**  

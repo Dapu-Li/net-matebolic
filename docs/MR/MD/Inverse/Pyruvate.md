@@ -18,4 +18,4 @@
 ## 📊 Data Table
 
 
-<CsvTableMRI src="/MR/Data/Inverse/Pyruvate.csv"/>
+<CsvTableMRI src="/public/MR/Data/Inverse/Pyruvate.csv"/>

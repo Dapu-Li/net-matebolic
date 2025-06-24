@@ -13,4 +13,4 @@
 > Cases: **112**  
 > Controls: **107519**
 <img src="/Disease/Figures/ALL/Baseline/O15_RETAINED_PLAC_MEMB_NO_HEAMORRH.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_RETAINED_PLAC_MEMB_NO_HEAMORRH.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_O15_RETAINED_PLAC_MEMB_NO_HEAMORRH.csv" label="🔍 View full results" />

@@ -13,7 +13,7 @@
 > Cases: **172**  
 > Controls: **165429**
 <img src="/Disease/Figures/ALL/Incidence/E4_AMYL_ORGAN.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_E4_AMYL_ORGAN.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_E4_AMYL_ORGAN.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **75138**  

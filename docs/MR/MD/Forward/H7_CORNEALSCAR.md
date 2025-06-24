@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/H7_CORNEALSCAR.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/H7_CORNEALSCAR.csv"/>

@@ -13,7 +13,7 @@
 > Cases: **185**  
 > Controls: **210356**
 <img src="/Disease/Figures/ALL/Baseline/K11_APPENDOTH.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_K11_APPENDOTH.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_K11_APPENDOTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99684**  
@@ -27,4 +27,4 @@
 > Cases: **105**  
 > Controls: **110752**
 <img src="/Disease/Figures/Female/Baseline/K11_APPENDOTH.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_K11_APPENDOTH.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Baseline/LG_K11_APPENDOTH.csv" label="🔍 View full results" />

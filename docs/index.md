@@ -28,9 +28,9 @@ hero:
     - theme: alt
       text: Mendelian Randomization
       link: /MR/Forward_Overview
-    - theme: alt
-      text: Sensitivity Analysis
-      link: /Sensitive/Baseline_Overview
+    # - theme: alt
+    #   text: Sensitivity Analysis
+    #   link: /Sensitive/Baseline_Overview
     # - theme: alt
     #   text: Code for this project
     #   link: https://github.com/Dapu-Li/Plasma-metabolic

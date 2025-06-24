@@ -13,7 +13,7 @@
 > Cases: **106**  
 > Controls: **212543**
 <img src="/Disease/Figures/ALL/Incidence/G6_OTHDEMYEL.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_G6_OTHDEMYEL.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_G6_OTHDEMYEL.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100712**  

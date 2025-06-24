@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/C3_URETER.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_C3_URETER.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_C3_URETER.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/C3_URETER.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/C3_URETER.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/C3_URETER.csv" label="🔍 View full results" />
 
 ---
 

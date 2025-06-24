@@ -13,18 +13,18 @@
 > Cases: **2697**  
 > Controls: **208828**
 <img src="/Disease/Figures/ALL/Incidence/I9_PHLETHROM.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_I9_PHLETHROM.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_I9_PHLETHROM.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100140**  
 > Cases: **1394**  
 > Controls: **98746**
 <img src="/Disease/Figures/Male/Incidence/I9_PHLETHROM.png"/>
-<CsvTable src="/Disease/Data/Male/Incidence/COX_I9_PHLETHROM.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Male/Incidence/COX_I9_PHLETHROM.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111385**  
 > Cases: **1303**  
 > Controls: **110082**
 <img src="/Disease/Figures/Female/Incidence/I9_PHLETHROM.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_I9_PHLETHROM.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Incidence/COX_I9_PHLETHROM.csv" label="🔍 View full results" />

@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/K11_PARALIL.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_K11_PARALIL.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_K11_PARALIL.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/K11_PARALIL.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/K11_PARALIL.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/K11_PARALIL.csv" label="🔍 View full results" />
 
 ---
 

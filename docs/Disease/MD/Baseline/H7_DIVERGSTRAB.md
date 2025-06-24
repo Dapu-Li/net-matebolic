@@ -13,7 +13,7 @@
 > Cases: **107**  
 > Controls: **205626**
 <img src="/Disease/Figures/ALL/Baseline/H7_DIVERGSTRAB.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_H7_DIVERGSTRAB.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_H7_DIVERGSTRAB.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **97926**  

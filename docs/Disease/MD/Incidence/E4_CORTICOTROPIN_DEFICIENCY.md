@@ -13,14 +13,14 @@
 > Cases: **160**  
 > Controls: **212508**
 <img src="/Disease/Figures/ALL/Incidence/E4_CORTICOTROPIN_DEFICIENCY.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_E4_CORTICOTROPIN_DEFICIENCY.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_E4_CORTICOTROPIN_DEFICIENCY.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100709**  
 > Cases: **119**  
 > Controls: **100590**
 <img src="/Disease/Figures/Male/Incidence/E4_CORTICOTROPIN_DEFICIENCY.png"/>
-<CsvTable src="/Disease/Data/Male/Incidence/COX_E4_CORTICOTROPIN_DEFICIENCY.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Male/Incidence/COX_E4_CORTICOTROPIN_DEFICIENCY.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111959**  

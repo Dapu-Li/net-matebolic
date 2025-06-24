@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/POLLENALLERG.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_POLLENALLERG.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_POLLENALLERG.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/POLLENALLERG.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/POLLENALLERG.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/Baseline/EVA/POLLENALLERG.csv" label="🔍 View full results" />
 
 ---
 
@@ -24,11 +24,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/POLLENALLERG.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_POLLENALLERG.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_POLLENALLERG.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/POLLENALLERG.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/POLLENALLERG.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/POLLENALLERG.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,11 +36,11 @@
 
 <img src="/Predict/Figures/FYears/IMP/POLLENALLERG.png" />
 
-<CsvTableIMP src="/Predict/Data/FYears/IMP/IMP_POLLENALLERG.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/FYears/IMP/IMP_POLLENALLERG.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/FYears/ROC/POLLENALLERG.png" />
 
-<CsvTableROC src="/Predict/Data/FYears/EVA/POLLENALLERG.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/FYears/EVA/POLLENALLERG.csv" label="🔍 View full results" />
 
 ---
 
@@ -48,8 +48,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/POLLENALLERG.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_POLLENALLERG.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_POLLENALLERG.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/POLLENALLERG.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/POLLENALLERG.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/POLLENALLERG.csv" label="🔍 View full results" />

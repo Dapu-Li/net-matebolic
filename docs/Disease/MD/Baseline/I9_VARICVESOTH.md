@@ -13,14 +13,14 @@
 > Cases: **132**  
 > Controls: **212618**
 <img src="/Disease/Figures/ALL/Baseline/I9_VARICVESOTH.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_I9_VARICVESOTH.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_I9_VARICVESOTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100755**  
 > Cases: **111**  
 > Controls: **100644**
 <img src="/Disease/Figures/Male/Baseline/I9_VARICVESOTH.png"/>
-<CsvTable src="/Disease/Data/Male/Baseline/LG_I9_VARICVESOTH.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Male/Baseline/LG_I9_VARICVESOTH.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111995**  

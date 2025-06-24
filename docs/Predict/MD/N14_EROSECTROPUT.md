@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/N14_EROSECTROPUT.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_N14_EROSECTROPUT.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_N14_EROSECTROPUT.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/N14_EROSECTROPUT.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/N14_EROSECTROPUT.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/Baseline/EVA/N14_EROSECTROPUT.csv" label="🔍 View full results" />
 
 ---
 

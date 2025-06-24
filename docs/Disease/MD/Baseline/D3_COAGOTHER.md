@@ -13,7 +13,7 @@
 > Cases: **224**  
 > Controls: **212520**
 <img src="/Disease/Figures/ALL/Baseline/D3_COAGOTHER.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_D3_COAGOTHER.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_D3_COAGOTHER.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100752**  
@@ -27,4 +27,4 @@
 > Cases: **144**  
 > Controls: **111848**
 <img src="/Disease/Figures/Female/Baseline/D3_COAGOTHER.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_D3_COAGOTHER.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Baseline/LG_D3_COAGOTHER.csv" label="🔍 View full results" />

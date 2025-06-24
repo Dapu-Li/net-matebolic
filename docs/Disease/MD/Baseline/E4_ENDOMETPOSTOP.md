@@ -13,7 +13,7 @@
 > Cases: **244**  
 > Controls: **166659**
 <img src="/Disease/Figures/ALL/Baseline/E4_ENDOMETPOSTOP.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_E4_ENDOMETPOSTOP.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_E4_ENDOMETPOSTOP.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **75371**  
@@ -27,4 +27,4 @@
 > Cases: **198**  
 > Controls: **91334**
 <img src="/Disease/Figures/Female/Baseline/E4_ENDOMETPOSTOP.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_E4_ENDOMETPOSTOP.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Baseline/LG_E4_ENDOMETPOSTOP.csv" label="🔍 View full results" />

@@ -13,18 +13,18 @@
 > Cases: **488**  
 > Controls: **212262**
 <img src="/Disease/Figures/ALL/Incidence/F5_DEMINOTH.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_F5_DEMINOTH.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_F5_DEMINOTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100755**  
 > Cases: **331**  
 > Controls: **100424**
 <img src="/Disease/Figures/Male/Incidence/F5_DEMINOTH.png"/>
-<CsvTable src="/Disease/Data/Male/Incidence/COX_F5_DEMINOTH.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Male/Incidence/COX_F5_DEMINOTH.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111995**  
 > Cases: **157**  
 > Controls: **111838**
 <img src="/Disease/Figures/Female/Incidence/F5_DEMINOTH.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_F5_DEMINOTH.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Incidence/COX_F5_DEMINOTH.csv" label="🔍 View full results" />

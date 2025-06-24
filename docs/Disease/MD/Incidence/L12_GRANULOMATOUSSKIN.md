@@ -13,18 +13,18 @@
 > Cases: **276**  
 > Controls: **197337**
 <img src="/Disease/Figures/ALL/Incidence/L12_GRANULOMATOUSSKIN.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_L12_GRANULOMATOUSSKIN.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_L12_GRANULOMATOUSSKIN.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **93612**  
 > Cases: **116**  
 > Controls: **93496**
 <img src="/Disease/Figures/Male/Incidence/L12_GRANULOMATOUSSKIN.png"/>
-<CsvTable src="/Disease/Data/Male/Incidence/COX_L12_GRANULOMATOUSSKIN.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Male/Incidence/COX_L12_GRANULOMATOUSSKIN.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **104001**  
 > Cases: **160**  
 > Controls: **103841**
 <img src="/Disease/Figures/Female/Incidence/L12_GRANULOMATOUSSKIN.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_L12_GRANULOMATOUSSKIN.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Incidence/COX_L12_GRANULOMATOUSSKIN.csv" label="🔍 View full results" />

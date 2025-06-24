@@ -13,7 +13,7 @@
 > Cases: **135**  
 > Controls: **208993**
 <img src="/Disease/Figures/ALL/Incidence/G6_BASDEGENOTH.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_G6_BASDEGENOTH.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_G6_BASDEGENOTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **98801**  

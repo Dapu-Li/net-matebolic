@@ -13,4 +13,4 @@
 > Cases: **988**  
 > Controls: **110681**
 <img src="/Disease/Figures/ALL/Baseline/O15_DELIV_SPONT.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_DELIV_SPONT.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_O15_DELIV_SPONT.csv" label="🔍 View full results" />

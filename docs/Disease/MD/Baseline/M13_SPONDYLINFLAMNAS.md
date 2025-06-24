@@ -13,7 +13,7 @@
 > Cases: **135**  
 > Controls: **185780**
 <img src="/Disease/Figures/ALL/Baseline/M13_SPONDYLINFLAMNAS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_M13_SPONDYLINFLAMNAS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_M13_SPONDYLINFLAMNAS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **89088**  

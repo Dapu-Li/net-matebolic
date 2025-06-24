@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/G6_STATUSEPI.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_G6_STATUSEPI.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_G6_STATUSEPI.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/G6_STATUSEPI.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/G6_STATUSEPI.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/G6_STATUSEPI.csv" label="🔍 View full results" />
 
 ---
 

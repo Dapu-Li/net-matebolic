@@ -18,4 +18,4 @@
 ## 📊 Data Table
 
 
-<CsvTableMRI src="/MR/Data/Inverse/ApoB.csv"/>
+<CsvTableMRI src="/public/MR/Data/Inverse/ApoB.csv"/>

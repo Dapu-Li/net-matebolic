@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/N14_UNSPECKIDCONTR.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/N14_UNSPECKIDCONTR.csv"/>

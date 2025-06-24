@@ -13,7 +13,7 @@
 > Cases: **155**  
 > Controls: **209691**
 <img src="/Disease/Figures/ALL/Incidence/J10_ARDS.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_J10_ARDS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_J10_ARDS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99165**  

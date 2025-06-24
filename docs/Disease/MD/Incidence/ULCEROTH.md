@@ -13,7 +13,7 @@
 > Cases: **128**  
 > Controls: **199191**
 <img src="/Disease/Figures/ALL/Incidence/ULCEROTH.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_ULCEROTH.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_ULCEROTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **95173**  

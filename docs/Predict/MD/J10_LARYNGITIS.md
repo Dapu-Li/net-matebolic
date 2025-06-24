@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/J10_LARYNGITIS.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_J10_LARYNGITIS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_J10_LARYNGITIS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/J10_LARYNGITIS.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/J10_LARYNGITIS.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/J10_LARYNGITIS.csv" label="🔍 View full results" />
 
 ---
 

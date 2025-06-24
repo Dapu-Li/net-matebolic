@@ -13,7 +13,7 @@
 > Cases: **121**  
 > Controls: **212572**
 <img src="/Disease/Figures/ALL/Incidence/PHLEBI_THROMBOP_UNSPE_SITE.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_PHLEBI_THROMBOP_UNSPE_SITE.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_PHLEBI_THROMBOP_UNSPE_SITE.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100733**  

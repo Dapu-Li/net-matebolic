@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/C3_AML_WIDE.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/C3_AML_WIDE.csv"/>

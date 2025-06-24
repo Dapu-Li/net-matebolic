@@ -9,15 +9,15 @@
 > Cases: **40896**  
 > Controls: **171855**
 <img src="/Cluster/Figures/Baseline/LG/Cluster_4.png" />
-<CsvTable src="/Cluster/Data/Baseline/LG/LG_Cluster_4.csv" label="🔍 View full results" />
+<CsvTable src="/public/Cluster/Data/Baseline/LG/LG_Cluster_4.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **56711**
 <img src="/Cluster/Figures/Baseline/Histogram/Cluster_4_ba.png" />
-<CsvTable src="/Cluster/Data/Baseline/Histogram/Cluster_4_ba.csv" label="🔍 View full results" />
+<CsvTable src="/public/Cluster/Data/Baseline/Histogram/Cluster_4_ba.csv" label="🔍 View full results" />
         
 <img src="/Cluster/Figures/Baseline/ORD/Cluster_4.png" />
-<CsvTable src="/Cluster/Data/Baseline/ORD/ORD_Cluster_4.csv" label="🔍 View full results" />
+<CsvTable src="/public/Cluster/Data/Baseline/ORD/ORD_Cluster_4.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - N14_RENFAILNAS (14) - Unspecified kidney failure

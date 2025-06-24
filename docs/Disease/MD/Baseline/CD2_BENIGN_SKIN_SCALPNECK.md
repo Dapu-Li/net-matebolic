@@ -13,7 +13,7 @@
 > Cases: **122**  
 > Controls: **212629**
 <img src="/Disease/Figures/ALL/Baseline/CD2_BENIGN_SKIN_SCALPNECK.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_SKIN_SCALPNECK.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_CD2_BENIGN_SKIN_SCALPNECK.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100756**  

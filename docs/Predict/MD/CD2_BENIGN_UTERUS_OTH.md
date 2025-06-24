@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/CD2_BENIGN_UTERUS_OTH.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_CD2_BENIGN_UTERUS_OTH.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_CD2_BENIGN_UTERUS_OTH.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/CD2_BENIGN_UTERUS_OTH.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/CD2_BENIGN_UTERUS_OTH.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/Baseline/EVA/CD2_BENIGN_UTERUS_OTH.csv" label="🔍 View full results" />
 
 ---
 

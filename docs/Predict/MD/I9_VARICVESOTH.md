@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/I9_VARICVESOTH.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_I9_VARICVESOTH.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_I9_VARICVESOTH.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/I9_VARICVESOTH.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/I9_VARICVESOTH.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/Baseline/EVA/I9_VARICVESOTH.csv" label="🔍 View full results" />
 
 ---
 
@@ -24,11 +24,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/I9_VARICVESOTH.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_I9_VARICVESOTH.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_I9_VARICVESOTH.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/I9_VARICVESOTH.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/I9_VARICVESOTH.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/I9_VARICVESOTH.csv" label="🔍 View full results" />
 
 ---
 
@@ -42,8 +42,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/I9_VARICVESOTH.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_I9_VARICVESOTH.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_I9_VARICVESOTH.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/I9_VARICVESOTH.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/I9_VARICVESOTH.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/I9_VARICVESOTH.csv" label="🔍 View full results" />

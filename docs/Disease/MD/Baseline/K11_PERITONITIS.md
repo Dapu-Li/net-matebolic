@@ -13,7 +13,7 @@
 > Cases: **168**  
 > Controls: **208421**
 <img src="/Disease/Figures/ALL/Baseline/K11_PERITONITIS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_K11_PERITONITIS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_K11_PERITONITIS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **99067**  

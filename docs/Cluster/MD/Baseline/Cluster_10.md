@@ -9,15 +9,15 @@
 > Cases: **1003**  
 > Controls: **211748**
 <img src="/Cluster/Figures/Baseline/LG/Cluster_10.png" />
-<CsvTable src="/Cluster/Data/Baseline/LG/LG_Cluster_10.csv" label="🔍 View full results" />
+<CsvTable src="/public/Cluster/Data/Baseline/LG/LG_Cluster_10.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **5040**
 <img src="/Cluster/Figures/Baseline/Histogram/Cluster_10_ba.png" />
-<CsvTable src="/Cluster/Data/Baseline/Histogram/Cluster_10_ba.csv" label="🔍 View full results" />
+<CsvTable src="/public/Cluster/Data/Baseline/Histogram/Cluster_10_ba.csv" label="🔍 View full results" />
         
 <img src="/Cluster/Figures/Baseline/ORD/Cluster_10.png" />
-<CsvTable src="/Cluster/Data/Baseline/ORD/ORD_Cluster_10.csv" label="🔍 View full results" />
+<CsvTable src="/public/Cluster/Data/Baseline/ORD/ORD_Cluster_10.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - M13_SACROCOGG (13) - Sacrococcygeal disorders, not elsewhere classified

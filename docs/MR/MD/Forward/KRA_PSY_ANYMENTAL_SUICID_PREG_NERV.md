@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/KRA_PSY_ANYMENTAL_SUICID_PREG_NERV.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/KRA_PSY_ANYMENTAL_SUICID_PREG_NERV.csv"/>

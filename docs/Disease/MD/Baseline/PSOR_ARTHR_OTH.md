@@ -13,7 +13,7 @@
 > Cases: **146**  
 > Controls: **212605**
 <img src="/Disease/Figures/ALL/Baseline/PSOR_ARTHR_OTH.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_PSOR_ARTHR_OTH.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_PSOR_ARTHR_OTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100756**  

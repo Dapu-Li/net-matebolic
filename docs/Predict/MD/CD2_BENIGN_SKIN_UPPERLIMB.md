@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/CD2_BENIGN_SKIN_UPPERLIMB.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_CD2_BENIGN_SKIN_UPPERLIMB.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_CD2_BENIGN_SKIN_UPPERLIMB.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/CD2_BENIGN_SKIN_UPPERLIMB.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/CD2_BENIGN_SKIN_UPPERLIMB.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/Baseline/EVA/CD2_BENIGN_SKIN_UPPERLIMB.csv" label="🔍 View full results" />
 
 ---
 
@@ -24,11 +24,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/CD2_BENIGN_SKIN_UPPERLIMB.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_CD2_BENIGN_SKIN_UPPERLIMB.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_CD2_BENIGN_SKIN_UPPERLIMB.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/CD2_BENIGN_SKIN_UPPERLIMB.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/CD2_BENIGN_SKIN_UPPERLIMB.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/CD2_BENIGN_SKIN_UPPERLIMB.csv" label="🔍 View full results" />
 
 ---
 
@@ -42,8 +42,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/CD2_BENIGN_SKIN_UPPERLIMB.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_CD2_BENIGN_SKIN_UPPERLIMB.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_CD2_BENIGN_SKIN_UPPERLIMB.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/CD2_BENIGN_SKIN_UPPERLIMB.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/CD2_BENIGN_SKIN_UPPERLIMB.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/CD2_BENIGN_SKIN_UPPERLIMB.csv" label="🔍 View full results" />

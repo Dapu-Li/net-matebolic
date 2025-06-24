@@ -9,15 +9,15 @@
 > Cases: **2355**  
 > Controls: **210396**
 <img src="/Cluster/Figures/Incidence/LG/Cluster_1.png" />
-<CsvTable src="/Cluster/Data/Incidence/LG/LG_Cluster_1.csv" label="🔍 View full results" />
+<CsvTable src="/public/Cluster/Data/Incidence/LG/LG_Cluster_1.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
 > Sample size: **4331**
 <img src="/Cluster/Figures/Incidence/Histogram/Cluster_1_in.png" />
-<CsvTable src="/Cluster/Data/Incidence/Histogram/Cluster_1_in.csv" label="🔍 View full results" />
+<CsvTable src="/public/Cluster/Data/Incidence/Histogram/Cluster_1_in.csv" label="🔍 View full results" />
 
 <img src="/Cluster/Figures/Incidence/ORD/Cluster_1.png" />
-<CsvTable src="/Cluster/Data/Incidence/ORD/ORD_Cluster_1.csv" label="🔍 View full results" />
+<CsvTable src="/public/Cluster/Data/Incidence/ORD/ORD_Cluster_1.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
 - M13_NECROVASC (13) - Other necrotizing vasculopathies

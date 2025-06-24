@@ -13,7 +13,7 @@
 > Cases: **144**  
 > Controls: **212598**
 <img src="/Disease/Figures/ALL/Incidence/E4_DM2KETO.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_E4_DM2KETO.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_E4_DM2KETO.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100750**  

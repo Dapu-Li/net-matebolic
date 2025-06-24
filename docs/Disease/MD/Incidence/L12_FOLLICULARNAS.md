@@ -13,7 +13,7 @@
 > Cases: **138**  
 > Controls: **205437**
 <img src="/Disease/Figures/ALL/Incidence/L12_FOLLICULARNAS.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_L12_FOLLICULARNAS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_L12_FOLLICULARNAS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **97291**  

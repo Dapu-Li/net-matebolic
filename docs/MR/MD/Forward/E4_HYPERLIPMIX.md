@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/E4_HYPERLIPMIX.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/E4_HYPERLIPMIX.csv"/>

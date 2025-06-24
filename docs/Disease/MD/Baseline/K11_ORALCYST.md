@@ -13,7 +13,7 @@
 > Cases: **124**  
 > Controls: **212627**
 <img src="/Disease/Figures/ALL/Baseline/K11_ORALCYST.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_K11_ORALCYST.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_K11_ORALCYST.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100756**  

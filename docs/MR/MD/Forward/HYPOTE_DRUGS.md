@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/HYPOTE_DRUGS.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/HYPOTE_DRUGS.csv"/>

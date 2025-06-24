@@ -13,7 +13,7 @@
 > Cases: **127**  
 > Controls: **212372**
 <img src="/Disease/Figures/ALL/Incidence/F5_SCHOLA.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_F5_SCHOLA.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_F5_SCHOLA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100594**  

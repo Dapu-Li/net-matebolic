@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/M13_FLATFOOT.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/M13_FLATFOOT.csv"/>

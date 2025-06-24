@@ -13,7 +13,7 @@
 > Cases: **159**  
 > Controls: **148317**
 <img src="/Disease/Figures/ALL/Incidence/M13_CONTRACTUREJOINT.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_M13_CONTRACTUREJOINT.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_M13_CONTRACTUREJOINT.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **72836**  

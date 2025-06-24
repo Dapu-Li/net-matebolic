@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/I9_CARDMYOOTH.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_I9_CARDMYOOTH.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_I9_CARDMYOOTH.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/I9_CARDMYOOTH.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/I9_CARDMYOOTH.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/I9_CARDMYOOTH.csv" label="🔍 View full results" />
 
 ---
 
@@ -30,11 +30,11 @@
 
 <img src="/Predict/Figures/FYears/IMP/I9_CARDMYOOTH.png" />
 
-<CsvTableIMP src="/Predict/Data/FYears/IMP/IMP_I9_CARDMYOOTH.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/FYears/IMP/IMP_I9_CARDMYOOTH.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/FYears/ROC/I9_CARDMYOOTH.png" />
 
-<CsvTableROC src="/Predict/Data/FYears/EVA/I9_CARDMYOOTH.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/FYears/EVA/I9_CARDMYOOTH.csv" label="🔍 View full results" />
 
 ---
 
@@ -42,8 +42,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/I9_CARDMYOOTH.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_I9_CARDMYOOTH.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_I9_CARDMYOOTH.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/I9_CARDMYOOTH.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/I9_CARDMYOOTH.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/I9_CARDMYOOTH.csv" label="🔍 View full results" />

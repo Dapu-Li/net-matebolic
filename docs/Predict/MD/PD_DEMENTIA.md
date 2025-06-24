@@ -18,11 +18,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/PD_DEMENTIA.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_PD_DEMENTIA.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_PD_DEMENTIA.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/PD_DEMENTIA.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/PD_DEMENTIA.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/PD_DEMENTIA.csv" label="🔍 View full results" />
 
 ---
 
@@ -36,8 +36,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/PD_DEMENTIA.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_PD_DEMENTIA.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_PD_DEMENTIA.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/PD_DEMENTIA.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/PD_DEMENTIA.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/PD_DEMENTIA.csv" label="🔍 View full results" />

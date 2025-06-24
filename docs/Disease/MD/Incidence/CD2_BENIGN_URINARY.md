@@ -13,7 +13,7 @@
 > Cases: **142**  
 > Controls: **212574**
 <img src="/Disease/Figures/ALL/Incidence/CD2_BENIGN_URINARY.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_CD2_BENIGN_URINARY.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_CD2_BENIGN_URINARY.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100735**  

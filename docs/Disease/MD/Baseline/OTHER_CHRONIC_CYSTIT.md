@@ -13,7 +13,7 @@
 > Cases: **136**  
 > Controls: **212614**
 <img src="/Disease/Figures/ALL/Baseline/OTHER_CHRONIC_CYSTIT.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_OTHER_CHRONIC_CYSTIT.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_OTHER_CHRONIC_CYSTIT.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100755**  

@@ -13,7 +13,7 @@
 > Cases: **156**  
 > Controls: **212595**
 <img src="/Disease/Figures/ALL/Baseline/F5_STRESSOTH.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_F5_STRESSOTH.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_F5_STRESSOTH.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100756**  

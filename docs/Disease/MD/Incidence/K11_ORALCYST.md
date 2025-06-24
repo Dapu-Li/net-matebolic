@@ -13,7 +13,7 @@
 > Cases: **178**  
 > Controls: **212449**
 <img src="/Disease/Figures/ALL/Incidence/K11_ORALCYST.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_K11_ORALCYST.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_K11_ORALCYST.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100679**  

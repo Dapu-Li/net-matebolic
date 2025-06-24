@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/G6_HEADACHE.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/G6_HEADACHE.csv"/>

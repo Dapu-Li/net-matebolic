@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/AB1_ASPERGILLOSIS.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/AB1_ASPERGILLOSIS.csv"/>

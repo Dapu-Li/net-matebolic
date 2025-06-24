@@ -13,18 +13,18 @@
 > Cases: **217**  
 > Controls: **211653**
 <img src="/Disease/Figures/ALL/Baseline/H7_KERATITIS.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_H7_KERATITIS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_H7_KERATITIS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100336**  
 > Cases: **102**  
 > Controls: **100234**
 <img src="/Disease/Figures/Male/Baseline/H7_KERATITIS.png"/>
-<CsvTable src="/Disease/Data/Male/Baseline/LG_H7_KERATITIS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Male/Baseline/LG_H7_KERATITIS.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111534**  
 > Cases: **115**  
 > Controls: **111419**
 <img src="/Disease/Figures/Female/Baseline/H7_KERATITIS.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_H7_KERATITIS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Baseline/LG_H7_KERATITIS.csv" label="🔍 View full results" />

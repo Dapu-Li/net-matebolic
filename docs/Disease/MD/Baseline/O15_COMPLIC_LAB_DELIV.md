@@ -13,4 +13,4 @@
 > Cases: **4393**  
 > Controls: **107602**
 <img src="/Disease/Figures/ALL/Baseline/O15_COMPLIC_LAB_DELIV.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_O15_COMPLIC_LAB_DELIV.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_O15_COMPLIC_LAB_DELIV.csv" label="🔍 View full results" />

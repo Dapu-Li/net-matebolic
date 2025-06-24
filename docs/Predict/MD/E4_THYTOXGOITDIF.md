@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/E4_THYTOXGOITDIF.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_E4_THYTOXGOITDIF.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_E4_THYTOXGOITDIF.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/E4_THYTOXGOITDIF.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/E4_THYTOXGOITDIF.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/Baseline/EVA/E4_THYTOXGOITDIF.csv" label="🔍 View full results" />
 
 ---
 
@@ -24,11 +24,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/E4_THYTOXGOITDIF.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_E4_THYTOXGOITDIF.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_E4_THYTOXGOITDIF.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/E4_THYTOXGOITDIF.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/E4_THYTOXGOITDIF.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/E4_THYTOXGOITDIF.csv" label="🔍 View full results" />
 
 ---
 
@@ -42,8 +42,8 @@
 
 <img src="/Predict/Figures/OverFYears/IMP/E4_THYTOXGOITDIF.png" />
 
-<CsvTableIMP src="/Predict/Data/OverFYears/IMP/IMP_E4_THYTOXGOITDIF.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/OverFYears/IMP/IMP_E4_THYTOXGOITDIF.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/OverFYears/ROC/E4_THYTOXGOITDIF.png" />
 
-<CsvTableROC src="/Predict/Data/OverFYears/EVA/E4_THYTOXGOITDIF.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/OverFYears/EVA/E4_THYTOXGOITDIF.csv" label="🔍 View full results" />

@@ -13,7 +13,7 @@
 > Cases: **194**  
 > Controls: **182990**
 <img src="/Disease/Figures/ALL/Incidence/M13_METATARSALGIA.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_M13_METATARSALGIA.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_M13_METATARSALGIA.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **87322**  
@@ -28,4 +28,4 @@
 > Cases: **159**  
 > Controls: **95703**
 <img src="/Disease/Figures/Female/Incidence/M13_METATARSALGIA.png"/>
-<CsvTable src="/Disease/Data/Female/Incidence/COX_M13_METATARSALGIA.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Incidence/COX_M13_METATARSALGIA.csv" label="🔍 View full results" />

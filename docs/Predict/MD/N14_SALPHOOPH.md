@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/N14_SALPHOOPH.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_N14_SALPHOOPH.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_N14_SALPHOOPH.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/N14_SALPHOOPH.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/N14_SALPHOOPH.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/Baseline/EVA/N14_SALPHOOPH.csv" label="🔍 View full results" />
 
 ---
 
@@ -24,11 +24,11 @@
 
 <img src="/Predict/Figures/ALL/IMP/N14_SALPHOOPH.png" />
 
-<CsvTableIMP src="/Predict/Data/ALL/IMP/IMP_N14_SALPHOOPH.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/ALL/IMP/IMP_N14_SALPHOOPH.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/ALL/ROC/N14_SALPHOOPH.png" />
 
-<CsvTableROC src="/Predict/Data/ALL/EVA/N14_SALPHOOPH.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/ALL/EVA/N14_SALPHOOPH.csv" label="🔍 View full results" />
 
 ---
 

@@ -13,7 +13,7 @@
 > Cases: **132**  
 > Controls: **212586**
 <img src="/Disease/Figures/ALL/Incidence/F5_OCD.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_F5_OCD.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_F5_OCD.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100740**  

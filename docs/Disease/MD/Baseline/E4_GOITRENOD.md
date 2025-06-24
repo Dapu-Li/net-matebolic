@@ -13,7 +13,7 @@
 > Cases: **111**  
 > Controls: **197168**
 <img src="/Disease/Figures/ALL/Baseline/E4_GOITRENOD.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_E4_GOITRENOD.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_E4_GOITRENOD.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **97447**  

@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/C3_TESTIS.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_C3_TESTIS.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_C3_TESTIS.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/C3_TESTIS.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/C3_TESTIS.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/Baseline/EVA/C3_TESTIS.csv" label="🔍 View full results" />
 
 ---
 

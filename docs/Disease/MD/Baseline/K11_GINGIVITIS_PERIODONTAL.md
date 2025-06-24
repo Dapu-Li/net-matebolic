@@ -13,7 +13,7 @@
 > Cases: **246**  
 > Controls: **212505**
 <img src="/Disease/Figures/ALL/Baseline/K11_GINGIVITIS_PERIODONTAL.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_K11_GINGIVITIS_PERIODONTAL.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_K11_GINGIVITIS_PERIODONTAL.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100756**  
@@ -27,4 +27,4 @@
 > Cases: **150**  
 > Controls: **111845**
 <img src="/Disease/Figures/Female/Baseline/K11_GINGIVITIS_PERIODONTAL.png"/>
-<CsvTable src="/Disease/Data/Female/Baseline/LG_K11_GINGIVITIS_PERIODONTAL.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Female/Baseline/LG_K11_GINGIVITIS_PERIODONTAL.csv" label="🔍 View full results" />

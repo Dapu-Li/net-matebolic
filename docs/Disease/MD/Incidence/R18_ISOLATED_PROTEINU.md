@@ -13,14 +13,14 @@
 > Cases: **170**  
 > Controls: **212053**
 <img src="/Disease/Figures/ALL/Incidence/R18_ISOLATED_PROTEINU.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_R18_ISOLATED_PROTEINU.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_R18_ISOLATED_PROTEINU.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100504**  
 > Cases: **106**  
 > Controls: **100398**
 <img src="/Disease/Figures/Male/Incidence/R18_ISOLATED_PROTEINU.png"/>
-<CsvTable src="/Disease/Data/Male/Incidence/COX_R18_ISOLATED_PROTEINU.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/Male/Incidence/COX_R18_ISOLATED_PROTEINU.csv" label="🔍 View full results" />
 
 ## 👩 In Females  
 > Sample size: **111719**  

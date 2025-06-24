@@ -16,4 +16,4 @@
 
 ## 📊 Data Table
 
-<CsvTableMRF src="/MR/Data/Forward/HERING_BILATERAL.csv"/>
+<CsvTableMRF src="/public/MR/Data/Forward/HERING_BILATERAL.csv"/>

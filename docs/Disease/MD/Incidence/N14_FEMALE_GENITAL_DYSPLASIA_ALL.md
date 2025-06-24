@@ -13,4 +13,4 @@
 > Cases: **252**  
 > Controls: **110734**
 <img src="/Disease/Figures/ALL/Incidence/N14_FEMALE_GENITAL_DYSPLASIA_ALL.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_N14_FEMALE_GENITAL_DYSPLASIA_ALL.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_N14_FEMALE_GENITAL_DYSPLASIA_ALL.csv" label="🔍 View full results" />

@@ -12,11 +12,11 @@
 
 <img src="/Predict/Figures/Baseline/IMP/M13_DEFORMACQ.png" />
 
-<CsvTableIMP src="/Predict/Data/Baseline/IMP/IMP_M13_DEFORMACQ.csv" label="🔍 View full results" />
+<CsvTableIMP src="/public/Predict/Data/Baseline/IMP/IMP_M13_DEFORMACQ.csv" label="🔍 View full results" />
 
 <img src="/Predict/Figures/Baseline/ROC/M13_DEFORMACQ.png" />
 
-<CsvTableROC src="/Predict/Data/Baseline/EVA/M13_DEFORMACQ.csv" label="🔍 View full results" />
+<CsvTableROC src="/public/Predict/Data/Baseline/EVA/M13_DEFORMACQ.csv" label="🔍 View full results" />
 
 ---
 

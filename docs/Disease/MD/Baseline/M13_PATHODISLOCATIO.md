@@ -13,7 +13,7 @@
 > Cases: **107**  
 > Controls: **148521**
 <img src="/Disease/Figures/ALL/Baseline/M13_PATHODISLOCATIO.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_M13_PATHODISLOCATIO.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_M13_PATHODISLOCATIO.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **72910**  

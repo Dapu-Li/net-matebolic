@@ -13,7 +13,7 @@
 > Cases: **100**  
 > Controls: **212649**
 <img src="/Disease/Figures/ALL/Baseline/G6_OTHDEMYEL.png"/>
-<CsvTable src="/Disease/Data/ALL/Baseline/LG_G6_OTHDEMYEL.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Baseline/LG_G6_OTHDEMYEL.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100754**  

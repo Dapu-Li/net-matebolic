@@ -13,7 +13,7 @@
 > Cases: **133**  
 > Controls: **212514**
 <img src="/Disease/Figures/ALL/Incidence/AB1_VIRAL_CNS.png"/>
-<CsvTable src="/Disease/Data/ALL/Incidence/COX_AB1_VIRAL_CNS.csv" label="🔍 View full results" />
+<CsvTable src="/public/Disease/Data/ALL/Incidence/COX_AB1_VIRAL_CNS.csv" label="🔍 View full results" />
 
 ## 👨 In Males  
 > Sample size: **100701**  
