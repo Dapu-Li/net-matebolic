@@ -1,11 +1,11 @@
 Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
+S-HDL-TG%,1.07 [1.00-1.15],1.000,,Triglycerides to Total-Lipids in Small HDL percentage
+M-LDL-TG%,1.06 [1.00-1.13],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
 M-LDL-PL%,1.05 [0.99-1.12],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
-ApoB/ApoA1,1.04 [0.97-1.10],1.000,,Apolipoprotein B to Apolipoprotein A1 ratio
-Omega-6/Omega-3,1.02 [0.96-1.09],1.000,,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
-Val,1.01 [0.95-1.08],1.000,,Valine
-Total-BCAA,1.01 [0.95-1.08],1.000,,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+M-VLDL-TG%,1.05 [0.98-1.12],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
+S-HDL-FC%,1.00 [0.94-1.07],1.000,,Free Cholesterol to Total-Lipids in Small HDL percentage
+M-VLDL-CE%,0.98 [0.92-1.03],1.000,,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
 M-LDL-FC%,0.98 [0.92-1.04],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
-Remnant-C,0.95 [0.90-1.01],1.000,,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
-Non-HDL-C,0.95 [0.89-1.01],1.000,,Total-Cholesterol Minus HDL-C
-LDL-C,0.95 [0.89-1.01],1.000,,LDL Cholesterol
-Total-C,0.93 [0.87-0.98],1.000,,Total-Cholesterol
+M-VLDL-C%,0.97 [0.91-1.03],1.000,,Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-FC%,0.96 [0.90-1.02],1.000,,Free Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-PL%,0.95 [0.90-1.01],1.000,,Phospholipids to Total-Lipids in Medium VLDL percentage

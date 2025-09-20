@@ -1,11 +1,11 @@
 Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
-Citrate,1.41 [1.31-1.52],2.659e-15,***,Citrate
+Citrate,1.41 [1.31-1.52],2.654e-15,***,Citrate
 Gln,1.25 [1.15-1.35],0.022,*,Glutamine
 XS-VLDL-PL%,1.24 [1.15-1.35],0.031,*,Phospholipids to Total-Lipids in Very Small VLDL percentage
 M-LDL-PL%,1.03 [0.95-1.11],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
-L-VLDL-PL%,1.02 [0.95-1.11],1.000,,Phospholipids to Total-Lipids in Large VLDL percentage
+S-HDL-CE%,1.00 [0.92-1.08],1.000,,Cholesteryl Esters to Total-Lipids in Small HDL percentage
 M-LDL-FC%,0.97 [0.89-1.05],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
-Remnant-C,0.89 [0.82-0.96],1.000,,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
-LDL-C,0.89 [0.82-0.96],1.000,,LDL Cholesterol
-HDL-C,0.89 [0.81-0.97],1.000,,HDL Cholesterol
-Non-HDL-C,0.89 [0.82-0.96],1.000,,Total-Cholesterol Minus HDL-C
+M-VLDL-CE%,0.96 [0.89-1.05],1.000,,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
+M-VLDL-C%,0.96 [0.88-1.04],1.000,,Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-FC%,0.95 [0.88-1.03],1.000,,Free Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-PL%,0.94 [0.87-1.02],1.000,,Phospholipids to Total-Lipids in Medium VLDL percentage

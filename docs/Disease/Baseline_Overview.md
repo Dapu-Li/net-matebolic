@@ -1,7 +1,7 @@
 # Baseline Disease Analysis
 
 **Baseline diseases** refer to conditions that were diagnosed at the time of baseline data collection.  
-To explore the associations between circulating metabolites (including their ratios) and **827 prevalent diseases**, we performed **logistic regression analyses**. These Diseases were devided into **15 Chapters** based on the **ICD-10** classification system, with a focus on the **first 3 digits** of the ICD codes.
+To explore the associations between circulating metabolites (including their ratios) and **826 prevalent diseases**, we performed **logistic regression analyses**. These Diseases were devided into **15 Chapters** based on the **ICD-10** classification system, with a focus on the **first 3 digits** of the ICD codes.
 
 ## Covariate Adjustments
 
@@ -32,7 +32,7 @@ For **sex-specific diseases**, covariate adjustment was modified by:
 
 - Logistic regression models were fitted using the `statsmodels` package in **Python**.
 - Multiple testing correction was applied using the **Bonferroni method**, with a correction factor of:  
-  `827 diseases × 251 metabolic traits`.
+  `826 diseases × 251 metabolic traits`.
 - The significance threshold was set at **p < 0.05** after correction.
 
 ## Code for Baseline Disease Analysis

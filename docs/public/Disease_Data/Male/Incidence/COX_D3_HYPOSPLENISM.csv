@@ -1,11 +1,11 @@
 Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
 Lactate,1.59 [1.35-1.87],0.007,**,Lactate
-Omega-6,1.07 [0.91-1.25],1.000,,Omega-6 Fatty Acids
-SFA,1.06 [0.91-1.23],1.000,,Saturated Fatty Acids
-PUFA,1.04 [0.89-1.22],1.000,,Polyunsaturated Fatty Acids
+M-LDL-TG%,1.22 [1.05-1.42],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
 M-LDL-PL%,1.04 [0.88-1.22],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
-Remnant-C,1.00 [0.85-1.17],1.000,,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
-Non-HDL-C,0.98 [0.84-1.14],1.000,,Total-Cholesterol Minus HDL-C
+M-VLDL-TG%,1.03 [0.87-1.23],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
+M-VLDL-C%,1.00 [0.86-1.17],1.000,,Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-PL%,1.00 [0.85-1.17],1.000,,Phospholipids to Total-Lipids in Medium VLDL percentage
+M-VLDL-FC%,0.98 [0.84-1.15],1.000,,Free Cholesterol to Total-Lipids in Medium VLDL percentage
 M-LDL-FC%,0.97 [0.84-1.13],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
-LDL-CE,0.96 [0.82-1.12],1.000,,Cholesteryl Esters in LDL
-LDL-C,0.96 [0.82-1.12],1.000,,LDL Cholesterol
+S-HDL-C%,0.85 [0.73-0.99],1.000,,Cholesterol to Total-Lipids in Small HDL percentage
+S-HDL-CE%,0.82 [0.71-0.96],1.000,,Cholesteryl Esters to Total-Lipids in Small HDL percentage

@@ -1,7 +1,7 @@
 # Incidence Disease Analysis
 
 **Incident diseases** refer to conditions that were newly diagnosed during the follow-up period, excluding individuals with a diagnosis at baseline.  
-To investigate the associations between circulating metabolites (including their ratios) and the **onset of 1212 diseases**, we conducted **Cox regression analyses**. These diseases were categorized into **15 Chapters** based on the **ICD-10** classification system, using the **first 3 digits** of the ICD codes. Given that the UK Biobank cohort comprises individuals aged 40 and above, the 15th chapter pertaining to pregnancy-related diseases includes only two conditions.
+To investigate the associations between circulating metabolites (including their ratios) and the **onset of 1210 diseases**, we conducted **Cox regression analyses**. These diseases were categorized into **15 Chapters** based on the **ICD-10** classification system, using the **first 3 digits** of the ICD codes. Given that the UK Biobank cohort comprises individuals aged 40 and above, the 15th chapter pertaining to pregnancy-related diseases includes only two conditions.
 
 ## Covariate Adjustments
 
@@ -34,7 +34,7 @@ For **sex-specific diseases**, covariate adjustment was tailored by:
 - Only participants free of the target disease at baseline were included in each analysis.
 - Follow-up time was accounted for by **time since baseline**.
 - Multiple testing correction was applied using the **Bonferroni method**, with a correction factor of:  
-  `1212 diseases × 251 metabolic traits`.
+  `1210 diseases × 251 metabolic traits`.
 - The significance threshold was set at **p < 0.05** after correction.
 
 ## Code for Incidence Disease Analysis

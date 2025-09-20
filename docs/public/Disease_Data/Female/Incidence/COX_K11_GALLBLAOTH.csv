@@ -1,9 +1,9 @@
 Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
-Leu,1.08 [1.01-1.15],1.000,,Leucine
-Ile,1.06 [1.00-1.14],1.000,,Isoleucine
-Total-BCAA,1.06 [0.99-1.14],1.000,,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
-Val,1.05 [0.98-1.12],1.000,,Valine
+S-HDL-TG%,1.17 [1.10-1.26],1.000,,Triglycerides to Total-Lipids in Small HDL percentage
+M-VLDL-TG%,1.09 [1.02-1.17],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
+M-LDL-TG%,1.09 [1.01-1.16],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
 M-LDL-PL%,1.04 [0.97-1.11],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+S-LDL-CE%,1.01 [0.95-1.08],1.000,,Cholesteryl Esters to Total-Lipids in Small LDL percentage
 L-HDL-L,0.81 [0.75-0.88],0.047,*,Total-Lipids in Large HDL
 L-HDL-C,0.81 [0.75-0.88],0.032,*,Cholesterol in Large HDL
 HDL-C,0.81 [0.75-0.87],0.013,*,HDL Cholesterol

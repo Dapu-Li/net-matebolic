@@ -1,7 +1,7 @@
 Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
-L-HDL-PL,1.19 [1.13-1.26],7.286e-05,***,Phospholipids in Large HDL
+L-HDL-PL,1.19 [1.13-1.26],7.277e-05,***,Phospholipids in Large HDL
 L-HDL-P,1.18 [1.11-1.25],0.004,**,Concentration of Large HDL Particles
-L-HDL-L,1.18 [1.12-1.25],8.010e-04,***,Total-Lipids in Large HDL
+L-HDL-L,1.18 [1.12-1.25],8.000e-04,***,Total-Lipids in Large HDL
 L-HDL-FC,1.17 [1.11-1.24],0.009,**,Free Cholesterol in Large HDL
 HDL-size,1.17 [1.11-1.24],0.002,**,Average Diameter for HDL Particles
 L-HDL-C,1.17 [1.10-1.23],0.019,*,Cholesterol in Large HDL
@@ -19,8 +19,8 @@ HDL-CE,1.15 [1.09-1.21],0.041,*,Cholesteryl Esters in HDL
 M-HDL-L,1.14 [1.09-1.20],0.004,**,Total-Lipids in Medium HDL
 ApoA1,1.14 [1.08-1.19],0.043,*,Apolipoprotein A1
 S-HDL-PL%,1.13 [1.08-1.18],0.042,*,Phospholipids to Total-Lipids in Small HDL percentage
-Ala,0.99 [0.95-1.04],1.000,,Alanine
-Gln,0.98 [0.94-1.03],1.000,,Glutamine
 M-LDL-FC%,0.98 [0.94-1.03],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
+M-VLDL-CE%,0.98 [0.94-1.03],1.000,,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
+M-VLDL-PL%,0.96 [0.92-1.00],1.000,,Phospholipids to Total-Lipids in Medium VLDL percentage
 XL-HDL-FC%,0.88 [0.84-0.92],0.047,*,Free Cholesterol to Total-Lipids in Very Large HDL percentage
 ApoB/ApoA1,0.88 [0.84-0.92],0.002,**,Apolipoprotein B to Apolipoprotein A1 ratio

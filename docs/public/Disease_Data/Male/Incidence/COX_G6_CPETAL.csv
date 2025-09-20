@@ -1,8 +1,8 @@
 Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
-L-LDL-TG%,1.13 [1.07-1.19],1.000,,Triglycerides to Total-Lipids in Large LDL percentage
-Gly,1.05 [0.97-1.14],1.000,,Glycine
-M-HDL-PL%,1.03 [0.98-1.10],1.000,,Phospholipids to Total-Lipids in Medium HDL percentage
-L-VLDL-TG%,1.02 [0.96-1.09],1.000,,Triglycerides to Total-Lipids in Large VLDL percentage
+M-LDL-TG%,1.13 [1.07-1.19],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+M-LDL-PL%,1.06 [1.00-1.12],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+M-VLDL-TG%,1.05 [0.99-1.12],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
+S-HDL-FC%,1.01 [0.95-1.07],1.000,,Free Cholesterol to Total-Lipids in Small HDL percentage
 M-LDL-FC%,1.00 [0.95-1.06],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
 M-LDL-L,0.86 [0.81-0.91],0.045,*,Total-Lipids in Medium LDL
 PUFA,0.86 [0.81-0.91],0.038,*,Polyunsaturated Fatty Acids
@@ -11,4 +11,4 @@ S-LDL-C,0.85 [0.81-0.91],0.035,*,Cholesterol in Small LDL
 M-LDL-C,0.85 [0.81-0.90],0.023,*,Cholesterol in Medium LDL
 S-LDL-CE,0.85 [0.81-0.91],0.032,*,Cholesteryl Esters in Small LDL
 M-LDL-CE,0.85 [0.81-0.90],0.024,*,Cholesteryl Esters in Medium LDL
-LA,0.84 [0.80-0.89],3.884e-04,***,Linoleic Acid
+LA,0.84 [0.80-0.89],3.878e-04,***,Linoleic Acid

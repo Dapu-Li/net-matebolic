@@ -1,11 +1,11 @@
 Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
-GlycA,1.43 [1.28-1.61],3.723e-04,***,Glycoprotein Acetyls
+GlycA,1.43 [1.28-1.61],3.719e-04,***,Glycoprotein Acetyls
 L-HDL-TG,1.30 [1.17-1.44],0.260,,Triglycerides in Large HDL
-Total-FA,1.19 [1.06-1.34],1.000,,Total-Fatty Acids
-VLDL-C,1.10 [0.98-1.24],1.000,,VLDL Cholesterol
-Total-C,1.07 [0.95-1.20],1.000,,Total-Cholesterol
-M-LDL-FC%,0.88 [0.79-0.98],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
-S-HDL-CE%,0.78 [0.70-0.86],0.785,,Cholesteryl Esters to Total-Lipids in Small HDL percentage
-Creatinine,0.75 [0.66-0.85],0.974,,Creatinine
+S-HDL-PL%,1.30 [1.15-1.46],1.000,,Phospholipids to Total-Lipids in Small HDL percentage
+M-LDL-TG%,1.22 [1.09-1.36],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+M-VLDL-PL%,1.02 [0.91-1.15],1.000,,Phospholipids to Total-Lipids in Medium VLDL percentage
+M-VLDL-CE%,0.95 [0.85-1.06],1.000,,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
+S-HDL-CE%,0.78 [0.70-0.86],0.784,,Cholesteryl Esters to Total-Lipids in Small HDL percentage
+Creatinine,0.75 [0.66-0.85],0.973,,Creatinine
 XL-HDL-C%,0.74 [0.65-0.84],0.418,,Cholesterol to Total-Lipids in Very Large HDL percentage
-Leu,0.74 [0.65-0.84],0.780,,Leucine
+Leu,0.74 [0.65-0.84],0.779,,Leucine

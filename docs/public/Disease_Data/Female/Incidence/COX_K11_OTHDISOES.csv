@@ -1,9 +1,9 @@
 Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
-MUFA%,1.16 [1.11-1.22],4.042e-05,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+MUFA%,1.16 [1.11-1.22],4.036e-05,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
 GlycA,1.14 [1.09-1.19],0.004,**,Glycoprotein Acetyls
 L-HDL-PL%,1.13 [1.08-1.19],0.071,,Phospholipids to Total-Lipids in Large HDL percentage
 M-HDL-PL%,1.13 [1.08-1.18],0.032,*,Phospholipids to Total-Lipids in Medium HDL percentage
-IDL-TG%,1.12 [1.07-1.16],0.229,,Triglycerides to Total-Lipids in IDL percentage
+IDL-TG%,1.12 [1.07-1.16],0.228,,Triglycerides to Total-Lipids in IDL percentage
 Albumin,0.90 [0.86-0.93],0.041,*,Albumin
 XL-HDL-FC,0.89 [0.86-0.93],0.030,*,Free Cholesterol in Very Large HDL
 XL-HDL-L,0.89 [0.85-0.92],0.011,*,Total-Lipids in Very Large HDL
@@ -12,6 +12,6 @@ XL-HDL-P,0.88 [0.85-0.92],0.006,**,Concentration of Very Large HDL Particles
 L-HDL-CE,0.88 [0.85-0.92],0.025,*,Cholesteryl Esters in Large HDL
 XL-HDL-C,0.88 [0.84-0.92],0.001,**,Cholesterol in Very Large HDL
 PUFA%,0.88 [0.84-0.92],0.006,**,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
-XL-HDL-CE,0.88 [0.84-0.92],9.113e-04,***,Cholesteryl Esters in Very Large HDL
-Unsaturation,0.87 [0.83-0.91],8.472e-05,***,Degree of Unsaturation
-PUFA/MUFA,0.86 [0.82-0.90],4.462e-05,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+XL-HDL-CE,0.88 [0.84-0.92],9.098e-04,***,Cholesteryl Esters in Very Large HDL
+Unsaturation,0.87 [0.83-0.91],8.458e-05,***,Degree of Unsaturation
+PUFA/MUFA,0.86 [0.82-0.90],4.455e-05,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio

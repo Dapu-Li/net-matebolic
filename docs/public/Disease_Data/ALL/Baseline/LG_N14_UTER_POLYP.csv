@@ -1,11 +1,11 @@
 Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
-LDL-CE,1.02 [0.96-1.07],1.000,,Cholesteryl Esters in LDL
-LDL-C,1.01 [0.96-1.07],1.000,,LDL Cholesterol
-Non-HDL-C,1.00 [0.95-1.06],1.000,,Total-Cholesterol Minus HDL-C
-VLDL-C,1.00 [0.95-1.06],1.000,,VLDL Cholesterol
+S-HDL-C%,1.04 [0.98-1.10],1.000,,Cholesterol to Total-Lipids in Small HDL percentage
+S-HDL-CE%,1.04 [0.98-1.10],1.000,,Cholesteryl Esters to Total-Lipids in Small HDL percentage
+M-VLDL-TG%,1.01 [0.95-1.07],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
+M-VLDL-CE%,1.00 [0.94-1.07],1.000,,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
 M-LDL-FC%,1.00 [0.94-1.07],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
-PUFA,1.00 [0.94-1.06],1.000,,Polyunsaturated Fatty Acids
+M-VLDL-C%,1.00 [0.94-1.06],1.000,,Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-FC%,0.99 [0.93-1.05],1.000,,Free Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-PL%,0.99 [0.93-1.05],1.000,,Phospholipids to Total-Lipids in Medium VLDL percentage
 M-LDL-PL%,0.98 [0.93-1.04],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
-Total-FA,0.98 [0.92-1.04],1.000,,Total-Fatty Acids
-SFA,0.97 [0.91-1.03],1.000,,Saturated Fatty Acids
-Creatinine,0.90 [0.84-0.96],1.000,,Creatinine
+M-LDL-TG%,0.96 [0.91-1.02],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage

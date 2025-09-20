@@ -1,19 +1,19 @@
 Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
-Gly,1.17 [1.14-1.20],2.327e-24,***,Glycine
-XL-HDL-PL%,1.16 [1.12-1.19],2.343e-14,***,Phospholipids to Total-Lipids in Very Large HDL percentage
-GlycA,1.13 [1.10-1.17],1.355e-12,***,Glycoprotein Acetyls
-S-HDL-PL%,1.13 [1.10-1.16],5.444e-13,***,Phospholipids to Total-Lipids in Small HDL percentage
-HDL-size,1.12 [1.09-1.15],3.538e-09,***,Average Diameter for HDL Particles
-L-HDL-PL,1.11 [1.08-1.14],2.182e-07,***,Phospholipids in Large HDL
-L-HDL-L,1.11 [1.07-1.14],1.152e-06,***,Total-Lipids in Large HDL
-XL-HDL-PL,1.10 [1.07-1.13],1.799e-05,***,Phospholipids in Very Large HDL
-L-HDL-FC,1.10 [1.07-1.13],3.536e-05,***,Free Cholesterol in Large HDL
-LDL-size,1.09 [1.06-1.13],1.538e-04,***,Average Diameter for LDL Particles
-L-HDL-TG,1.09 [1.06-1.12],2.878e-05,***,Triglycerides in Large HDL
-L-HDL-P,1.09 [1.06-1.12],2.726e-04,***,Concentration of Large HDL Particles
-HDL-PL,1.09 [1.06-1.12],1.899e-04,***,Phospholipids in HDL
-L-HDL-C,1.09 [1.06-1.12],6.434e-04,***,Cholesterol in Large HDL
-XL-HDL-L,1.09 [1.06-1.12],8.766e-04,***,Total-Lipids in Very Large HDL
+Gly,1.17 [1.14-1.20],2.324e-24,***,Glycine
+XL-HDL-PL%,1.16 [1.12-1.19],2.340e-14,***,Phospholipids to Total-Lipids in Very Large HDL percentage
+GlycA,1.13 [1.10-1.17],1.353e-12,***,Glycoprotein Acetyls
+S-HDL-PL%,1.13 [1.10-1.16],5.438e-13,***,Phospholipids to Total-Lipids in Small HDL percentage
+HDL-size,1.12 [1.09-1.15],3.534e-09,***,Average Diameter for HDL Particles
+L-HDL-PL,1.11 [1.08-1.14],2.180e-07,***,Phospholipids in Large HDL
+L-HDL-L,1.11 [1.07-1.14],1.151e-06,***,Total-Lipids in Large HDL
+XL-HDL-PL,1.10 [1.07-1.13],1.797e-05,***,Phospholipids in Very Large HDL
+L-HDL-FC,1.10 [1.07-1.13],3.532e-05,***,Free Cholesterol in Large HDL
+LDL-size,1.09 [1.06-1.13],1.537e-04,***,Average Diameter for LDL Particles
+L-HDL-TG,1.09 [1.06-1.12],2.874e-05,***,Triglycerides in Large HDL
+L-HDL-P,1.09 [1.06-1.12],2.723e-04,***,Concentration of Large HDL Particles
+HDL-PL,1.09 [1.06-1.12],1.897e-04,***,Phospholipids in HDL
+L-HDL-C,1.09 [1.06-1.12],6.426e-04,***,Cholesterol in Large HDL
+XL-HDL-L,1.09 [1.06-1.12],8.756e-04,***,Total-Lipids in Very Large HDL
 L-HDL-CE,1.09 [1.06-1.12],0.004,**,Cholesteryl Esters in Large HDL
 HDL-L,1.08 [1.05-1.12],0.003,**,Total-Lipids in HDL
 L-HDL-FC%,1.08 [1.05-1.11],0.013,*,Free Cholesterol to Total-Lipids in Large HDL percentage
@@ -23,13 +23,13 @@ IDL-PL%,1.08 [1.05-1.11],0.018,*,Phospholipids to Total-Lipids in IDL percentage
 M-HDL-FC,1.08 [1.05-1.11],0.043,*,Free Cholesterol in Medium HDL
 M-HDL-L,1.08 [1.05-1.11],0.049,*,Total-Lipids in Medium HDL
 XL-HDL-CE%,0.93 [0.91-0.96],0.048,*,Cholesteryl Esters to Total-Lipids in Very Large HDL percentage
-S-HDL-C%,0.92 [0.90-0.95],6.777e-04,***,Cholesterol to Total-Lipids in Small HDL percentage
-S-HDL-CE%,0.92 [0.89-0.94],3.969e-05,***,Cholesteryl Esters to Total-Lipids in Small HDL percentage
-VLDL-size,0.91 [0.88-0.94],1.489e-05,***,Average Diameter for VLDL Particles
-Albumin,0.91 [0.88-0.93],2.158e-06,***,Albumin
-Val,0.90 [0.88-0.93],9.039e-07,***,Valine
-Total-BCAA,0.90 [0.87-0.93],2.059e-07,***,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
-Leu,0.89 [0.87-0.92],1.677e-09,***,Leucine
-XL-HDL-FC%,0.87 [0.85-0.90],5.815e-14,***,Free Cholesterol to Total-Lipids in Very Large HDL percentage
-XL-HDL-C%,0.86 [0.84-0.89],1.748e-18,***,Cholesterol to Total-Lipids in Very Large HDL percentage
-Creatinine,0.83 [0.81-0.86],1.223e-29,***,Creatinine
+S-HDL-C%,0.92 [0.90-0.95],6.769e-04,***,Cholesterol to Total-Lipids in Small HDL percentage
+S-HDL-CE%,0.92 [0.89-0.94],3.964e-05,***,Cholesteryl Esters to Total-Lipids in Small HDL percentage
+VLDL-size,0.91 [0.88-0.94],1.488e-05,***,Average Diameter for VLDL Particles
+Albumin,0.91 [0.88-0.93],2.156e-06,***,Albumin
+Val,0.90 [0.88-0.93],9.028e-07,***,Valine
+Total-BCAA,0.90 [0.87-0.93],2.056e-07,***,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+Leu,0.89 [0.87-0.92],1.675e-09,***,Leucine
+XL-HDL-FC%,0.87 [0.85-0.90],5.808e-14,***,Free Cholesterol to Total-Lipids in Very Large HDL percentage
+XL-HDL-C%,0.86 [0.84-0.89],1.746e-18,***,Cholesterol to Total-Lipids in Very Large HDL percentage
+Creatinine,0.83 [0.81-0.86],1.222e-29,***,Creatinine

@@ -1,7 +1,7 @@
 # Baseline Cluster Comorbidity Analysis
 
 We applied **hierarchical clustering** to group baseline diseases based on the **effect sizes** of metabolites on each disease.  
-The number of clusters was determined by evaluating cluster solutions ranging from **10 to 40**, and selecting the optimal number based on the **average silhouette score**.
+The number of clusters was determined by evaluating cluster solutions ranging from **10 to 39**, and selecting the optimal number based on the **average silhouette score**.
 
 - The optimal number of clusters was determined to be **11**.
 - A detailed list of diseases included in each cluster can be found in the supplementary cluster category table.

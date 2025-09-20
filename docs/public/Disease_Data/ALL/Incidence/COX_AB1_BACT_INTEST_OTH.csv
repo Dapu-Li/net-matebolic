@@ -1,8 +1,8 @@
 Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
-XS-VLDL-PL%,1.23 [1.16-1.30],1.056e-07,***,Phospholipids to Total-Lipids in Very Small VLDL percentage
-L-LDL-TG%,1.22 [1.16-1.29],5.234e-09,***,Triglycerides to Total-Lipids in Large LDL percentage
-IDL-TG%,1.21 [1.15-1.28],6.834e-08,***,Triglycerides to Total-Lipids in IDL percentage
-M-LDL-TG%,1.20 [1.14-1.27],1.622e-07,***,Triglycerides to Total-Lipids in Medium LDL percentage
+XS-VLDL-PL%,1.23 [1.16-1.30],1.054e-07,***,Phospholipids to Total-Lipids in Very Small VLDL percentage
+L-LDL-TG%,1.22 [1.16-1.29],5.225e-09,***,Triglycerides to Total-Lipids in Large LDL percentage
+IDL-TG%,1.21 [1.15-1.28],6.822e-08,***,Triglycerides to Total-Lipids in IDL percentage
+M-LDL-TG%,1.20 [1.14-1.27],1.619e-07,***,Triglycerides to Total-Lipids in Medium LDL percentage
 MUFA%,1.18 [1.11-1.24],0.004,**,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
 M-HDL-PL%,1.18 [1.11-1.24],0.003,**,Phospholipids to Total-Lipids in Medium HDL percentage
 IDL-PL%,1.16 [1.10-1.22],0.005,**,Phospholipids to Total-Lipids in IDL percentage
@@ -21,21 +21,21 @@ LDL-C,0.86 [0.82-0.91],0.003,**,LDL Cholesterol
 IDL-C,0.86 [0.82-0.91],0.005,**,Cholesterol in IDL
 S-LDL-FC,0.86 [0.82-0.91],0.004,**,Free Cholesterol in Small LDL
 L-LDL-C,0.86 [0.81-0.90],0.003,**,Cholesterol in Large LDL
-Clinical LDL-C,0.86 [0.81-0.90],5.990e-04,***,Clinical LDL Cholesterol
+Clinical LDL-C,0.86 [0.81-0.90],5.980e-04,***,Clinical LDL Cholesterol
 Total-P,0.86 [0.81-0.91],0.032,*,Total-Concentration of Lipoprotein Particles
 M-LDL-FC,0.86 [0.81-0.90],0.003,**,Free Cholesterol in Medium LDL
-XL-HDL-CE%,0.86 [0.81-0.90],5.020e-04,***,Cholesteryl Esters to Total-Lipids in Very Large HDL percentage
+XL-HDL-CE%,0.86 [0.81-0.90],5.012e-04,***,Cholesteryl Esters to Total-Lipids in Very Large HDL percentage
 S-VLDL-PL%,0.85 [0.81-0.90],0.001,**,Phospholipids to Total-Lipids in Small VLDL percentage
-S-VLDL-FC%,0.85 [0.81-0.90],4.351e-04,***,Free Cholesterol to Total-Lipids in Small VLDL percentage
-XS-VLDL-C%,0.85 [0.81-0.90],2.645e-04,***,Cholesterol to Total-Lipids in Very Small VLDL percentage
-XS-VLDL-CE%,0.85 [0.81-0.90],2.500e-04,***,Cholesteryl Esters to Total-Lipids in Very Small VLDL percentage
+S-VLDL-FC%,0.85 [0.81-0.90],4.344e-04,***,Free Cholesterol to Total-Lipids in Small VLDL percentage
+XS-VLDL-C%,0.85 [0.81-0.90],2.640e-04,***,Cholesterol to Total-Lipids in Very Small VLDL percentage
+XS-VLDL-CE%,0.85 [0.81-0.90],2.496e-04,***,Cholesteryl Esters to Total-Lipids in Very Small VLDL percentage
 M-HDL-FC%,0.85 [0.81-0.90],0.012,*,Free Cholesterol to Total-Lipids in Medium HDL percentage
-Total-C,0.85 [0.81-0.90],5.639e-04,***,Total-Cholesterol
-LDL-FC,0.85 [0.81-0.90],4.113e-04,***,Free Cholesterol in LDL
-L-LDL-FC,0.85 [0.81-0.90],6.119e-04,***,Free Cholesterol in Large LDL
-Total-CE,0.85 [0.80-0.89],1.726e-04,***,Total-Esterified Cholesterol
-IDL-CE%,0.84 [0.80-0.88],2.935e-07,***,Cholesteryl Esters to Total-Lipids in IDL percentage
-S-LDL-C%,0.84 [0.80-0.88],1.218e-06,***,Cholesterol to Total-Lipids in Small LDL percentage
-M-LDL-C%,0.83 [0.79-0.87],1.870e-09,***,Cholesterol to Total-Lipids in Medium LDL percentage
-IDL-C%,0.83 [0.79-0.87],2.007e-09,***,Cholesterol to Total-Lipids in IDL percentage
-L-LDL-C%,0.82 [0.78-0.86],1.689e-09,***,Cholesterol to Total-Lipids in Large LDL percentage
+Total-C,0.85 [0.81-0.90],5.630e-04,***,Total-Cholesterol
+LDL-FC,0.85 [0.81-0.90],4.106e-04,***,Free Cholesterol in LDL
+L-LDL-FC,0.85 [0.81-0.90],6.109e-04,***,Free Cholesterol in Large LDL
+Total-CE,0.85 [0.80-0.89],1.723e-04,***,Total-Esterified Cholesterol
+IDL-CE%,0.84 [0.80-0.88],2.930e-07,***,Cholesteryl Esters to Total-Lipids in IDL percentage
+S-LDL-C%,0.84 [0.80-0.88],1.216e-06,***,Cholesterol to Total-Lipids in Small LDL percentage
+M-LDL-C%,0.83 [0.79-0.87],1.867e-09,***,Cholesterol to Total-Lipids in Medium LDL percentage
+IDL-C%,0.83 [0.79-0.87],2.003e-09,***,Cholesterol to Total-Lipids in IDL percentage
+L-LDL-C%,0.82 [0.78-0.86],1.686e-09,***,Cholesterol to Total-Lipids in Large LDL percentage

@@ -1,9 +1,9 @@
 Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
-M-LDL-TG%,1.45 [1.33-1.58],5.693e-11,***,Triglycerides to Total-Lipids in Medium LDL percentage
-L-LDL-TG%,1.43 [1.31-1.56],5.926e-10,***,Triglycerides to Total-Lipids in Large LDL percentage
-XS-VLDL-PL%,1.40 [1.28-1.55],1.064e-06,***,Phospholipids to Total-Lipids in Very Small VLDL percentage
-IDL-PL%,1.40 [1.27-1.54],3.085e-06,***,Phospholipids to Total-Lipids in IDL percentage
-IDL-TG%,1.37 [1.25-1.51],1.913e-06,***,Triglycerides to Total-Lipids in IDL percentage
+M-LDL-TG%,1.45 [1.33-1.58],5.686e-11,***,Triglycerides to Total-Lipids in Medium LDL percentage
+L-LDL-TG%,1.43 [1.31-1.56],5.919e-10,***,Triglycerides to Total-Lipids in Large LDL percentage
+XS-VLDL-PL%,1.40 [1.28-1.55],1.063e-06,***,Phospholipids to Total-Lipids in Very Small VLDL percentage
+IDL-PL%,1.40 [1.27-1.54],3.081e-06,***,Phospholipids to Total-Lipids in IDL percentage
+IDL-TG%,1.37 [1.25-1.51],1.910e-06,***,Triglycerides to Total-Lipids in IDL percentage
 S-HDL-PL%,1.32 [1.20-1.46],0.008,**,Phospholipids to Total-Lipids in Small HDL percentage
 Tyr,1.30 [1.19-1.43],0.008,**,Tyrosine
 S-LDL-TG%,1.28 [1.17-1.41],0.044,*,Triglycerides to Total-Lipids in Small LDL percentage
@@ -12,49 +12,49 @@ Omega-6,0.76 [0.69-0.84],0.006,**,Omega-6 Fatty Acids
 Total-FC,0.76 [0.69-0.84],0.006,**,Total-Free Cholesterol
 S-LDL-PL,0.76 [0.69-0.84],0.022,*,Phospholipids in Small LDL
 M-VLDL-C,0.76 [0.68-0.84],0.028,*,Cholesterol in Medium VLDL
-XL-HDL-CE%,0.76 [0.70-0.82],3.792e-06,***,Cholesteryl Esters to Total-Lipids in Very Large HDL percentage
+XL-HDL-CE%,0.76 [0.70-0.82],3.787e-06,***,Cholesteryl Esters to Total-Lipids in Very Large HDL percentage
 IDL-FC,0.75 [0.68-0.84],0.018,*,Free Cholesterol in IDL
-Non-HDL-C,0.75 [0.69-0.83],4.021e-04,***,Total-Cholesterol Minus HDL-C
+Non-HDL-C,0.75 [0.69-0.83],4.016e-04,***,Total-Cholesterol Minus HDL-C
 M-VLDL-CE,0.75 [0.67-0.83],0.009,**,Cholesteryl Esters in Medium VLDL
 M-LDL-P,0.75 [0.67-0.83],0.007,**,Concentration of Medium LDL Particles
-Total-C,0.75 [0.68-0.82],1.354e-04,***,Total-Cholesterol
+Total-C,0.75 [0.68-0.82],1.352e-04,***,Total-Cholesterol
 IDL-C,0.75 [0.68-0.82],0.001,**,Cholesterol in IDL
 S-LDL-L,0.74 [0.67-0.82],0.001,**,Total-Lipids in Small LDL
 HDL-P,0.74 [0.66-0.83],0.034,*,Concentration of HDL Particles
-S-HDL-C%,0.74 [0.68-0.81],2.450e-05,***,Cholesterol to Total-Lipids in Small HDL percentage
-PUFA,0.74 [0.67-0.82],2.113e-04,***,Polyunsaturated Fatty Acids
-IDL-C%,0.74 [0.68-0.80],2.492e-08,***,Cholesterol to Total-Lipids in IDL percentage
-Unsaturation,0.74 [0.67-0.81],1.826e-04,***,Degree of Unsaturation
-IDL-CE,0.74 [0.67-0.82],6.902e-04,***,Cholesteryl Esters in IDL
-S-LDL-CE,0.74 [0.67-0.82],6.715e-04,***,Cholesteryl Esters in Small LDL
-Total-CE,0.74 [0.67-0.81],3.341e-05,***,Total-Esterified Cholesterol
-L-LDL-CE%,0.74 [0.67-0.80],3.086e-06,***,Cholesteryl Esters to Total-Lipids in Large LDL percentage
-XL-HDL-C%,0.74 [0.67-0.81],1.405e-04,***,Cholesterol to Total-Lipids in Very Large HDL percentage
-LDL-L,0.73 [0.67-0.80],1.174e-05,***,Total-Lipids in LDL
-L-LDL-L,0.73 [0.67-0.80],2.418e-05,***,Total-Lipids in Large LDL
-S-HDL-CE%,0.73 [0.67-0.80],7.559e-07,***,Cholesteryl Esters to Total-Lipids in Small HDL percentage
-S-HDL-L,0.73 [0.66-0.80],8.165e-05,***,Total-Lipids in Small HDL
-L-LDL-C%,0.73 [0.67-0.79],3.039e-09,***,Cholesterol to Total-Lipids in Large LDL percentage
+S-HDL-C%,0.74 [0.68-0.81],2.448e-05,***,Cholesterol to Total-Lipids in Small HDL percentage
+PUFA,0.74 [0.67-0.82],2.110e-04,***,Polyunsaturated Fatty Acids
+IDL-C%,0.74 [0.68-0.80],2.489e-08,***,Cholesterol to Total-Lipids in IDL percentage
+Unsaturation,0.74 [0.67-0.81],1.824e-04,***,Degree of Unsaturation
+IDL-CE,0.74 [0.67-0.82],6.893e-04,***,Cholesteryl Esters in IDL
+S-LDL-CE,0.74 [0.67-0.82],6.707e-04,***,Cholesteryl Esters in Small LDL
+Total-CE,0.74 [0.67-0.81],3.337e-05,***,Total-Esterified Cholesterol
+L-LDL-CE%,0.74 [0.67-0.80],3.082e-06,***,Cholesteryl Esters to Total-Lipids in Large LDL percentage
+XL-HDL-C%,0.74 [0.67-0.81],1.403e-04,***,Cholesterol to Total-Lipids in Very Large HDL percentage
+LDL-L,0.73 [0.67-0.80],1.173e-05,***,Total-Lipids in LDL
+L-LDL-L,0.73 [0.67-0.80],2.415e-05,***,Total-Lipids in Large LDL
+S-HDL-CE%,0.73 [0.67-0.80],7.550e-07,***,Cholesteryl Esters to Total-Lipids in Small HDL percentage
+S-HDL-L,0.73 [0.66-0.80],8.155e-05,***,Total-Lipids in Small HDL
+L-LDL-C%,0.73 [0.67-0.79],3.035e-09,***,Cholesterol to Total-Lipids in Large LDL percentage
 Total-P,0.73 [0.65-0.81],0.002,**,Total-Concentration of Lipoprotein Particles
-M-LDL-C%,0.72 [0.67-0.79],7.614e-10,***,Cholesterol to Total-Lipids in Medium LDL percentage
-IDL-CE%,0.72 [0.67-0.79],2.511e-09,***,Cholesteryl Esters to Total-Lipids in IDL percentage
-Clinical LDL-C,0.72 [0.66-0.79],8.185e-07,***,Clinical LDL Cholesterol
-LDL-CE,0.72 [0.66-0.79],4.270e-06,***,Cholesteryl Esters in LDL
-LDL-C,0.72 [0.65-0.79],1.292e-06,***,LDL Cholesterol
-S-LDL-C,0.72 [0.65-0.80],2.946e-05,***,Cholesterol in Small LDL
-M-LDL-CE,0.72 [0.65-0.79],1.718e-05,***,Cholesteryl Esters in Medium LDL
-L-LDL-CE,0.72 [0.65-0.79],6.287e-06,***,Cholesteryl Esters in Large LDL
-L-LDL-C,0.72 [0.65-0.79],3.446e-06,***,Cholesterol in Large LDL
-M-LDL-L,0.72 [0.65-0.79],6.479e-06,***,Total-Lipids in Medium LDL
-LDL-PL,0.71 [0.65-0.79],3.506e-06,***,Phospholipids in LDL
-L-LDL-PL,0.71 [0.64-0.78],2.417e-06,***,Phospholipids in Large LDL
-M-LDL-C,0.71 [0.64-0.78],9.419e-07,***,Cholesterol in Medium LDL
-M-LDL-PL,0.71 [0.64-0.78],3.536e-06,***,Phospholipids in Medium LDL
-L-LDL-FC,0.70 [0.63-0.78],2.099e-06,***,Free Cholesterol in Large LDL
-LDL-FC,0.70 [0.63-0.77],2.962e-07,***,Free Cholesterol in LDL
-S-LDL-C%,0.70 [0.64-0.76],5.748e-12,***,Cholesterol to Total-Lipids in Small LDL percentage
-S-LDL-FC,0.70 [0.63-0.77],4.584e-07,***,Free Cholesterol in Small LDL
-M-LDL-FC,0.68 [0.61-0.75],1.378e-08,***,Free Cholesterol in Medium LDL
-S-HDL-C,0.66 [0.60-0.73],5.941e-11,***,Cholesterol in Small HDL
-S-HDL-P,0.66 [0.59-0.73],3.691e-10,***,Concentration of Small HDL Particles
-S-HDL-CE,0.63 [0.57-0.70],2.551e-13,***,Cholesteryl Esters in Small HDL
+M-LDL-C%,0.72 [0.67-0.79],7.605e-10,***,Cholesterol to Total-Lipids in Medium LDL percentage
+IDL-CE%,0.72 [0.67-0.79],2.508e-09,***,Cholesteryl Esters to Total-Lipids in IDL percentage
+Clinical LDL-C,0.72 [0.66-0.79],8.175e-07,***,Clinical LDL Cholesterol
+LDL-CE,0.72 [0.66-0.79],4.265e-06,***,Cholesteryl Esters in LDL
+LDL-C,0.72 [0.65-0.79],1.291e-06,***,LDL Cholesterol
+S-LDL-C,0.72 [0.65-0.80],2.942e-05,***,Cholesterol in Small LDL
+M-LDL-CE,0.72 [0.65-0.79],1.716e-05,***,Cholesteryl Esters in Medium LDL
+L-LDL-CE,0.72 [0.65-0.79],6.279e-06,***,Cholesteryl Esters in Large LDL
+L-LDL-C,0.72 [0.65-0.79],3.442e-06,***,Cholesterol in Large LDL
+M-LDL-L,0.72 [0.65-0.79],6.471e-06,***,Total-Lipids in Medium LDL
+LDL-PL,0.71 [0.65-0.79],3.501e-06,***,Phospholipids in LDL
+L-LDL-PL,0.71 [0.64-0.78],2.414e-06,***,Phospholipids in Large LDL
+M-LDL-C,0.71 [0.64-0.78],9.407e-07,***,Cholesterol in Medium LDL
+M-LDL-PL,0.71 [0.64-0.78],3.531e-06,***,Phospholipids in Medium LDL
+L-LDL-FC,0.70 [0.63-0.78],2.097e-06,***,Free Cholesterol in Large LDL
+LDL-FC,0.70 [0.63-0.77],2.958e-07,***,Free Cholesterol in LDL
+S-LDL-C%,0.70 [0.64-0.76],5.741e-12,***,Cholesterol to Total-Lipids in Small LDL percentage
+S-LDL-FC,0.70 [0.63-0.77],4.579e-07,***,Free Cholesterol in Small LDL
+M-LDL-FC,0.68 [0.61-0.75],1.376e-08,***,Free Cholesterol in Medium LDL
+S-HDL-C,0.66 [0.60-0.73],5.934e-11,***,Cholesterol in Small HDL
+S-HDL-P,0.66 [0.59-0.73],3.687e-10,***,Concentration of Small HDL Particles
+S-HDL-CE,0.63 [0.57-0.70],2.548e-13,***,Cholesteryl Esters in Small HDL

@@ -1,11 +1,12 @@
 Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
-GlycA,1.38 [1.24-1.53],4.396e-04,***,Glycoprotein Acetyls
+GlycA,1.38 [1.24-1.53],4.391e-04,***,Glycoprotein Acetyls
 XS-VLDL-PL%,1.33 [1.20-1.48],0.013,*,Phospholipids to Total-Lipids in Very Small VLDL percentage
 IDL-TG%,1.33 [1.20-1.47],0.010,*,Triglycerides to Total-Lipids in IDL percentage
-MUFA%,1.32 [1.18-1.47],0.171,,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+MUFA%,1.32 [1.18-1.47],0.170,,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
 L-LDL-TG%,1.31 [1.18-1.45],0.038,*,Triglycerides to Total-Lipids in Large LDL percentage
 XS-VLDL-C%,0.78 [0.70-0.85],0.032,*,Cholesterol to Total-Lipids in Very Small VLDL percentage
 XS-VLDL-CE%,0.77 [0.70-0.85],0.027,*,Cholesteryl Esters to Total-Lipids in Very Small VLDL percentage
+Total-C,0.77 [0.70-0.85],0.050,*,Total-Cholesterol
 Clinical LDL-C,0.77 [0.70-0.85],0.041,*,Clinical LDL Cholesterol
 IDL-CE%,0.77 [0.70-0.84],0.006,**,Cholesteryl Esters to Total-Lipids in IDL percentage
 Total-CE,0.77 [0.69-0.85],0.029,*,Total-Esterified Cholesterol
@@ -14,4 +15,4 @@ LDL-FC,0.76 [0.68-0.84],0.034,*,Free Cholesterol in LDL
 IDL-C,0.75 [0.68-0.83],0.011,*,Cholesterol in IDL
 L-LDL-FC,0.75 [0.68-0.84],0.023,*,Free Cholesterol in Large LDL
 IDL-CE,0.75 [0.68-0.83],0.010,*,Cholesteryl Esters in IDL
-Albumin,0.74 [0.67-0.81],1.451e-04,***,Albumin
+Albumin,0.74 [0.67-0.81],1.449e-04,***,Albumin

@@ -1,11 +1,11 @@
 Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
-Creatinine,2.34 [2.06-2.67],3.409e-33,***,Creatinine
+Creatinine,2.34 [2.06-2.67],3.404e-33,***,Creatinine
 GlycA,1.54 [1.31-1.82],0.047,*,Glycoprotein Acetyls
-Phe,1.26 [1.08-1.46],1.000,,Phenylalanine
-Gly,1.06 [0.88-1.27],1.000,,Glycine
+M-LDL-TG%,1.31 [1.13-1.52],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+S-HDL-TG%,1.27 [1.07-1.51],1.000,,Triglycerides to Total-Lipids in Small HDL percentage
 M-LDL-PL%,1.04 [0.89-1.22],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
-VLDL-C,0.91 [0.78-1.06],1.000,,VLDL Cholesterol
 M-LDL-FC%,0.85 [0.73-0.99],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
-Remnant-C,0.83 [0.71-0.96],1.000,,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
-Total-C,0.76 [0.65-0.89],1.000,,Total-Cholesterol
-Albumin,0.63 [0.55-0.71],1.295e-06,***,Albumin
+M-VLDL-PL%,0.84 [0.72-0.97],1.000,,Phospholipids to Total-Lipids in Medium VLDL percentage
+M-VLDL-CE%,0.84 [0.73-0.95],1.000,,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
+M-VLDL-C%,0.82 [0.71-0.95],1.000,,Cholesterol to Total-Lipids in Medium VLDL percentage
+Albumin,0.63 [0.55-0.71],1.293e-06,***,Albumin

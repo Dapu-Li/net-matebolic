@@ -5,8 +5,8 @@ XL-HDL-P,1.70 [1.42-2.05],0.004,**,Concentration of Very Large HDL Particles
 XL-HDL-C,1.67 [1.38-2.03],0.040,*,Cholesterol in Very Large HDL
 XL-HDL-FC,1.67 [1.38-2.01],0.028,*,Free Cholesterol in Very Large HDL
 GlycA,1.64 [1.37-1.96],0.014,*,Glycoprotein Acetyls
-ApoB,0.98 [0.81-1.18],1.000,,Apolipoprotein B
 M-LDL-FC%,0.97 [0.80-1.16],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
-Non-HDL-C,0.96 [0.80-1.15],1.000,,Total-Cholesterol Minus HDL-C
-Clinical LDL-C,0.92 [0.77-1.10],1.000,,Clinical LDL Cholesterol
-LDL-C,0.92 [0.77-1.11],1.000,,LDL Cholesterol
+M-VLDL-TG%,0.89 [0.73-1.09],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
+S-HDL-C%,0.83 [0.69-1.00],1.000,,Cholesterol to Total-Lipids in Small HDL percentage
+M-LDL-PL%,0.80 [0.66-0.96],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+S-HDL-CE%,0.75 [0.63-0.89],1.000,,Cholesteryl Esters to Total-Lipids in Small HDL percentage

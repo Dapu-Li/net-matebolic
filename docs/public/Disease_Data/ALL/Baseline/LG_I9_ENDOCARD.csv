@@ -1,10 +1,10 @@
 Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
-L-LDL-TG%,1.36 [1.14-1.62],1.000,,Triglycerides to Total-Lipids in Large LDL percentage
+M-LDL-TG%,1.35 [1.14-1.60],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+M-VLDL-TG%,1.28 [1.06-1.55],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
 M-LDL-PL%,1.19 [0.98-1.43],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
-M-HDL-PL%,1.10 [0.91-1.32],1.000,,Phospholipids to Total-Lipids in Medium HDL percentage
-L-VLDL-TG%,1.09 [0.91-1.32],1.000,,Triglycerides to Total-Lipids in Large VLDL percentage
-M-HDL-CE%,1.05 [0.87-1.27],1.000,,Cholesteryl Esters to Total-Lipids in Medium HDL percentage
-IDL-CE%,0.66 [0.56-0.77],0.047,*,Cholesteryl Esters to Total-Lipids in IDL percentage
+S-HDL-TG%,1.09 [0.90-1.31],1.000,,Triglycerides to Total-Lipids in Small HDL percentage
+S-HDL-CE%,1.03 [0.85-1.24],1.000,,Cholesteryl Esters to Total-Lipids in Small HDL percentage
+IDL-CE%,0.66 [0.56-0.77],0.046,*,Cholesteryl Esters to Total-Lipids in IDL percentage
 Cholines,0.63 [0.53-0.75],0.049,*,Total-Cholines
 Non-HDL-C,0.63 [0.53-0.74],0.019,*,Total-Cholesterol Minus HDL-C
 Clinical LDL-C,0.62 [0.53-0.74],0.012,*,Clinical LDL Cholesterol
@@ -20,5 +20,5 @@ L-LDL-L,0.62 [0.52-0.74],0.020,*,Total-Lipids in Large LDL
 SM,0.62 [0.51-0.74],0.050,*,Sphingomyelins
 Total-PL,0.61 [0.52-0.73],0.006,**,Total-Phospholipids in Lipoprotein Particles
 Total-C,0.61 [0.52-0.72],0.002,**,Total-Cholesterol
-IDL-CE,0.61 [0.51-0.73],0.022,*,Cholesteryl Esters in IDL
+IDL-CE,0.61 [0.51-0.73],0.021,*,Cholesteryl Esters in IDL
 Total-CE,0.61 [0.51-0.72],0.002,**,Total-Esterified Cholesterol

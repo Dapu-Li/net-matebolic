@@ -1,11 +1,11 @@
 Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
-L-HDL-CE%,1.02 [0.99-1.07],1.000,,Cholesteryl Esters to Total-Lipids in Large HDL percentage
+M-LDL-TG%,1.04 [1.00-1.08],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+M-VLDL-CE%,1.03 [0.99-1.07],1.000,,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
+M-VLDL-C%,1.03 [0.99-1.07],1.000,,Cholesterol to Total-Lipids in Medium VLDL percentage
 M-LDL-FC%,1.02 [0.98-1.06],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
-L-LDL-FC%,1.01 [0.97-1.05],1.000,,Free Cholesterol to Total-Lipids in Large LDL percentage
-L-LDL-PL%,1.01 [0.97-1.05],1.000,,Phospholipids to Total-Lipids in Large LDL percentage
-L-HDL-FC%,1.00 [0.97-1.04],1.000,,Free Cholesterol to Total-Lipids in Large HDL percentage
-HDL-C,1.00 [0.95-1.04],1.000,,HDL Cholesterol
-Non-HDL-C,0.94 [0.91-0.98],1.000,,Total-Cholesterol Minus HDL-C
-LDL-C,0.93 [0.90-0.97],1.000,,LDL Cholesterol
-Omega-3,0.91 [0.87-0.94],0.473,,Omega-3 Fatty Acids
-Albumin,0.85 [0.82-0.88],7.819e-12,***,Albumin
+M-LDL-PL%,1.00 [0.97-1.04],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+M-VLDL-TG%,0.98 [0.94-1.02],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
+S-HDL-C%,0.97 [0.94-1.01],1.000,,Cholesterol to Total-Lipids in Small HDL percentage
+S-LDL-C%,0.96 [0.92-1.00],1.000,,Cholesterol to Total-Lipids in Small LDL percentage
+Omega-3,0.91 [0.87-0.94],0.472,,Omega-3 Fatty Acids
+Albumin,0.85 [0.82-0.88],7.807e-12,***,Albumin

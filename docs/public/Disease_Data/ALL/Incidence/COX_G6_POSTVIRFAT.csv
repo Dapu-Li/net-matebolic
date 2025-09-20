@@ -4,8 +4,8 @@ TG/PG,1.31 [1.19-1.45],0.022,*,Triglycerides to Phosphoglycerides ratio
 S-VLDL-TG,1.29 [1.18-1.40],0.006,**,Triglycerides in Small VLDL
 L-VLDL-PL,1.27 [1.16-1.39],0.047,*,Phospholipids in Large VLDL
 S-VLDL-P,1.26 [1.16-1.38],0.028,*,Concentration of Small VLDL Particles
-Creatinine,0.96 [0.85-1.08],1.000,,Creatinine
-Unsaturation,0.95 [0.86-1.05],1.000,,Degree of Unsaturation
-PUFA%,0.92 [0.83-1.02],1.000,,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
-SFA%,0.86 [0.78-0.95],1.000,,Saturated Fatty Acids to Total-Fatty Acids percentage
+M-VLDL-PL%,0.92 [0.84-1.01],1.000,,Phospholipids to Total-Lipids in Medium VLDL percentage
+M-VLDL-FC%,0.89 [0.81-0.98],1.000,,Free Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-CE%,0.87 [0.79-0.95],1.000,,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
+M-VLDL-C%,0.87 [0.79-0.95],1.000,,Cholesterol to Total-Lipids in Medium VLDL percentage
 M-LDL-FC%,0.84 [0.77-0.92],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage

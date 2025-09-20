@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Atlas of the Plasma Metabolic in Health and Disease",
+  title: "A Human Plasma Metabolite Atlas Linking 909 Traits and 2036 Diseases",
   description: "Atlas of the Plasma Metabolic in Health and Disease",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -26,9 +26,9 @@ export default defineConfig({
     sidebar: {
       '/Disease/':[
 
-               {
-          text: 'Baseline Disease', link: '/Disease/Baseline_Overview',
-          collapsed: true,
+                       {
+          text: 'Baseline Disease',
+          collapsed: false,
           items: [
             { text: 'Chapter I- Infectious and parasitic', collapsed: true, items: [
               { text: 'Bacterial, viral and other infectious agents', link: '/Disease/MD/Baseline/AB1_BACT_BIR_OTHER_INF_AGENTS' },
@@ -142,7 +142,6 @@ export default defineConfig({
               { text: 'Carcinoma in situ of breast, other/unspecified', link: '/Disease/MD/Baseline/CD2_INSITU_BREAST_NOS' },
               { text: 'Carcinoma in situ of cervix uteri', link: '/Disease/MD/Baseline/CD2_INSITU_CERVIX_UTERI' },
               { text: 'Carcinoma in situ of uteri, other/unspecified', link: '/Disease/MD/Baseline/CD2_INSITU_CERVIX_UTERI_NOS' },
-              { text: 'Carcinoma in situ of other and unspecified genital organs', link: '/Disease/MD/Baseline/CD2_INSITU_GENITAL' },
               { text: 'Melanoma in situ', link: '/Disease/MD/Baseline/CD2_INSITU_MELANOMA' },
               { text: 'Carcinoma in situ of skin', link: '/Disease/MD/Baseline/CD2_INSITU_SKIN' },
               { text: 'Lymphoid leukaemia', link: '/Disease/MD/Baseline/CD2_LYMPHOID_LEUKAEMIA' },
@@ -889,8 +888,8 @@ export default defineConfig({
             ] },
           ]
         },
-              {
-          text: 'Incidence Disease', link: 'Disease/Incidence_Overview',
+                      {
+          text: 'Incidence Disease',
           collapsed: false,
           items: [
             { text: 'Chapter I- Infectious and parasitic', collapsed: true, items: [
@@ -1060,7 +1059,6 @@ export default defineConfig({
               { text: 'Carcinoma in situ of breast', link: '/Disease/MD/Incidence/CD2_INSITU_BREAST' },
               { text: 'Carcinoma in situ of breast, intraductal', link: '/Disease/MD/Incidence/CD2_INSITU_BREAST_INTRADUCTAL' },
               { text: 'Carcinoma in situ of breast, other/unspecified', link: '/Disease/MD/Incidence/CD2_INSITU_BREAST_NOS' },
-              { text: 'Carcinoma in situ of other and unspecified genital organs', link: '/Disease/MD/Incidence/CD2_INSITU_GENITAL' },
               { text: 'Melanoma in situ', link: '/Disease/MD/Incidence/CD2_INSITU_MELANOMA' },
               { text: 'Melanoma in situ of other and unspecified parts of face', link: '/Disease/MD/Incidence/CD2_INSITU_MELANOMA_FACE' },
               { text: 'Melanoma in situ of lower limb, including hip', link: '/Disease/MD/Incidence/CD2_INSITU_MELANOMA_LOWERLIMB' },
@@ -2066,7 +2064,6 @@ export default defineConfig({
               { text: 'Glomerular disorders in diseases classified elsewhere', link: '/Disease/MD/Incidence/N14_GLOMEINOTH' },
               { text: 'Hydrocele', link: '/Disease/MD/Incidence/N14_HYDROCELE' },
               { text: 'Hydronephrosis', link: '/Disease/MD/Incidence/N14_HYDRONEPHR' },
-              { text: 'Hypertrophy of breast', link: '/Disease/MD/Incidence/N14_HYPERTROPHYBREAST' },
               { text: 'Impotence', link: '/Disease/MD/Incidence/N14_IMPOTENCE' },
               { text: 'Inflammatory disease of cervix uteri', link: '/Disease/MD/Incidence/N14_INFCERVIX' },
               { text: 'Inflammatory disorders of breast', link: '/Disease/MD/Incidence/N14_INFLAMMBREAST' },

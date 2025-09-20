@@ -1,11 +1,11 @@
 Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
-Gly,1.08 [1.05-1.12],0.559,,Glycine
-Omega-6/Omega-3,1.05 [1.03-1.08],1.000,,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+Gly,1.08 [1.05-1.12],0.558,,Glycine
 M-LDL-FC%,1.03 [1.00-1.05],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
-PUFA/MUFA,1.01 [0.99-1.04],1.000,,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
-VLDL-CE,1.01 [0.98-1.03],1.000,,Cholesteryl Esters in VLDL
-MUFA,0.99 [0.96-1.01],1.000,,Monounsaturated Fatty Acids
+M-VLDL-C%,1.02 [1.00-1.05],1.000,,Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-FC%,1.02 [0.99-1.04],1.000,,Free Cholesterol to Total-Lipids in Medium VLDL percentage
+M-LDL-PL%,1.01 [0.99-1.04],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+M-VLDL-TG%,0.99 [0.96-1.01],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
+S-LDL-CE%,0.98 [0.96-1.01],1.000,,Cholesteryl Esters to Total-Lipids in Small LDL percentage
 M-LDL-TG%,0.97 [0.94-0.99],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
-Omega-3,0.96 [0.93-0.98],1.000,,Omega-3 Fatty Acids
-L-HDL-PL%,0.94 [0.92-0.96],0.128,,Phospholipids to Total-Lipids in Large HDL percentage
-Val,0.92 [0.90-0.95],6.255e-04,***,Valine
+L-HDL-PL%,0.94 [0.92-0.96],0.127,,Phospholipids to Total-Lipids in Large HDL percentage
+Val,0.92 [0.90-0.95],6.245e-04,***,Valine

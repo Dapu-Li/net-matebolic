@@ -1,9 +1,9 @@
 Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
 HDL-size,1.14 [1.08-1.19],0.173,,Average Diameter for HDL Particles
-PUFA/MUFA,1.10 [1.05-1.17],1.000,,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
 M-LDL-FC%,1.09 [1.03-1.15],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
-Omega-6/Omega-3,1.07 [1.02-1.12],1.000,,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
-HDL-CE,1.05 [1.00-1.10],1.000,,Cholesteryl Esters in HDL
+M-VLDL-C%,1.08 [1.03-1.14],1.000,,Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-FC%,1.06 [1.01-1.12],1.000,,Free Cholesterol to Total-Lipids in Medium VLDL percentage
+M-LDL-TG%,1.00 [0.95-1.05],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
 Total-FA,0.88 [0.83-0.92],0.044,*,Total-Fatty Acids
 VLDL-L,0.88 [0.83-0.92],0.014,*,Total-Lipids in VLDL
 XL-VLDL-FC,0.87 [0.83-0.92],0.034,*,Free Cholesterol in Very Large VLDL
@@ -21,4 +21,4 @@ XL-VLDL-P,0.87 [0.82-0.91],0.015,*,Concentration of Very Large VLDL Particles
 XL-VLDL-L,0.87 [0.82-0.91],0.008,**,Total-Lipids in Very Large VLDL
 XL-VLDL-TG,0.86 [0.82-0.91],0.013,*,Triglycerides in Very Large VLDL
 L-VLDL-TG,0.86 [0.82-0.91],0.004,**,Triglycerides in Large VLDL
-VLDL-size,0.86 [0.81-0.90],6.536e-04,***,Average Diameter for VLDL Particles
+VLDL-size,0.86 [0.81-0.90],6.525e-04,***,Average Diameter for VLDL Particles

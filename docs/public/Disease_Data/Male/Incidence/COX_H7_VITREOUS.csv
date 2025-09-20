@@ -1,11 +1,11 @@
 Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
-L-LDL-TG%,1.07 [1.00-1.15],1.000,,Triglycerides to Total-Lipids in Large LDL percentage
+M-LDL-TG%,1.07 [1.00-1.14],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+S-HDL-PL%,1.05 [0.97-1.13],1.000,,Phospholipids to Total-Lipids in Small HDL percentage
 M-LDL-PL%,1.04 [0.96-1.12],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
-L-VLDL-TG%,1.02 [0.95-1.11],1.000,,Triglycerides to Total-Lipids in Large VLDL percentage
-M-HDL-PL%,1.02 [0.95-1.10],1.000,,Phospholipids to Total-Lipids in Medium HDL percentage
-L-HDL-PL%,1.01 [0.94-1.08],1.000,,Phospholipids to Total-Lipids in Large HDL percentage
-ApoA1,0.99 [0.91-1.07],1.000,,Apolipoprotein A1
+M-VLDL-TG%,1.03 [0.96-1.11],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
+S-HDL-FC%,1.00 [0.93-1.08],1.000,,Free Cholesterol to Total-Lipids in Small HDL percentage
+M-VLDL-CE%,0.98 [0.92-1.04],1.000,,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
 M-LDL-FC%,0.98 [0.91-1.05],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
-ApoB/ApoA1,0.95 [0.88-1.02],1.000,,Apolipoprotein B to Apolipoprotein A1 ratio
-Total-BCAA,0.94 [0.87-1.02],1.000,,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
-Val,0.94 [0.87-1.01],1.000,,Valine
+M-VLDL-C%,0.97 [0.91-1.04],1.000,,Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-FC%,0.96 [0.89-1.02],1.000,,Free Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-PL%,0.95 [0.89-1.02],1.000,,Phospholipids to Total-Lipids in Medium VLDL percentage

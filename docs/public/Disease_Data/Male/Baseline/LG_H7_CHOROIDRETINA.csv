@@ -1,9 +1,9 @@
 Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
-Gly,1.11 [1.01-1.23],1.000,,Glycine
+M-LDL-TG%,1.12 [1.05-1.20],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+M-VLDL-TG%,1.12 [1.04-1.21],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
 M-LDL-PL%,1.05 [0.97-1.13],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
-Ala,1.03 [0.96-1.10],1.000,,Alanine
-Omega-6/Omega-3,1.03 [0.96-1.10],1.000,,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
-M-HDL-TG%,1.01 [0.94-1.09],1.000,,Triglycerides to Total-Lipids in Medium HDL percentage
+S-HDL-TG%,1.02 [0.95-1.11],1.000,,Triglycerides to Total-Lipids in Small HDL percentage
+S-HDL-PL%,1.02 [0.95-1.10],1.000,,Phospholipids to Total-Lipids in Small HDL percentage
 Total-L,0.84 [0.79-0.90],0.047,*,Total-Lipids in Lipoprotein Particles
 LDL-L,0.84 [0.78-0.90],0.049,*,Total-Lipids in LDL
 LDL-C,0.84 [0.78-0.89],0.047,*,LDL Cholesterol
@@ -18,7 +18,7 @@ Total-CE,0.83 [0.77-0.88],0.007,**,Total-Esterified Cholesterol
 Remnant-C,0.83 [0.77-0.88],0.010,**,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
 L-LDL-PL,0.83 [0.77-0.89],0.023,*,Phospholipids in Large LDL
 Total-FC,0.82 [0.77-0.88],0.008,**,Total-Free Cholesterol
-IDL-FC,0.82 [0.77-0.89],0.039,*,Free Cholesterol in IDL
+IDL-FC,0.82 [0.77-0.89],0.038,*,Free Cholesterol in IDL
 IDL-L,0.82 [0.76-0.88],0.005,**,Total-Lipids in IDL
 IDL-PL,0.82 [0.76-0.88],0.024,*,Phospholipids in IDL
 IDL-C,0.82 [0.76-0.88],0.004,**,Cholesterol in IDL

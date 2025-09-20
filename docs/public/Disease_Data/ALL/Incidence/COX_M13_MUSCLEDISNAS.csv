@@ -1,11 +1,11 @@
 Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
 IDL-PL%,1.25 [1.15-1.36],0.111,,Phospholipids to Total-Lipids in IDL percentage
-M-HDL-TG%,1.08 [0.98-1.18],1.000,,Triglycerides to Total-Lipids in Medium HDL percentage
-M-HDL-PL%,1.07 [0.98-1.17],1.000,,Phospholipids to Total-Lipids in Medium HDL percentage
-Gln,1.07 [0.98-1.17],1.000,,Glutamine
+M-LDL-TG%,1.19 [1.10-1.29],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+M-VLDL-TG%,1.10 [1.01-1.20],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
+S-HDL-PL%,1.01 [0.93-1.11],1.000,,Phospholipids to Total-Lipids in Small HDL percentage
 M-LDL-PL%,1.00 [0.92-1.09],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+M-VLDL-PL%,0.92 [0.85-1.00],1.000,,Phospholipids to Total-Lipids in Medium VLDL percentage
+M-VLDL-C%,0.92 [0.84-1.00],1.000,,Cholesterol to Total-Lipids in Medium VLDL percentage
 M-LDL-FC%,0.92 [0.84-1.00],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
-Remnant-C,0.92 [0.84-0.99],1.000,,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
-Total-C,0.91 [0.83-0.98],1.000,,Total-Cholesterol
 IDL-C%,0.82 [0.76-0.88],0.059,,Cholesterol to Total-Lipids in IDL percentage
 IDL-CE%,0.81 [0.75-0.87],0.023,*,Cholesteryl Esters to Total-Lipids in IDL percentage

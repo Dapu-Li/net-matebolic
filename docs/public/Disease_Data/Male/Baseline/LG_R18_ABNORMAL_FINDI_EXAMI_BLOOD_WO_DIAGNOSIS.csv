@@ -1,9 +1,9 @@
 Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
-L-LDL-TG%,1.11 [1.05-1.18],1.000,,Triglycerides to Total-Lipids in Large LDL percentage
+M-LDL-TG%,1.11 [1.05-1.17],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+M-VLDL-TG%,1.09 [1.02-1.16],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
 M-LDL-PL%,1.08 [1.01-1.14],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
-L-VLDL-FC%,1.02 [0.96-1.09],1.000,,Free Cholesterol to Total-Lipids in Large VLDL percentage
-L-VLDL-TG%,1.01 [0.95-1.08],1.000,,Triglycerides to Total-Lipids in Large VLDL percentage
-L-HDL-TG%,1.01 [0.95-1.07],1.000,,Triglycerides to Total-Lipids in Large HDL percentage
+S-HDL-TG%,1.03 [0.96-1.10],1.000,,Triglycerides to Total-Lipids in Small HDL percentage
+S-HDL-CE%,1.01 [0.95-1.07],1.000,,Cholesteryl Esters to Total-Lipids in Small HDL percentage
 IDL-CE%,0.86 [0.82-0.91],0.006,**,Cholesteryl Esters to Total-Lipids in IDL percentage
 LDL-L,0.86 [0.82-0.91],0.042,*,Total-Lipids in LDL
 LDL-CE,0.86 [0.81-0.91],0.039,*,Cholesteryl Esters in LDL
@@ -25,11 +25,11 @@ L-LDL-FC,0.85 [0.80-0.90],0.011,*,Free Cholesterol in Large LDL
 IDL-FC,0.85 [0.80-0.90],0.014,*,Free Cholesterol in IDL
 Total-PL,0.85 [0.80-0.90],0.004,**,Total-Phospholipids in Lipoprotein Particles
 Total-FC,0.85 [0.80-0.90],0.003,**,Total-Free Cholesterol
-Total-C,0.85 [0.80-0.90],9.213e-04,***,Total-Cholesterol
-Total-CE,0.85 [0.80-0.89],8.078e-04,***,Total-Esterified Cholesterol
+Total-C,0.85 [0.80-0.90],9.202e-04,***,Total-Cholesterol
+Total-CE,0.85 [0.80-0.89],8.068e-04,***,Total-Esterified Cholesterol
 IDL-PL,0.85 [0.80-0.90],0.012,*,Phospholipids in IDL
 PC,0.85 [0.80-0.90],0.008,**,Phosphatidylcholines
-IDL-L,0.84 [0.80-0.89],8.993e-04,***,Total-Lipids in IDL
+IDL-L,0.84 [0.80-0.89],8.982e-04,***,Total-Lipids in IDL
 IDL-P,0.84 [0.79-0.89],0.005,**,Concentration of IDL Particles
-IDL-C,0.84 [0.79-0.89],2.933e-04,***,Cholesterol in IDL
-IDL-CE,0.83 [0.78-0.88],1.111e-04,***,Cholesteryl Esters in IDL
+IDL-C,0.84 [0.79-0.89],2.929e-04,***,Cholesterol in IDL
+IDL-CE,0.83 [0.78-0.88],1.110e-04,***,Cholesteryl Esters in IDL

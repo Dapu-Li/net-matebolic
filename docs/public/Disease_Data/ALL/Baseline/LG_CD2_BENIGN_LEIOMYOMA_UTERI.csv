@@ -1,7 +1,7 @@
 Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
-Omega-3,1.15 [1.12-1.19],1.842e-13,***,Omega-3 Fatty Acids
-Omega-3%,1.15 [1.11-1.19],1.154e-10,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
-DHA,1.12 [1.09-1.16],9.296e-07,***,Docosahexaenoic Acid
+Omega-3,1.15 [1.12-1.19],1.840e-13,***,Omega-3 Fatty Acids
+Omega-3%,1.15 [1.11-1.19],1.153e-10,***,Omega-3 Fatty Acids to Total-Fatty Acids percentage
+DHA,1.12 [1.09-1.16],9.285e-07,***,Docosahexaenoic Acid
 TG/PG,1.10 [1.06-1.14],0.025,*,Triglycerides to Phosphoglycerides ratio
 Total-TG,1.10 [1.06-1.13],0.005,**,Total-Triglycerides
 L-VLDL-L,1.10 [1.06-1.13],0.004,**,Total-Lipids in Large VLDL
@@ -19,12 +19,12 @@ L-VLDL-FC,1.09 [1.06-1.13],0.010,**,Free Cholesterol in Large VLDL
 S-LDL-TG,1.09 [1.06-1.13],0.019,*,Triglycerides in Small LDL
 XL-VLDL-PL,1.09 [1.06-1.13],0.017,*,Phospholipids in Very Large VLDL
 XL-VLDL-FC,1.09 [1.06-1.13],0.027,*,Free Cholesterol in Very Large VLDL
-M-LDL-TG,1.09 [1.05-1.12],0.049,*,Triglycerides in Medium LDL
+M-LDL-TG,1.09 [1.05-1.12],0.048,*,Triglycerides in Medium LDL
 VLDL-PL,1.09 [1.05-1.12],0.029,*,Phospholipids in VLDL
 L-VLDL-C,1.09 [1.05-1.12],0.029,*,Cholesterol in Large VLDL
 S-VLDL-L,1.09 [1.05-1.12],0.033,*,Total-Lipids in Small VLDL
-SFA%,0.99 [0.96-1.03],1.000,,Saturated Fatty Acids to Total-Fatty Acids percentage
-PUFA%,0.98 [0.94-1.01],1.000,,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+M-LDL-PL%,0.99 [0.96-1.02],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+M-VLDL-FC%,0.97 [0.94-1.01],1.000,,Free Cholesterol to Total-Lipids in Medium VLDL percentage
 M-LDL-FC%,0.94 [0.90-0.97],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
 Omega-6%,0.92 [0.89-0.95],0.575,,Omega-6 Fatty Acids to Total-Fatty Acids percentage
-Omega-6/Omega-3,0.86 [0.83-0.89],1.105e-12,***,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+Omega-6/Omega-3,0.86 [0.83-0.89],1.103e-12,***,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio

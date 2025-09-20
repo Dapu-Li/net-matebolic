@@ -1,11 +1,11 @@
 Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
-L-LDL-TG%,1.21 [1.11-1.32],1.000,,Triglycerides to Total-Lipids in Large LDL percentage
-L-VLDL-TG%,1.11 [1.00-1.22],1.000,,Triglycerides to Total-Lipids in Large VLDL percentage
-M-HDL-PL%,1.08 [0.99-1.18],1.000,,Phospholipids to Total-Lipids in Medium HDL percentage
+M-LDL-TG%,1.19 [1.10-1.30],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+M-VLDL-TG%,1.19 [1.08-1.31],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
+S-HDL-PL%,1.10 [1.00-1.21],1.000,,Phospholipids to Total-Lipids in Small HDL percentage
+S-HDL-TG%,1.03 [0.94-1.14],1.000,,Triglycerides to Total-Lipids in Small HDL percentage
 M-LDL-PL%,1.03 [0.94-1.13],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
-M-HDL-TG%,1.02 [0.93-1.12],1.000,,Triglycerides to Total-Lipids in Medium HDL percentage
-LDL-C,0.81 [0.74-0.88],0.565,,LDL Cholesterol
+LDL-C,0.81 [0.74-0.88],0.564,,LDL Cholesterol
 Non-HDL-C,0.81 [0.74-0.88],0.321,,Total-Cholesterol Minus HDL-C
 Clinical LDL-C,0.81 [0.74-0.88],0.220,,Clinical LDL Cholesterol
-L-LDL-C,0.81 [0.74-0.88],0.513,,Cholesterol in Large LDL
+L-LDL-C,0.81 [0.74-0.88],0.512,,Cholesterol in Large LDL
 L-LDL-C%,0.81 [0.74-0.87],0.022,*,Cholesterol to Total-Lipids in Large LDL percentage

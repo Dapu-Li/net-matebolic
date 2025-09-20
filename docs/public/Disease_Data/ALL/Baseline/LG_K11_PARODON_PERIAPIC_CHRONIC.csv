@@ -1,11 +1,11 @@
 Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
-Total-C,1.09 [0.96-1.24],1.000,,Total-Cholesterol
+M-VLDL-CE%,1.13 [0.98-1.30],1.000,,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
+M-VLDL-C%,1.13 [0.98-1.29],1.000,,Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-FC%,1.12 [0.98-1.28],1.000,,Free Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-PL%,1.12 [0.98-1.28],1.000,,Phospholipids to Total-Lipids in Medium VLDL percentage
 M-LDL-FC%,1.08 [0.95-1.24],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
-Remnant-C,1.07 [0.95-1.22],1.000,,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
-HDL-CE,1.05 [0.92-1.20],1.000,,Cholesteryl Esters in HDL
-VLDL-C,1.03 [0.91-1.17],1.000,,VLDL Cholesterol
 M-LDL-PL%,1.00 [0.88-1.13],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
-Tyr,0.95 [0.83-1.09],1.000,,Tyrosine
-Total-BCAA,0.84 [0.73-0.96],1.000,,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
-Leu,0.83 [0.72-0.95],1.000,,Leucine
-Ile,0.83 [0.72-0.95],1.000,,Isoleucine
+S-LDL-CE%,0.99 [0.87-1.13],1.000,,Cholesteryl Esters to Total-Lipids in Small LDL percentage
+S-HDL-TG%,0.93 [0.81-1.06],1.000,,Triglycerides to Total-Lipids in Small HDL percentage
+M-VLDL-TG%,0.91 [0.80-1.04],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
+M-LDL-TG%,0.89 [0.78-1.02],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage

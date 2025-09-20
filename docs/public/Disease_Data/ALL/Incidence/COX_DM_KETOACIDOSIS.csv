@@ -1,70 +1,71 @@
 Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
-Glu-lactate,1.72 [1.52-1.93],2.546e-13,***,Glucose-lactate
-Glu,1.65 [1.44-1.89],6.029e-08,***,Glucose
-Ala,1.65 [1.41-1.94],2.398e-04,***,Alanine
-XS-VLDL-TG%,1.61 [1.40-1.86],8.870e-06,***,Triglycerides to Total-Lipids in Very Small VLDL percentage
+Glu-lactate,1.72 [1.52-1.93],2.541e-13,***,Glucose-lactate
+Glu,1.65 [1.44-1.89],6.019e-08,***,Glucose
+Ala,1.65 [1.41-1.94],2.394e-04,***,Alanine
+XS-VLDL-TG%,1.61 [1.40-1.86],8.856e-06,***,Triglycerides to Total-Lipids in Very Small VLDL percentage
 S-VLDL-TG%,1.58 [1.35-1.84],0.002,**,Triglycerides to Total-Lipids in Small VLDL percentage
-IDL-TG%,1.57 [1.38-1.79],2.141e-06,***,Triglycerides to Total-Lipids in IDL percentage
-L-LDL-TG%,1.56 [1.37-1.77],3.265e-06,***,Triglycerides to Total-Lipids in Large LDL percentage
-M-LDL-TG%,1.55 [1.37-1.76],1.991e-06,***,Triglycerides to Total-Lipids in Medium LDL percentage
+IDL-TG%,1.57 [1.38-1.79],2.137e-06,***,Triglycerides to Total-Lipids in IDL percentage
+L-LDL-TG%,1.56 [1.37-1.77],3.260e-06,***,Triglycerides to Total-Lipids in Large LDL percentage
+M-LDL-TG%,1.55 [1.37-1.76],1.987e-06,***,Triglycerides to Total-Lipids in Medium LDL percentage
 M-VLDL-TG%,1.53 [1.32-1.78],0.009,**,Triglycerides to Total-Lipids in Medium VLDL percentage
 XS-VLDL-PL%,1.52 [1.31-1.75],0.004,**,Phospholipids to Total-Lipids in Very Small VLDL percentage
-Sc-ala,1.49 [1.31-1.70],3.183e-04,***,Spectrometer-corrected alanine
+Sc-ala,1.49 [1.31-1.70],3.178e-04,***,Spectrometer-corrected alanine
 M-VLDL-CE%,0.75 [0.68-0.82],0.002,**,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
+L-LDL-FC%,0.73 [0.65-0.82],0.050,*,Free Cholesterol to Total-Lipids in Large LDL percentage
 S-VLDL-CE%,0.72 [0.63-0.81],0.048,*,Cholesteryl Esters to Total-Lipids in Small VLDL percentage
 M-VLDL-C%,0.71 [0.64-0.80],0.002,**,Cholesterol to Total-Lipids in Medium VLDL percentage
 L-LDL-C%,0.70 [0.62-0.79],0.003,**,Cholesterol to Total-Lipids in Large LDL percentage
-IDL-C%,0.69 [0.62-0.77],2.550e-05,***,Cholesterol to Total-Lipids in IDL percentage
-M-VLDL-FC%,0.69 [0.61-0.78],6.806e-04,***,Free Cholesterol to Total-Lipids in Medium VLDL percentage
-IDL-CE%,0.69 [0.61-0.77],5.903e-05,***,Cholesteryl Esters to Total-Lipids in IDL percentage
-S-VLDL-C%,0.68 [0.60-0.78],7.451e-04,***,Cholesterol to Total-Lipids in Small VLDL percentage
+IDL-C%,0.69 [0.62-0.77],2.545e-05,***,Cholesterol to Total-Lipids in IDL percentage
+M-VLDL-FC%,0.69 [0.61-0.78],6.795e-04,***,Free Cholesterol to Total-Lipids in Medium VLDL percentage
+IDL-CE%,0.69 [0.61-0.77],5.893e-05,***,Cholesteryl Esters to Total-Lipids in IDL percentage
+S-VLDL-C%,0.68 [0.60-0.78],7.439e-04,***,Cholesterol to Total-Lipids in Small VLDL percentage
 S-LDL-L,0.68 [0.59-0.79],0.040,*,Total-Lipids in Small LDL
-M-VLDL-PL%,0.68 [0.60-0.77],7.793e-05,***,Phospholipids to Total-Lipids in Medium VLDL percentage
+M-VLDL-PL%,0.68 [0.60-0.77],7.780e-05,***,Phospholipids to Total-Lipids in Medium VLDL percentage
 M-LDL-L,0.68 [0.59-0.78],0.014,*,Total-Lipids in Medium LDL
 M-LDL-PL,0.67 [0.58-0.78],0.030,*,Phospholipids in Medium LDL
 M-LDL-CE,0.67 [0.58-0.78],0.016,*,Cholesteryl Esters in Medium LDL
 S-VLDL-FC,0.67 [0.58-0.78],0.044,*,Free Cholesterol in Small VLDL
-M-LDL-C%,0.67 [0.60-0.75],2.630e-07,***,Cholesterol to Total-Lipids in Medium LDL percentage
+M-LDL-C%,0.67 [0.60-0.75],2.626e-07,***,Cholesterol to Total-Lipids in Medium LDL percentage
 S-LDL-CE,0.67 [0.58-0.77],0.015,*,Cholesteryl Esters in Small LDL
 M-LDL-P,0.67 [0.57-0.77],0.035,*,Concentration of Medium LDL Particles
-LDL-L,0.67 [0.58-0.76],7.231e-04,***,Total-Lipids in LDL
+LDL-L,0.67 [0.58-0.76],7.219e-04,***,Total-Lipids in LDL
 SM,0.66 [0.57-0.77],0.030,*,Sphingomyelins
-S-VLDL-FC%,0.66 [0.59-0.75],5.105e-05,***,Free Cholesterol to Total-Lipids in Small VLDL percentage
-XS-VLDL-C%,0.66 [0.59-0.75],1.923e-06,***,Cholesterol to Total-Lipids in Very Small VLDL percentage
+S-VLDL-FC%,0.66 [0.59-0.75],5.097e-05,***,Free Cholesterol to Total-Lipids in Small VLDL percentage
+XS-VLDL-C%,0.66 [0.59-0.75],1.920e-06,***,Cholesterol to Total-Lipids in Very Small VLDL percentage
 S-LDL-FC,0.66 [0.57-0.76],0.004,**,Free Cholesterol in Small LDL
-LDL-CE,0.66 [0.58-0.76],9.930e-04,***,Cholesteryl Esters in LDL
+LDL-CE,0.66 [0.58-0.76],9.914e-04,***,Cholesteryl Esters in LDL
 M-LDL-C,0.66 [0.57-0.76],0.003,**,Cholesterol in Medium LDL
-XS-VLDL-CE%,0.66 [0.59-0.74],5.919e-07,***,Cholesteryl Esters to Total-Lipids in Very Small VLDL percentage
+XS-VLDL-CE%,0.66 [0.59-0.74],5.910e-07,***,Cholesteryl Esters to Total-Lipids in Very Small VLDL percentage
 M-VLDL-FC,0.66 [0.57-0.76],0.013,*,Free Cholesterol in Medium VLDL
 S-LDL-C,0.66 [0.57-0.76],0.004,**,Cholesterol in Small LDL
 VLDL-CE,0.66 [0.57-0.76],0.003,**,Cholesteryl Esters in VLDL
 L-LDL-CE,0.66 [0.57-0.75],0.001,**,Cholesteryl Esters in Large LDL
-L-LDL-L,0.65 [0.57-0.75],3.650e-04,***,Total-Lipids in Large LDL
-LDL-C,0.65 [0.57-0.75],2.204e-04,***,LDL Cholesterol
+L-LDL-L,0.65 [0.57-0.75],3.644e-04,***,Total-Lipids in Large LDL
+LDL-C,0.65 [0.57-0.75],2.200e-04,***,LDL Cholesterol
 LDL-P,0.65 [0.56-0.76],0.008,**,Concentration of LDL Particles
 L-LDL-P,0.65 [0.56-0.76],0.008,**,Concentration of Large LDL Particles
-S-VLDL-PL%,0.65 [0.57-0.75],1.497e-04,***,Phospholipids to Total-Lipids in Small VLDL percentage
-ApoB,0.65 [0.56-0.75],6.571e-04,***,Apolipoprotein B
-L-LDL-C,0.65 [0.56-0.74],1.978e-04,***,Cholesterol in Large LDL
-LDL-PL,0.65 [0.56-0.74],3.687e-04,***,Phospholipids in LDL
-Non-HDL-C,0.64 [0.56-0.73],1.461e-05,***,Total-Cholesterol Minus HDL-C
-M-LDL-FC,0.64 [0.55-0.74],8.404e-04,***,Free Cholesterol in Medium LDL
-Total-C,0.64 [0.56-0.73],1.752e-05,***,Total-Cholesterol
-Total-CE,0.64 [0.56-0.73],2.155e-05,***,Total-Esterified Cholesterol
-Clinical LDL-C,0.64 [0.56-0.73],4.088e-06,***,Clinical LDL Cholesterol
-S-LDL-C%,0.64 [0.56-0.72],2.906e-08,***,Cholesterol to Total-Lipids in Small LDL percentage
-Total-FC,0.63 [0.55-0.73],3.835e-05,***,Total-Free Cholesterol
+S-VLDL-PL%,0.65 [0.57-0.75],1.494e-04,***,Phospholipids to Total-Lipids in Small VLDL percentage
+ApoB,0.65 [0.56-0.75],6.560e-04,***,Apolipoprotein B
+L-LDL-C,0.65 [0.56-0.74],1.974e-04,***,Cholesterol in Large LDL
+LDL-PL,0.65 [0.56-0.74],3.680e-04,***,Phospholipids in LDL
+Non-HDL-C,0.64 [0.56-0.73],1.458e-05,***,Total-Cholesterol Minus HDL-C
+M-LDL-FC,0.64 [0.55-0.74],8.390e-04,***,Free Cholesterol in Medium LDL
+Total-C,0.64 [0.56-0.73],1.749e-05,***,Total-Cholesterol
+Total-CE,0.64 [0.56-0.73],2.151e-05,***,Total-Esterified Cholesterol
+Clinical LDL-C,0.64 [0.56-0.73],4.081e-06,***,Clinical LDL Cholesterol
+S-LDL-C%,0.64 [0.56-0.72],2.901e-08,***,Cholesterol to Total-Lipids in Small LDL percentage
+Total-FC,0.63 [0.55-0.73],3.829e-05,***,Total-Free Cholesterol
 XS-VLDL-C,0.63 [0.54-0.74],0.001,**,Cholesterol in Very Small VLDL
-Remnant-C,0.63 [0.55-0.72],8.584e-06,***,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
-LDL-FC,0.63 [0.54-0.72],4.881e-05,***,Free Cholesterol in LDL
-L-LDL-PL,0.62 [0.54-0.72],3.145e-05,***,Phospholipids in Large LDL
-IDL-L,0.62 [0.54-0.71],2.765e-06,***,Total-Lipids in IDL
-M-VLDL-C,0.61 [0.53-0.71],4.556e-05,***,Cholesterol in Medium VLDL
-IDL-PL,0.61 [0.53-0.71],4.857e-05,***,Phospholipids in IDL
-L-LDL-FC,0.61 [0.53-0.71],1.703e-05,***,Free Cholesterol in Large LDL
-XS-VLDL-CE,0.61 [0.52-0.71],8.444e-05,***,Cholesteryl Esters in Very Small VLDL
-IDL-FC,0.60 [0.51-0.69],3.827e-06,***,Free Cholesterol in IDL
-M-VLDL-CE,0.60 [0.51-0.69],5.367e-06,***,Cholesteryl Esters in Medium VLDL
-IDL-C,0.60 [0.52-0.69],2.148e-07,***,Cholesterol in IDL
-IDL-CE,0.59 [0.51-0.68],1.697e-07,***,Cholesteryl Esters in IDL
-IDL-P,0.59 [0.51-0.69],5.185e-06,***,Concentration of IDL Particles
+Remnant-C,0.63 [0.55-0.72],8.570e-06,***,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
+LDL-FC,0.63 [0.54-0.72],4.873e-05,***,Free Cholesterol in LDL
+L-LDL-PL,0.62 [0.54-0.72],3.140e-05,***,Phospholipids in Large LDL
+IDL-L,0.62 [0.54-0.71],2.760e-06,***,Total-Lipids in IDL
+M-VLDL-C,0.61 [0.53-0.71],4.549e-05,***,Cholesterol in Medium VLDL
+IDL-PL,0.61 [0.53-0.71],4.848e-05,***,Phospholipids in IDL
+L-LDL-FC,0.61 [0.53-0.71],1.701e-05,***,Free Cholesterol in Large LDL
+XS-VLDL-CE,0.61 [0.52-0.71],8.430e-05,***,Cholesteryl Esters in Very Small VLDL
+IDL-FC,0.60 [0.51-0.69],3.821e-06,***,Free Cholesterol in IDL
+M-VLDL-CE,0.60 [0.51-0.69],5.358e-06,***,Cholesteryl Esters in Medium VLDL
+IDL-C,0.60 [0.52-0.69],2.145e-07,***,Cholesterol in IDL
+IDL-CE,0.59 [0.51-0.68],1.694e-07,***,Cholesteryl Esters in IDL
+IDL-P,0.59 [0.51-0.69],5.176e-06,***,Concentration of IDL Particles

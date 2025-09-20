@@ -1,11 +1,11 @@
 Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
-GlycA,1.22 [1.14-1.32],0.012,*,Glycoprotein Acetyls
+GlycA,1.22 [1.14-1.32],0.011,*,Glycoprotein Acetyls
+S-HDL-TG%,1.09 [1.00-1.17],1.000,,Triglycerides to Total-Lipids in Small HDL percentage
 M-LDL-TG%,1.08 [1.01-1.16],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
-ApoB,1.02 [0.95-1.09],1.000,,Apolipoprotein B
-Non-HDL-C,1.00 [0.94-1.08],1.000,,Total-Cholesterol Minus HDL-C
-ApoA1,1.00 [0.93-1.09],1.000,,Apolipoprotein A1
-LDL-CE,1.00 [0.93-1.07],1.000,,Cholesteryl Esters in LDL
-Total-CE,1.00 [0.93-1.07],1.000,,Total-Esterified Cholesterol
-LDL-C,0.99 [0.93-1.06],1.000,,LDL Cholesterol
-HDL-CE,0.99 [0.91-1.08],1.000,,Cholesteryl Esters in HDL
+S-HDL-FC%,1.04 [0.96-1.12],1.000,,Free Cholesterol to Total-Lipids in Small HDL percentage
+M-VLDL-TG%,1.03 [0.95-1.11],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
+M-VLDL-FC%,0.98 [0.91-1.05],1.000,,Free Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-C%,0.97 [0.91-1.03],1.000,,Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-CE%,0.97 [0.91-1.03],1.000,,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
+M-LDL-PL%,0.95 [0.89-1.02],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
 M-LDL-FC%,0.92 [0.86-0.99],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage

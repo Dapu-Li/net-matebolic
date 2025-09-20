@@ -1,9 +1,9 @@
 Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
 Lactate,1.60 [1.34-1.90],0.044,*,Lactate
-L-LDL-TG%,1.33 [1.13-1.58],1.000,,Triglycerides to Total-Lipids in Large LDL percentage
+M-LDL-TG%,1.29 [1.09-1.52],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+S-HDL-TG%,1.25 [1.04-1.50],1.000,,Triglycerides to Total-Lipids in Small HDL percentage
 M-LDL-PL%,1.17 [0.98-1.40],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
-L-VLDL-C%,1.06 [0.89-1.26],1.000,,Cholesterol to Total-Lipids in Large VLDL percentage
-L-VLDL-CE%,1.04 [0.87-1.25],1.000,,Cholesteryl Esters to Total-Lipids in Large VLDL percentage
+M-VLDL-TG%,1.14 [0.95-1.37],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
 Total-C,0.63 [0.54-0.75],0.016,*,Total-Cholesterol
 Total-CE,0.62 [0.53-0.73],0.006,**,Total-Esterified Cholesterol
 Phosphoglyc,0.62 [0.52-0.74],0.027,*,Phosphoglycerides
@@ -11,10 +11,10 @@ Total-PL,0.61 [0.52-0.73],0.008,**,Total-Phospholipids in Lipoprotein Particles
 Cholines,0.61 [0.51-0.73],0.014,*,Total-Cholines
 S-HDL-L,0.61 [0.51-0.72],0.010,**,Total-Lipids in Small HDL
 PC,0.60 [0.51-0.72],0.009,**,Phosphatidylcholines
-M-HDL-FC%,0.60 [0.51-0.71],1.669e-04,***,Free Cholesterol to Total-Lipids in Medium HDL percentage
+M-HDL-FC%,0.60 [0.51-0.71],1.666e-04,***,Free Cholesterol to Total-Lipids in Medium HDL percentage
 S-HDL-CE,0.59 [0.49-0.70],0.001,**,Cholesteryl Esters in Small HDL
-S-HDL-P,0.57 [0.48-0.69],8.324e-04,***,Concentration of Small HDL Particles
-S-HDL-C,0.57 [0.48-0.68],2.565e-04,***,Cholesterol in Small HDL
-S-HDL-FC,0.57 [0.47-0.69],7.715e-04,***,Free Cholesterol in Small HDL
+S-HDL-P,0.57 [0.48-0.69],8.311e-04,***,Concentration of Small HDL Particles
+S-HDL-C,0.57 [0.48-0.68],2.561e-04,***,Cholesterol in Small HDL
+S-HDL-FC,0.57 [0.47-0.69],7.703e-04,***,Free Cholesterol in Small HDL
 HDL-P,0.55 [0.45-0.67],0.001,**,Concentration of HDL Particles
-Total-P,0.54 [0.45-0.66],1.596e-04,***,Total-Concentration of Lipoprotein Particles
+Total-P,0.54 [0.45-0.66],1.593e-04,***,Total-Concentration of Lipoprotein Particles

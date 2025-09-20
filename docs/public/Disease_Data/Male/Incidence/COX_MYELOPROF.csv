@@ -1,13 +1,13 @@
 Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
-Lactate,1.47 [1.31-1.65],1.163e-05,***,Lactate
+Lactate,1.47 [1.31-1.65],1.161e-05,***,Lactate
 IDL-PL%,1.38 [1.23-1.54],0.004,**,Phospholipids to Total-Lipids in IDL percentage
 XS-VLDL-PL%,1.33 [1.19-1.48],0.140,,Phospholipids to Total-Lipids in Very Small VLDL percentage
-TG/PG,1.07 [0.95-1.20],1.000,,Triglycerides to Phosphoglycerides ratio
-M-LDL-PL%,1.02 [0.91-1.14],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+M-VLDL-TG%,1.18 [1.05-1.33],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
+S-HDL-TG%,1.16 [1.02-1.31],1.000,,Triglycerides to Total-Lipids in Small HDL percentage
 Non-HDL-C,0.75 [0.67-0.83],0.026,*,Total-Cholesterol Minus HDL-C
-IDL-CE%,0.75 [0.68-0.82],9.602e-04,***,Cholesteryl Esters to Total-Lipids in IDL percentage
+IDL-CE%,0.75 [0.68-0.82],9.587e-04,***,Cholesteryl Esters to Total-Lipids in IDL percentage
 M-HDL-FC%,0.75 [0.67-0.83],0.018,*,Free Cholesterol to Total-Lipids in Medium HDL percentage
-Total-FC,0.74 [0.66-0.83],0.026,*,Total-Free Cholesterol
+Total-FC,0.74 [0.66-0.83],0.025,*,Total-Free Cholesterol
 IDL-L,0.74 [0.66-0.83],0.027,*,Total-Lipids in IDL
 S-LDL-L,0.73 [0.65-0.82],0.028,*,Total-Lipids in Small LDL
 LDL-L,0.73 [0.66-0.81],0.003,**,Total-Lipids in LDL
@@ -27,7 +27,7 @@ S-HDL-P,0.73 [0.65-0.82],0.024,*,Concentration of Small HDL Particles
 S-HDL-C,0.72 [0.65-0.81],0.011,*,Cholesterol in Small HDL
 M-LDL-C,0.72 [0.65-0.81],0.005,**,Cholesterol in Medium LDL
 IDL-C,0.72 [0.65-0.81],0.005,**,Cholesterol in IDL
-Total-CE,0.72 [0.65-0.80],6.782e-04,***,Total-Esterified Cholesterol
+Total-CE,0.72 [0.65-0.80],6.771e-04,***,Total-Esterified Cholesterol
 L-LDL-FC,0.72 [0.64-0.80],0.004,**,Free Cholesterol in Large LDL
 M-LDL-PL,0.72 [0.64-0.80],0.005,**,Phospholipids in Medium LDL
 LDL-PL,0.72 [0.64-0.80],0.002,**,Phospholipids in LDL

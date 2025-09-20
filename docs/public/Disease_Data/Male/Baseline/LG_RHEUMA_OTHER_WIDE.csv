@@ -1,11 +1,11 @@
 Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
-GlycA,1.58 [1.41-1.77],6.412e-10,***,Glycoprotein Acetyls
+GlycA,1.58 [1.41-1.77],6.404e-10,***,Glycoprotein Acetyls
 Phe,1.36 [1.21-1.51],0.011,*,Phenylalanine
 XS-VLDL-PL%,1.32 [1.17-1.48],0.634,,Phospholipids to Total-Lipids in Very Small VLDL percentage
+S-LDL-PL%,1.27 [1.13-1.43],1.000,,Phospholipids to Total-Lipids in Small LDL percentage
 M-LDL-PL%,1.06 [0.94-1.20],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
-L-HDL-PL%,1.05 [0.94-1.18],1.000,,Phospholipids to Total-Lipids in Large HDL percentage
-M-LDL-FC%,0.96 [0.86-1.08],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
-Clinical LDL-C,0.79 [0.70-0.88],1.000,,Clinical LDL Cholesterol
-S-LDL-C%,0.78 [0.71-0.87],0.669,,Cholesterol to Total-Lipids in Small LDL percentage
+M-VLDL-CE%,0.97 [0.87-1.07],1.000,,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
+M-VLDL-PL%,0.91 [0.81-1.01],1.000,,Phospholipids to Total-Lipids in Medium VLDL percentage
+S-LDL-C%,0.78 [0.71-0.87],0.668,,Cholesterol to Total-Lipids in Small LDL percentage
 L-LDL-C%,0.78 [0.70-0.86],0.355,,Cholesterol to Total-Lipids in Large LDL percentage
-Albumin,0.73 [0.65-0.81],4.979e-04,***,Albumin
+Albumin,0.73 [0.65-0.81],4.973e-04,***,Albumin

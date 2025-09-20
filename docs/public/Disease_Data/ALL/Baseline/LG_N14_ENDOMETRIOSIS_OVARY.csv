@@ -4,8 +4,8 @@ MUFA,1.31 [1.18-1.45],0.066,,Monounsaturated Fatty Acids
 M-LDL-TG,1.30 [1.18-1.43],0.018,*,Triglycerides in Medium LDL
 LDL-TG,1.30 [1.18-1.43],0.020,*,Triglycerides in LDL
 L-LDL-TG,1.29 [1.17-1.42],0.026,*,Triglycerides in Large LDL
-L-HDL-FC%,0.88 [0.78-0.99],1.000,,Free Cholesterol to Total-Lipids in Large HDL percentage
+M-LDL-PL%,0.95 [0.86-1.04],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+M-VLDL-FC%,0.91 [0.82-1.01],1.000,,Free Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-C%,0.87 [0.78-0.97],1.000,,Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-CE%,0.86 [0.77-0.96],1.000,,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
 M-LDL-FC%,0.83 [0.75-0.93],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
-L-HDL-CE%,0.82 [0.73-0.92],1.000,,Cholesteryl Esters to Total-Lipids in Large HDL percentage
-L-LDL-FC%,0.82 [0.74-0.91],1.000,,Free Cholesterol to Total-Lipids in Large LDL percentage
-L-HDL-C%,0.81 [0.72-0.91],1.000,,Cholesterol to Total-Lipids in Large HDL percentage

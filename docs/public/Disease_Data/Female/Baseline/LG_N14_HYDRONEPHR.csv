@@ -1,11 +1,11 @@
 Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
-Creatinine,1.89 [1.58-2.26],5.383e-07,***,Creatinine
-Phe,1.06 [0.90-1.24],1.000,,Phenylalanine
-ApoB/ApoA1,1.03 [0.88-1.22],1.000,,Apolipoprotein B to Apolipoprotein A1 ratio
-Gly,1.02 [0.87-1.18],1.000,,Glycine
-Omega-6/Omega-3,1.01 [0.85-1.20],1.000,,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
-VLDL-C,0.97 [0.83-1.14],1.000,,VLDL Cholesterol
-Remnant-C,0.91 [0.77-1.07],1.000,,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
-Non-HDL-C,0.90 [0.76-1.06],1.000,,Total-Cholesterol Minus HDL-C
+Creatinine,1.89 [1.58-2.26],5.377e-07,***,Creatinine
+M-LDL-TG%,1.18 [1.00-1.39],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+M-VLDL-TG%,1.15 [0.97-1.37],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
+M-LDL-PL%,1.09 [0.92-1.28],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+S-LDL-PL%,1.02 [0.87-1.20],1.000,,Phospholipids to Total-Lipids in Small LDL percentage
 M-LDL-FC%,0.88 [0.74-1.04],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
-Total-C,0.85 [0.72-1.01],1.000,,Total-Cholesterol
+M-VLDL-FC%,0.85 [0.72-1.01],1.000,,Free Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-PL%,0.85 [0.72-1.00],1.000,,Phospholipids to Total-Lipids in Medium VLDL percentage
+M-VLDL-C%,0.82 [0.70-0.97],1.000,,Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-CE%,0.81 [0.69-0.95],1.000,,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage

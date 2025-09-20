@@ -2,8 +2,8 @@ Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
 L-LDL-TG%,1.19 [1.12-1.26],0.001,**,Triglycerides to Total-Lipids in Large LDL percentage
 IDL-TG%,1.18 [1.11-1.25],0.009,**,Triglycerides to Total-Lipids in IDL percentage
 M-LDL-TG%,1.16 [1.10-1.23],0.062,,Triglycerides to Total-Lipids in Medium LDL percentage
-L-HDL-TG%,1.11 [1.04-1.18],1.000,,Triglycerides to Total-Lipids in Large HDL percentage
-L-HDL-PL%,1.07 [1.00-1.14],1.000,,Phospholipids to Total-Lipids in Large HDL percentage
+M-VLDL-TG%,1.10 [1.04-1.17],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
+S-LDL-PL%,1.04 [0.98-1.10],1.000,,Phospholipids to Total-Lipids in Small LDL percentage
 LDL-C,0.86 [0.81-0.91],0.036,*,LDL Cholesterol
 L-LDL-L,0.86 [0.81-0.91],0.032,*,Total-Lipids in Large LDL
 Clinical LDL-C,0.86 [0.81-0.91],0.017,*,Clinical LDL Cholesterol
@@ -12,13 +12,13 @@ L-LDL-CE,0.86 [0.81-0.91],0.024,*,Cholesteryl Esters in Large LDL
 LDL-FC,0.86 [0.81-0.91],0.021,*,Free Cholesterol in LDL
 IDL-C%,0.85 [0.81-0.90],0.005,**,Cholesterol to Total-Lipids in IDL percentage
 Omega-6,0.85 [0.80-0.91],0.032,*,Omega-6 Fatty Acids
-L-LDL-C,0.85 [0.80-0.90],0.012,*,Cholesterol in Large LDL
 L-LDL-FC,0.85 [0.80-0.90],0.014,*,Free Cholesterol in Large LDL
+L-LDL-C,0.85 [0.80-0.90],0.012,*,Cholesterol in Large LDL
 IDL-C,0.85 [0.80-0.90],0.010,**,Cholesterol in IDL
 Total-P,0.85 [0.80-0.90],0.025,*,Total-Concentration of Lipoprotein Particles
 IDL-CE,0.85 [0.80-0.90],0.004,**,Cholesteryl Esters in IDL
 PUFA,0.84 [0.79-0.89],0.005,**,Polyunsaturated Fatty Acids
 Total-C,0.84 [0.79-0.89],0.002,**,Total-Cholesterol
-IDL-CE%,0.84 [0.80-0.89],1.556e-04,***,Cholesteryl Esters to Total-Lipids in IDL percentage
-Total-CE,0.84 [0.79-0.89],7.015e-04,***,Total-Esterified Cholesterol
-L-LDL-C%,0.82 [0.77-0.87],5.755e-06,***,Cholesterol to Total-Lipids in Large LDL percentage
+IDL-CE%,0.84 [0.80-0.89],1.554e-04,***,Cholesteryl Esters to Total-Lipids in IDL percentage
+Total-CE,0.84 [0.79-0.89],7.007e-04,***,Total-Esterified Cholesterol
+L-LDL-C%,0.82 [0.77-0.87],5.748e-06,***,Cholesterol to Total-Lipids in Large LDL percentage

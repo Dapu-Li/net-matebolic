@@ -1,11 +1,11 @@
 Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
-L-LDL-TG%,1.29 [1.16-1.44],0.829,,Triglycerides to Total-Lipids in Large LDL percentage
+L-LDL-TG%,1.29 [1.16-1.44],0.828,,Triglycerides to Total-Lipids in Large LDL percentage
 M-LDL-TG%,1.29 [1.16-1.42],0.268,,Triglycerides to Total-Lipids in Medium LDL percentage
-IDL-PL%,1.10 [1.00-1.22],1.000,,Phospholipids to Total-Lipids in IDL percentage
-TG/PG,1.09 [0.97-1.22],1.000,,Triglycerides to Phosphoglycerides ratio
-XXL-VLDL-TG,1.07 [0.95-1.19],1.000,,Triglycerides in Chylomicrons and Extremely Large VLDL
+M-VLDL-TG%,1.16 [1.05-1.29],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
+S-HDL-TG%,1.09 [0.98-1.22],1.000,,Triglycerides to Total-Lipids in Small HDL percentage
+S-HDL-FC%,1.02 [0.92-1.13],1.000,,Free Cholesterol to Total-Lipids in Small HDL percentage
+M-LDL-PL%,0.98 [0.89-1.08],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
 M-LDL-FC%,0.84 [0.76-0.94],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
-Remnant-C,0.84 [0.76-0.93],1.000,,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
-Non-HDL-C,0.82 [0.74-0.91],1.000,,Total-Cholesterol Minus HDL-C
-Total-C,0.82 [0.73-0.91],1.000,,Total-Cholesterol
+M-VLDL-FC%,0.84 [0.76-0.93],1.000,,Free Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-C%,0.83 [0.74-0.92],1.000,,Cholesterol to Total-Lipids in Medium VLDL percentage
 S-LDL-C%,0.77 [0.70-0.85],0.045,*,Cholesterol to Total-Lipids in Small LDL percentage

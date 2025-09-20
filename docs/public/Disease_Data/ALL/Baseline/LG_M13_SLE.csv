@@ -1,11 +1,11 @@
 Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
 M-LDL-TG%,1.38 [1.16-1.63],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
-HDL-FC,1.20 [1.01-1.43],1.000,,Free Cholesterol in HDL
-DHA,1.09 [0.91-1.30],1.000,,Docosahexaenoic Acid
-Unsaturation,1.04 [0.87-1.26],1.000,,Degree of Unsaturation
-Omega-3,1.03 [0.86-1.24],1.000,,Omega-3 Fatty Acids
+S-HDL-PL%,1.28 [1.07-1.52],1.000,,Phospholipids to Total-Lipids in Small HDL percentage
+S-HDL-FC%,1.27 [1.07-1.51],1.000,,Free Cholesterol to Total-Lipids in Small HDL percentage
+S-HDL-TG%,1.00 [0.83-1.21],1.000,,Triglycerides to Total-Lipids in Small HDL percentage
+M-VLDL-TG%,1.00 [0.83-1.20],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
+M-VLDL-FC%,0.99 [0.83-1.19],1.000,,Free Cholesterol to Total-Lipids in Medium VLDL percentage
 M-LDL-FC%,0.98 [0.82-1.18],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
-Ile,0.66 [0.53-0.82],1.000,,Isoleucine
-Val,0.61 [0.50-0.75],0.787,,Valine
+Val,0.61 [0.50-0.75],0.786,,Valine
 Total-BCAA,0.58 [0.47-0.72],0.146,,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
 Leu,0.54 [0.44-0.68],0.012,*,Leucine

@@ -1,18 +1,18 @@
 Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
-HDL-C,1.44 [1.28-1.61],6.740e-05,***,HDL Cholesterol
-HDL-CE,1.44 [1.28-1.61],6.850e-05,***,Cholesteryl Esters in HDL
-HDL-L,1.43 [1.28-1.60],1.594e-04,***,Total-Lipids in HDL
-ApoA1,1.43 [1.27-1.59],1.065e-04,***,Apolipoprotein A1
-M-HDL-C,1.42 [1.27-1.59],1.030e-04,***,Cholesterol in Medium HDL
-Total-P,1.42 [1.27-1.58],3.765e-05,***,Total-Concentration of Lipoprotein Particles
-M-HDL-CE,1.42 [1.27-1.58],1.238e-04,***,Cholesteryl Esters in Medium HDL
-HDL-P,1.41 [1.27-1.57],4.600e-05,***,Concentration of HDL Particles
-HDL-PL,1.41 [1.26-1.58],3.690e-04,***,Phospholipids in HDL
-M-HDL-FC,1.41 [1.27-1.57],7.074e-05,***,Free Cholesterol in Medium HDL
+HDL-C,1.44 [1.28-1.61],6.732e-05,***,HDL Cholesterol
+HDL-CE,1.44 [1.28-1.61],6.842e-05,***,Cholesteryl Esters in HDL
+HDL-L,1.43 [1.28-1.60],1.593e-04,***,Total-Lipids in HDL
+ApoA1,1.43 [1.27-1.59],1.063e-04,***,Apolipoprotein A1
+M-HDL-C,1.42 [1.27-1.59],1.029e-04,***,Cholesterol in Medium HDL
+Total-P,1.42 [1.27-1.58],3.760e-05,***,Total-Concentration of Lipoprotein Particles
+M-HDL-CE,1.42 [1.27-1.58],1.237e-04,***,Cholesteryl Esters in Medium HDL
+HDL-P,1.41 [1.27-1.57],4.595e-05,***,Concentration of HDL Particles
+HDL-PL,1.41 [1.26-1.58],3.686e-04,***,Phospholipids in HDL
+M-HDL-FC,1.41 [1.27-1.57],7.065e-05,***,Free Cholesterol in Medium HDL
 M-HDL-FC%,1.41 [1.24-1.60],0.019,*,Free Cholesterol to Total-Lipids in Medium HDL percentage
-M-HDL-L,1.41 [1.26-1.57],5.460e-04,***,Total-Lipids in Medium HDL
-M-HDL-P,1.40 [1.26-1.56],1.048e-04,***,Concentration of Medium HDL Particles
-HDL-FC,1.40 [1.26-1.56],2.050e-04,***,Free Cholesterol in HDL
+M-HDL-L,1.41 [1.26-1.57],5.453e-04,***,Total-Lipids in Medium HDL
+M-HDL-P,1.40 [1.26-1.56],1.046e-04,***,Concentration of Medium HDL Particles
+HDL-FC,1.40 [1.26-1.56],2.048e-04,***,Free Cholesterol in HDL
 PC,1.40 [1.25-1.57],0.002,**,Phosphatidylcholines
 Cholines,1.39 [1.24-1.56],0.003,**,Total-Cholines
 M-HDL-PL,1.38 [1.24-1.54],0.002,**,Phospholipids in Medium HDL
@@ -23,8 +23,8 @@ L-HDL-PL,1.35 [1.21-1.51],0.018,*,Phospholipids in Large HDL
 L-HDL-C,1.34 [1.20-1.50],0.044,*,Cholesterol in Large HDL
 L-HDL-CE,1.34 [1.20-1.50],0.047,*,Cholesteryl Esters in Large HDL
 L-HDL-P,1.33 [1.20-1.48],0.029,*,Concentration of Large HDL Particles
-Ala,0.90 [0.79-1.01],1.000,,Alanine
-Leu,0.85 [0.75-0.96],1.000,,Leucine
-Ile,0.84 [0.74-0.95],1.000,,Isoleucine
-Total-BCAA,0.84 [0.74-0.95],1.000,,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+S-LDL-PL%,0.94 [0.84-1.05],1.000,,Phospholipids to Total-Lipids in Small LDL percentage
+M-LDL-PL%,0.90 [0.80-1.00],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
+M-LDL-TG%,0.85 [0.75-0.95],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+M-VLDL-TG%,0.81 [0.72-0.90],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
 XL-HDL-FC%,0.72 [0.63-0.81],0.055,,Free Cholesterol to Total-Lipids in Very Large HDL percentage

@@ -1,11 +1,11 @@
 Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
 M-LDL-PL%,1.09 [0.99-1.20],1.000,,Phospholipids to Total-Lipids in Medium LDL percentage
-Gly,1.07 [0.98-1.17],1.000,,Glycine
-Ala,1.05 [0.95-1.16],1.000,,Alanine
-Gln,1.02 [0.92-1.12],1.000,,Glutamine
-M-HDL-TG%,1.01 [0.92-1.12],1.000,,Triglycerides to Total-Lipids in Medium HDL percentage
-VLDL-C,0.98 [0.89-1.07],1.000,,VLDL Cholesterol
-LDL-CE,0.97 [0.88-1.06],1.000,,Cholesteryl Esters in LDL
+M-VLDL-TG%,1.06 [0.96-1.17],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
+M-LDL-TG%,1.05 [0.95-1.16],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+S-HDL-TG%,1.03 [0.93-1.14],1.000,,Triglycerides to Total-Lipids in Small HDL percentage
+S-HDL-CE%,1.03 [0.93-1.13],1.000,,Cholesteryl Esters to Total-Lipids in Small HDL percentage
 M-LDL-FC%,0.96 [0.86-1.06],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
-Total-CE,0.93 [0.84-1.03],1.000,,Total-Esterified Cholesterol
-HDL-CE,0.90 [0.81-1.00],1.000,,Cholesteryl Esters in HDL
+M-VLDL-CE%,0.95 [0.86-1.05],1.000,,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
+M-VLDL-PL%,0.95 [0.86-1.04],1.000,,Phospholipids to Total-Lipids in Medium VLDL percentage
+M-VLDL-C%,0.95 [0.86-1.05],1.000,,Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-FC%,0.94 [0.85-1.03],1.000,,Free Cholesterol to Total-Lipids in Medium VLDL percentage

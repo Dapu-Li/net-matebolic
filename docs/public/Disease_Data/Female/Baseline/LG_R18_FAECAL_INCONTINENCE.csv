@@ -1,14 +1,14 @@
 Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
-MUFA%,1.64 [1.42-1.89],3.079e-06,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
-TG/PG,1.51 [1.31-1.73],8.564e-04,***,Triglycerides to Phosphoglycerides ratio
-S-HDL-TG%,1.50 [1.31-1.72],5.705e-04,***,Triglycerides to Total-Lipids in Small HDL percentage
+MUFA%,1.64 [1.42-1.89],3.076e-06,***,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+TG/PG,1.51 [1.31-1.73],8.554e-04,***,Triglycerides to Phosphoglycerides ratio
+S-HDL-TG%,1.50 [1.31-1.72],5.698e-04,***,Triglycerides to Total-Lipids in Small HDL percentage
 M-HDL-TG%,1.50 [1.31-1.73],0.002,**,Triglycerides to Total-Lipids in Medium HDL percentage
 M-HDL-PL%,1.46 [1.28-1.67],0.005,**,Phospholipids to Total-Lipids in Medium HDL percentage
 L-HDL-TG%,1.46 [1.27-1.69],0.026,*,Triglycerides to Total-Lipids in Large HDL percentage
 Total-TG,1.45 [1.28-1.65],0.002,**,Total-Triglycerides
 MUFA,1.45 [1.26-1.65],0.015,*,Monounsaturated Fatty Acids
 VLDL-TG,1.44 [1.27-1.64],0.002,**,Triglycerides in VLDL
-S-HDL-TG,1.43 [1.27-1.61],7.398e-04,***,Triglycerides in Small HDL
+S-HDL-TG,1.43 [1.27-1.61],7.389e-04,***,Triglycerides in Small HDL
 IDL-TG%,1.43 [1.25-1.63],0.027,*,Triglycerides to Total-Lipids in IDL percentage
 XL-VLDL-TG,1.42 [1.26-1.60],0.001,**,Triglycerides in Very Large VLDL
 S-LDL-TG%,1.42 [1.25-1.62],0.010,*,Triglycerides to Total-Lipids in Small LDL percentage
@@ -21,7 +21,7 @@ HDL-TG,1.39 [1.24-1.57],0.006,**,Triglycerides in HDL
 L-VLDL-PL,1.39 [1.23-1.57],0.012,*,Phospholipids in Large VLDL
 M-HDL-TG,1.39 [1.23-1.56],0.007,**,Triglycerides in Medium HDL
 XL-VLDL-PL,1.39 [1.23-1.56],0.015,*,Phospholipids in Very Large VLDL
-XXL-VLDL-L,1.39 [1.23-1.57],0.039,*,Total-Lipids in Chylomicrons and Extremely Large VLDL
+XXL-VLDL-L,1.39 [1.23-1.57],0.038,*,Total-Lipids in Chylomicrons and Extremely Large VLDL
 M-VLDL-TG,1.38 [1.22-1.56],0.038,*,Triglycerides in Medium VLDL
 L-VLDL-P,1.38 [1.22-1.55],0.019,*,Concentration of Large VLDL Particles
 XS-VLDL-TG,1.38 [1.23-1.54],0.010,*,Triglycerides in Very Small VLDL
@@ -35,13 +35,13 @@ S-LDL-FC%,0.73 [0.65-0.81],0.002,**,Free Cholesterol to Total-Lipids in Small LD
 M-VLDL-CE%,0.72 [0.64-0.81],0.010,**,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
 M-VLDL-C%,0.72 [0.64-0.82],0.049,*,Cholesterol to Total-Lipids in Medium VLDL percentage
 L-LDL-FC%,0.71 [0.63-0.81],0.015,*,Free Cholesterol to Total-Lipids in Large LDL percentage
-S-HDL-C%,0.71 [0.62-0.80],0.007,**,Cholesterol to Total-Lipids in Small HDL percentage
 L-HDL-CE%,0.71 [0.62-0.80],0.009,**,Cholesteryl Esters to Total-Lipids in Large HDL percentage
+S-HDL-C%,0.71 [0.62-0.80],0.007,**,Cholesterol to Total-Lipids in Small HDL percentage
 XL-VLDL-CE%,0.69 [0.60-0.79],0.019,*,Cholesteryl Esters to Total-Lipids in Very Large VLDL percentage
 XL-VLDL-C%,0.69 [0.60-0.79],0.031,*,Cholesterol to Total-Lipids in Very Large VLDL percentage
-M-HDL-CE%,0.68 [0.60-0.77],6.989e-05,***,Cholesteryl Esters to Total-Lipids in Medium HDL percentage
-M-LDL-FC%,0.68 [0.60-0.77],1.719e-04,***,Free Cholesterol to Total-Lipids in Medium LDL percentage
-M-HDL-C%,0.68 [0.60-0.77],1.533e-04,***,Cholesterol to Total-Lipids in Medium HDL percentage
-Omega-6%,0.68 [0.59-0.77],6.513e-04,***,Omega-6 Fatty Acids to Total-Fatty Acids percentage
-PUFA%,0.65 [0.57-0.75],3.328e-05,***,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
-PUFA/MUFA,0.61 [0.53-0.70],1.556e-06,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+M-HDL-CE%,0.68 [0.60-0.77],6.980e-05,***,Cholesteryl Esters to Total-Lipids in Medium HDL percentage
+M-LDL-FC%,0.68 [0.60-0.77],1.717e-04,***,Free Cholesterol to Total-Lipids in Medium LDL percentage
+M-HDL-C%,0.68 [0.60-0.77],1.531e-04,***,Cholesterol to Total-Lipids in Medium HDL percentage
+Omega-6%,0.68 [0.59-0.77],6.506e-04,***,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+PUFA%,0.65 [0.57-0.75],3.324e-05,***,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+PUFA/MUFA,0.61 [0.53-0.70],1.554e-06,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio

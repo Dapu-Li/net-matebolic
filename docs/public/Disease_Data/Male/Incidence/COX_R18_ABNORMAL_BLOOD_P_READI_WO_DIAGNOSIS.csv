@@ -1,8 +1,8 @@
 Abbreviations,HR(95%CI),P-value(Bonferroni),P-star,Metabolite
 S-LDL-PL%,1.17 [1.10-1.24],0.091,,Phospholipids to Total-Lipids in Small LDL percentage
-XS-VLDL-PL%,1.17 [1.10-1.24],0.039,*,Phospholipids to Total-Lipids in Very Small VLDL percentage
-L-LDL-PL%,1.08 [1.02-1.15],1.000,,Phospholipids to Total-Lipids in Large LDL percentage
-L-HDL-PL%,1.03 [0.98-1.09],1.000,,Phospholipids to Total-Lipids in Large HDL percentage
+XS-VLDL-PL%,1.17 [1.10-1.24],0.038,*,Phospholipids to Total-Lipids in Very Small VLDL percentage
+M-LDL-TG%,1.09 [1.03-1.15],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+M-VLDL-TG%,1.02 [0.96-1.08],1.000,,Triglycerides to Total-Lipids in Medium VLDL percentage
 M-LDL-FC%,1.01 [0.95-1.07],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
 Total-L,0.86 [0.81-0.91],0.044,*,Total-Lipids in Lipoprotein Particles
 LDL-CE,0.86 [0.81-0.91],0.040,*,Cholesteryl Esters in LDL
@@ -12,4 +12,4 @@ LA,0.85 [0.81-0.90],0.011,*,Linoleic Acid
 S-HDL-C,0.85 [0.80-0.90],0.036,*,Cholesterol in Small HDL
 L-LDL-CE%,0.85 [0.81-0.90],0.005,**,Cholesteryl Esters to Total-Lipids in Large LDL percentage
 S-HDL-P,0.85 [0.80-0.90],0.028,*,Concentration of Small HDL Particles
-PUFA,0.84 [0.79-0.89],5.949e-04,***,Polyunsaturated Fatty Acids
+PUFA,0.84 [0.79-0.89],5.939e-04,***,Polyunsaturated Fatty Acids

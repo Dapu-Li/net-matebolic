@@ -37,10 +37,16 @@ hero:
 
 
 features:
-  - title: Research Highlights
-    details: Overview of major research findings in neuroscience and brain imaging.
-  - title: Code and Data
-    details: Open-source code and datasets supporting publications.
-  - title: Collaborations
-    details: Projects with China Medical University and other institutions.
----
+  - title: Comorbidity and Disease Clustering
+    details: >
+      This study systematically evaluates the roles of plasma metabolites across 2,036 human diseases, with a focus on disease comorbidity. We identify key metabolites that drive co-occurring diseases. By clustering diseases based on shared metabolic associations, we propose a metabolite-driven reclassification of disease groups. This approach moves beyond traditional organ-based classification and provides novel insights into shared molecular pathways underlying comorbidity.
+
+  - title: Predictive Modeling Across Disease Timelines
+    details: >
+      We developed and validated a series of predictive models based on metabolomics data, covering prevalent diseases, incident diseases within 5 years, within 10 years, and over the full follow-up period. These models systematically benchmark metabolite-based predictions against traditional demographic risk factors such as age, sex, and so on. Our findings demonstrate that metabolomics data offer robust, independent predictive power in short time horizons, enabling earlier disease detection and more precise risk stratification.
+
+  - title: Code and Data Availability
+    details: >
+      All analysis code is publicly available on GitHub to ensure reproducibility and transparency. Metabolite and phenotype data were obtained from the UK Biobank and can be accessed through their standard data access process:  
+      https://www.ukbiobank.ac.uk/enable-your-research/apply-for-access.
+
