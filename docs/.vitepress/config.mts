@@ -27,7 +27,7 @@ export default defineConfig({
       '/Disease/':[
 
                        {
-          text: 'Baseline Disease',
+          text: 'Baseline Disease', link: '/Disease/Baseline_Overview/',
           collapsed: false,
           items: [
             { text: 'Chapter I- Infectious and parasitic', collapsed: true, items: [
@@ -890,7 +890,7 @@ export default defineConfig({
         },
                       {
           text: 'Incidence Disease',
-          collapsed: false,
+          collapsed: false, link: '/Disease/Incidence_Overview/',
           items: [
             { text: 'Chapter I- Infectious and parasitic', collapsed: true, items: [
               { text: 'Aspergillosis', link: '/Disease/MD/Incidence/AB1_ASPERGILLOSIS' },
