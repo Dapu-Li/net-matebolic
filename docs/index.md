@@ -16,18 +16,18 @@ hero:
     - theme: brand
       text: Traits
       link: /Traits/Overview/
-    - theme: brand
-      text: Chapter
-      link: /Chapter/Baseline_Overview
+    # - theme: brand
+    #   text: Chapter
+    #   link: /Chapter/Baseline_Overview
     - theme: brand
       text: Cluster
       link: /Cluster/Baseline_Overview
     - theme: alt
       text: Prediction and Diagnosis
       link: /Predict/Overview
-    - theme: alt
-      text: Mendelian Randomization
-      link: /MR/Forward_Overview
+    # - theme: alt
+    #   text: Mendelian Randomization
+    #   link: /MR/Forward_Overview
     # - theme: alt
     #   text: Sensitivity Analysis
     #   link: /Sensitive/Baseline_Overview
