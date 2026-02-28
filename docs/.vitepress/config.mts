@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "A Large-Scale Human Plasma Metabolite Atlas from Over 380,000 Participants",
+  title: "A Human Plasma Metabolite Atlas Linking 909 Traits and 2036 Diseases",
   description: "Atlas of the Plasma Metabolic in Health and Disease",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -3133,7 +3133,6 @@ export default defineConfig({
             { text: 'Cluster 8', link: '/Cluster/MD/Baseline/Cluster_8' },
             { text: 'Cluster 9', link: '/Cluster/MD/Baseline/Cluster_9' },
             { text: 'Cluster 10', link: '/Cluster/MD/Baseline/Cluster_10' },
-            { text: 'Cluster 11', link: '/Cluster/MD/Baseline/Cluster_11' },
           ]
         },
         {
@@ -3152,21 +3151,6 @@ export default defineConfig({
             { text: 'Cluster 10', link: '/Cluster/MD/Incidence/Cluster_10' },
             { text: 'Cluster 11', link: '/Cluster/MD/Incidence/Cluster_11' },
             { text: 'Cluster 12', link: '/Cluster/MD/Incidence/Cluster_12' },
-            { text: 'Cluster 13', link: '/Cluster/MD/Incidence/Cluster_13' },
-            { text: 'Cluster 14', link: '/Cluster/MD/Incidence/Cluster_14' },
-            { text: 'Cluster 15', link: '/Cluster/MD/Incidence/Cluster_15' },
-            { text: 'Cluster 16', link: '/Cluster/MD/Incidence/Cluster_16' },
-            { text: 'Cluster 17', link: '/Cluster/MD/Incidence/Cluster_17' },
-            { text: 'Cluster 18', link: '/Cluster/MD/Incidence/Cluster_18' },
-            { text: 'Cluster 19', link: '/Cluster/MD/Incidence/Cluster_19' },
-            { text: 'Cluster 20', link: '/Cluster/MD/Incidence/Cluster_20' },
-            { text: 'Cluster 21', link: '/Cluster/MD/Incidence/Cluster_21' },
-            { text: 'Cluster 22', link: '/Cluster/MD/Incidence/Cluster_22' },
-            { text: 'Cluster 23', link: '/Cluster/MD/Incidence/Cluster_23' },
-            { text: 'Cluster 24', link: '/Cluster/MD/Incidence/Cluster_24' },
-            { text: 'Cluster 25', link: '/Cluster/MD/Incidence/Cluster_25' },
-            { text: 'Cluster 26', link: '/Cluster/MD/Incidence/Cluster_26' },
-            { text: 'Cluster 27', link: '/Cluster/MD/Incidence/Cluster_27' },
           ]
         }
       ],
