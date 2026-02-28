@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "A Human Plasma Metabolite Atlas Linking 909 Traits and 2036 Diseases",
+  title: "A Large-Scale Human Plasma Metabolite Atlas from Over 380,000 Participants",
   description: "Atlas of the Plasma Metabolic in Health and Disease",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
