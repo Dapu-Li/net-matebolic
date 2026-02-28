@@ -6,13 +6,13 @@
 
 ## Comorbidity (Logistic regression)
 > Sample size: **212751**  
-> Cases: **1003**  
-> Controls: **211748**
+> Cases: **54965**  
+> Controls: **157786**
 <img src="/Cluster/Figures/Baseline/LG/Cluster_10.png" />
 <CsvTable src="/Cluster_Data/Baseline/LG/LG_Cluster_10.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
-> Sample size: **5040**
+> Sample size: **77772**
 <img src="/Cluster/Figures/Baseline/Histogram/Cluster_10_ba.png" />
 <CsvTableNumb src="/Cluster_Data/Baseline/Histogram/Cluster_10_ba.csv" label="🔍 View full results" />
         
@@ -20,20 +20,215 @@
 <CsvTable src="/Cluster_Data/Baseline/ORD/ORD_Cluster_10.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
-- M13_SACROCOGG (13) - Sacrococcygeal disorders, not elsewhere classified
-- M13_LATERALEPICOND (13) - Lateral epicondylitis
-- M13_IMPINGEMENT (13) - Impingement syndrome of shoulder
-- L12_LICHENSCLERATROPH (12) - Lichen sclerosus et atrophicus
-- K11_APPENDOTH (11) - Other appendicitis
-- R18_HEARTBURN (11) - Heartburn
-- H8_HL_CON_NAS (8) - Conductive hearing loss, unspecified
-- H7_EYELIDINFLAMMATION (7) - Other inflammation of eyelid
-- H7_BLEPHAROCHALASIS (7) - Blepharochalasis
-- C3_MELANOMA_SKIN (2) - Malignant melanoma of skin
-- C3_MELANOMA (2) - Malignant melanoma
-- CD2_BENIGN_STOMACH (2) - Benign neoplasm: Stomach
-- CD2_BENIGN_LIPO_NOS (2) - Benign lipomatous neoplasm of other sites/unspecified
-- CD2_BENIGN_BRAIN_CNS (2) - Benign neoplasm of brain and other parts of central nervous system
-- CD2_BENIGN_BONE_CARTILAGE (2) - Benign neoplasm of bone and articular cartilage
-- CD2_BENIGN_LIPO_SKIN_TRUNK (2) - Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk
-- CD2_BENIGN_OTHERDIGESTIVE (2) - Benign neoplasm of other and ill-defined parts of digestive system
+- AB1_BACT_BIR_OTHER_INF_AGENTS (1) - Bacterial, viral and other infectious agents
+- AB1_GASTROENTERITIS_NOS (1) - Diarrhoea and gastroenteritis of presumed infectious origin
+- AB1_INFECT_PARASIT (1) - Certain infectious and parasitic diseases
+- AB1_OTHER_BACTERIAL (1) - Other bacterial diseases
+- AB1_OTHER_SEPSIS (1) - Other septicaemia
+- AB1_OTHER_VIRAL (1) - Other viral diseases
+- AB1_SEPSIS_BACT_IMPL (1) - Implicit bacterial Sepsis
+- AB1_SEPSIS_CONDITION (1) - Condition for Implicit Sepsis (Organ dysfunction codes)
+- AB1_SEPSIS_EXPLICIT (1) - Explicit Sepsis
+- AB1_SEPSIS_IMPLICIT (1) - Implicit Sepsis
+- AB1_SEPSIS_VIRAL_IMPL (1) - Implicit viral Sepsis
+- AB1_STREPTSTAPHYCOCC_INOTHER (1) - Streptococcus and staphylococcus as the cause of diseases classified to other chapters
+- AB1_VIRAL_NOS (1) - Other viral diseases, not elsewhere classified
+- ALCOHOLACUTE10 (5) - Acute alcohol intoxication, ICD10
+- ALCOHOLMENTAL (5) - Mental and behavioural disorders due to alcohol, excluding acute intoxication
+- ALCOLIVER (11) - Alcoholic liver disease
+- AUD (5) - Alcohol use disorder, ICD-based
+- BRADY_UNSPE (9) - Bradycardia, unspecified, drug-induced
+- C3_CORPUS_UTERI (2) - Malignant neoplasm of corpus uteri
+- COPD_EARLY (10) - Early onset COPD
+- C_DIFFICILE_ENTEROCOLITIS (1) - Enterocolitis due to Clostridium difficile
+- D3_ANAEMIA_B12_DEF (3) - Vitamin B12 deficiency anaemia
+- D3_COAGOTHER (3) - Other coagulation defects
+- D3_PURPURA_AND3_OTHER_HAEMORRHAGIC (3) - Purpura and other haemorrhagic conditions
+- D3_SARCOIDOSIS (3) - Sarcoidosis
+- D3_THROMBOCYTOPENIANAS (3) - Thrombocytopenia, unspecified
+- DM_BCKGRND_RETINA (7) - Background diabetic retinopathy
+- DM_OTHER_WIDE (4) - Other diabetes, wide definition
+- DM_PERIPHATHERO (9) - Peripheral atherosclerosis
+- E4_DM1 (4) - Type 1 diabetes
+- E4_DM1NOCOMP (4) - Type 1 diabetes without complications
+- E4_DM2 (4) - Type 2 diabetes
+- E4_DM2NOCOMP (4) - Type 2 diabetes without complications
+- E4_DMNASNOCOMP (4) - Unspecified diabetes without complications
+- E4_ENDOGLAND (4) - Disorders of other endocrine glands
+- E4_ENDONUTRMET (4) - Endocrine, nutritional and metabolic diseases
+- E4_FH (4) - Familial hypercholesterolemia
+- E4_FLUIDELECTRO (4) - Other disorders of fluid, electrolyte and acid-base balance
+- E4_HYPERLIPNAS (4) - Hyperlipidaemia, other/unspecified
+- E4_HYPERPARA (4) - Hyperparathyroidism
+- E4_HYPOKALAEMIA (4) - Hypokalaemia
+- E4_LIPOPROT (4) - Disorders of lipoprotein metabolism and other lipidaemias
+- E4_METABOLIA (4) - Metabolic disorders
+- E4_MINERAL_MET (4) - Disorders of mineral metabolism
+- E4_NUTRIDEF (4) - Other nutritional deficiencies
+- E4_OBESITY (4) - Obesity
+- E4_OBESITYNAS (4) - Obesity, other/unspecified
+- E4_PARATHYRO (4) - Disorders of parathyroid gland
+- E4_PCOS_BROAD_EXCLUSIONS (4) - Exclusions for E4_PCOS_BROAD
+- E4_VOLUME (4) - Volume depletion
+- F5_ALCOHOL_DEPENDENCE (5) - Alcohol dependence
+- F5_SCHIZO (5) - Schizophrenia, schizotypal and delusional disorders
+- F5_STRESSOTH (5) - Other reaction to severe stress, and adjustment disorders
+- F5_TOBAC (5) - Mental and behavioural disorders due to tobacco
+- G6_CPETAL (6) - Cerebral palsy and other paralytic syndromes
+- G6_EPIPAROX (6) - Episodal and paroxysmal disorders
+- G6_HEADACHE (6) - Other headache syndromes
+- G6_HEMIPLE (6) - Hemiplegia
+- G6_NEUINFL (6) - Inflammatory diseases of the central nervous system
+- G6_OTHNEU (6) - Other neurological diseases
+- G6_POLYNEU (6) - Polyneuropathies and other disorders of the peripheral nervous system
+- G6_POLYOTHUNS (6) - Other and unspecified polyneuropathies, also in other diseases
+- G6_TIA (6) - Transient ischemic attack
+- H7_CATARACTOTHER (7) - Other cataract
+- H7_CATARACTSENILE (7) - Senile cataract
+- H7_CHOROIDRETINA (7) - Disorders of choroid and retina
+- H7_DIPLOPIA (7) - Diplopia
+- H7_EYELIDDIS (7) - Other disorders of eyelid
+- H7_EYEOTH (7) - Other disorders of eye and adnexa
+- H7_EYE_ADNEXA (7) - Diseases of the eye and adnexa
+- H7_GLAUCNAS (7) - Other and unspecified glaucoma
+- H7_GLAUCOMA (7) - Glaucoma
+- H7_GLAUCSUSP (7) - Glaucoma suspect
+- H7_LENS (7) - Disorders of lens
+- H7_LIDLACRIMALORBIT (7) - Disorders of eyelid, lacrimal system and orbit
+- H7_RETINANAS (7) - Other specified and unspecified retinal disorders
+- H7_VISDISTNAS (7) - Other and unspecified visual disturbances
+- H7_VISUALDISTBLIND (7) - Visual disturbances and blindness
+- H7_VISUDISTURB (7) - Visual disturbances
+- H8_CHOLEASTOMA (8) - Cholesteatoma of middle ear
+- H8_INNER (8) - Diseases of inner ear
+- H8_LABYRINTHITIS (8) - Labyrinthitis
+- I9_AF (9) - Atrial fibrillation and flutter
+- I9_ANGINA (9) - Angina pectoris
+- I9_AORTANEUR (9) - Aortic aneurysm
+- I9_AORTVALV_EARLY (9) - Aortic valve malfunction, age under 60 years
+- I9_ARTEMBTHRNAS (9) - Other arterial embolism and thrombosis
+- I9_ARTOTH (9) - Other diseases of arteries and capillaries
+- I9_ATHSCLE (9) - Atherosclerosis, excluding cerebral and coronary sclerosis
+- I9_AVBLOCK (9) - AV-block
+- I9_CARDMPRI (9) - Cardiomyopathies, Primary/intrinsic
+- I9_CARDMYO (9) - Cardiomyopathy
+- I9_CAVS_DX (9) - Calcific aortic valvular stenosis, diagnosis (helper)
+- I9_CAVS_RHEU (9) - Calcific aortic valvular stenosis, including rheumatic fever
+- I9_CEREBDOTH (9) - Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere
+- I9_CEREBVASC (9) - Cerebrovascular diseases
+- I9_CHD (9) - Major coronary heart disease event
+- I9_CONDUCTIO (9) - Conduction disorders
+- I9_CORATHER (9) - Coronary atherosclerosis
+- I9_CVD (9) - Cardiovascular diseases
+- I9_DILATED_CARDIOMYOPATHY (9) - Dilated cardiomyopathy
+- I9_DOAAC (9) - Diseases of arteries, arterioles and capillaries
+- I9_HEARTFAIL (9) - Heart failure, strict
+- I9_HYPOTE (9) - Hypotension
+- I9_HYPTENS (9) - Hypertension
+- I9_HYPTENSESS (9) - Hypertension, essential
+- I9_HYPTENSHR (9) - Hypertensive heart and/or renal disease
+- I9_HYPTENSRD (9) - Hypertensive Renal Disease
+- I9_IHD (9) - Ischaemic heart disease, wide definition
+- I9_LBBB (9) - Left bundle-branch block
+- I9_MI (9) - Myocardial infarction
+- I9_NCMI (9) - Myocardial infarction, unclassifiable
+- I9_NONISCHCARDMYOP_STRICT (9) - Nonischemic cardiomyopathy
+- I9_NONRHEVALV (9) - Non-rheumatic valve diseases
+- I9_NSTEMI (9) - Myocardial infarction, without ST-elevation
+- I9_OTHARR (9) - Other arrhythmias
+- I9_OTHILLHEART (9) - Other or ill-defined heart diseases
+- I9_OTHPER (9) - Other peripheral vascular diseases
+- I9_PAD (9) - Peripheral artery disease
+- I9_PAROXTAC (9) - Paroxysmal tachycardia
+- I9_PERICAOTH (9) - Other diseases of pericardium
+- I9_PHLETHROM (9) - Phlebitis and thrombophlebitis (not including DVT)
+- I9_PHLETHROMBDVTLOW (9) - DVT of lower extremities
+- I9_POSTAMI (9) - Status post-ami
+- I9_PULMEMB (9) - Pulmonary embolism
+- I9_RBBB (9) - Right bundle-branch block
+- I9_RHEUVALV (9) - Rheumatic valve diseases
+- I9_SEQULAE (9) - Sequelae of cerebrovascular disease
+- I9_STEMI (9) - Myocardial infarction, with ST-elevation
+- I9_STR (9) - Stroke, excluding SAH
+- I9_STR_EXH (9) - Ischaemic Stroke, excluding all haemorrhages
+- I9_STR_SAH (9) - Stroke, including SAH
+- I9_UAP (9) - Unstable angina pectoris
+- I9_VTE (9) - Venous thromboembolism
+- ILD (10) - Interstitial lung disease
+- J10_ACUTELOWERNAS (10) - Unspecified acute lower respiratory infection
+- J10_EMPHYSEMA (10) - Emphysema
+- J10_INFLUPNEU (10) - Influenza and pneumonia
+- J10_INTERSTITIUM (10) - Other respiratory diseases principally affecting the interstitium
+- J10_LOWERINF (10) - Other acute lower respiratory infections
+- J10_PHARYNGITIS (10) - Acute pharyngitis
+- J10_PLEURA (10) - Other diseases of pleura
+- J10_PLEUREFFUSION (10) - Pleural effusion
+- J10_PNEUMONAS (10) - Pneumonia, organism unspecified
+- J10_PNEUMOTHORAX (10) - Pneumothorax
+- J10_RESPDISOTH (10) - Other respiratory disorders and diseases
+- J10_RESPIRATORY (10) - Diseases of the respiratory system
+- K11_ACUTGASTR (11) - Acute gastritis
+- K11_ADHE (11) - Intestinal adhesions without obstruction
+- K11_BILIAOTH (11) - Other diseases of biliary tract
+- K11_CARIES (11) - Dental caries
+- K11_DISLIVOTH (11) - Other diseases of liver
+- K11_GIBLEEDING (11) - GI-bleeding
+- K11_LIVER (11) - Diseases of liver
+- K11_OTHDIG (11) - Diseases of the digestive system
+- K11_OTHDISDIG (11) - Other diseases of the digestive system
+- K11_STOMATITIS (11) - Stomatitis and related lesions
+- K11_UC_NOCD (11) - Ulcerative colitis (strict definition, all Crohn cases excluded)
+- K11_VENTHER (11) - Ventral hernia
+- KRA_PSY_SCHIZODEL (5) - Schizophrenia or delusion
+- KRA_PSY_SUBSTANCE (5) - Substance abuse
+- L12_ABSCESS_CUT (12) - Cutaneous abscess, furuncle and carbuncle
+- L12_CELLULITIS (12) - Cellulitis
+- L12_DERMATITISNAS (12) - Dermatitis
+- L12_DERM_NAS (12) - Other and unspecified dermatitis
+- L12_INFECT_SKIN (12) - Infections of the skin and subcutaneous tissue
+- L12_INFECT_SKIN_NAS (12) - Other and unspecified local infections of skin and subcutaneous tissue
+- L12_PSORI_ARTHRO (12) - Arthropathic psoriasis
+- L12_SKIN_SUBCUTAN (12) - Diseases of the skin and subcutaneous tissue
+- L12_ULCERLOWLIMB (12) - Ulcer of lower limb, not elsewhere classified
+- M13_MUSCLEDISNAS (13) - Other specified disorders of muscle
+- M13_MYALGIA (13) - Myalgia
+- M13_PSORIARTH (13) - Psoriatic arthropathies
+- M13_SOFTTISSUENAS (13) - Other specified/unspecified soft tissue disorders
+- M13_SPINSTENOSIS (13) - Spinal stenosis
+- N14_CHRONKIDNEYDIS_WIDE (14) - All chronic kidney diseases
+- N14_ENDOMETRIOSIS_DEEP (14) - Deep endometriosis
+- N14_OTHNONINFCERVIX (14) - Other noninflammatory disorders of cervix uteri
+- N14_POSTMENATRVAG (14) - Postmenopausal atrophic vaginitis
+- N14_RENALTUB (14) - Renal tubulo-interstitial diseases
+- N14_RENFAILNAS (14) - Unspecified kidney failure
+- N14_URINOTH (14) - Other diseases of urinary system
+- O15_LABOUR_OTHER (15) - Other complications of labour and delivery, not elsewhere classified
+- O15_MEMBR_PREMAT_RUPT (15) - Premature rupture of membranes
+- O15_PREG_GU_INFECT (15) - Infections of genitourinary tract in pregnancy
+- PHLEB_VENAE_ILIAC_EXTER (9) - !Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced
+- PSOR_ARTHR_OTH (13) - Other psoriatic arthropathies
+- R18_ABNORMALITI_BREAT (10) - Abnormalities of breathing
+- R18_ABNORMALITI_GAIT_MOBIL (13) - Abnormalities of gait and mobility
+- R18_ABNORMALITI_HEART_BEAT (9) - Abnormalities of heart beat
+- R18_ABNORMAL_BLOOD_P_READI_WO_DIAGNOSIS (9) - Abnormal blood-pressure reading, without diagnosis
+- R18_ABNORMAL_FINDI_EXAMI_URINE_WO_DIAGNOSIS (14) - Abnormal findings on examination of urine, without diagnosis
+- R18_ABNORMAL_INVOLU_MOVEM (13) - Abnormal involuntary movements
+- R18_ASCITES (11) - Ascites
+- R18_DISTU_SKIN_SENSA (12) - Disturbances of skin sensation
+- R18_DIZZI_GIDDI (5) - Dizziness and giddiness
+- R18_DYSPNOEA (10) - Dyspnoea
+- R18_ELEVATED_BLOOD_GLUCOSE_LEVEL (3) - Elevated blood glucose level
+- R18_HAEMORRHAGE_RESPI_PASSA (10) - Haemorrhage from respiratory passages
+- R18_LOCALIZED_SWELL_MASS_LUMP_SKIN_SUBCU_TISSUE (12) - Localized swelling, mass and lump of skin and subcutaneous tissue
+- R18_OTHER_SYMPTOMS_SIGNS_INVOLVI_COGNITIVE_FUNCTIONS_AWARE (5) - Other symptoms and signs involving cognitive functions and awareness
+- R18_OTHER_SYMPTOMS_SIGNS_INVOLVI_NERVOUS_MUSCULOS_SYSTEMS (13) - Other symptoms and signs involving the nervous and musculoskeletal systems
+- R18_PAIN_THROAT_CHEST (10) - Pain in throat and chest
+- R18_RASH_OTHER_NONSPECIFIC_SKIN_ERUPT (12) - Rash and other nonspecific skin eruption
+- R18_SPEECH_DISTU_NOT_ELSEW_CLASSIFIED (5) - Speech disturbances, not elsewhere classified
+- R18_SYMPTOMS_SIGNS_INVOLVI_CIRCULATO_RESPI_SYSTEMS (9) - Symptoms and signs involving the circulatory and respiratory systems
+- R18_SYMPTOMS_SIGNS_INVOLVI_COGNITION_PERCEP_EMOTIONAL_STATE_BEHVI (5) - Symptoms and signs involving cognition, perception, emotional state and behaviour
+- R18_SYMPTOMS_SIGNS_INVOLVI_NERVOUS_MUSCULOS_SYSTEMS (13) - Symptoms and signs involving the nervous and musculoskeletal systems
+- R18_SYMPTOMS_SIGNS_INVOLVI_SKIN_SUBCU_TISSUE (12) - Symptoms and signs involving the skin and subcutaneous tissue
+- R18_SYMPTOMS_SIGNS_INVOLVI_SPEECH_VOICE (5) - Symptoms and signs involving speech and voice
+- SPONDYLOARTHRITIS (13) - Spondyloarthritis
+- ULCERNAS (11) - Ulcerative colitis, NAS

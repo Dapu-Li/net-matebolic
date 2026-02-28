@@ -6,13 +6,13 @@
 
 ## Comorbidity (Logistic regression)
 > Sample size: **212751**  
-> Cases: **16674**  
-> Controls: **196077**
+> Cases: **9731**  
+> Controls: **203020**
 <img src="/Cluster/Figures/Baseline/LG/Cluster_5.png" />
 <CsvTable src="/Cluster_Data/Baseline/LG/LG_Cluster_5.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
-> Sample size: **40510**
+> Sample size: **17748**
 <img src="/Cluster/Figures/Baseline/Histogram/Cluster_5_ba.png" />
 <CsvTableNumb src="/Cluster_Data/Baseline/Histogram/Cluster_5_ba.csv" label="🔍 View full results" />
         
@@ -20,67 +20,36 @@
 <CsvTable src="/Cluster_Data/Baseline/ORD/ORD_Cluster_5.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
-- M13_PSORIARTH (13) - Psoriatic arthropathies
-- M13_MYALGIA (13) - Myalgia
-- M13_ANKYLOSPON (13) - Ankylosing spondylitis
-- PSOR_ARTHR_OTH (13) - Other psoriatic arthropathies
-- SPONDYLOARTHRITIS (13) - Spondyloarthritis
-- M13_TENDOSYNOVITISNAS (13) - Other/unspecified synovitis and tenosynovitis
-- M13_SPINSTENOSIS (13) - Spinal stenosis
-- L12_PSORI_ARTHRO (12) - Arthropathic psoriasis
-- L12_SKIN_SUBCUTAN (12) - Diseases of the skin and subcutaneous tissue
-- L12_DERM_NAS (12) - Other and unspecified dermatitis
-- L12_DERMATITISNAS (12) - Dermatitis
-- R18_SYMPTOMS_SIGNS_INVOLVI_SKIN_SUBCU_TISSUE (12) - Symptoms and signs involving the skin and subcutaneous tissue
-- K11_ACUTGASTR (11) - Acute gastritis
-- K11_CARIES (11) - Dental caries
-- K11_OTHDISDIG (11) - Other diseases of the digestive system
-- K11_OTHDIG (11) - Diseases of the digestive system
-- K11_GIBLEEDING (11) - GI-bleeding
-- K11_LIVER (11) - Diseases of liver
-- K11_FIBROCHIRLIV (11) - Fibrosis and cirrhosis of liver
-- ALCOLIVER (11) - Alcoholic liver disease
-- R18_UNSPE_JAUND (11) - Unspecified jaundice
-- K11_STOMATITIS (11) - Stomatitis and related lesions
-- K11_VENTHER (11) - Ventral hernia
-- ILD (10) - Interstitial lung disease
-- J10_PLEUREFFUSION (10) - Pleural effusion
-- J10_PHARYNGITIS (10) - Acute pharyngitis
-- J10_PNEUMONAS (10) - Pneumonia, organism unspecified
-- J10_LOWERINF (10) - Other acute lower respiratory infections
-- J10_ACUTELOWERNAS (10) - Unspecified acute lower respiratory infection
-- J10_EMPHYSEMA (10) - Emphysema
-- J10_INFLUPNEU (10) - Influenza and pneumonia
-- J10_INTERSTITIUM (10) - Other respiratory diseases principally affecting the interstitium
-- R18_ABNORMAL_FINDI_DIAGNOST_IMAGI_LUNG (10) - Abnormal findings on diagnostic imaging of lung
-- J10_RESPIRATORY (10) - Diseases of the respiratory system
-- COPD_EARLY (10) - Early onset COPD
-- PNEUMOBACTKNOWN (10) - Bacterial pneumonia (organism specified)
-- I9_PHLETHROMBDVTLOW (9) - DVT of lower extremities
-- I9_PHLETHROM (9) - Phlebitis and thrombophlebitis (not including DVT)
-- PHLEB_VENAE_ILIAC_EXTER (9) - !Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced
-- H7_EYELIDDIS (7) - Other disorders of eyelid
-- H7_LIDLACRIMALORBIT (7) - Disorders of eyelid, lacrimal system and orbit
-- G6_SPINOTH (6) - Other diseases of spinal cord
-- G6_NEUINFL (6) - Inflammatory diseases of the central nervous system
-- ALCOHOLACUTE10 (5) - Acute alcohol intoxication, ICD10
-- ALCOHOLMENTAL (5) - Mental and behavioural disorders due to alcohol, excluding acute intoxication
-- KRA_PSY_SCHIZODEL (5) - Schizophrenia or delusion
-- KRA_PSY_SUBSTANCE (5) - Substance abuse
-- AUD (5) - Alcohol use disorder, ICD-based
-- F5_SCHIZO (5) - Schizophrenia, schizotypal and delusional disorders
-- F5_ALCOHOL_DEPENDENCE (5) - Alcohol dependence
-- F5_STRESSOTH (5) - Other reaction to severe stress, and adjustment disorders
-- E4_VOLUME (4) - Volume depletion
-- D3_OTHERBLOOD (3) - Other diseases of blood and blood-forming organs
-- D3_SARCOIDOSIS (3) - Sarcoidosis
-- AB1_OTHER_SEPSIS (1) - Other septicaemia
-- AB1_OTHER_BACTERIAL (1) - Other bacterial diseases
-- AB1_BACT_BIR_OTHER_INF_AGENTS (1) - Bacterial, viral and other infectious agents
-- AB1_SEPSIS_BACT_IMPL (1) - Implicit bacterial Sepsis
-- AB1_INFECT_PARASIT (1) - Certain infectious and parasitic diseases
-- AB1_GASTROENTERITIS_NOS (1) - Diarrhoea and gastroenteritis of presumed infectious origin
-- AB1_SEPSIS_EXPLICIT (1) - Explicit Sepsis
-- AB1_SEPSIS_VIRAL_IMPL (1) - Implicit viral Sepsis
-- AB1_SEPSIS_IMPLICIT (1) - Implicit Sepsis
-- AB1_SEPSIS_FUNGAL_IMPL (1) - Implicit fungal Sepsis
+- CD2_BENIGN_LEIOMYOMA_UTERI (2) - Leiomyoma of uterus
+- CD2_BENIGN_LIPO_NOS (2) - Benign lipomatous neoplasm of other sites/unspecified
+- CD2_BENIGN_OVARY (2) - Benign neoplasm of ovary
+- CD2_INSITU_BREAST (2) - Carcinoma in situ of breast
+- CD2_INSITU_BREAST_INTRADUCTAL (2) - Carcinoma in situ of breast, intraductal
+- CD2_INSITU_BREAST_NOS (2) - Carcinoma in situ of breast, other/unspecified
+- E4_PCOS_CONCORTIUM (4) - Polycystic ovarian syndrome, consortium definition
+- K11_APPENDOTH (11) - Other appendicitis
+- K11_ORALCYST (11) - Cysts of oral region, not elsewhere classified
+- M13_IMPINGEMENT (13) - Impingement syndrome of shoulder
+- M13_LATERALEPICOND (13) - Lateral epicondylitis
+- N14_ABNORMALBLEED (14) - Other abnormal uterine and vaginal bleeding
+- N14_BREAST (14) - Disorders of breast
+- N14_ENDOMETRIOSIS (14) - Endometriosis
+- N14_ENDOMETRIOSIS_NOS (14) - Unspecified/other endometriosis
+- N14_ENDOMETRIOSIS_OVARY (14) - Endometriosis of ovary
+- N14_ENDOMETRIOSIS_UTERUS (14) - Adenomyosis (Endometriosis of uterus)
+- N14_FEMALEGENINF (14) - Inflammatory diseases of female pelvic organs
+- N14_FEMGENPAIN (14) - Pain and other conditions associated with female genital organs and menstrual cycle
+- N14_HYPERTROPHYBREAST (14) - Hypertrophy of breast
+- N14_INFCERVIX (14) - Inflammatory disease of cervix uteri
+- N14_INFLAMMBREAST (14) - Inflammatory disorders of breast
+- N14_MENORRHAGIA (14) - Menorrhagia
+- N14_MENSIRREG (14) - Irregular menses
+- N14_MESNRUIRREG (14) - Excessive, frequent and irregular menstruation
+- N14_OTHFEMPELINF (14) - Other female pelvic inflammatory diseases
+- N14_OVARYCYST (14) - Ovarian cyst
+- N14_SALPHOOPH (14) - Salpingitis and oophoritis
+- N14_VAGINITIS (14) - Vaginitis/vulvovaginitis/vulvitis/abscess of vulva
+- O15_ABORT_MEDICAL (15) - Medical abortion
+- O15_PREECLAMPS (15) - Pre-eclampsia
+- O15_PRE_OR_ECLAMPSIA (15) - Pre-eclampsia or eclampsia
+- R18_HEARTBURN (11) - Heartburn

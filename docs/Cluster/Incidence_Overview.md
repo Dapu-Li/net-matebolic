@@ -9,13 +9,13 @@ Rather than analyzing diseases individually or strictly within ICD chapters, we 
 - We constructed a matrix of metabolite-disease associations across all incident diseases.
 - **Hierarchical clustering** was applied to this matrix to uncover groups of diseases with similar metabolic signatures.
 - The optimal number of clusters was determined through **silhouette analysis**, evaluating candidate solutions between 10 and 40 clusters.
-- The final model identified **27 clusters** as the most stable and biologically interpretable solution.
+- The final model identified **12 clusters** as the most stable and biologically interpretable solution.
 
 Each cluster is hypothesized to represent a **metabolically coherent disease group**, potentially reflecting common etiological pathways or systemic dysregulation.
 
 ## Analytical Design
 
-For each of the 27 clusters, two complementary analyses were conducted:
+For each of the 12 clusters, two complementary analyses were conducted:
 
 ### 1. Comorbidity Status Analysis  
 - Individuals were classified as **comorbid** if they developed **two or more incident diseases** within a given cluster.  
@@ -50,7 +50,7 @@ All regression models were adjusted for the following baseline covariates:
 
 - All models were fitted using the `statsmodels` package in **Python**.
 - To correct for multiple comparisons, a **Bonferroni correction** was applied, using the factor:  
-  `27 clusters × 251 metabolic traits`
+  `12 clusters × 251 metabolic traits`
 - Statistical significance was defined as **p < 0.05** after correction.
 
 ## Code for Analysis

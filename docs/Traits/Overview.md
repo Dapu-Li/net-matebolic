@@ -1,6 +1,6 @@
 # Health-Related Traits Analysis
 
-A total of **909 health-related traits** were included in this study. These traits were grouped into **11 chapters** based on the UK Biobank (UKB) data category pathways, in descending order of the number of traits per chapter:
+A total of **884 health-related traits** were included in this study. These traits were grouped into **11 chapters** based on the UK Biobank (UKB) data category pathways, in descending order of the number of traits per chapter:
 
 - Diet and food preferences  
 - Health and medical history  

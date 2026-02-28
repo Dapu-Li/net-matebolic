@@ -6,13 +6,13 @@
 
 ## Comorbidity (Logistic regression)
 > Sample size: **212751**  
-> Cases: **2373**  
-> Controls: **210378**
+> Cases: **4020**  
+> Controls: **208731**
 <img src="/Cluster/Figures/Incidence/LG/Cluster_6.png" />
 <CsvTable src="/Cluster_Data/Incidence/LG/LG_Cluster_6.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
-> Sample size: **21134**
+> Sample size: **8668**
 <img src="/Cluster/Figures/Incidence/Histogram/Cluster_6_in.png" />
 <CsvTable src="/Cluster_Data/Incidence/Histogram/Cluster_6_in.csv" label="🔍 View full results" />
 
@@ -20,31 +20,25 @@
 <CsvTable src="/Cluster_Data/Incidence/ORD/ORD_Cluster_6.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
-- N14_HYPERTROPHYBREAST (14) - Hypertrophy of breast
-- R18_ANURIA_OLIGU (14) - Anuria and oliguria
-- M13_ANKLEFOOT (13) - Other acquired deformities of ankle and foot
-- M13_WRISTFOOTDROP (13) - Wrist or foot drop (acquired)
-- ULCEROTH (11) - Other ulcerative colitis
-- K11_MAXIL_CANINE_PALAT (11) - Palatinal maxillary canine
-- K11_MAXIL_CANINE_FAILED_ERUPT_OBSTRUCTION_TOOTH (11) - Impacted maxillary canine
-- K11_EMBIMPACT_TEETH (11) - Embedded and impacted teeth
-- K11_PERIODON_CHRON_COMPL (11) - Chronic periodontitis, complicated
-- TRACHEOBRONCHOMAL (10) - Tracheo-bronchomalasia
-- I9_AF (9) - Atrial fibrillation and flutter
-- PHLEBI_THROMBOP_OTHER_SITES (8) - Phlebitis and thrombophlebitis of other sites, drug-induced
-- H7_EYEADNEXOTH (7) - Other specified and unspecified disorders of eye and adnexa
-- H7_EYEPOSTOP (7) - Postprocedural disorders of eye and adnexa, not elsewhere classified
-- H7_IRIDONAS (7) - Other and unspecified iridocyclitis
-- H7_IRIDOCYCLITIS (7) - Iridocyclitis
-- H7_POSTOPEYENAS (7) - Other and unspecified postprocedural disorders of eye and adnexa
-- G6_ANOXBRAINDAM (6) - Anoxic brain damage
-- G6_HCOTHUNS (6) - Other and unspecified hydrocephalus
-- G6_PARKINSON (6) - Parkinson's disease
-- PD_DEMENTIA (5) - Dementia due to Parkinson's disease
-- F5_DEMINOTH (5) - Dementia in other diseases classified elsewhere
-- C3_MELANOMA_SKIN (2) - Malignant melanoma of skin
-- C3_CONNECTIVE_SOFT_NAS (2) - Malignant neoplasm of other connective and soft tissue
-- ABPA (1) - Allergic bronchopulmonary aspergillosis (ABPA)
-- AB1_ZOSTER (1) - Zoster [herpes zoster]
-- AB1_SEQULEAE_OF_INFECTIONS_AND_PARASITES (1) - Sequelae of infectious and parasitic diseases
-- AB1_ASPERGILLOSIS (1) - Aspergillosis
+- ALLERG_RHINITIS (10) - Allergic rhinitis
+- C3_ANUS_ANALCANAL (2) - Malignant neoplasm of anus and anal canal
+- C3_RECTOSIGMOID_JUNCTION (2) - Malignant neoplasm of rectosigmoid junction
+- C3_RECTUM (2) - Malignant neoplasm of rectum
+- CD2_BENIGN_LIPOMATOUS (2) - Benign lipomatous neoplasm
+- CD2_BENIGN_LIPO_NOS (2) - Benign lipomatous neoplasm of other sites/unspecified
+- CD2_BENIGN_LIPO_SKIN_TRUNK (2) - Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk
+- CD2_INSITU_MELANOMA_TRUNK (2) - Melanoma in situ of trunk
+- G6_AD_STRICT (6) - Alzheimer disease, strict definition
+- G6_MYASTHENIA (6) - Myasthenia gravis
+- H7_VITROPACIT (7) - Other vitreous opacities
+- H8_HL_CON_NAS (8) - Conductive hearing loss, unspecified
+- J10_VASOALLERRHIN (10) - Vasomotor and allergic rhinitis
+- L12_LICHENSIMPLEX (12) - Lichen simplex chronicus
+- L12_LICHSIMPANDPRURIGO (12) - Lichen simplex chronicus and prurigo
+- L12_NONIONRADISKINNAS (12) - Other and unspecified skin changes due to chronic exposure to nonionizing radiation
+- M13_ENTESOPATHYNAS (13) - Other/unspecified enthesopathies, not elsewhere classified
+- M13_GIANTCELL (13) - Giant cell arteritis
+- M13_NECROVASC (13) - Other necrotizing vasculopathies
+- PHLEBI_THROMBOP_FEMOR_VEIN (8) - Phlebitis and thrombophlebitis of femoral vein, drug-induced
+- PHLEBI_THROMBOP_LOWER_EXTREMITI_UNSPE (8) - Phlebitis and thrombophlebitis of lower extremities, unspecified, drug-induced
+- POLLENALLERG (10) - Pollen allergy

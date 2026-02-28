@@ -1,9 +1,9 @@
 # Baseline Cluster Comorbidity Analysis
 
 We applied **hierarchical clustering** to group baseline diseases based on the **effect sizes** of metabolites on each disease.  
-The number of clusters was determined by evaluating cluster solutions ranging from **10 to 39**, and selecting the optimal number based on the **average silhouette score**.
+The number of clusters was determined by evaluating cluster solutions ranging from **10 to 40**, and selecting the optimal number based on the **average silhouette score**.
 
-- The optimal number of clusters was determined to be **11**.
+- The optimal number of clusters was determined to be **10**.
 - A detailed list of diseases included in each cluster can be found in the supplementary cluster category table.
 
 ## Rationale for Clustering
@@ -16,7 +16,7 @@ Diseases within the same cluster are likely to:
 
 ## Statistical Analysis per Cluster
 
-For each of the **11 disease clusters**, we conducted two types of analyses:
+For each of the **10 disease clusters**, we conducted two types of analyses:
 
 1. **Binary Cluster Comorbidity Analysis**  
    - Defined individuals as **cases** if they had **two or more diseases** within the same cluster  
@@ -51,7 +51,7 @@ All models were adjusted for the following baseline covariates:
 
 - Regression models were implemented using the `statsmodels` package in **Python**.
 - **Multiple testing correction** was applied using the **Bonferroni method**, with a correction factor of:  
-  `11 clusters × 251 metabolic traits`
+  `10 clusters × 251 metabolic traits`
 - Significance was defined as **p < 0.05** after correction.
 
 ## Code for Hierarchical Clustering

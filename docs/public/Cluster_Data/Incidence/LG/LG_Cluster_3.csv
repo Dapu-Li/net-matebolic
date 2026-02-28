@@ -1,11 +1,115 @@
 Abbreviations,OR(95%CI),P-value(Bonferroni),P-star,Metabolite
-M-LDL-FC%,1.04 [1.00-1.08],1.000,,Free Cholesterol to Total-Lipids in Medium LDL percentage
-L-HDL-CE%,1.03 [1.00-1.07],1.000,,Cholesteryl Esters to Total-Lipids in Large HDL percentage
-L-LDL-C%,1.02 [0.99-1.06],1.000,,Cholesterol to Total-Lipids in Large LDL percentage
-L-LDL-FC%,1.02 [0.99-1.06],1.000,,Free Cholesterol to Total-Lipids in Large LDL percentage
-L-LDL-CE%,1.01 [0.98-1.04],1.000,,Cholesteryl Esters to Total-Lipids in Large LDL percentage
-LDL-CE,0.98 [0.95-1.02],1.000,,Cholesteryl Esters in LDL
-Total-C,0.98 [0.95-1.01],1.000,,Total-Cholesterol
-Remnant-C,0.97 [0.94-1.01],1.000,,"Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)"
-VLDL-C,0.96 [0.93-1.00],1.000,,VLDL Cholesterol
-M-LDL-TG%,0.96 [0.92-0.99],1.000,,Triglycerides to Total-Lipids in Medium LDL percentage
+M-HDL-PL,1.14 [1.12-1.15],1.010e-91,***,Phospholipids in Medium HDL
+M-HDL-L,1.13 [1.12-1.15],4.727e-84,***,Total-Lipids in Medium HDL
+M-HDL-P,1.13 [1.11-1.14],2.212e-77,***,Concentration of Medium HDL Particles
+S-HDL-PL,1.13 [1.11-1.14],8.199e-87,***,Phospholipids in Small HDL
+M-HDL-C,1.12 [1.11-1.14],4.670e-72,***,Cholesterol in Medium HDL
+M-HDL-CE,1.12 [1.11-1.14],1.092e-72,***,Cholesteryl Esters in Medium HDL
+M-HDL-FC,1.12 [1.11-1.14],3.181e-67,***,Free Cholesterol in Medium HDL
+HDL-PL,1.12 [1.11-1.14],5.752e-65,***,Phospholipids in HDL
+ApoA1,1.12 [1.10-1.13],8.348e-65,***,Apolipoprotein A1
+S-HDL-L,1.12 [1.10-1.13],1.972e-74,***,Total-Lipids in Small HDL
+HDL-P,1.11 [1.10-1.13],1.649e-65,***,Concentration of HDL Particles
+HDL-L,1.11 [1.10-1.13],5.806e-55,***,Total-Lipids in HDL
+Total-P,1.10 [1.09-1.12],3.883e-53,***,Total-Concentration of Lipoprotein Particles
+S-HDL-C,1.10 [1.09-1.11],5.465e-56,***,Cholesterol in Small HDL
+S-HDL-CE,1.10 [1.08-1.11],4.976e-53,***,Cholesteryl Esters in Small HDL
+S-HDL-P,1.10 [1.08-1.11],1.142e-52,***,Concentration of Small HDL Particles
+S-HDL-FC,1.10 [1.08-1.11],3.038e-51,***,Free Cholesterol in Small HDL
+HDL-C,1.09 [1.08-1.11],9.289e-38,***,HDL Cholesterol
+HDL-CE,1.09 [1.08-1.11],1.120e-37,***,Cholesteryl Esters in HDL
+SFA%,1.09 [1.08-1.10],1.117e-42,***,Saturated Fatty Acids to Total-Fatty Acids percentage
+HDL-FC,1.09 [1.07-1.10],3.518e-33,***,Free Cholesterol in HDL
+PC,1.08 [1.07-1.10],3.346e-33,***,Phosphatidylcholines
+Phosphoglyc,1.08 [1.07-1.09],2.223e-31,***,Phosphoglycerides
+S-HDL-PL%,1.08 [1.06-1.09],3.046e-29,***,Phospholipids to Total-Lipids in Small HDL percentage
+L-HDL-PL%,1.07 [1.06-1.09],2.978e-27,***,Phospholipids to Total-Lipids in Large HDL percentage
+Cholines,1.07 [1.06-1.08],2.492e-24,***,Total-Cholines
+M-HDL-TG,1.07 [1.06-1.08],3.085e-25,***,Triglycerides in Medium HDL
+L-HDL-PL,1.07 [1.05-1.08],9.475e-18,***,Phospholipids in Large HDL
+SFA,1.06 [1.05-1.07],1.139e-17,***,Saturated Fatty Acids
+Total-PL,1.06 [1.04-1.07],5.617e-16,***,Total-Phospholipids in Lipoprotein Particles
+L-HDL-L,1.05 [1.04-1.07],1.112e-10,***,Total-Lipids in Large HDL
+HDL-TG,1.05 [1.04-1.06],1.812e-14,***,Triglycerides in HDL
+XL-VLDL-TG%,1.05 [1.04-1.06],9.509e-12,***,Triglycerides to Total-Lipids in Very Large VLDL percentage
+M-HDL-FC%,1.05 [1.03-1.06],1.191e-08,***,Free Cholesterol to Total-Lipids in Medium HDL percentage
+L-HDL-TG,1.04 [1.03-1.06],2.833e-09,***,Triglycerides in Large HDL
+MUFA,1.04 [1.03-1.05],2.672e-08,***,Monounsaturated Fatty Acids
+S-HDL-TG,1.04 [1.03-1.05],1.306e-07,***,Triglycerides in Small HDL
+XS-VLDL-TG%,1.04 [1.03-1.05],3.524e-07,***,Triglycerides to Total-Lipids in Very Small VLDL percentage
+L-HDL-P,1.04 [1.03-1.05],2.842e-05,***,Concentration of Large HDL Particles
+Total-FA,1.04 [1.03-1.05],2.001e-07,***,Total-Fatty Acids
+S-VLDL-TG%,1.04 [1.03-1.05],5.296e-07,***,Triglycerides to Total-Lipids in Small VLDL percentage
+M-VLDL-TG%,1.04 [1.03-1.05],3.328e-06,***,Triglycerides to Total-Lipids in Medium VLDL percentage
+S-LDL-TG%,1.04 [1.03-1.05],3.084e-06,***,Triglycerides to Total-Lipids in Small LDL percentage
+L-LDL-TG%,1.04 [1.03-1.05],4.108e-06,***,Triglycerides to Total-Lipids in Large LDL percentage
+L-HDL-FC,1.04 [1.02-1.05],4.501e-04,***,Free Cholesterol in Large HDL
+M-LDL-TG%,1.04 [1.02-1.05],1.350e-05,***,Triglycerides to Total-Lipids in Medium LDL percentage
+GlycA,1.04 [1.02-1.05],6.913e-05,***,Glycoprotein Acetyls
+L-HDL-C,1.03 [1.02-1.05],0.004,**,Cholesterol in Large HDL
+SM,1.03 [1.02-1.05],1.690e-04,***,Sphingomyelins
+L-VLDL-TG%,1.03 [1.02-1.05],6.973e-05,***,Triglycerides to Total-Lipids in Large VLDL percentage
+MUFA%,1.03 [1.02-1.05],0.002,**,Monounsaturated Fatty Acids to Total-Fatty Acids percentage
+L-HDL-CE,1.03 [1.02-1.05],0.013,*,Cholesteryl Esters in Large HDL
+IDL-TG%,1.03 [1.02-1.04],0.002,**,Triglycerides to Total-Lipids in IDL percentage
+IDL-TG,1.03 [1.02-1.04],8.722e-04,***,Triglycerides in IDL
+L-LDL-TG,1.03 [1.02-1.04],9.667e-04,***,Triglycerides in Large LDL
+S-LDL-CE%,1.03 [1.02-1.04],0.006,**,Cholesteryl Esters to Total-Lipids in Small LDL percentage
+Total-L,1.03 [1.02-1.04],0.020,*,Total-Lipids in Lipoprotein Particles
+LDL-TG,1.03 [1.01-1.04],0.028,*,Triglycerides in LDL
+VLDL-CE,0.98 [0.96-0.99],0.046,*,Cholesteryl Esters in VLDL
+S-VLDL-CE,0.97 [0.96-0.99],0.035,*,Cholesteryl Esters in Small VLDL
+L-VLDL-CE,0.97 [0.96-0.99],0.039,*,Cholesteryl Esters in Large VLDL
+S-VLDL-C,0.97 [0.96-0.99],0.022,*,Cholesterol in Small VLDL
+S-VLDL-FC,0.97 [0.96-0.98],0.014,*,Free Cholesterol in Small VLDL
+M-LDL-FC%,0.97 [0.96-0.98],0.026,*,Free Cholesterol to Total-Lipids in Medium LDL percentage
+ApoB,0.97 [0.96-0.98],0.010,*,Apolipoprotein B
+Acetate,0.97 [0.96-0.98],0.008,**,Acetate
+Sc-ala,0.97 [0.96-0.98],0.006,**,Spectrometer-corrected alanine
+Total-BCAA,0.97 [0.96-0.98],0.010,*,Total-Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+M-VLDL-FC,0.97 [0.96-0.98],0.002,**,Free Cholesterol in Medium VLDL
+L-HDL-CE%,0.97 [0.96-0.98],0.004,**,Cholesteryl Esters to Total-Lipids in Large HDL percentage
+M-VLDL-PL%,0.97 [0.96-0.98],0.002,**,Phospholipids to Total-Lipids in Medium VLDL percentage
+L-VLDL-FC%,0.97 [0.96-0.98],0.001,**,Free Cholesterol to Total-Lipids in Large VLDL percentage
+LDL-P,0.97 [0.96-0.98],5.096e-04,***,Concentration of LDL Particles
+Ala,0.97 [0.96-0.98],8.914e-04,***,Alanine
+L-HDL-C%,0.97 [0.96-0.98],0.001,**,Cholesterol to Total-Lipids in Large HDL percentage
+S-LDL-FC%,0.97 [0.96-0.98],2.369e-04,***,Free Cholesterol to Total-Lipids in Small LDL percentage
+L-LDL-P,0.97 [0.96-0.98],2.105e-04,***,Concentration of Large LDL Particles
+L-LDL-FC%,0.97 [0.96-0.98],2.005e-04,***,Free Cholesterol to Total-Lipids in Large LDL percentage
+M-VLDL-CE%,0.97 [0.96-0.98],1.214e-04,***,Cholesteryl Esters to Total-Lipids in Medium VLDL percentage
+S-LDL-P,0.97 [0.96-0.98],3.796e-05,***,Concentration of Small LDL Particles
+S-VLDL-FC%,0.97 [0.96-0.98],1.008e-04,***,Free Cholesterol to Total-Lipids in Small VLDL percentage
+S-LDL-FC,0.97 [0.95-0.98],8.815e-06,***,Free Cholesterol in Small LDL
+S-LDL-PL,0.97 [0.95-0.98],8.274e-06,***,Phospholipids in Small LDL
+S-VLDL-PL%,0.97 [0.95-0.98],3.605e-05,***,Phospholipids to Total-Lipids in Small VLDL percentage
+M-VLDL-C%,0.96 [0.95-0.98],1.289e-05,***,Cholesterol to Total-Lipids in Medium VLDL percentage
+M-VLDL-FC%,0.96 [0.95-0.98],7.885e-06,***,Free Cholesterol to Total-Lipids in Medium VLDL percentage
+S-HDL-C%,0.96 [0.95-0.98],2.294e-06,***,Cholesterol to Total-Lipids in Small HDL percentage
+S-LDL-PL%,0.96 [0.95-0.97],1.159e-06,***,Phospholipids to Total-Lipids in Small LDL percentage
+M-VLDL-C,0.96 [0.95-0.97],4.179e-07,***,Cholesterol in Medium VLDL
+Albumin,0.96 [0.95-0.97],5.410e-07,***,Albumin
+Val,0.96 [0.95-0.97],6.233e-07,***,Valine
+S-VLDL-C%,0.96 [0.95-0.97],1.924e-08,***,Cholesterol to Total-Lipids in Small VLDL percentage
+S-VLDL-CE%,0.96 [0.95-0.97],6.496e-10,***,Cholesteryl Esters to Total-Lipids in Small VLDL percentage
+M-VLDL-CE,0.96 [0.95-0.97],9.305e-10,***,Cholesteryl Esters in Medium VLDL
+IDL-PL%,0.96 [0.95-0.97],6.550e-11,***,Phospholipids to Total-Lipids in IDL percentage
+L-VLDL-C%,0.96 [0.94-0.97],3.775e-10,***,Cholesterol to Total-Lipids in Large VLDL percentage
+XL-VLDL-CE%,0.96 [0.94-0.97],1.541e-09,***,Cholesteryl Esters to Total-Lipids in Very Large VLDL percentage
+IDL-FC%,0.96 [0.94-0.97],1.728e-11,***,Free Cholesterol to Total-Lipids in IDL percentage
+S-HDL-FC%,0.96 [0.94-0.97],6.633e-10,***,Free Cholesterol to Total-Lipids in Small HDL percentage
+XL-HDL-FC%,0.95 [0.94-0.97],3.659e-08,***,Free Cholesterol to Total-Lipids in Very Large HDL percentage
+L-VLDL-CE%,0.95 [0.94-0.97],6.914e-11,***,Cholesteryl Esters to Total-Lipids in Large VLDL percentage
+XL-VLDL-PL%,0.95 [0.94-0.96],1.680e-13,***,Phospholipids to Total-Lipids in Very Large VLDL percentage
+XL-VLDL-C%,0.95 [0.94-0.96],1.478e-11,***,Cholesterol to Total-Lipids in Very Large VLDL percentage
+XS-VLDL-PL%,0.95 [0.94-0.96],1.417e-12,***,Phospholipids to Total-Lipids in Very Small VLDL percentage
+Unsaturation,0.95 [0.94-0.96],1.277e-12,***,Degree of Unsaturation
+PUFA/MUFA,0.95 [0.94-0.96],8.474e-14,***,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+XL-HDL-FC,0.95 [0.93-0.96],2.375e-13,***,Free Cholesterol in Very Large HDL
+XS-VLDL-FC%,0.95 [0.94-0.96],1.432e-18,***,Free Cholesterol to Total-Lipids in Very Small VLDL percentage
+XL-VLDL-FC%,0.94 [0.93-0.96],4.053e-17,***,Free Cholesterol to Total-Lipids in Very Large VLDL percentage
+Omega-6%,0.94 [0.93-0.95],5.185e-21,***,Omega-6 Fatty Acids to Total-Fatty Acids percentage
+PUFA%,0.93 [0.92-0.94],1.362e-27,***,Polyunsaturated Fatty Acids to Total-Fatty Acids percentage
+LA%,0.93 [0.92-0.94],6.085e-32,***,Linoleic Acid to Total-Fatty Acids percentage
+ApoB/ApoA1,0.92 [0.91-0.94],2.954e-35,***,Apolipoprotein B to Apolipoprotein A1 ratio
+Citrate,0.92 [0.91-0.93],4.833e-41,***,Citrate

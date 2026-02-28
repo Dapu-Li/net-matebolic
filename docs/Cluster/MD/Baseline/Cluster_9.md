@@ -6,13 +6,13 @@
 
 ## Comorbidity (Logistic regression)
 > Sample size: **212751**  
-> Cases: **55592**  
-> Controls: **157159**
+> Cases: **9949**  
+> Controls: **202802**
 <img src="/Cluster/Figures/Baseline/LG/Cluster_9.png" />
 <CsvTable src="/Cluster_Data/Baseline/LG/LG_Cluster_9.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
-> Sample size: **67028**
+> Sample size: **18203**
 <img src="/Cluster/Figures/Baseline/Histogram/Cluster_9_ba.png" />
 <CsvTableNumb src="/Cluster_Data/Baseline/Histogram/Cluster_9_ba.csv" label="🔍 View full results" />
         
@@ -20,117 +20,67 @@
 <CsvTable src="/Cluster_Data/Baseline/ORD/ORD_Cluster_9.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
-- KRA_PSY_ANYMENTAL_SUICID_PREG_NERV (15) - Any mental disorder, or suicide (or attempt), or psychic disorders complicating pregnancy, partum or puerperium or nerve system disorders
-- N14_RECURANDPERHEAMATUR (14) - Recurrent and persistent haematuria
-- OTHER_CYSTIT (14) - Other cystitis, drug-induced
-- M13_PATHODISLOCATIO (13) - Pathological/recurrent dislocation and subluxation of joint, not elsewhere classified
-- M13_OTHERBONE (13) - Other disorders of bone
-- M13_PATELLAOTH (13) - Other disorders of patella
-- M13_ROTATORCUFF (13) - Rotator cuff syndrome
-- M13_RECUDISLOCATIO (13) - Recurrent dislocation and subluxation of joint
-- M13_RADICULOPATHY (13) - Radiculopathy
-- M13_POLYARTHROPATHIES (13) - Polyarthropathies
-- M13_POSTOPMUSCULOSKE (13) - Postprocedural musculoskeletal disorders, not elsewhere classified
-- M13_LOWBACKPAIN (13) - Low back pain
-- M13_LIMBPAIN (13) - Pain in limb
-- M13_MUSCULOSKELETAL (13) - Diseases of the musculoskeletal system and connective tissue
-- M13_OSTEONECROSIS (13) - Osteonecrosis
-- M13_CERVICDISC (13) - Cervical disc disorders
-- M13_CERVICALGIA (13) - Cervicalgia
-- M13_ARTHROSIS (13) - Arthrosis
-- M13_ARTHROPATHIES (13) - Arthropathies
-- M13_ARTHRITISNAS (13) - Other specified/unspecified arthritis
-- JOINTPAIN (13) - Pain in joint
-- M13_CHRONDROPATHIES (13) - Chondropathies
-- M13_JOINTOTH (13) - Other specific joint derangements/joint disorders
-- M13_INTERVERTEB (13) - Other intervertebral disc disorders
-- M13_DORSOPATHYOTH (13) - Other dorsopathies, not elsewhere classified
-- M13_DORSOPATHY (13) - Dorsopathies
-- M13_DORSALGIANAS (13) - Other/unspecified dorsalgia
-- M13_DISSYNOTENDNAS (13) - Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies
-- M13_SCIATICA (13) - Sciatica+with lumbago
-- PRIM_KNEEARTHROSIS (13) - Primary gonarthrosis, bilateral
-- M13_SOFTOVERUSE (13) - Soft tissue disorders related to use, overuse and pressure
-- M13_SOFTTISSUE (13) - Soft tissue disorders
-- M13_SPONDYLOLISTHESIS (13) - Spondylolisthesis/Spondylolysis
-- M13_SHOULDER (13) - Shoulder lesions
-- M13_SOFTTISSUEOTH (13) - Other soft tissue disorders, not elsewhere classified
-- M13_SPONDYLOPATHY (13) - Spondylopathies
-- M13_SPONDYLOSIS (13) - Spondylosis
-- L12_RADIATIONRELATEDSKIN (12) - Radiation-related disorders of the skin and subcutaneous tissue
-- L12_ACTINKERA (12) - Actinic keratosis
-- L12_NONIONRADISKIN (12) - Skin changes due to chronic exposure to nonionizing radiation
-- L12_DISORDSKINAPPENDIX (12) - Disorders of skin appendages
-- L12_FOLLICULARCYST (12) - Follicular cysts of skin and subcutaneous tissue
-- L12_URTICARIAERYTHEMA (12) - Urticaria and erythema
-- L12_HYPERTROPHICNAS (12) - Other and unspecified hypertrophic disorders of skin
-- L12_HYPERTROPHICSKIN (12) - Hypertrophic disorders of skin
-- L12_GRANULOMASKINNAS (12) - Other and unspecified granulomatous disorders of skin and subcutaneous tissue
-- R18_LOCALIZED_SWELL_MASS_LUMP_SKIN_SUBCU_TISSUE (12) - Localized swelling, mass and lump of skin and subcutaneous tissue
-- K11_CHOLECYST (11) - Cholecystitis
-- K11_ACUTPANC (11) - Acute pancreatitis
-- K11_CHOLELITH (11) - Cholelithiasis
-- K11_APPENDACUT (11) - Acute appendicitis
-- K11_CD_NOUC (11) - Crohn disease (strict definition, all UC cases excluded)
-- K11_APPENDIX (11) - Diseases of appendix
-- K11_BILIAOTH (11) - Other diseases of biliary tract
-- K11_ORAL (11) - Diseases of oral cavity, salivary glands and jaws
-- K11_OTHENTERCOL (11) - Other noninfective gastroenteritis and colitis
-- K11_OTHANRECT (11) - Other diseases of anus and rectum
-- K11_ORAL_LICHEN_PLANUS (11) - Oral lichen planus
-- K11_ORAL_LEUCOPLACIA (11) - Oral leukoplakia
-- K11_ILEUS (11) - Paralytic ileus and intestinal obstruction
-- K11_INTESTOTH (11) - Other diseases of intestines
-- K11_OTHILEUS (11) - Other or unspecified ileus, impaction or obstruction
-- K11_LIP_ORAL_MUCOSA (11) - Other diseases of lip and oral mucosa
-- K11_DISLIVOTH (11) - Other diseases of liver
-- K11_DISORD_TEETH (11) - Other disorders of teeth and supporting structures
-- K11_DIVERTIC (11) - Diverticular disease of intestine
-- K11_ENERCOLNONINF (11) - Noninfective enteritis and colitis
-- K11_FUNCDYSP (11) - Functional dyspepsia
-- K11_GALLBILPANC (11) - Disorders of gallbladder, biliary tract and pancreas
-- K11_GALLBLAOTH (11) - Other diseases of gallbladder
-- NAFLD (11) - Nonalcoholic fatty liver disease
-- R18_NAUSEA_VOMITI (11) - Nausea and vomiting
-- K11_OTHINT (11) - Other diseases of intestine
-- R18_DYSPHAGIA (11) - Dysphagia
-- CHRONLARGE (11) - Crohn's disease of large intestine
-- CHRONNAS (11) - Crohn's disease NAS
-- CHRONSMALL (11) - Crohn's disease of small intestine
-- COLITNONINFNAS (11) - Noninfectious colitis NAS
-- K11_TONGUE (11) - Diseases of tongue
-- K11_VASCINT (11) - Vascular disorders of the intestines
-- K11_POSTOPDIS (11) - Postprocedural disorders of digestive system, not elsewhere classified
-- K11_PERITONITIS (11) - Acute peritonitis
-- J10_ACUTEUPPERINFEC (10) - Acute upper respiratory infections of multiple and unspecified sites
-- VOCALCORDDYS (10) - Vocal cord dysfunction
-- R18_COUGH (10) - Cough
-- R18_OTHER_SYMPTOMS_SIGNS_INVOLVI_CIRCULATO_RESPI_SYSTEMS (10) - Other symptoms and signs involving the circulatory and respiratory systems
-- J10_TONSILLITIS (10) - Other and unspecified tonsillitis
-- J10_UPPERINFEC (10) - Acute upper respiratory infections
-- H8_OTIMEDNAS (8) - Otitis media, unspecified
-- H8_MENIERE (8) - Ménière disease
-- H7_DIVERGSTRAB (7) - Divergent concomitant strabismus
-- H7_VISUDISTURBSUB (7) - Subjective visual disturbances
-- G6_ROOTPLEXOTHUNS (6) - Other and unspecified nerve root and plexus disorders, also in other diseases
-- G6_NEURO (6) - Neurological diseases
-- KRA_PSY_ANYMENTAL (5) - Any mental disorder
-- KRA_PSY_ANXIETY (5) - Anxiety disorders
-- R18_VOICE_DISTU (5) - Voice disturbances
-- KRA_PSY_MOOD (5) - Mood disorders
-- F5_PSYCH (5) - Psychiatric diseases
-- F5_ANXIETY (5) - Other anxiety disorders
-- F5_BIPO (5) - Bipolar affective disorders
-- F5_DEPRESSIO (5) - Depression
-- E4_METABO (4) - Other metabolic disorders
-- E4_HYPERCALCEMIA (4) - Hypercalcemia
-- E4_ENDOMETPOSTOP (4) - Postprocedural endocrine and metabolic disorders, not elsewhere classified
-- C3_RECTUM (2) - Malignant neoplasm of rectum
-- C3_RECTOSIGMOID_JUNCTION (2) - Malignant neoplasm of rectosigmoid junction
-- C3_COLON (2) - Malignant neoplasm of colon
-- CD2_BENIGN_DESCENDING_COLON (2) - Benign neoplasm: Descending colon
-- CD2_BENIGN_HEMANGIOMA (2) - Haemangioma, any site
-- CD2_BENIGN_ASCENDING_COLON (2) - Benign neoplasm: Ascending colon
-- CD2_BENIGN_HEAMANGIOMA_LYMPHANGIOMA (2) - Haemangioma and lymphangioma, any site
-- AB1_VIRAL_WARTS (1) - Viral warts
-- AB1_VIRAL_SKIN_MUCOUS_MEMBRANE (1) - Viral infections characterized by skin and mucous membrane lesions
+- AB1_HEPATITIS_OTHER_VIRAL (1) - Other viral hepatitis
+- AB1_VIRAL_HEPATITIS (1) - Viral hepatitis
+- ALLERG_RHINITIS (10) - Allergic rhinitis
+- C3_BASAL_CELL_CARCINOMA (2) - Basal cell carcinoma
+- C3_OTHER_SKIN (2) - Other malignant neoplasms of skin (=non-melanoma skin cancer)
+- CD2_BENIGN_BREAST (2) - Benign neoplasm of breast
+- CD2_BENIGN_ENDOCRINE_OTH (2) - Benign neoplasm of other and unspecified endocrine glands
+- CD2_BENIGN_LIPO_SPERMATIC (2) - Benign lipomatous neoplasm of spermatic cord
+- CD2_BENIGN_OTHER_NOS (2) - Benign neoplasm of other and unspecified sites
+- G6_PARKINSON (6) - Parkinson's disease
+- G6_XTRAPYR (6) - Extrapyramidal and movement disorders
+- H7_BLINDANDVISIMPAIRMENT (7) - Visual impairment including blindness (binocular or monocular)
+- H7_IRIDOCYCLITIS (7) - Iridocyclitis
+- H7_MYOPIA (7) - Myopia
+- H7_OCUMUSCLE (7) - Disorders of ocular muscles, binocular movement, accommodation and refraction
+- H7_RETINALBREAK (7) - Retinal breaks without detachment
+- H7_SCLERACORNEA (7) - Disorders of sclera, cornea, iris and ciliary body
+- H7_VITRBODYGLOBE (7) - Disorders of vitreous body
+- H7_VITREOUS (7) - Disorders of vitreous body and globe
+- H7_VITROTH (7) - Other and unspecified disorders of vitreous body
+- HEPATITIS_CHRONIC_VIRAL (1) - Chronic viral hepatitis
+- J10_VASOALLERRHIN (10) - Vasomotor and allergic rhinitis
+- K11_COELIAC (11) - Coeliac disease
+- K11_MALABSORB (11) - Intestinal malabsorption
+- M13_ANKYLOSPON (13) - Ankylosing spondylitis
+- M13_TENDOSYNOVITISNAS (13) - Other/unspecified synovitis and tenosynovitis
+- N14_HYDROCELE (14) - Hydrocele
+- N14_OTHDISMALEGEN (14) - Other disorders of male genital organs
+- N14_POSTMENBLEED (14) - Postmenopausal bleeding
+- O15_ANTEPART_HAEM_NAS (15) - Antepartum haemorrhage, not elsewhere classified
+- O15_COMPLIC_LAB_DELIV (15) - Complications of labour and delivery
+- O15_COMPLIC_PUERP (15) - Complications predominantly related to the puerperium
+- O15_CONCEPT_ABNORM (15) - Other abnormal products of conception
+- O15_DELIVERY (15) - Delivery
+- O15_DELIVERY_PROXY (15) - Delivery, wide proxy
+- O15_DELIV_CAESAR (15) - Single delivery by caesarean section
+- O15_DELIV_PERIN_LACER (15) - Perineal laceration during delivery
+- O15_DELIV_SPONT (15) - Single spontaneous delivery
+- O15_FALSE_LAB (15) - False labour
+- O15_HYPTENSPREG (15) - Pregnancy hypertension
+- O15_LABOUR_ABNORM_FORCES (15) - Abnormalities of forces of labour
+- O15_LABOUR_FETAL_STRESS (15) - Labour and delivery complicated by fetal stress [distress]
+- O15_LABOUR_LONG (15) - Long labour
+- O15_LABOUR_MALPOS (15) - Obstructed labour due to malposition and malpresentation of fetus
+- O15_LABOUR_OBSTR_OTHER (15) - Other obstructed labour
+- O15_LABOUR_UMBILICAL (15) - Labour and delivery complicated by umbilical cord complications
+- O15_MATERN_CARE_OTHER (15) - Maternal care for other known or suspected fetal problems
+- O15_MATERN_CARE_PELVIC_ABNORM (15) - Maternal care for known or suspected abnormality of pelvic organs
+- O15_MATERN_HYPERT_UNS (15) - Unspecified maternal hypertension
+- O15_MAT_CARE_MALPRESENT (15) - Maternal care for known or suspected malpresentation of fetus
+- O15_MULTIP_GEST (15) - Multiple gestation
+- O15_OBSTET_NAS (15) - Other obstetric conditions, not elsewhere classified
+- O15_OEDEM_PROTUR_HYPERT (15) - Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium
+- O15_OTHER_MATERN_DIS_ELSEWHERE (15) - Other maternal diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium
+- O15_POSTPART_HAEMORRH_ANATOMY (15) - Postpartum haemorrhage due to anatomy
+- O15_POSTPART_HEAMORRH (15) - Postpartum haemorrhage
+- O15_PREG_BIRTH_PUERP (15) - Pregnancy, childbirth and the puerperium
+- O15_PREG_MATERN_CARE (15) - Maternal care for other conditions predominantly related to pregnancy
+- O15_PREG_OTHER_MAT_DISORD (15) - Other maternal disorders predominantly related to pregnancy
+- O15_PREG_PROLONGED (15) - Prolonged pregnancy
+- O15_TWIN_GEST (15) - Twin gestation
+- PNEUMOBACTKNOWN (10) - Bacterial pneumonia (organism specified)
+- R18_ABNORMAL_FINDI_DIAGNOST_IMAGI_LUNG (10) - Abnormal findings on diagnostic imaging of lung
+- R18_UNSPE_JAUND (11) - Unspecified jaundice

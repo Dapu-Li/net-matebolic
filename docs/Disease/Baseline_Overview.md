@@ -1,7 +1,7 @@
 # Baseline Disease Analysis
 
 **Baseline diseases** refer to conditions that were diagnosed at the time of baseline data collection.  
-To explore the associations between circulating metabolites (including their ratios) and **826 prevalent diseases**, we performed **logistic regression analyses**. These Diseases were devided into **15 Chapters** based on the **ICD-10** classification system, with a focus on the **first 3 digits** of the ICD codes.
+To explore the associations between circulating metabolites (including their ratios) and **722 prevalent diseases**, we performed **logistic regression analyses**. These Diseases were devided into **15 Chapters** based on the **ICD-10** classification system, with a focus on the **first 3 digits** of the ICD codes.
 
 ## Covariate Adjustments
 

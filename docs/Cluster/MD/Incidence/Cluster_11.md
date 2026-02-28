@@ -6,13 +6,13 @@
 
 ## Comorbidity (Logistic regression)
 > Sample size: **212751**  
-> Cases: **4117**  
-> Controls: **208634**
+> Cases: **130168**  
+> Controls: **82583**
 <img src="/Cluster/Figures/Incidence/LG/Cluster_11.png" />
 <CsvTable src="/Cluster_Data/Incidence/LG/LG_Cluster_11.csv" label="🔍 View full results" />
 
 ## Number of disease except for 0 (Ordinary regression)
-> Sample size: **9828**
+> Sample size: **148879**
 <img src="/Cluster/Figures/Incidence/Histogram/Cluster_11_in.png" />
 <CsvTable src="/Cluster_Data/Incidence/Histogram/Cluster_11_in.csv" label="🔍 View full results" />
 
@@ -20,23 +20,253 @@
 <CsvTable src="/Cluster_Data/Incidence/ORD/ORD_Cluster_11.csv" label="🔍 View full results" />
 
 ### 🔍 Diseases in this cluster [Code (Chapter) - Long Name]:
-- N14_VULVOVAGINFINOTH (14) - Vulvovaginal ulceration/inflammation in other diseases
-- M13_ARTHROSIS_KNEE_PRIM_ICD10 (13) - Gonarthrosis,primary
-- M13_HALLUXVALGUS (13) - Hallux valgus (acquired)
-- M13_FINGERDEFORM (13) - Deformity of finger(s)
-- M13_TOEDEFORMOTH (13) - Other deformities of toe(s)
-- PRIM_KNEEARTHROSIS (13) - Primary gonarthrosis, bilateral
-- L12_CORNSANDCALLOS (12) - Corns and callosities
-- ALCOLIVER (11) - Alcoholic liver disease
-- H7_CORNEALNAS (7) - Other and unspecified corneal deformities and disorders
-- H7_PERIPHRETINADEGEN (7) - Peripheral retinal degeneration
-- G6_CAUDA (6) - Cauda equina syndrome
-- ALCOHOLACUTE10 (5) - Acute alcohol intoxication, ICD10
-- ALCOHOLMENTAL (5) - Mental and behavioural disorders due to alcohol, excluding acute intoxication
-- BRUXISM (5) - Bruxism
-- AUD (5) - Alcohol use disorder, ICD-based
-- F5_ALCOHOL_DEPENDENCE (5) - Alcohol dependence
-- F5_SOMATOFORM (5) - Somatoform disorder
-- F5_OCD (5) - Obsessive-compulsive disorder
-- C3_LIPOSARCOMA (2) - Liposarcoma
-- C3_LARYNX (2) - Malignant neoplasm of larynx
+- AB1_BACT_BIR_OTHER_INF_AGENTS (1) - Bacterial, viral and other infectious agents
+- AB1_BACT_INTEST_OTH (1) - Other bacterial intestinal infections
+- AB1_CANDIDIASIS (1) - Candidiasis
+- AB1_GASTROENTERITIS_NOS (1) - Diarrhoea and gastroenteritis of presumed infectious origin
+- AB1_INFECT_PARASIT (1) - Certain infectious and parasitic diseases
+- AB1_INTESTINAL_INFECTIONS (1) - Intestinal infectious diseases
+- AB1_MYCOSES (1) - Mycoses
+- AB1_OTHER_BACTERIAL (1) - Other bacterial diseases
+- AB1_OTHER_BACT_INOTHER (1) - Other bacterial agents as the cause of diseases classified to other chapters
+- AB1_OTHER_SEPSIS (1) - Other septicaemia
+- AB1_OTHER_VIRAL (1) - Other viral diseases
+- AB1_SEPSIS_BACT_EXPL (1) - Explicit bacterial Sepsis
+- AB1_SEPSIS_BACT_IMPL (1) - Implicit bacterial Sepsis
+- AB1_SEPSIS_CONDITION (1) - Condition for Implicit Sepsis (Organ dysfunction codes)
+- AB1_SEPSIS_EXPLICIT (1) - Explicit Sepsis
+- AB1_SEPSIS_FUNGAL_IMPL (1) - Implicit fungal Sepsis
+- AB1_SEPSIS_IMPLICIT (1) - Implicit Sepsis
+- AB1_SEPSIS_VIRAL_IMPL (1) - Implicit viral Sepsis
+- AB1_STREPTO_SEPSIS (1) - Streptococcal septicaemia
+- AB1_VIRAL_NOS (1) - Other viral diseases, not elsewhere classified
+- AB1_VIRAL_OTHER_INTEST_INFECTIONS (1) - Viral and other specified intestinal infections
+- AB1_VIRAL_SKIN_MUCOUS_MEMBRANE (1) - Viral infections characterized by skin and mucous membrane lesions
+- AB1_VIRAL_WARTS (1) - Viral warts
+- C3_BILIARY_TRACT (2) - Malignant neoplasm of other and unspecified parts of biliary tract
+- C3_COLON (2) - Malignant neoplasm of colon
+- C3_DIGESTIVE_ORGANS_NAS (2) - Malignant neoplasm of other and ill-defined digestive organs
+- C3_LYMPHNODES_SECONDARY_NAS (2) - Secondary and unspecified malignant neoplasm of lymph nodes
+- C3_OESOPHAGUS (2) - Malignant neoplasm of oesophagus
+- C3_OROPHARYNX (2) - Malignant neoplasm of oropharynx
+- C3_PANCREAS (2) - Malignant neoplasm of pancreas
+- C3_RETROPERITONEUM_PERITONEUM (2) - Malignant neoplasm of retroperitoneum and peritoneum
+- CAMPYLOENTERITIS (1) - Campylobacter enteritis
+- CD2_BENIGN_ADRENAL (2) - Benign neoplasm: Adrenal gland
+- CD2_BENIGN_LIPO_SKIN_LIMBS (2) - Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs
+- CD2_NEOPLASM (2) - Neoplasms
+- CHRONNAS (11) - Crohn's disease NAS
+- CHRONOTH (11) - Other Crohn's disease
+- CHRONSMALL (11) - Crohn's disease of small intestine
+- COLITCOLLAG (11) - Collagenous colitis
+- COLITNONINFNAS (11) - Noninfectious colitis NAS
+- COPD_EARLY (10) - Early onset COPD
+- D3_BLOODNAS (3) - Other and unspecified diseases of blood and blood-forming organs
+- DM_BCKGRND_RETINA (7) - Background diabetic retinopathy
+- DM_HYPOGLYC (4) - Diabetic hypoglycemia
+- DM_KETOACIDOSIS (4) - Diabetic ketoacidosis
+- DM_KIDNEYFAIL (4) - Diabetes, kidney failure
+- DM_NEPHROPATHY (14) - Diabetic nephropathy
+- DM_NEUROPATHY (4) - Diabetic neuropathy
+- DM_OTHER_WIDE (4) - Other diabetes, wide definition
+- DM_PERIPHATHERO (9) - Peripheral atherosclerosis
+- DUODENAL_ULCER_UNSPE_ACUTE_CHRONIC_WO_HAEMORRHAGE_PERFORATION (11) - Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced
+- E4_ACIDOSIS (4) - Acidosis
+- E4_ADRENAL (4) - Other disorders of adrenal gland
+- E4_ALKALOSIS (4) - Alkalosis
+- E4_CORTICOTROPIN_DEFICIENCY (4) - Corticotropin deficiency
+- E4_DM1 (4) - Type 1 diabetes
+- E4_DM1NOCOMP (4) - Type 1 diabetes without complications
+- E4_DM2 (4) - Type 2 diabetes
+- E4_DM2KETO (4) - Type 2 diabetes with ketoacidosis
+- E4_DM2NEU (4) - Type 2 diabetes with neurological complications
+- E4_DM2NOCOMP (4) - Type 2 diabetes without complications
+- E4_DM2OPTH (4) - Type 2 diabetes with ophthalmic complications
+- E4_DM2PERIPH (4) - Type 2 diabetes with peripheral circulatory complications
+- E4_DM2REN (4) - Type 2 diabetes with renal complications
+- E4_DMNASNOCOMP (4) - Unspecified diabetes without complications
+- E4_ENDOGLAND (4) - Disorders of other endocrine glands
+- E4_FLUIDELECTRONAS (4) - Other disorders of electrolyte and fluid balance, not elsewhere classified
+- E4_GLUCOPANCREAS (4) - Other disorders of glucose regulation and pancreatic internal secretion
+- E4_HYPERCALCEMIA (4) - Hypercalcemia
+- E4_HYPERKALAEMIA (4) - Hyperkalaemia
+- E4_HYPEROSMHNAT (4) - Hyperosmolality and hypernatraemia
+- E4_HYPOGLYC (4) - Hypoglycaemia, other or unspecified
+- E4_HYPOKALAEMIA (4) - Hypokalaemia
+- E4_IRON_MET (4) - Disorders of iron metabolism
+- E4_MALNUTRITION (4) - Malnutrition
+- E4_METABO (4) - Other metabolic disorders
+- E4_MG_MET (4) - Disorders of magnesium metabolism
+- E4_MINERAL_MET (4) - Disorders of mineral metabolism
+- E4_PCOS_BROAD_EXCLUSIONS (4) - Exclusions for E4_PCOS_BROAD
+- E4_PHOS_MET (4) - Disorders of phosphorus metabolism and phosphatases
+- E4_PROTMALNAS (4) - Unspecified protein-energy malnutrition
+- E4_VIT_D_DEF (4) - Vitamin D deficiency
+- E4_VOLUME (4) - Volume depletion
+- F5_SCHIZO (5) - Schizophrenia, schizotypal and delusional disorders
+- F5_VASCDEM (5) - Vascular dementia
+- FIBROLIV (11) - Fibrosis of liver
+- G6_ALS (6) - Motor neuron disease
+- G6_CERCYST (6) - Cerebral cysts
+- G6_DIABETNEUR (6) - Diabetic neuropathy
+- G6_DYSTON (6) - Dystonia
+- G6_ENCEPATH (6) - Encephalopathy
+- G6_EPIPAROX (6) - Episodal and paroxysmal disorders
+- G6_MYONEU (6) - Diseases of the myoneural junction and muscle
+- G6_NEUINFL (6) - Inflammatory diseases of the central nervous system
+- G6_NEURO (6) - Neurological diseases
+- G6_NEUROOTH (6) - Other disorders of nervous system
+- G6_OTHNEU (6) - Other neurological diseases
+- G6_PARDIPLE (6) - Paraplegia, diplegia of upper limbs
+- G6_POLYNEU (6) - Polyneuropathies and other disorders of the peripheral nervous system
+- G6_POLYOTHUNS (6) - Other and unspecified polyneuropathies, also in other diseases
+- G6_SLEEPAPNO (6) - Sleep apnoea
+- G6_SLEEPDISOTH (6) - Other sleep disorders
+- G6_ULLNLE (6) - Lesion of ulnar nerve
+- H7_BLINDMONOCULAR (7) - Blindness, monocular
+- H7_CATARACTOTHER (7) - Other cataract
+- H7_CATARACTSENILE (7) - Senile cataract
+- H7_DIPLOPIA (7) - Diplopia
+- H7_EYELIDDIS (7) - Other disorders of eyelid
+- H7_EYELIDFUNC (7) - Other disorders affecting eyelid function
+- H7_EYELIDINFLAMMATION (7) - Other inflammation of eyelid
+- H7_EYELIDNAS (7) - Other specified and unspecified  disorders of eyelid
+- H7_EYE_ADNEXA (7) - Diseases of the eye and adnexa
+- H7_LACRIMALSYSTEM (7) - Disorders of lacrimal system
+- H7_LENS (7) - Disorders of lens
+- H7_LIDLACRIMALORBIT (7) - Disorders of eyelid, lacrimal system and orbit
+- H7_OCUPAIN (7) - Ocular pain
+- H7_OPTICDISCOTH (7) - Other disorders of optic disc
+- H7_OPTNERVE (7) - Disorders of optic nerve and visual pathways
+- H7_OPTNEUROTH (7) - Other disorders of optic [2nd] nerve and visual pathways
+- H7_OTHIRISCILIARY (7) - Other disorders of iris and ciliary body
+- H7_VISDISTNAS (7) - Other and unspecified visual disturbances
+- H8_HL_NAS (8) - Other specified/unspecified hearing loss
+- H8_HL_PRESBY (8) - Presbycusis
+- H8_OTHEREAR (8) - Other disorders of ear
+- HYPOTE_DRUGS (9) - Hypotension due to drugs
+- I9_ARTEMBTHRLOW (9) - Arterial embolism and thrombosis of lower extremity artery
+- I9_ARTEMBTHRNAS (9) - Other arterial embolism and thrombosis
+- I9_ARTOTH (9) - Other diseases of arteries and capillaries
+- I9_ATHSCLE (9) - Atherosclerosis, excluding cerebral and coronary sclerosis
+- I9_CERATHER (9) - Cerebral atherosclerosis
+- I9_CEREBVASC (9) - Cerebrovascular diseases
+- I9_CVD (9) - Cardiovascular diseases
+- I9_DOAAC (9) - Diseases of arteries, arterioles and capillaries
+- I9_HYPTENS (9) - Hypertension
+- I9_HYPTENSESS (9) - Hypertension, essential
+- I9_PAD (9) - Peripheral artery disease
+- I9_THROMBOTH (9) - Other embolism and thrombosis
+- I9_VASCINT (9) - Vascular diseases of the intestine
+- IBD_BACT_INTEST_INFECTIONS (1) - Bacterial intestinal infections, IBD co-morbidities
+- J10_ACUTELOWERNAS (10) - Unspecified acute lower respiratory infection
+- J10_ARDS (10) - Adult respiratory distress syndrome
+- J10_BRONCH (10) - Bronchitis, not specified as acute or chronic
+- J10_BRONCHITIS (10) - Acute bronchitis
+- J10_BRONCHNAS (10) - Unspecified chronic bronchitis
+- J10_CHRONSINUSITIS (10) - Chronic sinusitis
+- J10_COLD (10) - Acute nasopharyngitis (common cold)
+- J10_EMPHYSEMA (10) - Emphysema
+- J10_INFLUPNEU (10) - Influenza and pneumonia
+- J10_LOWCHRON (10) - Chronic lower respiratory diseases
+- J10_LOWERINF (10) - Other acute lower respiratory infections
+- J10_NECROTIC (10) - Suppurative and necrotic conditions of lower respiratory tract
+- J10_PLEURA (10) - Other diseases of pleura
+- J10_PLEUROTH (10) - Other pleural conditions
+- J10_PNEUMONAS (10) - Pneumonia, organism unspecified
+- J10_PNEUMOTHORAX (10) - Pneumothorax
+- J10_PYOTHORAX (10) - Pyothorax
+- J10_RESPDISOTH (10) - Other respiratory disorders and diseases
+- J10_RESPIRATORY (10) - Diseases of the respiratory system
+- JOINTPAIN (13) - Pain in joint
+- K11_ADHE (11) - Intestinal adhesions without obstruction
+- K11_BILIAOTH (11) - Other diseases of biliary tract
+- K11_CD_NOUC (11) - Crohn disease (strict definition, all UC cases excluded)
+- K11_CHOLANGI (11) - Cholangitis (primary sclerosing, PSC)
+- K11_CHRONGASTR (11) - Chronic gastritis
+- K11_DISORD_TEETH (11) - Other disorders of teeth and supporting structures
+- K11_DULC (11) - Duodenal ulcer
+- K11_ENERCOLNONINF (11) - Noninfective enteritis and colitis
+- K11_GASTRODUOULC (11) - Gastroduodenal ulcer
+- K11_GINGIVA (11) - Other disorders of gingiva or/and edentulous alveolar ridge
+- K11_GULC (11) - Gastric ulcer
+- K11_IMPACT (11) - Impaction of intestines
+- K11_LIP_ORAL_MUCOSA (11) - Other diseases of lip and oral mucosa
+- K11_ORAL (11) - Diseases of oral cavity, salivary glands and jaws
+- K11_ORAL_LEUCOPLACIA (11) - Oral leukoplakia
+- K11_ORAL_LICHEN_PLANUS (11) - Oral lichen planus
+- K11_OTHABDHER (11) - Other and unspecified abdominal hernia
+- K11_OTHENTERCOL (11) - Other noninfective gastroenteritis and colitis
+- K11_OTHFUNC (11) - Other functional intestinal disorders
+- K11_OTHINFLIV (11) - Other inflammatory liver diseases
+- K11_PARODON_PERIAPIC_CHRONIC (11) - Chronic apical periodontitis
+- K11_PERITONITIS (11) - Acute peritonitis
+- K11_POSTOPDIS (11) - Postprocedural disorders of digestive system, not elsewhere classified
+- K11_STOMATITIS (11) - Stomatitis and related lesions
+- K11_UC_NOCD (11) - Ulcerative colitis (strict definition, all Crohn cases excluded)
+- K11_VASCINT (11) - Vascular disorders of the intestines
+- K11_VENTHER (11) - Ventral hernia
+- KRA_PSY_SCHIZODEL (5) - Schizophrenia or delusion
+- KRA_PSY_SUBSTANCE (5) - Substance abuse
+- L12_ATROPHICSKIN (12) - Atrophic disorders of skin
+- L12_CHRONICULCEROFSKIN (12) - Chronic ulcer of skin, not elsewhere classified
+- L12_HYPERTROPHICNAS (12) - Other and unspecified hypertrophic disorders of skin
+- L12_HYPERTROPHICSKIN (12) - Hypertrophic disorders of skin
+- L12_LICHENPLANUS (12) - Lichen planus
+- L12_PAPULOSQUAMOUS (12) - Papulosquamous disorders
+- L12_PRURITUS (12) - Pruritus
+- L12_PSORIASIS (12) - Psoriasis
+- L12_PSORI_NAS (12) - Other and unspecified psoriasis
+- L12_SCARCONDITIONS (12) - Scar conditions and fibrosis of skin
+- M13_BONEDISNAS (13) - Other specified/unspecified disorders of  bone/cartilage
+- M13_CERVICALGIA (13) - Cervicalgia
+- M13_DEFORMDORSO (13) - Deforming dorsopathies
+- M13_DISCITIS (13) - Discitis, unspecified
+- M13_ENTESOPATHYLOW (13) - Enthesopathies of lower limb, excluding foot
+- M13_FLATFOOT (13) - Flat foot [pes planus] (acquired)
+- M13_JOINTOTH (13) - Other specific joint derangements/joint disorders
+- M13_LIMBPAIN (13) - Pain in limb
+- M13_MUSCLE (13) - Disorders of muscles
+- M13_MUSCLEDISNAS (13) - Other specified disorders of muscle
+- M13_MUSCULOSKELEOTH (13) - Other disorders of the musculoskeletal system and connective tissue
+- M13_NEURALGIA (13) - Neuralgia and neuritis, unspecified
+- M13_OTHCONN (13) - Other systemic involvement of connective tissue
+- M13_OTHERBONE (13) - Other disorders of bone
+- M13_POSTOPMUSCULOSKE (13) - Postprocedural musculoskeletal disorders, not elsewhere classified
+- M13_RHEUMA (13) - Rheumatoid arthritis
+- M13_SHOULDERNAS (13) - Other shoulder lesions
+- M13_SOFTTISSUEOTH (13) - Other soft tissue disorders, not elsewhere classified
+- M13_SPINSTENOSIS (13) - Spinal stenosis
+- M13_SPONDYLOPATHINOTH (13) - Spondylopathies in diseases classified elsewhere
+- M13_TROCHANTERICBURSITIS (13) - Trochanteric bursitis
+- M13_VERTEBCOLLAPSE (13) - Collapsed vertebra, not elsewhere classified
+- N14_ACUTERENFAIL (14) - Acute renal failure
+- N14_GLOMEINOTH (14) - Glomerular disorders in diseases classified elsewhere
+- N14_PYELONEPHR (14) - Acute tubulo-interstitial nephritis
+- N14_URETHRALSTRICT (14) - Urethral stricture
+- OTHER_CHRONIC_CYSTIT (14) - Other chronic cystitis, drug-induced
+- R18_ABNORMALITI_BREAT (10) - Abnormalities of breathing
+- R18_ABNORMALITY_WHITE_BLOOD_CELLS_NOT_ELSEW_CLASSIFIED (3) - Abnormality of white blood cells, not elsewhere classified
+- R18_ABNORMAL_FINDI_BRONCHIAL_WASHI_NASAL_SECRE_PLEURAL_FLUID_SPUTUM_THROAT_SCRAP (10) - Abnormal findings in bronchial washings nasal secretions pleural fluid sputum throat scrapings
+- R18_ABNORMAL_FINDI_DIAGNOST_IMAGI_LUNG (10) - Abnormal findings on diagnostic imaging of lung
+- R18_ABNORMAL_INVOLU_MOVEM (13) - Abnormal involuntary movements
+- R18_ABNORMAL_SERUM_ENZYME_LEVELS (3) - Abnormal serum enzyme levels
+- R18_CARDIAC_MURMU_OTHER_CARDIAC_SOUNDS (9) - Cardiac murmurs and other cardiac sounds
+- R18_COUGH (10) - Cough
+- R18_CRAMP_SPASM (13) - Cramp and spasm
+- R18_DIZZI_GIDDI (5) - Dizziness and giddiness
+- R18_DYSPNOEA (10) - Dyspnoea
+- R18_OTHER_SYMPTOMS_SIGNS_INVOLVI_CIRCULATO_RESPI_SYSTEMS (10) - Other symptoms and signs involving the circulatory and respiratory systems
+- R18_OTHER_SYMPTOMS_SIGNS_INVOLVI_DIGES_SYSTEM_ABDOMEN (11) - Other symptoms and signs involving the digestive system and abdomen
+- R18_RASH_OTHER_NONSPECIFIC_SKIN_ERUPT (12) - Rash and other nonspecific skin eruption
+- R18_SYMPTOMS_SIGNS_INVOLVI_CIRCULATO_RESPI_SYSTEMS (9) - Symptoms and signs involving the circulatory and respiratory systems
+- R18_SYMPTOMS_SIGNS_INVOLVI_COGNITION_PERCEP_EMOTIONAL_STATE_BEHVI (5) - Symptoms and signs involving cognition, perception, emotional state and behaviour
+- R18_SYMPTOMS_SIGNS_INVOLVI_DIGES_SYSTEM_ABDOMEN (11) - Symptoms and signs involving the digestive system and abdomen
+- R18_SYMPTOMS_SIGNS_INVOLVI_EMOTIONAL_STATE (5) - Symptoms and signs involving emotional state
+- R18_SYMPTOMS_SIGNS_INVOLVI_SKIN_SUBCU_TISSUE (12) - Symptoms and signs involving the skin and subcutaneous tissue
+- RHEUMA_NOS (13) - Other/unspecified rheumatoid arthritis
+- RHEUMA_OTHER_WIDE (13) - Other (seronegative) rheumatoid arthritis, wide
+- RHEUMA_SERONEG (13) - Seronegative rheumatoid arthritis
+- SFN (6) - Small fibre neuropathy
+- ULCERNAS (11) - Ulcerative colitis, NAS
+- VD_U (5) - Vascular dementia (undefined)

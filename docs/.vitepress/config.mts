@@ -13,7 +13,7 @@ export default defineConfig({
         items: [
           { text: 'Disease', link: '/Disease/Baseline_Overview/' },
           { text: 'Traits', link: '/Traits/Overview/' },
-          { text: 'Chapter', link: '/Chapter/Baseline_Overview/' },
+          //{ text: 'Chapter', link: '/Chapter/Baseline_Overview/' },
           { text: 'Cluster', link: '/Cluster/Baseline_Overview/' },
           { text: 'Predict and Diagnose', link: '/Predict/Overview/' },
           { text: 'Mendelian Randomization', link: '/MR/Forward_Overview/' }
@@ -3074,50 +3074,50 @@ export default defineConfig({
           ]
         }
       ],
-      '/Chapter/': [
-        {
-          text: 'Baseline', link: '/Chapter/Baseline_Overview', 
-          collapsed: true, 
-          items: [
-            { text: 'Chapter I- Infectious and parasitic', link: '/Chapter/MD/Baseline/Chapter_1' },
-            { text: 'Chapter II- Neoplasms', link: '/Chapter/MD/Baseline/Chapter_2' },
-            { text: 'Chapter III- Blood and immune', link: '/Chapter/MD/Baseline/Chapter_3' },
-            { text: 'Chapter IV- Endocrine and metabolic', link: '/Chapter/MD/Baseline/Chapter_4' },
-            { text: 'Chapter V- Mental and behavioural', link: '/Chapter/MD/Baseline/Chapter_5' },
-            { text: 'Chapter VI- Nervous', link: '/Chapter/MD/Baseline/Chapter_6' },
-            { text: 'Chapter VII- Eye and adnexa', link: '/Chapter/MD/Baseline/Chapter_7' },
-            { text: 'Chapter VIII- Ear and mastoid', link: '/Chapter/MD/Baseline/Chapter_8' },
-            { text: 'Chapter IX- Circulatory', link: '/Chapter/MD/Baseline/Chapter_9' },
-            { text: 'Chapter X- Respiratory', link: '/Chapter/MD/Baseline/Chapter_10' },
-            { text: 'Chapter XI- Digestive', link: '/Chapter/MD/Baseline/Chapter_11' },
-            { text: 'Chapter XII- Skin', link: '/Chapter/MD/Baseline/Chapter_12' },
-            { text: 'Chapter XIII- Musculoskeletal', link: '/Chapter/MD/Baseline/Chapter_13' },
-            { text: 'Chapter XIV- Genitourinary', link: '/Chapter/MD/Baseline/Chapter_14' },
-            { text: 'Chapter XV- Pregnancy', link: '/Chapter/MD/Baseline/Chapter_15' },
-          ]
-        },
-        {
-          text: 'Incidence', link: '/Chapter/Incidence_Overview',
-          collapsed: false,
-          items: [
-            { text: 'Chapter I- Infectious and parasitic', link: '/Chapter/MD/Incidence/Chapter_1' },
-            { text: 'Chapter II- Neoplasms', link: '/Chapter/MD/Incidence/Chapter_2' },
-            { text: 'Chapter III- Blood and immune', link: '/Chapter/MD/Incidence/Chapter_3' },
-            { text: 'Chapter IV- Endocrine and metabolic', link: '/Chapter/MD/Incidence/Chapter_4' },
-            { text: 'Chapter V- Mental and behavioural', link: '/Chapter/MD/Incidence/Chapter_5' },
-            { text: 'Chapter VI- Nervous', link: '/Chapter/MD/Incidence/Chapter_6' },
-            { text: 'Chapter VII- Eye and adnexa', link: '/Chapter/MD/Incidence/Chapter_7' },
-            { text: 'Chapter VIII- Ear and mastoid', link: '/Chapter/MD/Incidence/Chapter_8' },
-            { text: 'Chapter IX- Circulatory', link: '/Chapter/MD/Incidence/Chapter_9' },
-            { text: 'Chapter X- Respiratory', link: '/Chapter/MD/Incidence/Chapter_10' },
-            { text: 'Chapter XI- Digestive', link: '/Chapter/MD/Incidence/Chapter_11' },
-            { text: 'Chapter XII- Skin', link: '/Chapter/MD/Incidence/Chapter_12' },
-            { text: 'Chapter XIII- Musculoskeletal', link: '/Chapter/MD/Incidence/Chapter_13' },
-            { text: 'Chapter XIV- Genitourinary', link: '/Chapter/MD/Incidence/Chapter_14' },
-            { text: 'Chapter XV- Pregnancy', link: '/Chapter/MD/Incidence/Chapter_15' },
-          ]
-        },
-      ],
+      // '/Chapter/': [
+      //   {
+      //     text: 'Baseline', link: '/Chapter/Baseline_Overview', 
+      //     collapsed: true, 
+      //     items: [
+      //       { text: 'Chapter I- Infectious and parasitic', link: '/Chapter/MD/Baseline/Chapter_1' },
+      //       { text: 'Chapter II- Neoplasms', link: '/Chapter/MD/Baseline/Chapter_2' },
+      //       { text: 'Chapter III- Blood and immune', link: '/Chapter/MD/Baseline/Chapter_3' },
+      //       { text: 'Chapter IV- Endocrine and metabolic', link: '/Chapter/MD/Baseline/Chapter_4' },
+      //       { text: 'Chapter V- Mental and behavioural', link: '/Chapter/MD/Baseline/Chapter_5' },
+      //       { text: 'Chapter VI- Nervous', link: '/Chapter/MD/Baseline/Chapter_6' },
+      //       { text: 'Chapter VII- Eye and adnexa', link: '/Chapter/MD/Baseline/Chapter_7' },
+      //       { text: 'Chapter VIII- Ear and mastoid', link: '/Chapter/MD/Baseline/Chapter_8' },
+      //       { text: 'Chapter IX- Circulatory', link: '/Chapter/MD/Baseline/Chapter_9' },
+      //       { text: 'Chapter X- Respiratory', link: '/Chapter/MD/Baseline/Chapter_10' },
+      //       { text: 'Chapter XI- Digestive', link: '/Chapter/MD/Baseline/Chapter_11' },
+      //       { text: 'Chapter XII- Skin', link: '/Chapter/MD/Baseline/Chapter_12' },
+      //       { text: 'Chapter XIII- Musculoskeletal', link: '/Chapter/MD/Baseline/Chapter_13' },
+      //       { text: 'Chapter XIV- Genitourinary', link: '/Chapter/MD/Baseline/Chapter_14' },
+      //       { text: 'Chapter XV- Pregnancy', link: '/Chapter/MD/Baseline/Chapter_15' },
+      //     ]
+      //   },
+      //   {
+      //     text: 'Incidence', link: '/Chapter/Incidence_Overview',
+      //     collapsed: false,
+      //     items: [
+      //       { text: 'Chapter I- Infectious and parasitic', link: '/Chapter/MD/Incidence/Chapter_1' },
+      //       { text: 'Chapter II- Neoplasms', link: '/Chapter/MD/Incidence/Chapter_2' },
+      //       { text: 'Chapter III- Blood and immune', link: '/Chapter/MD/Incidence/Chapter_3' },
+      //       { text: 'Chapter IV- Endocrine and metabolic', link: '/Chapter/MD/Incidence/Chapter_4' },
+      //       { text: 'Chapter V- Mental and behavioural', link: '/Chapter/MD/Incidence/Chapter_5' },
+      //       { text: 'Chapter VI- Nervous', link: '/Chapter/MD/Incidence/Chapter_6' },
+      //       { text: 'Chapter VII- Eye and adnexa', link: '/Chapter/MD/Incidence/Chapter_7' },
+      //       { text: 'Chapter VIII- Ear and mastoid', link: '/Chapter/MD/Incidence/Chapter_8' },
+      //       { text: 'Chapter IX- Circulatory', link: '/Chapter/MD/Incidence/Chapter_9' },
+      //       { text: 'Chapter X- Respiratory', link: '/Chapter/MD/Incidence/Chapter_10' },
+      //       { text: 'Chapter XI- Digestive', link: '/Chapter/MD/Incidence/Chapter_11' },
+      //       { text: 'Chapter XII- Skin', link: '/Chapter/MD/Incidence/Chapter_12' },
+      //       { text: 'Chapter XIII- Musculoskeletal', link: '/Chapter/MD/Incidence/Chapter_13' },
+      //       { text: 'Chapter XIV- Genitourinary', link: '/Chapter/MD/Incidence/Chapter_14' },
+      //       { text: 'Chapter XV- Pregnancy', link: '/Chapter/MD/Incidence/Chapter_15' },
+      //     ]
+      //   },
+      // ],
       '/Cluster/': [
         {
           text: 'Baseline Clusters', link: '/Cluster/Baseline_Overview',
